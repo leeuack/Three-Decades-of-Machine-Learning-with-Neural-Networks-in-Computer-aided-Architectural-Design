@@ -1,0 +1,257 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,"Ciftcioglu, Özer and Durmisevic, Sanja",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Knowledge management by information mining,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Proceedings of the Ninth International Conference on Computer Aided Architectural Design Futures [ISBN 0-7923-7023-6] Eindhoven, 8-11 July 2001, pp. 533-545",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Novel information mining method dealing with soft computing is described. By this method, in the first step, receptive fields of design information are identified so that connections among various design aspects are structured. By means of this, complex relationships among various design aspects are modeled with a paradigm, which is non-parametric and generic. In the second step, the structured connections between various pairs of aspects are graded according to the relevancy to each other. This is accomplished by means of sensitivity analysis, which is a computational tool operating on the model established and based on a concept measuring the degree of dependencies between pairs of quantities. The degree of relationships among various design aspects so determined enables one to select the most important independent aspects in the context of design or decision-making process. The paper deals with the description of the method and presents an architectural case study where numerical and as well as non-numerical (linguistic) design information are treated together, demonstrating a ranked or elective information employment which can be of great value for possible design intervention during reconstruction.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Knowledge Management, Information Mining, Sensitivity Analysis",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,ciftciog@mail.bk.tudelft.nl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (175,014 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bezdek, C.  (1981) 
+ Pattern Recognition with Fuzzy Objective Function Algorithms
+, Plenum, New York
+
+
+
+
+
+
+
+Broomhead, D.S. and Lowe, D.  (1988) 
+ Multivariable Function Interpolation and Adaptive Networks
+, Complex Systems, 21, pp. 321-355
+
+
+
+
+
+
+
+Chen M.S. and Manry M.T.  (1993) 
+ Conventional Modeling of the Multilayer Perceptron Using Polynomial Basis Functions 
+, IEEE Trans. Neural Networks, Vol.4, pp.164-166
+
+
+
+
+
+
+
+Chen, S, Cowan, C.F.N. and Grant, P.M.  (1991) 
+ Orthogonal Least Squares Algorithm for Radial Basis Function Networks
+, IEEE Trans. Neural Networks, Vol.2, No.2, March
+
+
+
+
+
+
+
+Ciftcioglu, Ö., Durmisevic, S. and Sariyildiz, S.  (2001) 
+ Multi-Resolutional Knowledge Representation 
+, Conference Proceedings of EuropIA8, 25-27 April 2001, Delft, The Netherlands
+
+
+
+
+
+
+
+Duda, R.O., Peter, E.H. and Stork, D.G.  (2001) 
+ Pattern Classification 
+, Wiley Interscience, New York
+
+
+
+
+
+
+
+Durmisevic, S., Ciftcioglu, Ö. and Sariyildiz, S.  (2001) 
+ Knowledge Modeling by Artificial Intelligence for Underground Space Environment 
+, Conference Proceedings EuropIA8, 25-27 April 2001, Delft, The Netherlands
+
+
+
+
+
+
+
+Elenayar, S. and Shin, Y.C. (1994) 
+ Radial Basis Function Neural Network for Approximation and Estimation of Nonlinear Stochastic Dynamic Systems
+, IEEE Trans. Neural Networks, Vol.5, pp. 594-603
+
+
+
+
+
+
+
+Han, J. and Kamber, M.  (2001) 
+ Data Mining: concepts and techniques 
+, Morgan Kaufmann, San Francisco
+
+
+
+
+
+
+
+Haykin, S.  (2000) 
+ Neural Networks:a comprehensive foundation 
+, Prentice-Hall, Upper Saddle River
+
+
+
+
+
+
+
+Hunt, K.J., Haas, R. and Murray-Smith, R.  (1998) 
+ Extending the Functional Equivalence of Radial Basis Function Networks and Fuzzy Inference Systems 
+, IEEE Trans. Neural Networks, Vol.7, No.3, May
+
+
+
+
+
+
+
+Jang, J.S.R. and Sun, C.T.  (1993) 
+ Functional Equivalence Between Radial Basis Function Networks and Fuzzy Inference Systems 
+, IEEE Trans. Neural Networks, Vol.4, No 1
+
+
+
+
+
+
+
+Krzysztof, J.C, Pedrycz, W. and Swiniarski, R.W.  (1998) 
+ Data Mining Methods for Knowledge Discovery 
+, Kluwer Academic, Boston
+
+
+
+
+
+
+
+Leonard, J.A., Kramer, M.A., and Ungar, L.H.  (1992) 
+ Using Radial Basis Functions to Approximate a Function and Its Bounds 
+, IEEE Trans. Neural networks, Vol.3
+
+
+
+
+
+
+
+McGrew, C.J. and Monroe, C.B.  (1993) 
+ An Introduction to Statistical Problem Solving in Geography 
+, Wm. C. Brown Communications, Inc., Dubuque
+
+
+
+
+
+
+
+Moody, J. and Darken, C.  (1988) 
+ Fast Learning with Localized Receptive Fields 
+, Proc. Connectionist Models Summer School D. Tourezky, G. Hinton, and T.Sejnowski (eds.), Carnegie Mellon University, Morgan Kaufmann Publishers
+
+
+
+
+
+
+
+Park, J. and Sandberg, I.W.  (1991) 
+ Universal Approximation Using Radial Basis Function Network 
+, Neural Computation, Vol.3, pp.246-257
+
+
+
+
+
+
+
+Saltelli, A., Chan, K. and Scott, E.M. (Eds.)  (2000) 
+ Sensitivity Analysis 
+, Chichester: Wiley
+
+
+
+
+
+
+
+Sowa, J.F. (1985) 
+ Conceptual Structures 
+, Reading, MA: Addison-Wesley
+
+
+
+
+
+
+
+Tanaka, K.  (1997) 
+ An Introduction to Fuzzy Logic for Practical Applications 
+, Springer, Berlin",,"Bezdek, C.  (1981) 
+ Pattern Recognition with Fuzzy Objective Function Algorithms
+, Plenum, New York",,,,"Broomhead, D.S. and Lowe, D.  (1988) 
+ Multivariable Function Interpolation and Adaptive Networks
+, Complex Systems, 21, pp. 321-355",,,,"Chen M.S. and Manry M.T.  (1993) 
+ Conventional Modeling of the Multilayer Perceptron Using Polynomial Basis Functions 
+, IEEE Trans. Neural Networks, Vol.4, pp.164-166",,,,"Chen, S, Cowan, C.F.N. and Grant, P.M.  (1991) 
+ Orthogonal Least Squares Algorithm for Radial Basis Function Networks
+, IEEE Trans. Neural Networks, Vol.2, No.2, March",,,,"Ciftcioglu, Ö., Durmisevic, S. and Sariyildiz, S.  (2001) 
+ Multi-Resolutional Knowledge Representation 
+, Conference Proceedings of EuropIA8, 25-27 April 2001, Delft, The Netherlands",,,,"Duda, R.O., Peter, E.H. and Stork, D.G.  (2001) 
+ Pattern Classification 
+, Wiley Interscience, New York",,,,"Durmisevic, S., Ciftcioglu, Ö. and Sariyildiz, S.  (2001) 
+ Knowledge Modeling by Artificial Intelligence for Underground Space Environment 
+, Conference Proceedings EuropIA8, 25-27 April 2001, Delft, The Netherlands",,,,"Elenayar, S. and Shin, Y.C. (1994) 
+ Radial Basis Function Neural Network for Approximation and Estimation of Nonlinear Stochastic Dynamic Systems
+, IEEE Trans. Neural Networks, Vol.5, pp. 594-603",,,,"Han, J. and Kamber, M.  (2001) 
+ Data Mining: concepts and techniques 
+, Morgan Kaufmann, San Francisco",,,,"Haykin, S.  (2000) 
+ Neural Networks:a comprehensive foundation 
+, Prentice-Hall, Upper Saddle River",,,,"Hunt, K.J., Haas, R. and Murray-Smith, R.  (1998) 
+ Extending the Functional Equivalence of Radial Basis Function Networks and Fuzzy Inference Systems 
+, IEEE Trans. Neural Networks, Vol.7, No.3, May",,,,"Jang, J.S.R. and Sun, C.T.  (1993) 
+ Functional Equivalence Between Radial Basis Function Networks and Fuzzy Inference Systems 
+, IEEE Trans. Neural Networks, Vol.4, No 1",,,,"Krzysztof, J.C, Pedrycz, W. and Swiniarski, R.W.  (1998) 
+ Data Mining Methods for Knowledge Discovery 
+, Kluwer Academic, Boston",,,,"Leonard, J.A., Kramer, M.A., and Ungar, L.H.  (1992) 
+ Using Radial Basis Functions to Approximate a Function and Its Bounds 
+, IEEE Trans. Neural networks, Vol.3",,,,"McGrew, C.J. and Monroe, C.B.  (1993) 
+ An Introduction to Statistical Problem Solving in Geography 
+, Wm. C. Brown Communications, Inc., Dubuque",,,,"Moody, J. and Darken, C.  (1988) 
+ Fast Learning with Localized Receptive Fields 
+, Proc. Connectionist Models Summer School D. Tourezky, G. Hinton, and T.Sejnowski (eds.), Carnegie Mellon University, Morgan Kaufmann Publishers",,,,"Park, J. and Sandberg, I.W.  (1991) 
+ Universal Approximation Using Radial Basis Function Network 
+, Neural Computation, Vol.3, pp.246-257",,,,"Saltelli, A., Chan, K. and Scott, E.M. (Eds.)  (2000) 
+ Sensitivity Analysis 
+, Chichester: Wiley",,,,"Sowa, J.F. (1985) 
+ Conceptual Structures 
+, Reading, MA: Addison-Wesley",,,,"Tanaka, K.  (1997) 
+ An Introduction to Fuzzy Logic for Practical Applications 
+, Springer, Berlin",,
+10,2006/11/07 06:22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

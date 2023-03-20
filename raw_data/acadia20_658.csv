@@ -1,0 +1,210 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64
+0,acadia20_658,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Ho, Brian",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Making a New City Image,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2020: Distributed Proximities / Volume I: Technical Papers [Proceedings of the 40th Annual Conference of the Association of Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-95213-0]. Online and Global. 24-30 October 2020. edited by B. Slocum, V. Ago, S. Doyle, A. Marcus, M. Yablonina, and M. del Campo. 658-667.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper explores the application of computer vision and machine learning to streetlevel imagery of cities, reevaluating past theory linking urban form to human perception. This paper further proposes a new method for design based on the resulting model, where a designer can identify areas of a city tied to certain perceptual qualities and generate speculative street scenes optimized for their predicted saliency on labels of human experience. This work extends Kevin Lynchs Image of the City with deep learning: training an image classification model to recognize Lynchs five elements of the city image, using Lynchs original photographs and diagrams of Boston to construct labeled training data alongside new imagery of the same locations. This new city image revitalizes past attempts to quantify the human perception of urban form and improve urban design. A designer can search and map the data set to understand spatial opportunities and predict the quality of imagined designs through a dynamic process of collage, model inference, and adaptation. Within a larger practice of design, this work suggests that the curation of archival records, computer science techniques, and theoretical principles of urbanism might be integrated into a single craft. With a new city image, designers might see at the scale of the city, as well as focus on the texture, color, and details of urban life.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,brian@brian-ho.io,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (6,970,952 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Appleyard, Donald, Kevin Lynch, and John R. Myer (1964) 
+ The View from the Road
+, Cambridge, MA: MIT Press
+
+
+
+
+
+
+
+Benjamin, Walter (1999) 
+ The Arcades Project
+, Cambridge, MA: Harvard University Press
+
+
+
+
+
+
+
+De Monchaux, Nicholas (2016) 
+ Local Code: 3,659 Proposals About Data, Design & the Nature of Cities
+, New York: Princeton Architectural Press
+
+
+
+
+
+
+
+Debord, Guy (2006) 
+ Theory of the Dérive, Internationale Situationniste# 2
+, Situationist International Anthology, edited by Ken Knabb. Berkeley, CA: Bureau of Public Secrets
+
+
+
+
+
+
+
+Doersch, Carl, Saurabh Singh, Abhinav Gupta, Josef Sivic, and Alexei Efros (2012) 
+ What Makes Paris Look Like Paris?
+, ACM Transactions on Graphics 31 (4)
+
+
+
+
+
+
+
+Dubey, Abhimanyu, Nikhil Naik, Devi Parikh, Ramesh Raskar, and César A. Hidalgo (2016) 
+ Deep Learning the City: Quantifying Urban Perception at a Global Scale
+, European Conference on Computer Vision, pp. 196-212. Cham: Springer
+
+
+
+
+
+
+
+Halpern, Orit (2019) 
+ Architecture as Machine: A Brief History of the Smart City, Design and Cybernetics
+, When Is the Digital in Architecture, edited by Andrew Goodhouse. London: Sternberg
+
+
+
+
+
+
+
+Hara, Kotaro, Jin Sun, Robert Moore, David Jacobs, and Jon Froehlich (2014) 
+ Tohme: Detecting Curb Ramps in Google Street view Using Crowdsourcing, Computer Vision, and Machine Learning
+, Proceedings of the 27th Annual ACM Symposium on User Interface Software and Technology, 189204. ACM
+
+
+
+
+
+
+
+Kurgan, Laura (2013) 
+ Close Up at a Distance: Mapping, Technology, and Politics
+, Cambridge, MA: MIT Press
+
+
+
+
+
+
+
+Lynch, Kevin (1960) 
+ The Image of the City
+, Cambridge, MA: MIT Press
+
+
+
+
+
+
+
+Lynch, Kevin (1984) 
+ Good City Form
+, Cambridge, MA: MIT Press
+
+
+
+
+
+
+
+Lynch, Kevin (1998) 
+ Kevin Lynch papers, MC 208, box X
+, Massachusetts Institute of Technology Institute Archives and Special Collections, Cambridge, Massachusetts. 
+
+
+
+
+
+
+
+Mohl, Robert (1981) 
+ Cognitive Space in the Interactive Movie Map: An Investigation of Spatial Learning in Virtual Environments
+, PhD dissertation, Massachusetts Institute of Technology
+
+
+
+
+
+
+
+Naik, Nikhil, Ramesh Raskar, and César A. Hidalgo (2016) 
+ Cities Are Physical Too: Using Computer Vision to Measure the Quality and Impact of Urban Appearance
+, American Economic Review 106 (5): 128132
+
+
+
+
+
+
+
+Scott, James C (1998) 
+ Seeing Like A State: How Certain Schemes to Improve the Human Condition Have Failed
+, New Haven, CT: Yale University Press
+
+
+
+
+
+
+
+Whyte, William Hollingsworth (1980) 
+ The Social Life Of Small Urban Spaces
+, Washington, D.C.: Conservation Foundation",,"Appleyard, Donald, Kevin Lynch, and John R. Myer (1964) 
+ The View from the Road
+, Cambridge, MA: MIT Press",,,,"Benjamin, Walter (1999) 
+ The Arcades Project
+, Cambridge, MA: Harvard University Press",,,,"De Monchaux, Nicholas (2016) 
+ Local Code: 3,659 Proposals About Data, Design & the Nature of Cities
+, New York: Princeton Architectural Press",,,,"Debord, Guy (2006) 
+ Theory of the Dérive, Internationale Situationniste# 2
+, Situationist International Anthology, edited by Ken Knabb. Berkeley, CA: Bureau of Public Secrets",,,,"Doersch, Carl, Saurabh Singh, Abhinav Gupta, Josef Sivic, and Alexei Efros (2012) 
+ What Makes Paris Look Like Paris?
+, ACM Transactions on Graphics 31 (4)",,,,"Dubey, Abhimanyu, Nikhil Naik, Devi Parikh, Ramesh Raskar, and César A. Hidalgo (2016) 
+ Deep Learning the City: Quantifying Urban Perception at a Global Scale
+, European Conference on Computer Vision, pp. 196-212. Cham: Springer",,,,"Halpern, Orit (2019) 
+ Architecture as Machine: A Brief History of the Smart City, Design and Cybernetics
+, When Is the Digital in Architecture, edited by Andrew Goodhouse. London: Sternberg",,,,"Hara, Kotaro, Jin Sun, Robert Moore, David Jacobs, and Jon Froehlich (2014) 
+ Tohme: Detecting Curb Ramps in Google Street view Using Crowdsourcing, Computer Vision, and Machine Learning
+, Proceedings of the 27th Annual ACM Symposium on User Interface Software and Technology, 189204. ACM",,,,"Kurgan, Laura (2013) 
+ Close Up at a Distance: Mapping, Technology, and Politics
+, Cambridge, MA: MIT Press",,,,"Lynch, Kevin (1960) 
+ The Image of the City
+, Cambridge, MA: MIT Press",,,,"Lynch, Kevin (1984) 
+ Good City Form
+, Cambridge, MA: MIT Press",,,,"Lynch, Kevin (1998) 
+ Kevin Lynch papers, MC 208, box X
+, Massachusetts Institute of Technology Institute Archives and Special Collections, Cambridge, Massachusetts.",,,,"Mohl, Robert (1981) 
+ Cognitive Space in the Interactive Movie Map: An Investigation of Spatial Learning in Virtual Environments
+, PhD dissertation, Massachusetts Institute of Technology",,,,"Naik, Nikhil, Ramesh Raskar, and César A. Hidalgo (2016) 
+ Cities Are Physical Too: Using Computer Vision to Measure the Quality and Impact of Urban Appearance
+, American Economic Review 106 (5): 128132",,,,"Scott, James C (1998) 
+ Seeing Like A State: How Certain Schemes to Improve the Human Condition Have Failed
+, New Haven, CT: Yale University Press",,,,"Whyte, William Hollingsworth (1980) 
+ The Social Life Of Small Urban Spaces
+, Washington, D.C.: Conservation Foundation",,
+11,2021/10/28 06:57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

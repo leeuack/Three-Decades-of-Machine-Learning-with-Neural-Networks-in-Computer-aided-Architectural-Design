@@ -1,0 +1,174 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52
+0,acadia17_552,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Sjoberg, Christian; Beorkrem, Christopher; Ellinger, Jefferson",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Emergent Syntax: Machine Learning for the Curation of Design Solution Space,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2017: DISCIPLINES & DISRUPTION [Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA) ISBN 978-0-692-96506-1] Cambridge, MA 2-4 November, 2017), pp. 552- 561",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The expanding role of computational models in the process of design is producing exponential growth in parameter spaces. As designers, we must create and implement new methods for searching these parameter spaces, considering not only quantitative optimization metrics but also qualitative features. This paper proposes a methodology that leverages the pattern modeling properties of artificial neural networks to capture designers' inexplicit selection criteria and create user-selection-based fitness functions for a genetic solver. Through emulation of learned selection patterns, fitness functions based on trained networks provide a method for qualitative evaluation of designs in the context of a given population. The application of genetic solvers for the generation of new populations based on the trained network selections creates emergent high-density clusters in the parameter space, allowing for the identification of solutions that satisfy the designers inexplicit criteria. The results of an initial user study show that even with small numbers of training objects, a search tool with this configuration can begin to emulate the design criteria of the user who trained it.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,design methods; information processing; AI; machine learning; generative system,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,csjoberg91@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,112,893 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Abdi, Hervé, and Lynne J. Williams (2010) 
+ Principal Component Analysis
+, Wiley Interdisciplinary Reviews: Computational Statistics 2 (4): 433459
+
+
+
+
+
+
+
+Asl, Mohammad Rahmani, Saied Zarrinmehr, Michael Bergin, and Wei Yan (2015) 
+ BPOpt: A Framework for BIM-Based Performance Optimization
+, Energy and Buildings 108: 401412
+
+
+
+
+
+
+
+Besserud, Keith, and Joshua Cotton (2008) 
+ Architectural Genomics
+, Silicon + Skin: Biological Processes and Computation, Proceedings of the 28th Annual Conference of the Association for Computer Aided Design in Architecture, 238-245. Minneapolis, MN: ACADIA
+
+
+
+
+
+
+
+Ester, Martin, Hans-Peter Kriegel, Jörg Sander, and Xiaowei Xu (1996) 
+ A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise
+, Proceedings of the Second International Conference on Knowledge Discovery and Data Mining, 226231. Portland, OR: KDD
+
+
+
+
+
+
+
+Gero, John S., Sushil J. Louis, and Sourav Kundu (1994) 
+ Evolutionary Learning of Novel Grammars for Design Improvement
+, AI EDAM 8 (2): 8394
+
+
+
+
+
+
+
+Hecht-Nielsen, Robert (1988) 
+ Theory of the Backpropagation Neural Network
+, Neural Networks 1: 445448
+
+
+
+
+
+
+
+Jolliffe, Ian (2002) 
+ Principal Component Analysis
+, 2nd ed. New York: Springer
+
+
+
+
+
+
+
+Nagy, Danil, Damon Lau, John Locke, James Stoddart, Lorenzo Villaggi, Ray Wang, Dale Zhao, and David Benjamin (2017) 
+ Project Discover: An Application of Generative Design for Architectural Space Planning
+, Proceedings of the Symposium on Simulation for Architecture and Urban Design. Toronto, ON: SimAUD
+
+
+
+
+
+
+
+Negroponte, Nicholas (1969) 
+ Toward a Theory of Architecture Machines
+, Journal of Architectural Education 23 (2): 912
+
+
+
+
+
+
+
+Pedregosa, Fabian, Gaël Varoquaux, Alexandre Gramfort, Vincent Michel, Bertrand Thirion, Olivier Grisel, Mathieu Blondel et al (2011) 
+ Scikit-Learn: Machine Learning in Python
+, Journal of Machine Learning Research 12: 282530
+
+
+
+
+
+
+
+Rutten, David (2013) 
+ Galapagos: On the Logic and Limitations of Generic Solvers
+, Architectural Design 83 (2): 132135
+
+
+
+
+
+
+
+Samuel, Arthur L (1959) 
+ Some Studies in Machine Learning Using the Game of Checkers
+, IBM Journal of Research and Development 3 (3): 210229
+
+
+
+
+
+
+
+Schaul, Tom, Justin Bayer, Daan Wierstra, Yi Sun, Martin Felder, Frank Sehnke, Thomas Ruckstieß, and Jurgen Schmidhuber (2010) 
+ PyBrain
+, Journal of Machine Learning Research 11: 743746",,"Abdi, Hervé, and Lynne J. Williams (2010) 
+ Principal Component Analysis
+, Wiley Interdisciplinary Reviews: Computational Statistics 2 (4): 433459",,,,"Asl, Mohammad Rahmani, Saied Zarrinmehr, Michael Bergin, and Wei Yan (2015) 
+ BPOpt: A Framework for BIM-Based Performance Optimization
+, Energy and Buildings 108: 401412",,,,"Besserud, Keith, and Joshua Cotton (2008) 
+ Architectural Genomics
+, Silicon + Skin: Biological Processes and Computation, Proceedings of the 28th Annual Conference of the Association for Computer Aided Design in Architecture, 238-245. Minneapolis, MN: ACADIA",,,,"Ester, Martin, Hans-Peter Kriegel, Jörg Sander, and Xiaowei Xu (1996) 
+ A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise
+, Proceedings of the Second International Conference on Knowledge Discovery and Data Mining, 226231. Portland, OR: KDD",,,,"Gero, John S., Sushil J. Louis, and Sourav Kundu (1994) 
+ Evolutionary Learning of Novel Grammars for Design Improvement
+, AI EDAM 8 (2): 8394",,,,"Hecht-Nielsen, Robert (1988) 
+ Theory of the Backpropagation Neural Network
+, Neural Networks 1: 445448",,,,"Jolliffe, Ian (2002) 
+ Principal Component Analysis
+, 2nd ed. New York: Springer",,,,"Nagy, Danil, Damon Lau, John Locke, James Stoddart, Lorenzo Villaggi, Ray Wang, Dale Zhao, and David Benjamin (2017) 
+ Project Discover: An Application of Generative Design for Architectural Space Planning
+, Proceedings of the Symposium on Simulation for Architecture and Urban Design. Toronto, ON: SimAUD",,,,"Negroponte, Nicholas (1969) 
+ Toward a Theory of Architecture Machines
+, Journal of Architectural Education 23 (2): 912",,,,"Pedregosa, Fabian, Gaël Varoquaux, Alexandre Gramfort, Vincent Michel, Bertrand Thirion, Olivier Grisel, Mathieu Blondel et al (2011) 
+ Scikit-Learn: Machine Learning in Python
+, Journal of Machine Learning Research 12: 282530",,,,"Rutten, David (2013) 
+ Galapagos: On the Logic and Limitations of Generic Solvers
+, Architectural Design 83 (2): 132135",,,,"Samuel, Arthur L (1959) 
+ Some Studies in Machine Learning Using the Game of Checkers
+, IBM Journal of Research and Development 3 (3): 210229",,,,"Schaul, Tom, Justin Bayer, Daan Wierstra, Yi Sun, Martin Felder, Frank Sehnke, Thomas Ruckstieß, and Jurgen Schmidhuber (2010) 
+ PyBrain
+, Journal of Machine Learning Research 11: 743746",,
+11,2017/10/17 09:13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+﻿,0
+0,"Flood, I. and Christophilos,  P."
+1,1996
+2,Modeling construction processes using artificial neural networks
+3,Automation in Construction 4 (4) (1996) pp. 307-320
+4,"The paper evaluates a neural network approach to modeling the dynamics of construction processes that exhibit both discrete and stochastic behavior, providing an alternative to the more conventional method of discrete-event simulation. The incentive for developing the technique is its potential for (i) facilitating model development in situations where there is limited theory describing the dependence between component processes; and (ii) rapid execution of a simulation through parallel processing. The alternative ways in which neural networks can be used to model construction processes are reviewed and their relative merits are identified. The most promising approach, a recursive method of dynamic modeling, is examined in a series of experiments. These involve the application of the technique to two classes of earthmoving system, the first comprising a push-dozer and a fleet of scrapers, and the second a loader and fleet of haul trucks. The viability of the neural network approach is demonstrated in terms of its ability to model the discrete and stochastic behavior of these classes of construction processes. The paper concludes with an indication of some areas for further development of the technique."
+5,journal paper
+6,http://www.elsevier.com/locate/autcon
+7,Content-type: text/plain
+8,2003/05/15 19:22

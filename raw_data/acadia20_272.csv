@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,acadia20_272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"del Campo, Matias; Carlson, Alexandra; Manninger, Sandra",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,How Machines Learn to Plan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2020: Distributed Proximities / Volume I: Technical Papers [Proceedings of the 40th Annual Conference of the Association of Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-95213-0]. Online and Global. 24-30 October 2020. edited by B. Slocum, V. Ago, S. Doyle, A. Marcus, M. Yablonina, and M. del Campo. 272-281.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper strives to interrogate the abilities of machine vision techniques based on a family of deep neural networks, called generative adversarial neural networks (GANs), to devise alternative planning solutions. The basis for these processes is a large database of existing planning solutions. For the experimental setup of this paper, these plans were divided into two separate learning classes: Modern and Baroque. The proposed algorithmic technique leverages the large amount of structural and symbolic information that is inherent to the design of planning solutions throughout history to generate novel unseen plans. In this area of inquiry, aspects of culture such as creativity, agency, and authorship are discussed, as neural networks can conceive solutions currently alien to designers. These can range from alien morphologies to advanced programmatic solutions. This paper is primarily interested in interrogating the second existing but uncharted territory.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,mdelc@umich.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (5,571,091 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Agrest, D., and M. Gandelsonas (1996) 
+ Semiotics and ArchitectureIdeological Consumption or Theoretical Work
+, Theorizing a New Agenda for Architecture: An Anthology of Architectural Theory 19651995, edited by K. Nesbitt, 112121. New York: Princeton Architectural Press
+
+
+
+
+
+
+
+Barthes, R. (1982) 
+ The Death of the Author, Essay 1967
+, A Barthes Reader, edited by S. Sontag. New York: Hill and Wang
+
+
+
+
+
+
+
+Baumgarten, A. G (1750) 
+ Aesthetica
+, Frankfurt: J.C. Kleyb
+
+
+
+
+
+
+
+Berleant A (2015) 
+ Aesthetic Sensibility
+, Ambiances 1. https://doi.org/10.4000/ambiances.526
+
+
+
+
+
+
+
+Boden, M (2009) 
+ Creativity in a Nutshell
+, Think 5: 8396
+
+
+
+
+
+
+
+Brosio, R. A (2000) 
+ Various Reds: Marx, Historical Materialism, Critical Theory, and the Openness of History
+, Counterpoints 75: 79120
+
+
+
+
+
+
+
+Carpo, M (2011) 
+ The Alphabet and the Algorithm.
+, Cambridge, MA: The MIT Press
+
+
+
+
+
+
+
+Cunha, Joao, Pedro Martins, Amílcar Cardoso, and Penousal Machado (2015) 
+ Generation of Concept-Representative Symbols
+, Workshop Proceedings from the Twenty-Third International Conference on Case-Based Reasoning (ICCBR 2015), Frankfurt, Germany, 2830 September 2015, edited by Joseph Kendall-Morwick, 156160. ICCBR
+
+
+
+
+
+
+
+Davidson, D (2001) 
+ Essays on Actions and Events: Philosophical Essays, Volume I
+, Oxford: Clarendon Press. 
+
+
+
+
+
+
+
+Eisenman, P (1996) 
+ The End of the ClassicalThe End of the Beginning, The End of the End
+, Theorizing a New Agenda for Architecture: An Anthology of Architectural Theory 19651995, edited by K. Nesbitt, 212227. New York: Princeton Architectural Press
+
+
+
+
+
+
+
+Foucault, M (1998) 
+ What Is an Author?
+, Aesthetics, Method and Epistemology, edited by J. D. Faubion, 205222. New York: The New Press
+
+
+
+
+
+
+
+Goodfellow, Ian, Yoshua Bengio, Aaron Courville, and Yoshua Bengio (2016) 
+ Deep Learning.
+, Cambridge, MA: MIT Press
+
+
+
+
+
+
+
+Hegel, G. W. F (1975) 
+ Aesthetics. Lectures on Fine Art. 2 vols.
+, Trans. T. M. Knox. Oxford: Clarendon Press
+
+
+
+
+
+
+
+Hertzmann, A (2020) 
+ Visual Indeterminacy in GAN Art
+, Leonardo: SIGGRAPH 2020 Art Papers 53 (4)
+
+
+
+
+
+
+
+Hudelson, P. M (2004) 
+ Culture and Quality: An Anthropological Perspective
+, International Journal for Quality in Health Care 16 (5): 345346. https://doi.org/10.1093/intqhc/mzh076
+
+
+
+
+
+
+
+Hume, D (1898) 
+ A Treatise of Human Nature, Part III, section XV (Rules by which to judge of causes and effects)
+, 173176. Oxford: Clarendon Press
+
+
+
+
+
+
+
+Karras, Tero, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, and Timo Aila (2020) 
+ Analyzing and Improving the Image Quality of stylegan
+, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition  (CVPR), Seattle, WA, 1319 June 2020, 81078116
+
+
+
+
+
+
+
+Lladós, Josep, Ernest Valveny, Gemma Sánchez, and Enric Martí (2001) 
+ Symbol Recognition: Current Advances and Perspectives
+, Graphics Recognition Algorithms and Applications. GREC 2001. Lecture Notes in Computer Science, edited by D. Blostein and Y. B. Kwon, 104127. Berlin, Heidelberg: Springer. https://www.doi.org/10.1007/3-540-45868-9_9
+
+
+
+
+
+
+
+Millican, P (2010) 
+ Humes Determinism
+, Canadian Journal of Philosophy 40 (4): 611642. muse.jhu.edu/article/411607
+
+
+
+
+
+
+
+Pratten, S (1993) 
+ Structure Agency and Marxs analysis of the labor process
+, Review of Political Economy 5 (4): 403426. https://www.doi.org/10.1080/09538259300000029",,"Agrest, D., and M. Gandelsonas (1996) 
+ Semiotics and ArchitectureIdeological Consumption or Theoretical Work
+, Theorizing a New Agenda for Architecture: An Anthology of Architectural Theory 19651995, edited by K. Nesbitt, 112121. New York: Princeton Architectural Press",,,,"Barthes, R. (1982) 
+ The Death of the Author, Essay 1967
+, A Barthes Reader, edited by S. Sontag. New York: Hill and Wang",,,,"Baumgarten, A. G (1750) 
+ Aesthetica
+, Frankfurt: J.C. Kleyb",,,,"Berleant A (2015) 
+ Aesthetic Sensibility
+, Ambiances 1. https://doi.org/10.4000/ambiances.526",,,,"Boden, M (2009) 
+ Creativity in a Nutshell
+, Think 5: 8396",,,,"Brosio, R. A (2000) 
+ Various Reds: Marx, Historical Materialism, Critical Theory, and the Openness of History
+, Counterpoints 75: 79120",,,,"Carpo, M (2011) 
+ The Alphabet and the Algorithm.
+, Cambridge, MA: The MIT Press",,,,"Cunha, Joao, Pedro Martins, Amílcar Cardoso, and Penousal Machado (2015) 
+ Generation of Concept-Representative Symbols
+, Workshop Proceedings from the Twenty-Third International Conference on Case-Based Reasoning (ICCBR 2015), Frankfurt, Germany, 2830 September 2015, edited by Joseph Kendall-Morwick, 156160. ICCBR",,,,"Davidson, D (2001) 
+ Essays on Actions and Events: Philosophical Essays, Volume I
+, Oxford: Clarendon Press.",,,,"Eisenman, P (1996) 
+ The End of the ClassicalThe End of the Beginning, The End of the End
+, Theorizing a New Agenda for Architecture: An Anthology of Architectural Theory 19651995, edited by K. Nesbitt, 212227. New York: Princeton Architectural Press",,,,"Foucault, M (1998) 
+ What Is an Author?
+, Aesthetics, Method and Epistemology, edited by J. D. Faubion, 205222. New York: The New Press",,,,"Goodfellow, Ian, Yoshua Bengio, Aaron Courville, and Yoshua Bengio (2016) 
+ Deep Learning.
+, Cambridge, MA: MIT Press",,,,"Hegel, G. W. F (1975) 
+ Aesthetics. Lectures on Fine Art. 2 vols.
+, Trans. T. M. Knox. Oxford: Clarendon Press",,,,"Hertzmann, A (2020) 
+ Visual Indeterminacy in GAN Art
+, Leonardo: SIGGRAPH 2020 Art Papers 53 (4)",,,,"Hudelson, P. M (2004) 
+ Culture and Quality: An Anthropological Perspective
+, International Journal for Quality in Health Care 16 (5): 345346. https://doi.org/10.1093/intqhc/mzh076",,,,"Hume, D (1898) 
+ A Treatise of Human Nature, Part III, section XV (Rules by which to judge of causes and effects)
+, 173176. Oxford: Clarendon Press",,,,"Karras, Tero, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, and Timo Aila (2020) 
+ Analyzing and Improving the Image Quality of stylegan
+, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition  (CVPR), Seattle, WA, 1319 June 2020, 81078116",,,,"Lladós, Josep, Ernest Valveny, Gemma Sánchez, and Enric Martí (2001) 
+ Symbol Recognition: Current Advances and Perspectives
+, Graphics Recognition Algorithms and Applications. GREC 2001. Lecture Notes in Computer Science, edited by D. Blostein and Y. B. Kwon, 104127. Berlin, Heidelberg: Springer. https://www.doi.org/10.1007/3-540-45868-9_9",,,,"Millican, P (2010) 
+ Humes Determinism
+, Canadian Journal of Philosophy 40 (4): 611642. muse.jhu.edu/article/411607",,,,"Pratten, S (1993) 
+ Structure Agency and Marxs analysis of the labor process
+, Review of Political Economy 5 (4): 403426. https://www.doi.org/10.1080/09538259300000029",,
+11,2021/10/28 06:57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

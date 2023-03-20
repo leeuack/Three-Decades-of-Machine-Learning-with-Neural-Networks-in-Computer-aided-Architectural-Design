@@ -1,0 +1,186 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56
+0,acadia19_664,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Koshelyuk, Daniil; Talaei, Ardeshir; Garivani, Soroush; Markopoulou, Areti; Chronis, Angelo; Leon, David Andres; Krenmuller, Raimund",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Alive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 19:UBIQUITY AND AUTONOMY [Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-59179-7] (The University of Texas at Austin School of Architecture, Austin, Texas 21-26 October, 2019) pp. 664-673",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In the context of data-driven culture, built space still maintains low responsiveness and adaptability. Part of this reality lies in the low resolution of live information we have about the behavior and condition of surfaces and materials. This research addresses this issue by exploring the development of a deformation-sensing composite membrane material system following a bottom-up approach and combining various technologies toward solving related technical issuesexploring conductivity properties of graphene and maximizing utilization within an architecture-related proof-of-concept scenario and a workflow including design, fabrication, and application methodology. Introduced simulation of intended deformation helps optimize the pattern of graphene nanoplatelets (GNP) to maximize membrane sensitivity to a specific deformation type while minimizing material usage. Research explores various substrate materials and graphene incorporation methods with initial geometric exploration. Finally, research introduces data collection and machine learning techniques to train recognition of certain types of deformation (single point touch) on resistance changes. The final prototype demonstrates stable and symmetric readings of resistance in a static state and, after training, exhibits an 88% prediction accuracy of membrane shape on a labeled sample data-set through a pre-trained neural network. The proposed framework consisting of a simulation based, graphene-capturing fabrication method on stretchable surfaces, and includes initial exploration in neural network training shape detection, which combined, demonstrate an advanced approach to embedding intelligence.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,normal paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,daniil.koshelyuk@iaac.net,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (3,438,118 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Beckwith, T.G., N. Lewis Buck, and Roy D. Marangoni. (1982) 
+ Mechanical Measurements
+, 3rd ed. Reading, MA: Addison-Wesley Publishing Co
+
+
+
+
+
+
+
+Chen, Haiqun, Marc B. Müller, Kerry J. Gilmore, Gordon G. Wallace, and Dan Li. (2008) 
+ Mechanically Strong, Electrically Conductive, and Biocompatible Graphene Paper
+, Advanced Materials 20(18): 3557-61. https://doi.org/10.1002/adma.200800757
+
+
+
+
+
+
+
+Frank, I.W., D.M. Tanenbaum, A.M. van der Zande, and P.L. McEuen. (2007) 
+ Mechanical Properties of Suspended Graphene Sheets
+, Journal of Vacuum Science & Technology B: Microelectronics and Nanometer Structures 25(6): 2558. https://doi.org/10.1116/1.2789446
+
+
+
+
+
+
+
+Geim, A.K. and K.S. Novoselov. (2007) 
+ The Rise of Graphene
+, Nature Materials 6: 183-91. Co-Published with Macmillan Publishers Ltd, UK. https://doi.org/10.1038/nmat1849
+
+
+
+
+
+
+
+Heeder, N., I. Chakraborty, A. Bose, and A. Shukla. (2015) 
+ Electro- Mechanical Behavior of Graphene-Polystyrene Composites Under Dynamic Loading
+, Journal of Dynamic Behavior of Materials 1(1): 43-54. https://doi.org/10.1007/s40870-015-0008-4
+
+
+
+
+
+
+
+Kirova, Nikol, Ewald Jooste, Hayder Mahdi, and Shruti Jalodia. (2018) 
+ SYNAPSE: An Interactive Medium for Spatiotemporal Behavioral Data Collection and Analysis
+, Institute for advance architecture of Catalonia (IAAC), Blog Posting. Accessed Sept 3, 2019. http://www. iaacblog.com/projects/synapse-2/
+
+
+
+
+
+
+
+Mayor, Ricardo Luque, Javier López-Alascio Hervás, Gelder Van Limburg Stirum, and Thanos Zervos. (2017) 
+ Graphene Composites
+, Institute for advance architecture of Catalonia (IAAC), Blog Posting. Accessed Sept 3, 2019. http://www.iaacblog.com/programs/graphene-composite/
+
+
+
+
+
+
+
+Ou, Jifei, Lining Yao, Daniel Tauber, Jürgen Steimle, Ryuma Niiyama, and Hiroshi Ishii. (2013) 
+ JamSheets
+, Proceedings of the 8th International Conference on Tangible, Embedded and Embodied Interaction, TEI 14, 65-72. New York: ACM Press. https://doi.org/10.1145/2540930.2540971
+
+
+
+
+
+
+
+Park, Jung Jin, Woo Jin Hyun, Sung Cik Mun, Yong Tae Park, and O.Ok Park. (2015) 
+ Highly Stretchable and Wearable Graphene Strain Sensors with Controllable Sensitivity for Human Motion Monitoring
+, ACS Applied Materials and Interfaces 7(11): 6317-24. https://doi.org/10.1021/acsami.5b00695
+
+
+
+
+
+
+
+Shi, Ge, Zhiheng Zhao, Jing Hong Pai, Ivan Lee, Liqun Zhang, Craig Stevenson, Kalana Ishara, Rujing Zhang, Hongwei Zhu, and Jun Ma. (2016) 
+ Highly Sensitive, Wearable, Durable Strain Sensors and Stretchable Conductors Using Graphene/Silicon Rubber Composites
+, Advanced Functional Materials 26(42): 7614-25.https://doi.org/10.1002/adfm.201602619
+
+
+
+
+
+
+
+Singh, Virendra, Daeha Joung, Lei Zhai, Soumen Das, Saiful I. Khondaker, and Sudipta Seal. (2011) 
+ Graphene Based Materials:Past, Present and Future
+, Progress in Materials Science 56(8):1178-1271. https://doi.org/10.1016/J.PMATSCI.2011.03.003
+
+
+
+
+
+
+
+Wang, Yanhong, Ke Bian, Chuangang Hu, Zhipan Zhang, Nan Chen, Huimin Zhang, and Liangti Qu. (2013) 
+ Flexible and Wearable Graphene/Polypyrrole Fibers towards Multifunctional Actuator Applications
+, Electrochemistry Communications 35(October): 49-52. https://doi.org/10.1016/j.elecom.2013.07.044
+
+
+
+
+
+
+
+Yu, Xiaowen, Huhu Cheng, Miao Zhang, Yang Zhao, Liangti Qu, and Gaoquan Shi. (2017) 
+ Graphene-Based Smart Materials
+, Nature Reviews Materials 2(9), 17046. https://doi.org/10.1038/natrevmats.2017.46
+
+
+
+
+
+
+
+Zhong, Yujia, Zhen Zhen, and Hongwei Zhu. (2017) 
+ Graphene: Fundamental Research and Potential Applications
+, FlatChem 4 (August): 20-32. https://doi.org/10.1016/J.FLATC.2017.06.008",,"Beckwith, T.G., N. Lewis Buck, and Roy D. Marangoni. (1982) 
+ Mechanical Measurements
+, 3rd ed. Reading, MA: Addison-Wesley Publishing Co",,,,"Chen, Haiqun, Marc B. Müller, Kerry J. Gilmore, Gordon G. Wallace, and Dan Li. (2008) 
+ Mechanically Strong, Electrically Conductive, and Biocompatible Graphene Paper
+, Advanced Materials 20(18): 3557-61. https://doi.org/10.1002/adma.200800757",,,,"Frank, I.W., D.M. Tanenbaum, A.M. van der Zande, and P.L. McEuen. (2007) 
+ Mechanical Properties of Suspended Graphene Sheets
+, Journal of Vacuum Science & Technology B: Microelectronics and Nanometer Structures 25(6): 2558. https://doi.org/10.1116/1.2789446",,,,"Geim, A.K. and K.S. Novoselov. (2007) 
+ The Rise of Graphene
+, Nature Materials 6: 183-91. Co-Published with Macmillan Publishers Ltd, UK. https://doi.org/10.1038/nmat1849",,,,"Heeder, N., I. Chakraborty, A. Bose, and A. Shukla. (2015) 
+ Electro- Mechanical Behavior of Graphene-Polystyrene Composites Under Dynamic Loading
+, Journal of Dynamic Behavior of Materials 1(1): 43-54. https://doi.org/10.1007/s40870-015-0008-4",,,,"Kirova, Nikol, Ewald Jooste, Hayder Mahdi, and Shruti Jalodia. (2018) 
+ SYNAPSE: An Interactive Medium for Spatiotemporal Behavioral Data Collection and Analysis
+, Institute for advance architecture of Catalonia (IAAC), Blog Posting. Accessed Sept 3, 2019. http://www. iaacblog.com/projects/synapse-2/",,,,"Mayor, Ricardo Luque, Javier López-Alascio Hervás, Gelder Van Limburg Stirum, and Thanos Zervos. (2017) 
+ Graphene Composites
+, Institute for advance architecture of Catalonia (IAAC), Blog Posting. Accessed Sept 3, 2019. http://www.iaacblog.com/programs/graphene-composite/",,,,"Ou, Jifei, Lining Yao, Daniel Tauber, Jürgen Steimle, Ryuma Niiyama, and Hiroshi Ishii. (2013) 
+ JamSheets
+, Proceedings of the 8th International Conference on Tangible, Embedded and Embodied Interaction, TEI 14, 65-72. New York: ACM Press. https://doi.org/10.1145/2540930.2540971",,,,"Park, Jung Jin, Woo Jin Hyun, Sung Cik Mun, Yong Tae Park, and O.Ok Park. (2015) 
+ Highly Stretchable and Wearable Graphene Strain Sensors with Controllable Sensitivity for Human Motion Monitoring
+, ACS Applied Materials and Interfaces 7(11): 6317-24. https://doi.org/10.1021/acsami.5b00695",,,,"Shi, Ge, Zhiheng Zhao, Jing Hong Pai, Ivan Lee, Liqun Zhang, Craig Stevenson, Kalana Ishara, Rujing Zhang, Hongwei Zhu, and Jun Ma. (2016) 
+ Highly Sensitive, Wearable, Durable Strain Sensors and Stretchable Conductors Using Graphene/Silicon Rubber Composites
+, Advanced Functional Materials 26(42): 7614-25.https://doi.org/10.1002/adfm.201602619",,,,"Singh, Virendra, Daeha Joung, Lei Zhai, Soumen Das, Saiful I. Khondaker, and Sudipta Seal. (2011) 
+ Graphene Based Materials:Past, Present and Future
+, Progress in Materials Science 56(8):1178-1271. https://doi.org/10.1016/J.PMATSCI.2011.03.003",,,,"Wang, Yanhong, Ke Bian, Chuangang Hu, Zhipan Zhang, Nan Chen, Huimin Zhang, and Liangti Qu. (2013) 
+ Flexible and Wearable Graphene/Polypyrrole Fibers towards Multifunctional Actuator Applications
+, Electrochemistry Communications 35(October): 49-52. https://doi.org/10.1016/j.elecom.2013.07.044",,,,"Yu, Xiaowen, Huhu Cheng, Miao Zhang, Yang Zhao, Liangti Qu, and Gaoquan Shi. (2017) 
+ Graphene-Based Smart Materials
+, Nature Reviews Materials 2(9), 17046. https://doi.org/10.1038/natrevmats.2017.46",,,,"Zhong, Yujia, Zhen Zhen, and Hongwei Zhu. (2017) 
+ Graphene: Fundamental Research and Potential Applications
+, FlatChem 4 (August): 20-32. https://doi.org/10.1016/J.FLATC.2017.06.008",,
+11,2019/12/18 08:03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

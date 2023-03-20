@@ -1,0 +1,198 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60
+0,acadia20_282,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Steinfeld, Kyle",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Drawn, Together",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2020: Distributed Proximities / Volume I: Technical Papers [Proceedings of the 40th Annual Conference of the Association of Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-95213-0]. Online and Global. 24-30 October 2020. edited by B. Slocum, V. Ago, S. Doyle, A. Marcus, M. Yablonina, and M. del Campo. 282-289.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Changes in the media through which design proceeds are often associated with the emergence of novel design practices and new subjectivities. While the dynamic between design tools and design practices is complex and nondeterministic, there are moments when rapid development in one of these areas catalyzes changes in the other. The nascent integration of machine learning (ML) processes into computer-aided design suggests that we are in just such a moment. It is in this context that an undergraduate research studio was conducted at UC Berkeley in the spring of 2020. By introducing novice students to a set of experimental tools (Steinfeld 2020) and processes based on ML techniques, this studio seeks to uncover those original practices or new subjectivities that might thereby arise. We describe here a series of small design projects that examine the applicability of such tools to early-stage architectural design. Specifically, we document the integration of several conditional text-generation models and conditional image-generation models into undergraduate architectural design pedagogy, and evaluate their use as creative provocateurs at the start of a design. After surveying the resulting student work and documenting the studio experience, we conclude that the approach taken here suggests promising new modalities of design authorship, and we offer reflections that may serve as a useful guide for the more widespread adoption of machine-augmented design tools in architectural practice.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,ksteinfe@berkeley.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (3,692,126 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Brock, Andrew, Jeff Donahue, and Karen Simonyan (2018) 
+ Large Scale GAN Training for High Fidelity Natural Image Synthesis
+, Proceedings of the 7th International Conference on Learning Representations. New Orleans, LA
+
+
+
+
+
+
+
+Burry, M (2011) 
+ Scripting Cultures: Architectural Design and Programming. Architectural Design Primer
+, John Wiley & Sons
+
+
+
+
+
+
+
+Carpo, Mario (2017) 
+ The Second Digital Turn: Design Beyond Intelligence
+, MIT Press
+
+
+
+
+
+
+
+de Bono, Edward (2015) 
+ The Mechanism of Mind: Understand How Your Mind Works to Maximise Memory and Creative Potential.
+, Random House
+
+
+
+
+
+
+
+Eno, Brian, and Peter Schmidt (1975) 
+ Oblique Strategies
+, Opal.Limited Edition, Boxed Set of Cards. RMAB
+
+
+
+
+
+
+
+Hensel, Michael, Achim Menges, and Michael Weinstock (2013) 
+ Emergent Technologies and Design: Towards a Biological Paradigm for Architecture
+, Routledge
+
+
+
+
+
+
+
+Isola, Phillip, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros (2016) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, CoRR. abs/1611.07004
+
+
+
+
+
+
+
+Leach, Neil (2009) 
+ Digital Morphogenesis
+, Architectural Design 79 (1): 3237
+
+
+
+
+
+
+
+Li, Jiwei, Will Monroe, Tianlin Shi, Sébastien Jean, Alan Ritter, and Dan Jurafsky (2017) 
+ Adversarial Learning for Neural Dialogue Generation
+, Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, 21572169. Copenhagen, Denmark: Association for Computational Linguistics. https://doi.org/10.18653/v1/D17-1230
+
+
+
+
+
+
+
+Loukissas, Yanni Alexander (2012) 
+ Co-Designers: Cultures of Computer Simulation in Architecture.
+, Routledge
+
+
+
+
+
+
+
+Radford, Alec, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya Sutskever (2019) 
+ Language Models Are Unsupervised Multitask Learners
+, OpenAI Blog 1 (8): 9
+
+
+
+
+
+
+
+Riley, Howard (1966) 
+ Aleatoric Procedures in Contemporary Piano Music
+, The Musical Times 107 (1478): 311312
+
+
+
+
+
+
+
+Semper, Gottfried (2010) 
+ The Four Elements of Architecture and Other Writings. Trans. Harry F. Mallgrave and Wolfgang Herrmann
+, Cambridge University Press
+
+
+
+
+
+
+
+Steinfeld, Kyle (2017) 
+ Dreams May Come
+, ACADIA 2017: Disciplines and Disruption [Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Cambridge, MA, 24 November 2017, edited by T. Nagakura, S. Tibbits, M. Ibanez, and C. Mueller, 590599. CUMINCAD. 
+
+
+
+
+
+
+
+Woodbury, Robert F., and Andrew L. Burrow. (2006) 
+ Whither Design Space?
+, Artificial Intelligence for Engineering Design, Analysis and Manufacturing 20 (2): 6382. https://doi.org/10.1017/S0890060406060057",,"Brock, Andrew, Jeff Donahue, and Karen Simonyan (2018) 
+ Large Scale GAN Training for High Fidelity Natural Image Synthesis
+, Proceedings of the 7th International Conference on Learning Representations. New Orleans, LA",,,,"Burry, M (2011) 
+ Scripting Cultures: Architectural Design and Programming. Architectural Design Primer
+, John Wiley & Sons",,,,"Carpo, Mario (2017) 
+ The Second Digital Turn: Design Beyond Intelligence
+, MIT Press",,,,"de Bono, Edward (2015) 
+ The Mechanism of Mind: Understand How Your Mind Works to Maximise Memory and Creative Potential.
+, Random House",,,,"Eno, Brian, and Peter Schmidt (1975) 
+ Oblique Strategies
+, Opal.Limited Edition, Boxed Set of Cards. RMAB",,,,"Hensel, Michael, Achim Menges, and Michael Weinstock (2013) 
+ Emergent Technologies and Design: Towards a Biological Paradigm for Architecture
+, Routledge",,,,"Isola, Phillip, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros (2016) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, CoRR. abs/1611.07004",,,,"Leach, Neil (2009) 
+ Digital Morphogenesis
+, Architectural Design 79 (1): 3237",,,,"Li, Jiwei, Will Monroe, Tianlin Shi, Sébastien Jean, Alan Ritter, and Dan Jurafsky (2017) 
+ Adversarial Learning for Neural Dialogue Generation
+, Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, 21572169. Copenhagen, Denmark: Association for Computational Linguistics. https://doi.org/10.18653/v1/D17-1230",,,,"Loukissas, Yanni Alexander (2012) 
+ Co-Designers: Cultures of Computer Simulation in Architecture.
+, Routledge",,,,"Radford, Alec, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya Sutskever (2019) 
+ Language Models Are Unsupervised Multitask Learners
+, OpenAI Blog 1 (8): 9",,,,"Riley, Howard (1966) 
+ Aleatoric Procedures in Contemporary Piano Music
+, The Musical Times 107 (1478): 311312",,,,"Semper, Gottfried (2010) 
+ The Four Elements of Architecture and Other Writings. Trans. Harry F. Mallgrave and Wolfgang Herrmann
+, Cambridge University Press",,,,"Steinfeld, Kyle (2017) 
+ Dreams May Come
+, ACADIA 2017: Disciplines and Disruption [Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Cambridge, MA, 24 November 2017, edited by T. Nagakura, S. Tibbits, M. Ibanez, and C. Mueller, 590599. CUMINCAD.",,,,"Woodbury, Robert F., and Andrew L. Burrow. (2006) 
+ Whither Design Space?
+, Artificial Intelligence for Engineering Design, Analysis and Manufacturing 20 (2): 6382. https://doi.org/10.1017/S0890060406060057",,
+11,2021/10/28 06:57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

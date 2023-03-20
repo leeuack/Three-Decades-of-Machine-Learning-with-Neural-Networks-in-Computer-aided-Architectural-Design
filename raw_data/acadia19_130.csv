@@ -1,0 +1,164 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48
+0,acadia19_130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Devadass, Pradeep; Heimig, Tobias; Stumm, Sven; Kerber, Ethan; Cokcan, Sigrid Brell",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Robotic Constraints Informed Design Process,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 19:UBIQUITY AND AUTONOMY [Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-59179-7] (The University of Texas at Austin School of Architecture, Austin, Texas 21-26 October, 2019) pp. 130-139",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Promising results in efficiently producing highly complex non-standard designs have been accomplished by integrating robotic fabrication with parametric design. However, the project workflow is hampered due to the disconnect between designer and robotic fabricator. The design is most often developed by the designer independently from fabrication process constraints. This results in fabrication difficulties or even non manufacturable components. In this paper we explore the various constraints in robotic fabrication and assembly processes, analyze their influence on design, and propose a methodology which bridges the gap between parametric design and robotic production. Within our research we investigate the workspace constraints of robots, end effectors, and workpieces used for the fabrication of an experimental architectural project: The Twisted Arch. This research utilizes machine learning approaches to parameterize, quantify, and analyze each constraint while optimizing how those parameters impact the design output. The research
+aims to offer a better planning to production process by providing continuous feedback to the designer during early stages of the design process. This leads to a well-informed manufacturable design.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Robotic Fabrication and Assembly, Mobile Robotics, Machine Learning, Parametric Design, Constraint Based Design.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,normal paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,devadass@ip.rwth-aachen.de,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (4,336,169 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Altman, N.S. (1992) 
+ An introduction to kernel and nearest-neighbor nonparametric regression
+, The American Statistician 46(3): 175-185
+
+
+
+
+
+
+
+Braumann, J. and S. Brell-Cokcan. (2012) 
+ Real-Time Robot Simulation and Control for Architectural Design
+, Proceedings of the 30th eCAADe Conference, Prague, 479-486
+
+
+
+
+
+
+
+Gandia A., S. Parascho, R. Rust, G. Casas, F. Gramazio, and M. Kohler. (2019) 
+ Towards Automatic Path Planning for Robotically Assembled Spatial Structures
+, Robotic Fabrication Architecture, Art and Design 2018, ROBARCH 2018, edited by J. Willmann et al., 59-73. Cham: Springer
+
+
+
+
+
+
+
+Goodfellow I., Y. Bengio, and A. Courville. (2016) 
+ Deep Learning
+, Cambridge, MA: The MIT Press
+
+
+
+
+
+
+
+Harding, J. (2016) 
+ Dimensionality reduction for parametric designexploration
+, Advances Architectural Geometry 2016, edited by S. Adriaenssens et al., 274-287. Zurich: vdf Hochschulverlag AG an der ETH Zurich
+
+
+
+
+
+
+
+Kohonen, T. (1982) 
+ Self-organized formation of topologically correct feature maps
+, Biological Cybernetics 43: 59-69
+
+
+
+
+
+
+
+Pigram, Dave, Ian Maxwell, and Wes Mcgee. (2016) 
+ Towards Real-Time Adaptive Fabrication-Aware Form Finding in Architecture
+, Robotic Fabrication Architecture, Art and Design 2016, edited by D. Reinhardt et al., 426-437
+
+
+
+
+
+
+
+Reinhardt, Dagmar, Rob Saunders, Jane Burry, Christopher Robeller, and Yves Weinand. (2016) 
+ Fabrication-Aware Design of Timber Folded Plate Shells with Double Through Tenon Joints
+, Robotic Fabrication Architecture, Art and Design 2016, edited by D. Reinhardt et al., 166-177
+
+
+
+
+
+
+
+S?ndergaard, A., O. Amir, P. Eversmann, L. Piskorec, F. Stan, F. Gramazio, and M. Kohler. (2016) 
+ Topology Optimization and Robotic Fabrication of Advanced Timber Space-Frame Structures
+, Robotic Fabrication Architecture, Art and Design, ROBARCH 2016, edited by D. Reinhardt et al., 190-203
+
+
+
+
+
+
+
+Schwinn, T., O. Krieg, A. Menges, B. Mihaylov, and S. Reichert. (2012) 
+ Machinic Morphospaces: Biomimetic Design Strategies for the Computational Exploration of Robot Constraint Spaces for Wood Fabrication
+, Proceedings of the 32nd Annual Conference of the Association for Computer Aided Design Architecture (ACADIA), edited by M. Cabrinha et al., 157-168
+
+
+
+
+
+
+
+Vahrenkamp, N., T. Asfour (2015) 
+ Representing the robot's workspace through constrained manipulability analysis
+, Autonomous Robots Vol 38: 17-30
+
+
+
+
+
+
+
+Zacharias, F., C. Borst, and G. Hirzinger. (2007) 
+ Capturing Robot Workspace Structure: Representing Robot Capabilities
+, IEEE-RAS Int. Conf. Intelligent Robots and Systems (IROS 2007), 3229-3236",,"Altman, N.S. (1992) 
+ An introduction to kernel and nearest-neighbor nonparametric regression
+, The American Statistician 46(3): 175-185",,,,"Braumann, J. and S. Brell-Cokcan. (2012) 
+ Real-Time Robot Simulation and Control for Architectural Design
+, Proceedings of the 30th eCAADe Conference, Prague, 479-486",,,,"Gandia A., S. Parascho, R. Rust, G. Casas, F. Gramazio, and M. Kohler. (2019) 
+ Towards Automatic Path Planning for Robotically Assembled Spatial Structures
+, Robotic Fabrication Architecture, Art and Design 2018, ROBARCH 2018, edited by J. Willmann et al., 59-73. Cham: Springer",,,,"Goodfellow I., Y. Bengio, and A. Courville. (2016) 
+ Deep Learning
+, Cambridge, MA: The MIT Press",,,,"Harding, J. (2016) 
+ Dimensionality reduction for parametric designexploration
+, Advances Architectural Geometry 2016, edited by S. Adriaenssens et al., 274-287. Zurich: vdf Hochschulverlag AG an der ETH Zurich",,,,"Kohonen, T. (1982) 
+ Self-organized formation of topologically correct feature maps
+, Biological Cybernetics 43: 59-69",,,,"Pigram, Dave, Ian Maxwell, and Wes Mcgee. (2016) 
+ Towards Real-Time Adaptive Fabrication-Aware Form Finding in Architecture
+, Robotic Fabrication Architecture, Art and Design 2016, edited by D. Reinhardt et al., 426-437",,,,"Reinhardt, Dagmar, Rob Saunders, Jane Burry, Christopher Robeller, and Yves Weinand. (2016) 
+ Fabrication-Aware Design of Timber Folded Plate Shells with Double Through Tenon Joints
+, Robotic Fabrication Architecture, Art and Design 2016, edited by D. Reinhardt et al., 166-177",,,,"S?ndergaard, A., O. Amir, P. Eversmann, L. Piskorec, F. Stan, F. Gramazio, and M. Kohler. (2016) 
+ Topology Optimization and Robotic Fabrication of Advanced Timber Space-Frame Structures
+, Robotic Fabrication Architecture, Art and Design, ROBARCH 2016, edited by D. Reinhardt et al., 190-203",,,,"Schwinn, T., O. Krieg, A. Menges, B. Mihaylov, and S. Reichert. (2012) 
+ Machinic Morphospaces: Biomimetic Design Strategies for the Computational Exploration of Robot Constraint Spaces for Wood Fabrication
+, Proceedings of the 32nd Annual Conference of the Association for Computer Aided Design Architecture (ACADIA), edited by M. Cabrinha et al., 157-168",,,,"Vahrenkamp, N., T. Asfour (2015) 
+ Representing the robot's workspace through constrained manipulability analysis
+, Autonomous Robots Vol 38: 17-30",,,,"Zacharias, F., C. Borst, and G. Hirzinger. (2007) 
+ Capturing Robot Workspace Structure: Representing Robot Capabilities
+, IEEE-RAS Int. Conf. Intelligent Robots and Systems (IROS 2007), 3229-3236",,
+12,2019/12/18 08:01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

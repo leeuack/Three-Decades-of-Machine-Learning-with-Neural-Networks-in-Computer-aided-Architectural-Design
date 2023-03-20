@@ -1,0 +1,255 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,"Huang, Ying-Hsiu",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,1999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,A Cognitive Study of Shapes and Functions in Design Sketches: Simulating an Industrial Design Case by Neural Networks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"CAADRIA '99 [Proceedings of The Fourth Conference on Computer Aided Architectural Design Research in Asia / ISBN 7-5439-1233-3] Shanghai (China) 5-7 May 1999, pp. 275-284",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"The present research focuses on transforming shapes that had been drawn by designers on the sketches and on evaluating the shapes from design requirements. In this research, neural networks simulate the result from collecting shapes that designers transformed from original shapes and evaluations from all ones. There are four steps in this research: First, a cognitive experiment. I collected real shapes that designers drew and evaluations from the experiment in order to training the neural networks. Second, a transforming neural network is simulating the behavior in which designers transformed one shape into another without evaluating the design requirements. Third, a evaluating neural network that trained by the evaluations that collected from the experiment is simulating how designers criticized the shapes in terms of design requirements. Fourth, modifying program is trying to modify the evaluations that had been criticized by designers from all shapes and generating a new shape from modified evaluations. This research proposed a synthetic system that simulating the behavior during design sketching, therefore, computers could also generate some ideas like human designer.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"file.pdf (309,497 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Akiner, V.T. (1986) 
+ Topology-1: a knowledge-based system for reasoning about objects and spaces
+, Design Studies 7(2), 94-105
+
+
+
+
+
+
+
+Alexander, C. (1964) 
+ Notes on the Synthesis of Form
+, Harvard University Press, Cambridge, MA
+
+
+
+
+
+
+
+Coyne, R.D. and Newton, S. (1989) 
+ Design reasoning by association
+, Environment and Planning B, Vol.17, 39-56
+
+
+
+
+
+
+
+Gero, J.S. (1985) 
+ Logic programming as a means of representing semantic in design languages
+, Environment and Planning B, Vol.12, 351-369
+
+
+
+
+
+
+
+Goldschmidt, G. (1991) 
+ The dialectics of sketching
+, Design Studies 4, 123-143
+
+
+
+
+
+
+
+Goldschmidt, G. (1992) 
+ Serial sketching : visual problem solving in designing
+, Cybernetics and Systems: An International Journal 23, pp. 191-219
+
+
+
+
+
+
+
+Goldschmidt, G. (1994) 
+ On visual design thinking: the vis kids of architecture
+, Design Studies 15( 2),158-174
+
+
+
+
+
+
+
+Kosslyn, S.M., Reiser, B.J., Farah, M.J. and Fliegel, S.L. (1983) 
+ Generating Visual Images: Units and Relations
+, Journal of Experimental Psychology: General, Vol. 112, No. 2, 278-303
+
+
+
+
+
+
+
+Kosslyn, S.M. (1973) 
+ Scanning visual images: Some structural implications
+, Perception and Psychophysics 14, 90-94
+
+
+
+
+
+
+
+Kosslyn, S.M. (1990) 
+ Mental Imagery
+, Visual Cognition and Action, Vol.2, 73-97
+
+
+
+
+
+
+
+Liu, Y.T. (1993) 
+ A Connectionist Approach to Shape Recognition and Transformation
+, Flemming, U. & Van Wyk, S. (eds.), CAAD Futures '93, Elsevier, Amsterdam, pp. 19-36
+
+
+
+
+
+
+
+Liu, Y.T. (1995) 
+ Some Phenomena of Seeing Shapes in Design
+, Design Studies 16(3), 367-385
+
+
+
+
+
+
+
+Liu, Y.T. (1996) 
+ Is designing one search or two? a model of design thinking involving symbolism and connectionism
+, Design Studies 17, 435-449
+
+
+
+
+
+
+
+Liu, Y.T. (1996) 
+ Restructuring shapes in terms of emergent subshapes: a computational and cognitive model
+, Environment and planning B, Vol.23, 313-328
+
+
+
+
+
+
+
+Newell, A. and Simon, H.A. (1992) 
+ Human problem solving prentice-hall
+, Englewood Cliffs NJ
+
+
+
+
+
+
+
+Palmer, J., Ames, C.T. and Lindsey, D.T. (1993) 
+ Measuring the effect of attention on simple visual search
+, Journal of Experimental Psychology: Human Perception and Performance, Vol. 19, No. 1, 108-130
+
+
+
+
+
+
+
+Reed, S.K. (1974) 
+ Structural descriptions and the limitations of visual images
+, Memory & Cognition, Vol. 2, No. 2, 329-336
+
+
+
+
+
+
+
+Rueckl, J.G., Cave, K.R. and Kosslyn, S.M. (1989) 
+ Why are 'What' and 'Where' Processed by Separate Cortical Visual Systems? A Computational Investigation
+, Journal of Cognitive Neuroscience
+
+
+
+
+
+
+
+Schön, D.A. and Wiggins, G. (1992) 
+ Kinds of Seeing and Their Functions in Designing
+, Design Studies, 13 (2), 135-156
+
+
+
+
+
+
+
+Stiny, G. (1980) 
+ Introduction to shape and shape grammars
+, Environment and Planning B 7, 343-351",,"Akiner, V.T. (1986) 
+ Topology-1: a knowledge-based system for reasoning about objects and spaces
+, Design Studies 7(2), 94-105",,,,"Alexander, C. (1964) 
+ Notes on the Synthesis of Form
+, Harvard University Press, Cambridge, MA",,,,"Coyne, R.D. and Newton, S. (1989) 
+ Design reasoning by association
+, Environment and Planning B, Vol.17, 39-56",,,,"Gero, J.S. (1985) 
+ Logic programming as a means of representing semantic in design languages
+, Environment and Planning B, Vol.12, 351-369",,,,"Goldschmidt, G. (1991) 
+ The dialectics of sketching
+, Design Studies 4, 123-143",,,,"Goldschmidt, G. (1992) 
+ Serial sketching : visual problem solving in designing
+, Cybernetics and Systems: An International Journal 23, pp. 191-219",,,,"Goldschmidt, G. (1994) 
+ On visual design thinking: the vis kids of architecture
+, Design Studies 15( 2),158-174",,,,"Kosslyn, S.M., Reiser, B.J., Farah, M.J. and Fliegel, S.L. (1983) 
+ Generating Visual Images: Units and Relations
+, Journal of Experimental Psychology: General, Vol. 112, No. 2, 278-303",,,,"Kosslyn, S.M. (1973) 
+ Scanning visual images: Some structural implications
+, Perception and Psychophysics 14, 90-94",,,,"Kosslyn, S.M. (1990) 
+ Mental Imagery
+, Visual Cognition and Action, Vol.2, 73-97",,,,"Liu, Y.T. (1993) 
+ A Connectionist Approach to Shape Recognition and Transformation
+, Flemming, U. & Van Wyk, S. (eds.), CAAD Futures '93, Elsevier, Amsterdam, pp. 19-36",,,,"Liu, Y.T. (1995) 
+ Some Phenomena of Seeing Shapes in Design
+, Design Studies 16(3), 367-385",,,,"Liu, Y.T. (1996) 
+ Is designing one search or two? a model of design thinking involving symbolism and connectionism
+, Design Studies 17, 435-449",,,,"Liu, Y.T. (1996) 
+ Restructuring shapes in terms of emergent subshapes: a computational and cognitive model
+, Environment and planning B, Vol.23, 313-328",,,,"Newell, A. and Simon, H.A. (1992) 
+ Human problem solving prentice-hall
+, Englewood Cliffs NJ",,,,"Palmer, J., Ames, C.T. and Lindsey, D.T. (1993) 
+ Measuring the effect of attention on simple visual search
+, Journal of Experimental Psychology: Human Perception and Performance, Vol. 19, No. 1, 108-130",,,,"Reed, S.K. (1974) 
+ Structural descriptions and the limitations of visual images
+, Memory & Cognition, Vol. 2, No. 2, 329-336",,,,"Rueckl, J.G., Cave, K.R. and Kosslyn, S.M. (1989) 
+ Why are 'What' and 'Where' Processed by Separate Cortical Visual Systems? A Computational Investigation
+, Journal of Cognitive Neuroscience",,,,"Schön, D.A. and Wiggins, G. (1992) 
+ Kinds of Seeing and Their Functions in Designing
+, Design Studies, 13 (2), 135-156",,,,"Stiny, G. (1980) 
+ Introduction to shape and shape grammars
+, Environment and Planning B 7, 343-351",,
+8,2000/01/13 11:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

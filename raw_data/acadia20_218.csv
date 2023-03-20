@@ -1,0 +1,222 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68
+0,acadia20_218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Rossi, Gabriella; Nicholas, Paul",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Encoded Images,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2020: Distributed Proximities / Volume I: Technical Papers [Proceedings of the 40th Annual Conference of the Association of Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-95213-0]. Online and Global. 24-30 October 2020. edited by B. Slocum, V. Ago, S. Doyle, A. Marcus, M. Yablonina, and M. del Campo. 218-227.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In this paper, we explore conditional generative adversarial networks (cGANs) as a new way of bridging the gap between design and analysis in contemporary architectural practice. By substituting analytical finite element analysis (FEA) modeling with cGAN predictions during the iterative design phase, we develop novel workflows that support iterative computational design and digital fabrication processes in new ways. This paper reports two case studies of increasing complexity that utilize cGANs for structural analysis. Central to both experiments is the representation of information within the data set the cGAN is trained on. We contribute a prototypical representational technique to encode multiple layers of geometric and performative description into false color images, which we then use to train a Pix2Pix neural network architecture on entirely digital generated data sets as a proxy for the performance of physically fabricated elements. The paper describes the representational workflow and reports the process and results of training and their integration into the design experiments. Last, we identify potentials and limits of this approach within the design processes.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,gr@gabriellarossi.tech,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (2,089,352 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Brugnaro, Guilio, and Sean Hanna (2017) 
+ Adaptive Robotic Training Methods for Subtractive Manufacturing
+, ACADIA 2017: Disciplines and Disruption [Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Cambridge, MA, 24 November 2017, edited by T. Nagakura, S. Tibbits, M. Ibanez, and C. Mueller, 164169. CUMINCAD. 
+
+
+
+
+
+
+
+Chaillou, Stanislas (2019) 
+ IA & Architecture
+, Thesis, Harvard Graduate School of Design
+
+
+
+
+
+
+
+Darko, Amos, Albert PC Chan, Michael A. Adabre, David J. Edwards, M. Reza Hosseini, and Ernest E. Ameyaw (2020) 
+ Artificial Intelligence in the AEC Industry: Scientometric Analysis and Visualization of Research Activities
+, Automation in Construction 112: 103081
+
+
+
+
+
+
+
+del Campo, Matias, Sandra Manninger, and Alexandra Carlson (2020) 
+ Hallucinating Cities: A Posthuman Design Method based on Neural Networks
+, Proceedings of SimAUD2020, 255-262. Newbury Park, CA: SAGE Publications
+
+
+
+
+
+
+
+Galanos, Theodore, Angelos Chronis, O. Vesely, A. Aichinger, and R. Koenig (2019) 
+ Best of Both Worlds: Using Computational Design and Deep Learning for Real-Time Urban Performance Evaluation
+, 1st International Conference on Optimization Driven Architectural Design. Amsterdam, Netherlands: Elsevier Ltd
+
+
+
+
+
+
+
+Gero, John (1991) 
+ Ten Problems for AI In Design
+, Proceedings of Artificial Intelligence In Design '91. Oxford, England: Butterworth-Heinemann. http://papers.cumincad.org/data/works/att/46ce.content.04041.pdf
+
+
+
+
+
+
+
+Goodfellow, Ian, Yoshua Bengio and Aaron Courville (2016) 
+ Deep Learning
+, Cambridge, MA: MIT Press
+
+
+
+
+
+
+
+Isola, Phillip, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros (2017) 
+ Image-to-image Translation with Conditional Adversarial Networks
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 59675976. New York, NY: IEEE. 
+
+
+
+
+
+
+
+Kvochick, Tyler (2018) 
+ Sneaky Spatial Segmentation. Reading Architectural Drawings with Deep Neural Networks and Without Labeling Data
+, ACADIA 2018: Recalibration: On Imprecision and Infidelity [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Mexico City, Mexico, 1820 October 2018, edited by P. Anzalone, M. del Signore, and A. J. Wit, 166175. CUMINCAD. 
+
+
+
+
+
+
+
+Musil, Josef, Jakub Knir, Athanasios Vitsas, and Irene Gallou (2019) 
+ Towards Sustainable Architecture: 3D Convolutional Neural Networks for Computational Fluid Dynamics Simulation and Reverse DesignWorkflow
+, arXiv preprint. arXiv:1912.02125
+
+
+
+
+
+
+
+Nicholas, Paul, David Stasiuk, Esben Norgaard, Christopher Hutchinson, and Mette Ramsgaard Thomsen (2016) 
+ An Integrated Modelling and Toolpathing Approach for a Frameless Stressed Skin Structure, Fabricated Using Robotic Incremental Sheet Forming
+, Robotic Fabrication in Architecture, Art and Design 2016, 6277. Cham: Springer
+
+
+
+
+
+
+
+Nicholas, Paul, Gabriella Rossi, Ella Williams, Michael Bennett, and Tim Schork (2020) 
+ Integrating Real-Time Multi-Resolution Scanning and Machine Learning for Conformal Robotic 3D Printing in Architecture
+, International Journal of Architectural Computing(August). https://doi.org/10.1177/1478077120948203
+
+
+
+
+
+
+
+Nicholas, Paul, Mateusz Zwierzycki, Esben Clausen Norgaard, Scott Leinweber, David Stasiuk, Mette Ramsgaard Thomsen, and Christopher Hutchinson (2017) 
+ Adaptive Robotic Fabrication for Conditions of Material Inconsistency: Increasing the Geometric Accuracy of Incrementally Formed Metal Panels
+, Fabricate 2017, 114121. London: UCL Press
+
+
+
+
+
+
+
+Rossi, Gabriella, Paul Nicholas (2018) 
+ Re/Learning the Wheel: Methods to Utilize Neural Networks as Design Tools for Doubly Curved Metal Surfaces
+, ACADIA 2018: Recalibration: On Imprecision and Infidelity [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Mexico City, Mexico, 1820 October 2018, edited by P. Anzalone, M. del Signore, and A. J. Wit, 146155. CUMINCAD
+
+
+
+
+
+
+
+Salimans, Tim, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, and Xi Chen (2016) 
+ Improved Techniques for Training GANS
+, Advances in Neural Information Processing Systems 29: 22342242
+
+
+
+
+
+
+
+Tamke, Martin, Mateusz Zwierzycki, Anders Holden Deleuran, Y. Sinke Baranovskaya, I. Tinning Friis, and M. Ramsgaard Thomsen (2017) 
+ Lace Wall-Extending Design Intuition through Machine Learning
+, Fabricate: Rethinking Design and Construction, edited by Achim Menges, Bob Sheil, Ruairi Glynn and Marilena Skavara, 98-105. London, England: UCL Press
+
+
+
+
+
+
+
+Zwierzycki, Mateusz, Paul Nicholas, and Mette Ramsgaard Thomsen (2018) 
+ Localised and learnt Applications of Machine Learning for Robotic Incremental Sheet Forming
+, Humanizing Digital Reality, 373382. Singapore: Springer",,"Brugnaro, Guilio, and Sean Hanna (2017) 
+ Adaptive Robotic Training Methods for Subtractive Manufacturing
+, ACADIA 2017: Disciplines and Disruption [Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Cambridge, MA, 24 November 2017, edited by T. Nagakura, S. Tibbits, M. Ibanez, and C. Mueller, 164169. CUMINCAD.",,,,"Chaillou, Stanislas (2019) 
+ IA & Architecture
+, Thesis, Harvard Graduate School of Design",,,,"Darko, Amos, Albert PC Chan, Michael A. Adabre, David J. Edwards, M. Reza Hosseini, and Ernest E. Ameyaw (2020) 
+ Artificial Intelligence in the AEC Industry: Scientometric Analysis and Visualization of Research Activities
+, Automation in Construction 112: 103081",,,,"del Campo, Matias, Sandra Manninger, and Alexandra Carlson (2020) 
+ Hallucinating Cities: A Posthuman Design Method based on Neural Networks
+, Proceedings of SimAUD2020, 255-262. Newbury Park, CA: SAGE Publications",,,,"Galanos, Theodore, Angelos Chronis, O. Vesely, A. Aichinger, and R. Koenig (2019) 
+ Best of Both Worlds: Using Computational Design and Deep Learning for Real-Time Urban Performance Evaluation
+, 1st International Conference on Optimization Driven Architectural Design. Amsterdam, Netherlands: Elsevier Ltd",,,,"Gero, John (1991) 
+ Ten Problems for AI In Design
+, Proceedings of Artificial Intelligence In Design '91. Oxford, England: Butterworth-Heinemann. http://papers.cumincad.org/data/works/att/46ce.content.04041.pdf",,,,"Goodfellow, Ian, Yoshua Bengio and Aaron Courville (2016) 
+ Deep Learning
+, Cambridge, MA: MIT Press",,,,"Isola, Phillip, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros (2017) 
+ Image-to-image Translation with Conditional Adversarial Networks
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 59675976. New York, NY: IEEE.",,,,"Kvochick, Tyler (2018) 
+ Sneaky Spatial Segmentation. Reading Architectural Drawings with Deep Neural Networks and Without Labeling Data
+, ACADIA 2018: Recalibration: On Imprecision and Infidelity [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Mexico City, Mexico, 1820 October 2018, edited by P. Anzalone, M. del Signore, and A. J. Wit, 166175. CUMINCAD.",,,,"Musil, Josef, Jakub Knir, Athanasios Vitsas, and Irene Gallou (2019) 
+ Towards Sustainable Architecture: 3D Convolutional Neural Networks for Computational Fluid Dynamics Simulation and Reverse DesignWorkflow
+, arXiv preprint. arXiv:1912.02125",,,,"Nicholas, Paul, David Stasiuk, Esben Norgaard, Christopher Hutchinson, and Mette Ramsgaard Thomsen (2016) 
+ An Integrated Modelling and Toolpathing Approach for a Frameless Stressed Skin Structure, Fabricated Using Robotic Incremental Sheet Forming
+, Robotic Fabrication in Architecture, Art and Design 2016, 6277. Cham: Springer",,,,"Nicholas, Paul, Gabriella Rossi, Ella Williams, Michael Bennett, and Tim Schork (2020) 
+ Integrating Real-Time Multi-Resolution Scanning and Machine Learning for Conformal Robotic 3D Printing in Architecture
+, International Journal of Architectural Computing(August). https://doi.org/10.1177/1478077120948203",,,,"Nicholas, Paul, Mateusz Zwierzycki, Esben Clausen Norgaard, Scott Leinweber, David Stasiuk, Mette Ramsgaard Thomsen, and Christopher Hutchinson (2017) 
+ Adaptive Robotic Fabrication for Conditions of Material Inconsistency: Increasing the Geometric Accuracy of Incrementally Formed Metal Panels
+, Fabricate 2017, 114121. London: UCL Press",,,,"Rossi, Gabriella, Paul Nicholas (2018) 
+ Re/Learning the Wheel: Methods to Utilize Neural Networks as Design Tools for Doubly Curved Metal Surfaces
+, ACADIA 2018: Recalibration: On Imprecision and Infidelity [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Mexico City, Mexico, 1820 October 2018, edited by P. Anzalone, M. del Signore, and A. J. Wit, 146155. CUMINCAD",,,,"Salimans, Tim, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, and Xi Chen (2016) 
+ Improved Techniques for Training GANS
+, Advances in Neural Information Processing Systems 29: 22342242",,,,"Tamke, Martin, Mateusz Zwierzycki, Anders Holden Deleuran, Y. Sinke Baranovskaya, I. Tinning Friis, and M. Ramsgaard Thomsen (2017) 
+ Lace Wall-Extending Design Intuition through Machine Learning
+, Fabricate: Rethinking Design and Construction, edited by Achim Menges, Bob Sheil, Ruairi Glynn and Marilena Skavara, 98-105. London, England: UCL Press",,,,"Zwierzycki, Mateusz, Paul Nicholas, and Mette Ramsgaard Thomsen (2018) 
+ Localised and learnt Applications of Machine Learning for Robotic Incremental Sheet Forming
+, Humanizing Digital Reality, 373382. Singapore: Springer",,
+11,2021/10/28 06:57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

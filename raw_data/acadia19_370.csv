@@ -1,0 +1,162 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48
+0,acadia19_370,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Mohammad, Ali; Beorkrem, Christopher; Ellinger, Jefferson",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Hybrid Elevations using GAN Networks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 19:UBIQUITY AND AUTONOMY [Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-59179-7] (The University of Texas at Austin School of Architecture, Austin, Texas 21-26 October, 2019) pp. 370-379",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This project is an attempt to develop and test a method for generating one-sided hybrid exterior building elevations using designers base criteria and design rule sets as inputs in an advanced artificial intelligence network. Architects are using computational design to expedite the iteration process in an efficient manner. Optimization techniques utilizing genetic solvers allow designers to explore broad sets of iterations within a predefined subset. However, with the application of artificial intelligence networks these fields of exploration can be expanded upon to develop ranges of exploration which can explore iterations outside of typical ranges. This paper explores the use of Generative Adversarial Networks (GAN) to explore and demonstrate their possible capabilities to typical design problems. In this instance we are exploring their application in the development of architectural elevations.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,normal paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,asmoham1@uncc.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (2,060,966 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+DeLanda, Manuel. (2006) 
+ Deleuzian Social Ontology and Assemblage Theory
+, Deleuze and the Social, 250-266
+
+
+
+
+
+
+
+DeLanda, Manuel. (2007) 
+ Virtual environments and the emergence of synthetic reason
+, Virtual Futures; Cyberobotics, Technology and Post-Human Pragmatism, edited by J.B. Dixon and E.J. Cassidy, 85-102. London: Routledge
+
+
+
+
+
+
+
+DeLanda, Manuel. (2011) 
+ Philosophy and Simulation: The Emergence of synthetic Reason
+, London: Bloomsbury Publishing
+
+
+
+
+
+
+
+DeLanda, Manuel. (2016) 
+ Assemblage Theory
+, Edinburgh: Edinburgh University Press
+
+
+
+
+
+
+
+Gero, John S., Sushil J. Louis, and Sourav Kundu. (1994) 
+ Evolutionary learning of novel grammars for design improvement
+, AI EDAM 8(2): 83-94
+
+
+
+
+
+
+
+Gero, John S. (1996) 
+ Creativity, Emergence and Evolution in Design
+, Knowledge-Based Systems 9(7): 435-448
+
+
+
+
+
+
+
+Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. (2014) 
+ Generative Adversarial Nets
+, Advances Neural Information Processing Systems, 2672-2680
+
+
+
+
+
+
+
+McCulloch, Warren S., and Walter Pitts. (1943) 
+ A Logical Calculus of the Ideas Immanent in Nervous Activity
+, The Bulletin of Mathematical Biophysics 5(4): 115-133
+
+
+
+
+
+
+
+Przybylski, Maya. (2018) 
+ A Framework to Establish Data Quality for Software Embedded Design
+, Learning, Adapting and Prototyping; Proceedings of the 23rd International Conference of the Association for Computer-Aided ArchitecturalDesign Research Asia (CAADRIA), Volume 2, 267-276
+
+
+
+
+
+
+
+Rutten, David. (2013) 
+ Galapagos: On the Logic and Limitations of Generic Solvers
+, Architectural Design 83(2): 132-135
+
+
+
+
+
+
+
+Samuel, Arthur L. (1967) 
+ Some Studies in Machine Learning using the Game of Checkers; IIRecent Progress
+, IBM Journal of Research and Development 11(6): 601-617
+
+
+
+
+
+
+
+Sjoberg, C., C. Beorkrem, and J. Ellinger. (2017) 
+ Emergent Syntax: Machine Learning for Curation of Design Solution Space
+, Disciplines & Disruption; Proceedings of the 37th Annual Conference of the Association for Computer Aided Design Architecture (ACADIA), 552-561",,"DeLanda, Manuel. (2006) 
+ Deleuzian Social Ontology and Assemblage Theory
+, Deleuze and the Social, 250-266",,,,"DeLanda, Manuel. (2007) 
+ Virtual environments and the emergence of synthetic reason
+, Virtual Futures; Cyberobotics, Technology and Post-Human Pragmatism, edited by J.B. Dixon and E.J. Cassidy, 85-102. London: Routledge",,,,"DeLanda, Manuel. (2011) 
+ Philosophy and Simulation: The Emergence of synthetic Reason
+, London: Bloomsbury Publishing",,,,"DeLanda, Manuel. (2016) 
+ Assemblage Theory
+, Edinburgh: Edinburgh University Press",,,,"Gero, John S., Sushil J. Louis, and Sourav Kundu. (1994) 
+ Evolutionary learning of novel grammars for design improvement
+, AI EDAM 8(2): 83-94",,,,"Gero, John S. (1996) 
+ Creativity, Emergence and Evolution in Design
+, Knowledge-Based Systems 9(7): 435-448",,,,"Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. (2014) 
+ Generative Adversarial Nets
+, Advances Neural Information Processing Systems, 2672-2680",,,,"McCulloch, Warren S., and Walter Pitts. (1943) 
+ A Logical Calculus of the Ideas Immanent in Nervous Activity
+, The Bulletin of Mathematical Biophysics 5(4): 115-133",,,,"Przybylski, Maya. (2018) 
+ A Framework to Establish Data Quality for Software Embedded Design
+, Learning, Adapting and Prototyping; Proceedings of the 23rd International Conference of the Association for Computer-Aided ArchitecturalDesign Research Asia (CAADRIA), Volume 2, 267-276",,,,"Rutten, David. (2013) 
+ Galapagos: On the Logic and Limitations of Generic Solvers
+, Architectural Design 83(2): 132-135",,,,"Samuel, Arthur L. (1967) 
+ Some Studies in Machine Learning using the Game of Checkers; IIRecent Progress
+, IBM Journal of Research and Development 11(6): 601-617",,,,"Sjoberg, C., C. Beorkrem, and J. Ellinger. (2017) 
+ Emergent Syntax: Machine Learning for Curation of Design Solution Space
+, Disciplines & Disruption; Proceedings of the 37th Annual Conference of the Association for Computer Aided Design Architecture (ACADIA), 552-561",,
+11,2019/12/18 08:03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

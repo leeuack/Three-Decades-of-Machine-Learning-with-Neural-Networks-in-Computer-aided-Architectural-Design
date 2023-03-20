@@ -1,0 +1,220 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68
+0,"Kobayashi, Yoshihiro",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,3D City Model Generator: The Application of Neuro-Fuzzy Systems in CAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Thresholds - Design, Research, Education and Practice, in the Space Between the Physical and the Virtual [Proceedings of the 2002 Annual Conference of the Association for Computer Aided Design In Architecture / ISBN 1-880250-11-X] Pomona (California) 24-27 October 2002, pp. 163-174",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"This paper introduces a computer-aided design (CAD) system in which a neuro-fuzzy system isintegrated as a main engine for learning. Specifically, a computer system that generates 3D city modelsfrom satellite images is formulated, implemented, and tested. Techniques from neural networks, fuzzysystems, image processing, pattern recognition, and machine learning constitute the methodologicalfoundation of the system. The usability and flexibility of the system are evaluated in case studies.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ykobaya@asu.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"file.pdf (1,891,110 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bezdek, J.C., Tsao, E.C. and Pal, N.R. (1992) 
+ Fuzzy Kohonen clustering networks 
+, IEEE International Conf. on Fuzzy Systems: 1035-1043. San Diego
+
+
+
+
+
+
+
+Carpenter, G.A., Grossberg, S. and Rosen, D.B. (1991) 
+ Fuzzy ART-Fast stable learning and categorization of analog patterns by an adaptive resonance system 
+, Neural Networks 4:759-771
+
+
+
+
+
+
+
+Conners, R.W., Trivedi, M.M. and Harlow, C.A. (1984) 
+ Segmentation of a High-Resolution Urban Scene Using Texture Operators 
+, Computer Vision, Graphics, and Image Processing 25: 273-310
+
+
+
+
+
+
+
+Ghosh, A., Pal, N.R. and Pal, S.K. (1993) 
+ Self-organization for object extraction using multiplayer neural network and fuzziness measure 
+, IEEE Trans. of on Fuzzy System 1:54-68
+
+
+
+
+
+
+
+Harwood, D., Chang, S. and Davis, L. (1987) 
+ Interpreting Aerial Photographs by Segmentation and Search 
+, Proceedings of the DARPA Image Understanding Workshop 1987-2: 475-482
+
+
+
+
+
+
+
+Herman, M. and Kanade, T. (1986) 
+ Incremental Reconstruction of 3D scenes from Multiple, ComplexImages 
+, Artificial Intelligence 30: 289-341
+
+
+
+
+
+
+
+Huertas, A. and Nevatia, R. (1988) 
+ Detecting Buildings in Aerial Images 
+, Computer Vision, Graphics, and Image Processing 41, 131-152
+
+
+
+
+
+
+
+Jaynes, C., Stolle, R. and Collins, R. (1994) 
+ Task Driven Perceptual Organization for Extraction of Rooftop Polygons 
+, ARPA Image Understanding Workshop 1994:359-365
+
+
+
+
+
+
+
+Kobayashi, Y.  (2001) 
+ 3D City Modeler with Fuzzy Multiple Layer Perceptron 
+, Dissertation: University of California, Los Angeles
+
+
+
+
+
+
+
+Lee, S.C. and Lee, E.T. (1975) 
+ Fuzzy neural networks 
+, Mathematical Bioscience 23: 151-177
+
+
+
+
+
+
+
+Liow, Y.T. and Pavlidis, T. (1990) 
+ Use of Shadow for Extracting Buildings in Aerial Images 
+, Computer Vision, Graphics, and Image Processing 49: 242-277
+
+
+
+
+
+
+
+McKeown, D.M.  (1990) 
+ Toward Automatic Cartographic Feature Extraction from Aerial Imagery
+, Mapping and Spatial Modeling for Navigation F65: 149-180
+
+
+
+
+
+
+
+McKeown, D.M., and Denlinger, J.L. (1984) 
+ Map-guided feature extraction from aerial imagery
+, Proceeding of Workshop on Computer Vision-Representation and Control. 205-213, Annapolis, MD
+
+
+
+
+
+
+
+Pal, S.K. and Mitra, S. (1999) 
+ Neuro-Fuzzy Pattern Recognition 
+, John Wiley & Sons, New York
+
+
+
+
+
+
+
+Pal, S.K. and Mitra. S. (1992) 
+ Fuzzy Multi-layer perceptron 
+, IEEE Trans. of Neural Networks 3: 683-697
+
+
+
+
+
+
+
+Shufelt, J.A.  (1996) 
+ Projective Geometry and Photometry for Object Detection and Delineation Techniques 
+, APRA Image Understanding Workshop 1996.2:1113-1132
+
+
+
+
+
+
+
+Yager, R.R. and Zadeh, L.A. (1994) 
+ Fuzzy Sets, Neural Networks, and Soft Computing 
+, Van Nostrand Reinhold, New York",,"Bezdek, J.C., Tsao, E.C. and Pal, N.R. (1992) 
+ Fuzzy Kohonen clustering networks 
+, IEEE International Conf. on Fuzzy Systems: 1035-1043. San Diego",,,,"Carpenter, G.A., Grossberg, S. and Rosen, D.B. (1991) 
+ Fuzzy ART-Fast stable learning and categorization of analog patterns by an adaptive resonance system 
+, Neural Networks 4:759-771",,,,"Conners, R.W., Trivedi, M.M. and Harlow, C.A. (1984) 
+ Segmentation of a High-Resolution Urban Scene Using Texture Operators 
+, Computer Vision, Graphics, and Image Processing 25: 273-310",,,,"Ghosh, A., Pal, N.R. and Pal, S.K. (1993) 
+ Self-organization for object extraction using multiplayer neural network and fuzziness measure 
+, IEEE Trans. of on Fuzzy System 1:54-68",,,,"Harwood, D., Chang, S. and Davis, L. (1987) 
+ Interpreting Aerial Photographs by Segmentation and Search 
+, Proceedings of the DARPA Image Understanding Workshop 1987-2: 475-482",,,,"Herman, M. and Kanade, T. (1986) 
+ Incremental Reconstruction of 3D scenes from Multiple, ComplexImages 
+, Artificial Intelligence 30: 289-341",,,,"Huertas, A. and Nevatia, R. (1988) 
+ Detecting Buildings in Aerial Images 
+, Computer Vision, Graphics, and Image Processing 41, 131-152",,,,"Jaynes, C., Stolle, R. and Collins, R. (1994) 
+ Task Driven Perceptual Organization for Extraction of Rooftop Polygons 
+, ARPA Image Understanding Workshop 1994:359-365",,,,"Kobayashi, Y.  (2001) 
+ 3D City Modeler with Fuzzy Multiple Layer Perceptron 
+, Dissertation: University of California, Los Angeles",,,,"Lee, S.C. and Lee, E.T. (1975) 
+ Fuzzy neural networks 
+, Mathematical Bioscience 23: 151-177",,,,"Liow, Y.T. and Pavlidis, T. (1990) 
+ Use of Shadow for Extracting Buildings in Aerial Images 
+, Computer Vision, Graphics, and Image Processing 49: 242-277",,,,"McKeown, D.M.  (1990) 
+ Toward Automatic Cartographic Feature Extraction from Aerial Imagery
+, Mapping and Spatial Modeling for Navigation F65: 149-180",,,,"McKeown, D.M., and Denlinger, J.L. (1984) 
+ Map-guided feature extraction from aerial imagery
+, Proceeding of Workshop on Computer Vision-Representation and Control. 205-213, Annapolis, MD",,,,"Pal, S.K. and Mitra, S. (1999) 
+ Neuro-Fuzzy Pattern Recognition 
+, John Wiley & Sons, New York",,,,"Pal, S.K. and Mitra. S. (1992) 
+ Fuzzy Multi-layer perceptron 
+, IEEE Trans. of Neural Networks 3: 683-697",,,,"Shufelt, J.A.  (1996) 
+ Projective Geometry and Photometry for Object Detection and Delineation Techniques 
+, APRA Image Understanding Workshop 1996.2:1113-1132",,,,"Yager, R.R. and Zadeh, L.A. (1994) 
+ Fuzzy Sets, Neural Networks, and Soft Computing 
+, Van Nostrand Reinhold, New York",,
+9,2002/10/26 23:25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

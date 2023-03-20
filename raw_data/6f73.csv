@@ -1,0 +1,148 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+0,"Mahdavi, Ardeshir",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,1997,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Modeling-Assisted Building Control,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"CAAD Futures 1997 [Conference Proceedings / ISBN 0-7923-4726-9] München (Germany), 4-6 August 1997, pp. 219-229",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"The architectural research on provision of computational support for the building delivery process in general and computer aided performance modeling in particular has traditionally concentrated on the building design phase. This paper argues that computational modeling can also successfully apply to the building operation phase. To demonstrate this potential the paper explores a simulation- assisted building control strategy. Specifically, the use of generate-and-test as well as bi-directional inference methods is proposed to derive preferable control schemes and required attributes for control variables based on parametric and iterative simulation runs. The feasibility of the approach is demonstrated via illustrative computational examples from the thermal control domain.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,amahdavi@tuwien.ac.at,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"file.pdf (166,181 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Curtis, P.S., Kreider, J.F. and Brandemuehl, M.J. (1993) 
+ Adaptive Control of HVAC Processes Using Predictive Neural Networks
+, ASHRAE Transactions 99(l)
+
+
+
+
+
+
+
+Curtis, P.S. (1996) 
+ Experimental Results from a Network Assisted PID Controller
+, ASHRAE Transactions. AT 96-21-3
+
+
+
+
+
+
+
+Mahdavi, A.  (1996) 
+ Computational Support for Performance-based Reasoning in Building Design
+, Proceedings of the CIB-ASTM-ISO-RILEM International Symposium Applications of the Performance Concept in Building. Tel Aviv, Israel. Vol. 1, pp. 4-23 
+
+
+
+
+
+
+
+Mahdavi, A. and Berberidou, L. (1994) 
+ GESTALT: A prototypical Realization of an Open Daylighting Simulation Environment
+, Journal of the Illuminating Engineering Society. Volume 23, Number 2, Summer 1994. pp. 62-71
+
+
+
+
+
+
+
+Mahdavi, A. and Berberidou, L. (1995) 
+ A Generative Simulation Tool for Architectural Lighting
+, Proceedings of the Fourth International Conference of the International Building Performance Simulation Association (IBPSA) (Ed.: Mitchell, J.W. - Beckman, W. A.). Madison, Wisconsin. pp. 395-402
+
+
+
+
+
+
+
+Mahdavi, A. and Mathew, P. (1995) 
+ Synchronous Generation of Homologous Representation in an Active, MultiAspect Design Environment
+, Proceedings of the Fourth International Conference of the International Building Performance Simulation Association (IBPSA) (Ed.: Mitchell, I.W. - Beckman, W A.). Madison, Wisconsin. pp. 522-528
+
+
+
+
+
+
+
+Mahdavi, A., Brahme, R. and Mathew, P. (1996) 
+ On the Applicability of the LEK-Procedure for the Energy Analysis of Commercial Buildings
+, Energy and Environment, Vol. 3 1, No. 5, pp. 409-415
+
+
+
+
+
+
+
+Mahdavi, A. (1993) 
+ Open Simulation Environments: A Preference-Based Approach
+, Proceedings of CAAD Futures 93, CMU, Pittsburgh, Pennsylvania, USA. pp. 195-214
+
+
+
+
+
+
+
+Mahdavi, A. (1996) 
+ SEMPER: A New Computational Environment for Simulation-based Building Design Assistance
+, Proceedings of the 1996 International Symposium of CIB W67 (Energy and Mass Flows in the Life Cycle of Buildings). Vienna, Austria. pp. 467-472
+
+
+
+
+
+
+
+Mistry, S.I. and Nair, S.S. (1993) 
+ Nonlinear HVAC Computations Using Neural Networks
+, ASHRAE Transactions 99(l)
+
+
+
+
+
+
+
+Osman, A., Mitchell, J.W. and Klein, S.A. (1996) 
+ Application of General Regression Neural Network (GRNN)
+, HVAC Process Identification and Control. ASHRAE Transactions AT-96-21-2",,"Curtis, P.S., Kreider, J.F. and Brandemuehl, M.J. (1993) 
+ Adaptive Control of HVAC Processes Using Predictive Neural Networks
+, ASHRAE Transactions 99(l)",,,,"Curtis, P.S. (1996) 
+ Experimental Results from a Network Assisted PID Controller
+, ASHRAE Transactions. AT 96-21-3",,,,"Mahdavi, A.  (1996) 
+ Computational Support for Performance-based Reasoning in Building Design
+, Proceedings of the CIB-ASTM-ISO-RILEM International Symposium Applications of the Performance Concept in Building. Tel Aviv, Israel. Vol. 1, pp. 4-23",,,,"Mahdavi, A. and Berberidou, L. (1994) 
+ GESTALT: A prototypical Realization of an Open Daylighting Simulation Environment
+, Journal of the Illuminating Engineering Society. Volume 23, Number 2, Summer 1994. pp. 62-71",,,,"Mahdavi, A. and Berberidou, L. (1995) 
+ A Generative Simulation Tool for Architectural Lighting
+, Proceedings of the Fourth International Conference of the International Building Performance Simulation Association (IBPSA) (Ed.: Mitchell, J.W. - Beckman, W. A.). Madison, Wisconsin. pp. 395-402",,,,"Mahdavi, A. and Mathew, P. (1995) 
+ Synchronous Generation of Homologous Representation in an Active, MultiAspect Design Environment
+, Proceedings of the Fourth International Conference of the International Building Performance Simulation Association (IBPSA) (Ed.: Mitchell, I.W. - Beckman, W A.). Madison, Wisconsin. pp. 522-528",,,,"Mahdavi, A., Brahme, R. and Mathew, P. (1996) 
+ On the Applicability of the LEK-Procedure for the Energy Analysis of Commercial Buildings
+, Energy and Environment, Vol. 3 1, No. 5, pp. 409-415",,,,"Mahdavi, A. (1993) 
+ Open Simulation Environments: A Preference-Based Approach
+, Proceedings of CAAD Futures 93, CMU, Pittsburgh, Pennsylvania, USA. pp. 195-214",,,,"Mahdavi, A. (1996) 
+ SEMPER: A New Computational Environment for Simulation-based Building Design Assistance
+, Proceedings of the 1996 International Symposium of CIB W67 (Energy and Mass Flows in the Life Cycle of Buildings). Vienna, Austria. pp. 467-472",,,,"Mistry, S.I. and Nair, S.S. (1993) 
+ Nonlinear HVAC Computations Using Neural Networks
+, ASHRAE Transactions 99(l)",,,,"Osman, A., Mitchell, J.W. and Klein, S.A. (1996) 
+ Application of General Regression Neural Network (GRNN)
+, HVAC Process Identification and Control. ASHRAE Transactions AT-96-21-2",,
+9,2003/02/26 16:26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

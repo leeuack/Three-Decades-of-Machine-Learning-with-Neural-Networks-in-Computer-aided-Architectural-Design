@@ -1,0 +1,257 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,"Liu, Yu-Tung",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,1993,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,A Connectionist Approach to Shape Recognition and Transformation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"CAAD Futures 93 [Conference Proceedings / ISBN 0-444-89922-7] (Pittsburgh / USA), 1993, pp. 19-36",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"In human design processes, many drawings of shapes remain incomplete or are executed inaccurately. Cognitively, a designer is able to discern these anomalous shapes, whereas current CAAD systems fail to recognize them properly so that CAAD systems are unable to match left-hand-side conditions of shape rules. More unfortunately, as a result, current CAAD systems fail to retrieve right-hand-side actions. In this paper, multi-layered neural networks are constructed to solve the recognition and transformation of ill-processed shapes in the light of recent advances of connectionism in cognitive psychology and artificial intelligence.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Shape Recognition, Shape Transformation, Connectionist Models, PDP Models, Content-Addressable Memory, Neural Networks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,aleppo@arch.nctu.edu.tw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (499,444 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Akiner, V.T. (1986) 
+ Topology-1: A Knowledge-based System for Reasoning About Objects and Spaces
+, Design Studies 7 No. 2 - pp. 94-105
+
+
+
+
+
+
+
+Anderson, J.R. (1990) 
+ Cognitive Psychology and its Implications
+, New York: W. H. Freeman  (3rd edition)
+
+
+
+
+
+
+
+Coyne, R.D. and Newton, S. (1990) 
+ Design Reasoning by Association
+, Environment and Planning B: Planning and Design 17 pp. 39-56
+
+
+
+
+
+
+
+Coyne, R.D., Rosenman, M.A., Radford, A.D., Balachandran, M. and Gero, J.S. (1990) 
+ Knowledge-based Design Systems
+, Reading, MA: Addison-Wesley
+
+
+
+
+
+
+
+Coyne, R.D. (1991) 
+ Modelling the Emergence of Design Descriptions Across Schemata
+, Environment and Planning B: Planning and Design 18 pp. 427-458
+
+
+
+
+
+
+
+Flemming, U., Coyne, R., Glavin, T. and Rychener, M. (1988) 
+ A Generative Expert System for the Design of Building Layouts-Version 2
+, J. S. Gero (ed.), Artificial Intelligence in Engineering Design. Amsterdam: Elsevier, p. 445
+
+
+
+
+
+
+
+Gardner, H. (1985) 
+ The Minds New Science
+, New York: Basic Books
+
+
+
+
+
+
+
+Gero., J.S., Radford, B.D., Coyne, R. and Akiner, V.T. (1985) 
+ Knowledge-based Computer-aided Architectural Design
+, J. S. Gero (ed.), Knowledge Engineering in Computer-Aided Design. Amsterdam: North-Holland, p. 57
+
+
+
+
+
+
+
+Hinton, G.E. and Sejnowski, T.J. (1986) 
+ Learning and relearning in Boltzmann machines
+, D. Rumelhart, J. McClelland, and the PDP Research Group (eds.), Parallel Distributed Processing. Cambridge: MIT Press, p. 282
+
+
+
+
+
+
+
+Koffka, K. (1935) 
+ Principles of Gestalt Psychology
+, New York: Harcourt, Brace and Co
+
+
+
+
+
+
+
+Krishnamurti, R. and Giraud, C. (1986) 
+ Towards a Shape Editor: The Implementation of a Shape Generation System
+, Environment and Planning B: Planning and Design 13 pp. 391-404
+
+
+
+
+
+
+
+Krishnamurti, R. (1981) 
+ The Construction of Shapes
+, Environment and Planning B: Planning and Design 8 pp. 5-40
+
+
+
+
+
+
+
+Laird, J.E., Rosenbloom, P.S. and Newell, A. (1986) 
+ Chunking in Soar: The Anatomy of a General Learning Mechanism
+, Machine learning 1 pp. 11-46
+
+
+
+
+
+
+
+Levin, P.H. (1964) 
+ Use of Graphs to Decide the Optimum Layout of Buildings
+, The Architects Journal, pp. 809-817
+
+
+
+
+
+
+
+Lindsay, P.H. and Norman, D.A. (1977) 
+ Human Information Processing
+, New York: Academic Press
+
+
+
+
+
+
+
+Liu, Y.T. (1991) 
+ Schematic-Designer: A Knowledge-based CAD System for Schematic Design in Architecture
+, Design Studies 12(3), pp. 151-167
+
+
+
+
+
+
+
+McClelland, J.L. and Rumelhart, D.E. (1989) 
+ Explorations in Parallel Distributed Processing
+, Cambridge: MIT Press
+
+
+
+
+
+
+
+Minsky, M. and Papert, S. (1969) 
+ Perceptrons
+, Cambridge: MIT Press
+
+
+
+
+
+
+
+Minsky, M. (1992) 
+ Lecture on The Society of Mind
+, (March 4) at Media Laboratory, MIT, Cambridge, MA
+
+
+
+
+
+
+
+Mitchell, W.J. (1990) 
+ The Logic ofArchitecture
+, Cambridge: MIT Press",,"Akiner, V.T. (1986) 
+ Topology-1: A Knowledge-based System for Reasoning About Objects and Spaces
+, Design Studies 7 No. 2 - pp. 94-105",,,,"Anderson, J.R. (1990) 
+ Cognitive Psychology and its Implications
+, New York: W. H. Freeman  (3rd edition)",,,,"Coyne, R.D. and Newton, S. (1990) 
+ Design Reasoning by Association
+, Environment and Planning B: Planning and Design 17 pp. 39-56",,,,"Coyne, R.D., Rosenman, M.A., Radford, A.D., Balachandran, M. and Gero, J.S. (1990) 
+ Knowledge-based Design Systems
+, Reading, MA: Addison-Wesley",,,,"Coyne, R.D. (1991) 
+ Modelling the Emergence of Design Descriptions Across Schemata
+, Environment and Planning B: Planning and Design 18 pp. 427-458",,,,"Flemming, U., Coyne, R., Glavin, T. and Rychener, M. (1988) 
+ A Generative Expert System for the Design of Building Layouts-Version 2
+, J. S. Gero (ed.), Artificial Intelligence in Engineering Design. Amsterdam: Elsevier, p. 445",,,,"Gardner, H. (1985) 
+ The Minds New Science
+, New York: Basic Books",,,,"Gero., J.S., Radford, B.D., Coyne, R. and Akiner, V.T. (1985) 
+ Knowledge-based Computer-aided Architectural Design
+, J. S. Gero (ed.), Knowledge Engineering in Computer-Aided Design. Amsterdam: North-Holland, p. 57",,,,"Hinton, G.E. and Sejnowski, T.J. (1986) 
+ Learning and relearning in Boltzmann machines
+, D. Rumelhart, J. McClelland, and the PDP Research Group (eds.), Parallel Distributed Processing. Cambridge: MIT Press, p. 282",,,,"Koffka, K. (1935) 
+ Principles of Gestalt Psychology
+, New York: Harcourt, Brace and Co",,,,"Krishnamurti, R. and Giraud, C. (1986) 
+ Towards a Shape Editor: The Implementation of a Shape Generation System
+, Environment and Planning B: Planning and Design 13 pp. 391-404",,,,"Krishnamurti, R. (1981) 
+ The Construction of Shapes
+, Environment and Planning B: Planning and Design 8 pp. 5-40",,,,"Laird, J.E., Rosenbloom, P.S. and Newell, A. (1986) 
+ Chunking in Soar: The Anatomy of a General Learning Mechanism
+, Machine learning 1 pp. 11-46",,,,"Levin, P.H. (1964) 
+ Use of Graphs to Decide the Optimum Layout of Buildings
+, The Architects Journal, pp. 809-817",,,,"Lindsay, P.H. and Norman, D.A. (1977) 
+ Human Information Processing
+, New York: Academic Press",,,,"Liu, Y.T. (1991) 
+ Schematic-Designer: A Knowledge-based CAD System for Schematic Design in Architecture
+, Design Studies 12(3), pp. 151-167",,,,"McClelland, J.L. and Rumelhart, D.E. (1989) 
+ Explorations in Parallel Distributed Processing
+, Cambridge: MIT Press",,,,"Minsky, M. and Papert, S. (1969) 
+ Perceptrons
+, Cambridge: MIT Press",,,,"Minsky, M. (1992) 
+ Lecture on The Society of Mind
+, (March 4) at Media Laboratory, MIT, Cambridge, MA",,,,"Mitchell, W.J. (1990) 
+ The Logic ofArchitecture
+, Cambridge: MIT Press",,
+10,2003/05/16 18:58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

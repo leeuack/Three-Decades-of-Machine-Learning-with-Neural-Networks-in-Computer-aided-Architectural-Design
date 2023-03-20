@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,acadia17_154,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Brown, Nathan; Mueller, Caitlin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Designing With Data: Moving Beyond The Design Space Catalog,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2017: DISCIPLINES & DISRUPTION [Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA) ISBN 978-0-692-96506-1] Cambridge, MA 2-4 November, 2017), pp. 154-163",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Design space catalogs, which present a collection of different options for selection by human designers, have become commonplace in architecture. Increasingly, these catalogs are rapidly generated using parametric models and informed by simulations that describe energy usage, structural efficiency, daylight availability, views, acoustic properties, and other aspects of building performance. However, by conceiving of computational methods as a means for fostering interactive, collaborative, guided, expert-dependent design processes, many opportunities remain to improve upon the originally static archetype of the design space catalog. This paper presents developments in the areas of interaction, automation, simplification, and visualization that seek to improve on the current catalog model while also describing a vision for effective computer-aided, performance-based design processes in the future.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,design methods; information processing; simulation & optimization; data visualization,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,ncbrown@mit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,376,240 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Aish, Robert, and Robert Woodbury (2005) 
+ Multi-Level Interaction in Parametric Design
+, International Symposium on Smart Graphics, 15162
+
+
+
+
+
+
+
+Balling, Richard (1999) 
+ Design by Shopping: A New Paradigm?
+, Proceedings of the Third World Congress of Structural and Multidisciplinary Optimization, 295297. Buffalo, NY: WCSMO
+
+
+
+
+
+
+
+Barthelemy, J. F M, and R. T. Haftka (1993) 
+ Approximation Concepts for Optimum Structural Design: A Review
+, Structural Optimization 5 (3): 12944
+
+
+
+
+
+
+
+Brown, Nathan, and Caitlin T. Mueller (2016) 
+ The Effect of Performance Feedback and Optimization on the Conceptual Design Process
+, Proceedings of the International Association for Shell and Spatial Structures Symposium. Tokyo: IASS
+
+
+
+
+
+
+
+Brown, Nathan, J I F De Oliveira, J Ochsendorf, and Caitlin Mueller (2016) 
+ Early-Stage Integration of Architectural and Structural Performance in a Parametric Multi-Objective Design Tool
+, International Conference on Structures and Architecture. Guimar?es, Portugal
+
+
+
+
+
+
+
+Danhaive, Renaud Alexis, and Caitlin T. Mueller (2015) 
+ Combining Parametric Modeling and Interactive Optimization for High-Performance and Creative Structural Design
+, Proceedings of the International Association for Shell and Spatial Structures Symposium. Amsterdam: IASS
+
+
+
+
+
+
+
+Davis, Daniel, Jane Burry, and Mark Burry (2011) 
+ Untangling Parametric Schemata: Enhancing Collaboration through Modular Programming
+, Proceedings of the 14th International Conference on Computer Aided Architectural Design, 5568. Liege: CAAD
+
+
+
+
+
+
+
+De Weck, Olivier L., and Marshall B. Jones (2006) 
+ Isoperformance: Analysis and Design of Complex Systems with Desired Outcomes
+, Systems Engineering 9 (1): 4561
+
+
+
+
+
+
+
+Derix, Christian, and Prarthana Jagannath (2014) 
+ Near Futures: Associative Archetypes
+, Architectural Design 84 (5): 13035
+
+
+
+
+
+
+
+Doraiswamy, Harish, Nivan Ferreira, Marcos Lage, Huy Vo, Luc Wilson, Heidi Werner, Muchan Park, and Cláudio Silva (2015) 
+ Topology-Based Catalogue Exploration Framework for Identifying View-Enhanced Tower Designs
+, ACM Transactions on Graphics 34 (6): 13
+
+
+
+
+
+
+
+Eastman, Chuck (2009) 
+ Automated Assessment of Early Concept Designs
+, Architectural Design 79 (2): 5257
+
+
+
+
+
+
+
+Harding, John, and Christian Derix (2011) 
+ Associative Spatial Networks in Architectural Design: Artificial Cognition of Space Using Neural Networks with Spectral Graph Theory
+, Design Computing and Cognition 10, edited by John S. Gero, 30523
+
+
+
+
+
+
+
+Harding, John, and Paul Shepherd (2016) 
+ Meta-Parametric Design
+, Design Studies
+
+
+
+
+
+
+
+Harding, John (2016) 
+ Evolving Parametric Models Using Genetic Programming with Artificial Selection
+, Complexity & Simplicity: Proceedings of the 34th eCAADe Conference vol. 1, edited by Aulikki Herneoja, Toni Österlund, and Piia Markkanen, 42332. Oulu, Finland: eCAADe
+
+
+
+
+
+
+
+Harding, John (2016) 
+ Dimensionality Reduction for Parametric Design Exploration
+, Advances in Architectural Geometry 2016, edited by Sigrid Adriaenssens, Fabio Gramazio, Mathias Kohler, Achim Menges, and Mark Pauly, 27487. Zurich, Switzerland: vdf
+
+
+
+
+
+
+
+Joyce, Sam Conrad (2015) 
+ Web Based Data Visualisation Applied to Creative Decision Making in Parametric Structural Design
+, Proceedings of the International Association for Shell and Spatial Structures Symposium. Amsterdam: IASS
+
+
+
+
+
+
+
+Loos, Lennert, Kenny Verbeeck, and Lars De Laet (2016) 
+ Enhanced Decision Making in the Structural Design Process by Means of a Dashboard Approach
+, Proceedings of The International Association for Bridge and Structural Engineering Congress. ABSE
+
+
+
+
+
+
+
+Magnier, Laurent, and Fariborz Haghighat (2010) 
+ Multiobjective Optimization of Building Design Using TRNSYS Simulations, Genetic Algorithm, and Artificial Neural Network
+, Building and Environment 45 (3): 73946
+
+
+
+
+
+
+
+Mazumdar, Suvodeep, Daniela Petrelli, and Fabio Ciravegna (2014) 
+ Exploring User and System Requirements of Linked Data Visualization through a Visual Dashboard Approach
+, Semantic Web 5 (3): 20320
+
+
+
+
+
+
+
+Monedero, Javier (2000) 
+ Parametric Design: A Review and Some Experiences
+, Automation in Construction 9 (4): 36977",,"Aish, Robert, and Robert Woodbury (2005) 
+ Multi-Level Interaction in Parametric Design
+, International Symposium on Smart Graphics, 15162",,,,"Balling, Richard (1999) 
+ Design by Shopping: A New Paradigm?
+, Proceedings of the Third World Congress of Structural and Multidisciplinary Optimization, 295297. Buffalo, NY: WCSMO",,,,"Barthelemy, J. F M, and R. T. Haftka (1993) 
+ Approximation Concepts for Optimum Structural Design: A Review
+, Structural Optimization 5 (3): 12944",,,,"Brown, Nathan, and Caitlin T. Mueller (2016) 
+ The Effect of Performance Feedback and Optimization on the Conceptual Design Process
+, Proceedings of the International Association for Shell and Spatial Structures Symposium. Tokyo: IASS",,,,"Brown, Nathan, J I F De Oliveira, J Ochsendorf, and Caitlin Mueller (2016) 
+ Early-Stage Integration of Architectural and Structural Performance in a Parametric Multi-Objective Design Tool
+, International Conference on Structures and Architecture. Guimar?es, Portugal",,,,"Danhaive, Renaud Alexis, and Caitlin T. Mueller (2015) 
+ Combining Parametric Modeling and Interactive Optimization for High-Performance and Creative Structural Design
+, Proceedings of the International Association for Shell and Spatial Structures Symposium. Amsterdam: IASS",,,,"Davis, Daniel, Jane Burry, and Mark Burry (2011) 
+ Untangling Parametric Schemata: Enhancing Collaboration through Modular Programming
+, Proceedings of the 14th International Conference on Computer Aided Architectural Design, 5568. Liege: CAAD",,,,"De Weck, Olivier L., and Marshall B. Jones (2006) 
+ Isoperformance: Analysis and Design of Complex Systems with Desired Outcomes
+, Systems Engineering 9 (1): 4561",,,,"Derix, Christian, and Prarthana Jagannath (2014) 
+ Near Futures: Associative Archetypes
+, Architectural Design 84 (5): 13035",,,,"Doraiswamy, Harish, Nivan Ferreira, Marcos Lage, Huy Vo, Luc Wilson, Heidi Werner, Muchan Park, and Cláudio Silva (2015) 
+ Topology-Based Catalogue Exploration Framework for Identifying View-Enhanced Tower Designs
+, ACM Transactions on Graphics 34 (6): 13",,,,"Eastman, Chuck (2009) 
+ Automated Assessment of Early Concept Designs
+, Architectural Design 79 (2): 5257",,,,"Harding, John, and Christian Derix (2011) 
+ Associative Spatial Networks in Architectural Design: Artificial Cognition of Space Using Neural Networks with Spectral Graph Theory
+, Design Computing and Cognition 10, edited by John S. Gero, 30523",,,,"Harding, John, and Paul Shepherd (2016) 
+ Meta-Parametric Design
+, Design Studies",,,,"Harding, John (2016) 
+ Evolving Parametric Models Using Genetic Programming with Artificial Selection
+, Complexity & Simplicity: Proceedings of the 34th eCAADe Conference vol. 1, edited by Aulikki Herneoja, Toni Österlund, and Piia Markkanen, 42332. Oulu, Finland: eCAADe",,,,"Harding, John (2016) 
+ Dimensionality Reduction for Parametric Design Exploration
+, Advances in Architectural Geometry 2016, edited by Sigrid Adriaenssens, Fabio Gramazio, Mathias Kohler, Achim Menges, and Mark Pauly, 27487. Zurich, Switzerland: vdf",,,,"Joyce, Sam Conrad (2015) 
+ Web Based Data Visualisation Applied to Creative Decision Making in Parametric Structural Design
+, Proceedings of the International Association for Shell and Spatial Structures Symposium. Amsterdam: IASS",,,,"Loos, Lennert, Kenny Verbeeck, and Lars De Laet (2016) 
+ Enhanced Decision Making in the Structural Design Process by Means of a Dashboard Approach
+, Proceedings of The International Association for Bridge and Structural Engineering Congress. ABSE",,,,"Magnier, Laurent, and Fariborz Haghighat (2010) 
+ Multiobjective Optimization of Building Design Using TRNSYS Simulations, Genetic Algorithm, and Artificial Neural Network
+, Building and Environment 45 (3): 73946",,,,"Mazumdar, Suvodeep, Daniela Petrelli, and Fabio Ciravegna (2014) 
+ Exploring User and System Requirements of Linked Data Visualization through a Visual Dashboard Approach
+, Semantic Web 5 (3): 20320",,,,"Monedero, Javier (2000) 
+ Parametric Design: A Review and Some Experiences
+, Automation in Construction 9 (4): 36977",,
+11,2017/10/17 09:12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

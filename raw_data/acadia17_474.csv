@@ -1,0 +1,104 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+0,acadia17_474,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Peng, Wenzhe; Zhang, Fan; Nagakura, Takehiko",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Machines Perception of Space: Employing 3D Isovist Methods and a Convolutional Neural Network in Architectural Space Classification,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2017: DISCIPLINES & DISRUPTION [Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA) ISBN 978-0-692-96506-1] Cambridge, MA 2-4 November, 2017), pp. 474- 481",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Simple and common architectural elements can be combined to create complex spaces. Different spatial compositions of elements define different spatial boundaries, and each produces a unique local spatial experience to observers inside the space. Therefore an architectural style brings about a distinct spatial experience.
+While multiple representation methods are practiced in the field of architecture, there lacks a compelling way to capture and identify spatial experiences. Describing an observers spatial experiences quantitatively and efficiently is a challenge. In this paper, we propose a method that employs 3D isovist methods and a convolutional neural network (CNN) to achieve recognition of local spatial compositions. The case studies conducted validate that this methodology works well in capturing and identifying local spatial conditions, illustrates the pattern and frequency of their appearance in designs, and indicates peculiar spatial experiences embedded in an architectural style. The case study used small designs by Mies van der Rohe and Aldo van Eyck.
+The contribution of this paper is threefold. First, it introduces a sampling method based on 3D Isovist that generates a 2D image that can be used to represent a 3D space from a specific observation point. Second, it employs a CNN model to extract features from the sampled images, then classifies their corresponding space. Third, it demonstrates a few case studies where this space classification method is applied to different architectural styles.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,design methods; information processing; AI; machine learning; computer vision; representation,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,pwz@mit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,978,713 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Abadi, Martín, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen, Craig Citro, Greg S. Corrado et al. (2016) 
+ TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems
+, arXiv preprint arXiv:1603.04467
+
+
+
+
+
+
+
+Benedikt, Michael L. (1979) 
+ To Take Hold of Space: Isovists and Isovist Fields
+, Environment and Planning B: Planning and Design 6 (1): 4765
+
+
+
+
+
+
+
+Ching, Francis D. K. (2014) 
+ Architecture: Form, Space, and Order, 4th ed.
+, Hoboken, NJ: John Wiley & Sons
+
+
+
+
+
+
+
+Kheradpisheh, Saeed Reza, Masoud Ghodrati, Mohammad Ganjtabesh, and Timothée Masquelier (2016) 
+ Deep Networks Can Resemble Human Feed-Forward Vision in Invariant Object Recognition
+, Scientific Reports 6: 32672
+
+
+
+
+
+
+
+Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton (2012) 
+ Imagenet Classification with Deep Convolutional Neural Networks
+, Proceedings of the 25th International Conference on Neural Information Processing Systems, edited by F. Pereira, C. J. C. Burges, L. Bottou, and K. Q. Weinberger, 10971105. Lake Tahoe, NV: NIPS
+
+
+
+
+
+
+
+Zeiler, Matthew D., and Rob Fergus (2014) 
+ Visualizing and Understanding Convolutional Networks
+, Proceedings of the 13th European Conference on Computer Vision, edited by David Fleet, Tomas Pajdla, Bernt Schiele, and Tinne Tuytelaars, 81833. Zurich, Swizterland: ECCV
+
+
+
+
+
+
+
+Zhang, Fan, Fabio Duarte, Ruixian Ma, Dimitrios Milioris, Hui Lin, and Carlo Ratti (2016) 
+ Indoor Space Recognition using Deep Convolutional Neural Network: A Case Study at MIT Campus
+, arXiv preprint arXiv:1610.02414",,"Abadi, Martín, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen, Craig Citro, Greg S. Corrado et al. (2016) 
+ TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems
+, arXiv preprint arXiv:1603.04467",,,,"Benedikt, Michael L. (1979) 
+ To Take Hold of Space: Isovists and Isovist Fields
+, Environment and Planning B: Planning and Design 6 (1): 4765",,,,"Ching, Francis D. K. (2014) 
+ Architecture: Form, Space, and Order, 4th ed.
+, Hoboken, NJ: John Wiley & Sons",,,,"Kheradpisheh, Saeed Reza, Masoud Ghodrati, Mohammad Ganjtabesh, and Timothée Masquelier (2016) 
+ Deep Networks Can Resemble Human Feed-Forward Vision in Invariant Object Recognition
+, Scientific Reports 6: 32672",,,,"Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton (2012) 
+ Imagenet Classification with Deep Convolutional Neural Networks
+, Proceedings of the 25th International Conference on Neural Information Processing Systems, edited by F. Pereira, C. J. C. Burges, L. Bottou, and K. Q. Weinberger, 10971105. Lake Tahoe, NV: NIPS",,,,"Zeiler, Matthew D., and Rob Fergus (2014) 
+ Visualizing and Understanding Convolutional Networks
+, Proceedings of the 13th European Conference on Computer Vision, edited by David Fleet, Tomas Pajdla, Bernt Schiele, and Tinne Tuytelaars, 81833. Zurich, Swizterland: ECCV",,,,"Zhang, Fan, Fabio Duarte, Ruixian Ma, Dimitrios Milioris, Hui Lin, and Carlo Ratti (2016) 
+ Indoor Space Recognition using Deep Convolutional Neural Network: A Case Study at MIT Campus
+, arXiv preprint arXiv:1610.02414",,
+11,2017/10/17 09:13,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,acadia19_298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Leach, Neil",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Do Robots Dream of Digital Sleep?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 19:UBIQUITY AND AUTONOMY [Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-59179-7] (The University of Texas at Austin School of Architecture, Austin, Texas 21-26 October, 2019) pp. 298-309",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"AI is playing an increasingly important role in everyday life. But can AI actually design? This paper takes its point of departure from Philip K Dicks novel, Do Androids Dream of Electric Sheep? and refers to Googles DeepDream software, and other AI techniques such as GANs, Progressive GANs, CANs and StyleGAN, that can generate increasingly convincing images, a process often described as dreaming. It notes that although generative AI does not possess consciousness, and therefore cannot literally dream, it can still be a powerful design tool that becomes a prosthetic extension to the human imagination. Although the use of GANs and other deep learning AI tools is still in its infancy, we are at the dawn of an exciting  but also potentially terrifying  new era for architectural design. Most importantly, the paper concludes, the development of AI is also helping us to understand human intelligence and 'creativity'.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,normal paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,leachneil@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (7,641,489 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Boden, Margaret. (1999) 
+ Creativity and Artificial Intelligence
+, Artificial Intelligence, 103 (I 998) 347-356
+
+
+
+
+
+
+
+Boden, Margaret. (2009) 
+ Computer Models of Creativity
+, Association for the Advancement of Artificial Intelligence. 103 (I998) 347-356
+
+
+
+
+
+
+
+Del Campo, Matias; Manniger, Sandra; Carlson, Alexa. (2019) 
+ Imaginary Plans: The Potential of 2D to 2D Style Transfer in Planning Processes.
+, Acadia
+
+
+
+
+
+
+
+Freud, Sigmund. (2010) 
+ The Interpretation of Dreams
+, Trans. Strachey, James. New York: Basic Books
+
+
+
+
+
+
+
+Goodfellow, Ian; Pouget-Abadie, Jean; Mirza, Mehdi; Xu, Bing; Warde-Farley, David; Ozair, Sherjil; Courville, Aaron; Bengio, Yoshua (2014) 
+ Generative Adversarial Networks
+, Proceedings of the International Conference on Neural Information Processing Systems (NIPS 2014). pp. 26722680
+
+
+
+
+
+
+
+Harari, Yuval Noah. (2017) 
+ Homo Deus: A Brief History of Tomorrow
+, NY: HarperCollins
+
+
+
+
+
+
+
+Hassabis, Demis; Hui, Fan. (2019) 
+ AlphaGo: Moving Beyond the Rules
+, Wood, Chloe; Livingston, Suzanne; Uchida, Maholo (eds.), AI: More Than Human. London: Barbican International Enterprises. Pp. 174-179
+
+
+
+
+
+
+
+Horev, Rani. (2018) 
+ Explained: A Style Based Generator Architecture for GANs  Generating and Tuning Realistic Artificial Faces.
+, Towards Data Science, 30 December 2018. https:// towardsdatascience.com/explained-a-style-based-generator-architecture- for-gans-generating-and-tuning-realistic-6cb2be0f431
+
+
+
+
+
+
+
+Ishiguro, Hiroshi (in conversation with Uchida, Maholo). (2019) 
+ A Reflection of Ourselves: Robots and the Journey Towards Understanding Human Intelligence
+, Wood, Chloe; Livingston, Suzanne; Uchida, Maholo (eds.), AI: More Than Human. London: Barbican International Enterprises. Pp. 174-179
+
+
+
+
+
+
+
+Ito, Joichi. (2017) 
+ Resisting Reduction: A Manifesto
+, Journal of Design and Science: MIT Media Lab, November 01, 2017. Accessed 1 May, 2018. https://jods.mitpress.mit.edu/pub/ resisting-reduction
+
+
+
+
+
+
+
+Jhingran, Anant. (2016) 
+ Obsessing about AI is the Wrong Way to Think about the Future
+, Wired, January 22, 2016. https://www. wired.com/2016/01/ forget-ai-the-human-friendly-future-of- computing-is-already-here
+
+
+
+
+
+
+
+Karras, Tero; Aila, Timo; Laine, Samuli; Lehtinen, Jaakko. (2017) 
+ Progressive Growing of GANs for Improved Quality, Stability, and Variation
+, arxiv.org/abs/1710.10196
+
+
+
+
+
+
+
+King, Rochelle; Churchill, Elizabeth; Tan, Caitlin. (2017) 
+ Designing with Data
+, Sebastopol, CA: OReilly
+
+
+
+
+
+
+
+Kurzweil, Ray. (2012) 
+ How to Create a Mind: The Secret of Human Thought Revealed,
+, NY: Penguin
+
+
+
+
+
+
+
+Leach, Neil. (1999) 
+ Millennium Culture
+, London: Ellipsis
+
+
+
+
+
+
+
+Leach, Neil. (2018) 
+ We Have Never Been Digital
+, Phillip Anzalone, Marcella del Signore, Andrew Wit (eds.), ACADIA 2018: Recalibration: On Imprecision and Infidelity, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design Architecture, Universidad Iberoamericana, Mexico
+
+
+
+
+
+
+
+Leach, Neil. (2019) 
+ The Second Copernican Revolution
+, New Geographies 11: Extraterrestrial. Edited by Jeffrey S Nesbit and Guy Trangos. Cambridge, MA and Barcelona: Harvard Graduate School of Design and Actar Publishers
+
+
+
+
+
+
+
+Nayak, Mishak. (2018) 
+ Deep Convolutional Generative Adversarial Networks (DCGANs)
+, Data Driven Investor. https://medium.com/ datadriveninvestor/deep-convolutional-generative-adversarial- networks-dcgans-3176238b5a3d
+
+
+
+
+
+
+
+Roxborough, Scott. (2018) 
+ Rutger Hauer on 'Blade Runner 2049' and Why Films Today ""Lack Balls"" Hollywood Reporter
+, hollywoodreporter.com/heat-vision/rutger-hauer-blade-runner-2049-why-films-today-lackballs-1085827
+
+
+
+
+
+
+
+Sacks, Oliver. (2012) 
+ Hallucinations
+, New York: Knopf/Picador",,"Boden, Margaret. (1999) 
+ Creativity and Artificial Intelligence
+, Artificial Intelligence, 103 (I 998) 347-356",,,,"Boden, Margaret. (2009) 
+ Computer Models of Creativity
+, Association for the Advancement of Artificial Intelligence. 103 (I998) 347-356",,,,"Del Campo, Matias; Manniger, Sandra; Carlson, Alexa. (2019) 
+ Imaginary Plans: The Potential of 2D to 2D Style Transfer in Planning Processes.
+, Acadia",,,,"Freud, Sigmund. (2010) 
+ The Interpretation of Dreams
+, Trans. Strachey, James. New York: Basic Books",,,,"Goodfellow, Ian; Pouget-Abadie, Jean; Mirza, Mehdi; Xu, Bing; Warde-Farley, David; Ozair, Sherjil; Courville, Aaron; Bengio, Yoshua (2014) 
+ Generative Adversarial Networks
+, Proceedings of the International Conference on Neural Information Processing Systems (NIPS 2014). pp. 26722680",,,,"Harari, Yuval Noah. (2017) 
+ Homo Deus: A Brief History of Tomorrow
+, NY: HarperCollins",,,,"Hassabis, Demis; Hui, Fan. (2019) 
+ AlphaGo: Moving Beyond the Rules
+, Wood, Chloe; Livingston, Suzanne; Uchida, Maholo (eds.), AI: More Than Human. London: Barbican International Enterprises. Pp. 174-179",,,,"Horev, Rani. (2018) 
+ Explained: A Style Based Generator Architecture for GANs  Generating and Tuning Realistic Artificial Faces.
+, Towards Data Science, 30 December 2018. https:// towardsdatascience.com/explained-a-style-based-generator-architecture- for-gans-generating-and-tuning-realistic-6cb2be0f431",,,,"Ishiguro, Hiroshi (in conversation with Uchida, Maholo). (2019) 
+ A Reflection of Ourselves: Robots and the Journey Towards Understanding Human Intelligence
+, Wood, Chloe; Livingston, Suzanne; Uchida, Maholo (eds.), AI: More Than Human. London: Barbican International Enterprises. Pp. 174-179",,,,"Ito, Joichi. (2017) 
+ Resisting Reduction: A Manifesto
+, Journal of Design and Science: MIT Media Lab, November 01, 2017. Accessed 1 May, 2018. https://jods.mitpress.mit.edu/pub/ resisting-reduction",,,,"Jhingran, Anant. (2016) 
+ Obsessing about AI is the Wrong Way to Think about the Future
+, Wired, January 22, 2016. https://www. wired.com/2016/01/ forget-ai-the-human-friendly-future-of- computing-is-already-here",,,,"Karras, Tero; Aila, Timo; Laine, Samuli; Lehtinen, Jaakko. (2017) 
+ Progressive Growing of GANs for Improved Quality, Stability, and Variation
+, arxiv.org/abs/1710.10196",,,,"King, Rochelle; Churchill, Elizabeth; Tan, Caitlin. (2017) 
+ Designing with Data
+, Sebastopol, CA: OReilly",,,,"Kurzweil, Ray. (2012) 
+ How to Create a Mind: The Secret of Human Thought Revealed,
+, NY: Penguin",,,,"Leach, Neil. (1999) 
+ Millennium Culture
+, London: Ellipsis",,,,"Leach, Neil. (2018) 
+ We Have Never Been Digital
+, Phillip Anzalone, Marcella del Signore, Andrew Wit (eds.), ACADIA 2018: Recalibration: On Imprecision and Infidelity, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design Architecture, Universidad Iberoamericana, Mexico",,,,"Leach, Neil. (2019) 
+ The Second Copernican Revolution
+, New Geographies 11: Extraterrestrial. Edited by Jeffrey S Nesbit and Guy Trangos. Cambridge, MA and Barcelona: Harvard Graduate School of Design and Actar Publishers",,,,"Nayak, Mishak. (2018) 
+ Deep Convolutional Generative Adversarial Networks (DCGANs)
+, Data Driven Investor. https://medium.com/ datadriveninvestor/deep-convolutional-generative-adversarial- networks-dcgans-3176238b5a3d",,,,"Roxborough, Scott. (2018) 
+ Rutger Hauer on 'Blade Runner 2049' and Why Films Today ""Lack Balls"" Hollywood Reporter
+, hollywoodreporter.com/heat-vision/rutger-hauer-blade-runner-2049-why-films-today-lackballs-1085827",,,,"Sacks, Oliver. (2012) 
+ Hallucinations
+, New York: Knopf/Picador",,
+11,2019/12/18 08:03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

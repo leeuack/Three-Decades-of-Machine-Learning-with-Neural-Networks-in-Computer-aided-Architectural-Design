@@ -1,0 +1,210 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64
+0,acadia20_688,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"del Campo, Matias; Carlson, Alexandra; Manninger, Sandra",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,3D Graph Convolutional Neural Networks in Architecture Design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2020: Distributed Proximities / Volume I: Technical Papers [Proceedings of the 40th Annual Conference of the Association of Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-95213-0]. Online and Global. 24-30 October 2020. edited by B. Slocum, V. Ago, S. Doyle, A. Marcus, M. Yablonina, and M. del Campo. 688-696.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The nature of the architectural design process can be described along the lines of the following representational devices: the plan and the model. Plans can be considered one of the oldest methods to represent spatial and aesthetic information in an abstract, 2D space. However, to be used in the design process of 3D architectural solutions, these representations are inherently limited by the loss of rich information that occurs when compressing the three-dimensional world into a two-dimensional representation. During the first Digital Turn (Carpo 2013), the sheer amount and availability of models increased dramatically, as it became viable to create vast amounts of model variations to explore project alternatives among a much larger range of different physical and creative dimensions. 3D models show how the design object appears in real life, and can include a wider array of object information that is more easily understandable by nonexperts, as exemplified in techniques such as building information modeling and parametric modeling. Therefore, the ground condition of this paper considers that the inherent nature of architectural design and sensibility lies in the negotiation of 3D space coupled with the organization of voids and spatial components resulting in spatial sequences based on programmatic relationships, resulting in an assemblage (DeLanda 2016). These conditions constitute objects representing a material culture (the built environment) embedded in a symbolic and aesthetic culture (DeLanda 2016) that is created by the designer and captures their sensibilities.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,mdelc@umich.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (5,191,887 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Akleman, Ergun, Vinod Srinivasan, Jianer Chen, David Morris, and Stuart Tett (2008) 
+ TopMod3D: An Interactive Topological Mesh Modeler
+, Computer Graphics International 2008, pp. 10-18. 
+
+
+
+
+
+
+
+Baumgarten, A. G (1750) 
+ Aesthetica
+, Frankfurt: J.C. Kleyb
+
+
+
+
+
+
+
+Berleant A (2015) 
+ Aesthetic Sensibility
+, Ambiances 1. https://doi.org/10.4000/ambiances.526
+
+
+
+
+
+
+
+Carpo, M (2013) 
+ The Digital Turn in Architecture 19922012
+, AD Reader, 814. West Sussex: John Wiley & Sons
+
+
+
+
+
+
+
+Chen, Lei, and Jiying Zhao (2019) 
+ Quality Evaluation of DIBR 3D Images Based on Blind Watermarking
+, Multimedia Systems 25 (3): 195211
+
+
+
+
+
+
+
+del Campo, Matias, Alexandra Carlson, and Sandra Manninger (2021) 
+ Towards Hallucinating MachinesDesigning with Computational Vision
+, International Journal of Architectural Computing 19 (1): 88103
+
+
+
+
+
+
+
+DeLanda, M (2016) 
+ Assemblage Theory
+, Edinburgh: Edinburgh University Press
+
+
+
+
+
+
+
+Gao, L., J. Yang, Y. Qiao, Y. Lai, P. L. Rosin, W. Xu, and S. Xia (2018) 
+ Automatic Unpaired Shape Deformation Transfer
+, ACM Transactions on Graphics 37 (6): 115
+
+
+
+
+
+
+
+Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge (2015) 
+ A Neural Algorithm of Artistic Style
+, arXiv preprint. arXiv:1508.06576
+
+
+
+
+
+
+
+Johnson, J. Nikhila Ravi, Jeremy Reizenstein, David Novotny, Shubham Tulsiani, Christoph Lassner, and Steve Branson (2020) 
+ Accelerating 3D Deep Learning with PyTorch3D
+, SIGGRAPH Asia 2020 Courses (SA '20) Article 10, 1. Association for Computing Machinery, New York, NY. DOI:https://doi.org/10.1145/3415263.3419160
+
+
+
+
+
+
+
+Kato, Hiroharu, Yoshitaka Ushiku, and Tatsuya Harada (2018) 
+ Neural 3D Mesh Renderer
+, Proceedings of the 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, Salt Lake City, UT, 1823 June 2018, 39073916. IEEE
+
+
+
+
+
+
+
+Kingma, Diederik P., and Jimmy Ba (2014) 
+ Adam: A method for stochastic optimization
+, arXiv preprint arXiv:1412.6980
+
+
+
+
+
+
+
+Liu, Shichen, W. Chen, T. Li, and H. Li (2019) 
+ Soft Rasterizer: A Differentiable Renderer for Image-Based 3D Reasoning
+, Proceedings of the 2019 IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, South Korea, 27 October2 November 2019, 77077716. IEEE
+
+
+
+
+
+
+
+Olah, C., A. Mordvintsev, and L. Schubert (2017) 
+ Feature Visualization
+, Distill 2 (11): e7
+
+
+
+
+
+
+
+Olah, Chris, Arvind Satyanarayan, Ian Johnson, Shan Carter, Ludwig Schubert, Katherine Ye, and Alexander Mordvintsev (2018) 
+ The Building Blocks of Interpretability
+, Distill 3 (3): e10
+
+
+
+
+
+
+
+Wu, Z., S. Pan, F. Chen, G. Long, C. Zhang, and P. S. Yu (2021) 
+ A Comprehensive Survey on Graph Neural Networks
+, IEEE Transactions on Neural Networks and Learning Systems 32, no.1 (January): 424",,"Akleman, Ergun, Vinod Srinivasan, Jianer Chen, David Morris, and Stuart Tett (2008) 
+ TopMod3D: An Interactive Topological Mesh Modeler
+, Computer Graphics International 2008, pp. 10-18.",,,,"Baumgarten, A. G (1750) 
+ Aesthetica
+, Frankfurt: J.C. Kleyb",,,,"Berleant A (2015) 
+ Aesthetic Sensibility
+, Ambiances 1. https://doi.org/10.4000/ambiances.526",,,,"Carpo, M (2013) 
+ The Digital Turn in Architecture 19922012
+, AD Reader, 814. West Sussex: John Wiley & Sons",,,,"Chen, Lei, and Jiying Zhao (2019) 
+ Quality Evaluation of DIBR 3D Images Based on Blind Watermarking
+, Multimedia Systems 25 (3): 195211",,,,"del Campo, Matias, Alexandra Carlson, and Sandra Manninger (2021) 
+ Towards Hallucinating MachinesDesigning with Computational Vision
+, International Journal of Architectural Computing 19 (1): 88103",,,,"DeLanda, M (2016) 
+ Assemblage Theory
+, Edinburgh: Edinburgh University Press",,,,"Gao, L., J. Yang, Y. Qiao, Y. Lai, P. L. Rosin, W. Xu, and S. Xia (2018) 
+ Automatic Unpaired Shape Deformation Transfer
+, ACM Transactions on Graphics 37 (6): 115",,,,"Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge (2015) 
+ A Neural Algorithm of Artistic Style
+, arXiv preprint. arXiv:1508.06576",,,,"Johnson, J. Nikhila Ravi, Jeremy Reizenstein, David Novotny, Shubham Tulsiani, Christoph Lassner, and Steve Branson (2020) 
+ Accelerating 3D Deep Learning with PyTorch3D
+, SIGGRAPH Asia 2020 Courses (SA '20) Article 10, 1. Association for Computing Machinery, New York, NY. DOI:https://doi.org/10.1145/3415263.3419160",,,,"Kato, Hiroharu, Yoshitaka Ushiku, and Tatsuya Harada (2018) 
+ Neural 3D Mesh Renderer
+, Proceedings of the 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, Salt Lake City, UT, 1823 June 2018, 39073916. IEEE",,,,"Kingma, Diederik P., and Jimmy Ba (2014) 
+ Adam: A method for stochastic optimization
+, arXiv preprint arXiv:1412.6980",,,,"Liu, Shichen, W. Chen, T. Li, and H. Li (2019) 
+ Soft Rasterizer: A Differentiable Renderer for Image-Based 3D Reasoning
+, Proceedings of the 2019 IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, South Korea, 27 October2 November 2019, 77077716. IEEE",,,,"Olah, C., A. Mordvintsev, and L. Schubert (2017) 
+ Feature Visualization
+, Distill 2 (11): e7",,,,"Olah, Chris, Arvind Satyanarayan, Ian Johnson, Shan Carter, Ludwig Schubert, Katherine Ye, and Alexander Mordvintsev (2018) 
+ The Building Blocks of Interpretability
+, Distill 3 (3): e10",,,,"Wu, Z., S. Pan, F. Chen, G. Long, C. Zhang, and P. S. Yu (2021) 
+ A Comprehensive Survey on Graph Neural Networks
+, IEEE Transactions on Neural Networks and Learning Systems 32, no.1 (January): 424",,
+11,2021/10/28 06:57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

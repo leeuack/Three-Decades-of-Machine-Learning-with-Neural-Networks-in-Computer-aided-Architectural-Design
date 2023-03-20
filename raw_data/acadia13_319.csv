@@ -1,0 +1,163 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48
+0,acadia13_319,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Mehanna, Ryan",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Resilient Structures Through Machine Learning And Evolution,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 13: Adaptive Architecture [Proceedings of the 33rd Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA) ISBN 978-1-926724-22-5] Cambridge 24-26 October, 2013), pp. 319-326",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In the context of the growing usefulness of computation within architecture, structures face the potential for being conceived of as intelligent entities capable of resilient, adaptive behavior.Building on this idea, this work explores the use of machine learning for structures that may learn to autonomously stand up. The hypothesis is that a neural network with genetically optimized weights would be capable of teaching lightweight, flexible, and unanchored structures to self-rectify after falling, through their interactions with their environment. The experiment devises a physical and a simulated prototype. The machine-learning algorithm is implemented on the virtual model in a three-dimensional physics environment, and a solution emerges after a number of tests. The learned behavior is transferred to the physical prototype to test its performance in reality. This method succeeds in allowing the physical prototype to stand up. The findings of this process may have useful implications for developing embodied dynamic structures that are enabled with adaptive behavior.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"complex systems, neural networks, genetic algorithms, actuated structures, particle-spring systems",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Normal Paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,ryan.mhanna333@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (570,574 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Beer, Randall and John C. Gallagher (1992) 
+ Evolving Dynamical Neural Networks for Adaptive Behavior
+, Adaptive Behavior 1:91-122
+
+
+
+
+
+
+
+Brooks, Rodney (1990) 
+ Elephants Dont Play Chess
+, Robotics and Autonomous Systems 6:3-15
+
+
+
+
+
+
+
+Brooks, Rodney (1991) 
+ Intelligence Without Representation
+, Artificial Intelligence 47:139-159
+
+
+
+
+
+
+
+Crowther, Angela, Ed McCann, and Gennaro Senatore (2011) 
+ Expedition Workshed: Engineering Education for the 21st century
+, Paper presented at the 35th Annual Symposium of IABSE / 52nd Annual Symposium of IASS / 6th International Conference on Space Structures, London
+
+
+
+
+
+
+
+Harvey, Inman, Phil Husbands, Dave Cliff, Adrian Thompson, Nick Jakobi (1997) 
+ Evolutionary Robotics: the Sussex Approach
+, Robotics and Autonomous Systems 20, 2-4:205-224
+
+
+
+
+
+
+
+Lipson, Hod, Victor Zykov, Josh Bongard (2006) 
+ Resilient Machines Through Continuous Self Modelling
+, Science 314:1118-1121
+
+
+
+
+
+
+
+Mehanna, Ryan and Elite Sher (2012) 
+ An Exploration into Computational Optimization for Motive Architecture
+, Paper presented at the ACADIA Synthetic Digital Ecologies conference, San Francisco, California. October 18-21
+
+
+
+
+
+
+
+Montana, David J. (1995) 
+ Neural Network Weight Selection Using Genetic Algorithms, in Intelligent Hybrid Systems
+, edited by Suran Goonatilake and Sukhdev Khebbal, 85-105. Sussex: John Wiley & Sons 
+
+
+
+
+
+
+
+Nolfi, Stefano and Dario Floreano (2002) 
+ Synthesis of Autonomous Robots Through Evolution
+, Trends in Cognitive Sciences, 6, 1:3137 
+
+
+
+
+
+
+
+Nolfi, Stefano and Domenico Parisi (2003) 
+ Evolution of Artificial Neural Networks
+, Handbook of Brain Theory and Neural Networks, 2nd Edition, edited by Michael A. Arbib, 418-421. Cambridge, Massachusetts: MIT Press
+
+
+
+
+
+
+
+Sterk, Tristan dEstrée (2006) 
+ Shape Control in Responsive Architectural Structures: Current Reasons & Challenges
+, Paper presented at the 4th World Conference on Structural Control and Monitoring, San Diego, California, July 11-13
+
+
+
+
+
+
+
+Sterk, Tristan dEstrée (2012) 
+ Beneficial Change: The Case for Robotics in Architecture, in Persistent Modelling: Extending the Role of Architectural Representation
+, edited by Phil Ayres, 155-170. London: Routledge",,"Beer, Randall and John C. Gallagher (1992) 
+ Evolving Dynamical Neural Networks for Adaptive Behavior
+, Adaptive Behavior 1:91-122",,,,"Brooks, Rodney (1990) 
+ Elephants Dont Play Chess
+, Robotics and Autonomous Systems 6:3-15",,,,"Brooks, Rodney (1991) 
+ Intelligence Without Representation
+, Artificial Intelligence 47:139-159",,,,"Crowther, Angela, Ed McCann, and Gennaro Senatore (2011) 
+ Expedition Workshed: Engineering Education for the 21st century
+, Paper presented at the 35th Annual Symposium of IABSE / 52nd Annual Symposium of IASS / 6th International Conference on Space Structures, London",,,,"Harvey, Inman, Phil Husbands, Dave Cliff, Adrian Thompson, Nick Jakobi (1997) 
+ Evolutionary Robotics: the Sussex Approach
+, Robotics and Autonomous Systems 20, 2-4:205-224",,,,"Lipson, Hod, Victor Zykov, Josh Bongard (2006) 
+ Resilient Machines Through Continuous Self Modelling
+, Science 314:1118-1121",,,,"Mehanna, Ryan and Elite Sher (2012) 
+ An Exploration into Computational Optimization for Motive Architecture
+, Paper presented at the ACADIA Synthetic Digital Ecologies conference, San Francisco, California. October 18-21",,,,"Montana, David J. (1995) 
+ Neural Network Weight Selection Using Genetic Algorithms, in Intelligent Hybrid Systems
+, edited by Suran Goonatilake and Sukhdev Khebbal, 85-105. Sussex: John Wiley & Sons",,,,"Nolfi, Stefano and Dario Floreano (2002) 
+ Synthesis of Autonomous Robots Through Evolution
+, Trends in Cognitive Sciences, 6, 1:3137",,,,"Nolfi, Stefano and Domenico Parisi (2003) 
+ Evolution of Artificial Neural Networks
+, Handbook of Brain Theory and Neural Networks, 2nd Edition, edited by Michael A. Arbib, 418-421. Cambridge, Massachusetts: MIT Press",,,,"Sterk, Tristan dEstrée (2006) 
+ Shape Control in Responsive Architectural Structures: Current Reasons & Challenges
+, Paper presented at the 4th World Conference on Structural Control and Monitoring, San Diego, California, July 11-13",,,,"Sterk, Tristan dEstrée (2012) 
+ Beneficial Change: The Case for Robotics in Architecture, in Persistent Modelling: Extending the Role of Architectural Representation
+, edited by Phil Ayres, 155-170. London: Routledge",,
+12,2014/01/11 08:13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

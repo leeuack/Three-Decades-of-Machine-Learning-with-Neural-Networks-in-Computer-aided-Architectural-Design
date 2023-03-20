@@ -1,0 +1,186 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56
+0,2006_090,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Yan, Wei and Yehuda Kalay",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,A Usability-based Building Model for Environmental Behavior Simulation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Communicating Space(s) [24th eCAADe Conference Proceedings / ISBN 0-9541183-5-9] Volos (Greece) 6-9 September 2006, pp. 90-97",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper describes a usability-based building model we developed for behavior simulation in design phase, and a systematic approach to implement it. Our model possesses not only geometric information of design elements but also non-geometric information of these elements, specifically, the relationships between the elements and the intended users. This relationship, which was implicitly understood by the designer, now becomes explicit to the simulated users. It utilizes CAD models and automates the conversion from CAD models to usability models and therefore requires minimal additional effort in preparing building data for behavior simulation, which has proven to be efficient and effective.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Usability; Building Model; Behavior; Simulation; Virtual User,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,wyan@archmail.tamu.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (395,534 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Batty, M. (2001) 
+ Editorial: Agent-based pedestrian modeling
+, Environment and Planning B: Planning and Design 28(3), pp. 321-326. Pion. Ltd.
+
+
+
+
+
+
+
+Eastman, C.M. (1999) 
+ Building Product Models: Computer Environments Supporting Design and Construction
+, CRC Press, Boca Raton, FL.
+
+
+
+
+
+
+
+Haklay, M., OSullivan, D., et al (2001) 
+ So go downtown: Simulating Pedestrian Movement in Town Centres
+, Environment and Planning B: Planning and Design 28(3): pp. 343-359. Pion. Ltd.
+
+
+
+
+
+
+
+Hearn, D. and Baker, M.P. (1997) 
+ Computer Graphics
+, Prentice Hall, Inc. New Jersey
+
+
+
+
+
+
+
+Helbing, D., Molnar, P., et al (2001) 
+ Self-organizing Pedestrian Movement
+, Environment and Planning B: Planning and Design 28(3), pp. 361-383. Pion. Ltd.
+
+
+
+
+
+
+
+Helbing, D., Schweitzer, F., et al. (1997) 
+ Active Walker Model for the Formation of Human and Animal Trail System
+, Physical Review E 56, pp. 2527-2539
+
+
+
+
+
+
+
+Kalay, Y.E. (2004) 
+ Architectures New Media: Principles, Theories, and Methods of Computer-Aided Design
+, MIT Press, Cambridge, MA.
+
+
+
+
+
+
+
+Kerridge, J., Hine, J., et al. (2001) 
+ Agent-based modeling of pedestrian Movements: The Questions That Need to Be Asked
+, Environment and Planning B: Planning and Design 28(3), pp. 327-341. Pion. Ltd.
+
+
+
+
+
+
+
+Ozel, F. (1993) 
+ Computer Simulation of Behavior in Spaces. Environmental Simulation - Research and Policy Issues
+, D. Stokols and R. W. Marans. New York, Plenum Press. pp. 191-212
+
+
+
+
+
+
+
+ONeill, M.J. (1992) 
+ A Neural Network Simulation as a Computer-Aided Design Tool for Evaluating Building Legibility. Evaluating and Predicting Design Performance
+, Y.E. Kalay, ed., John Wiley & Sons, New York. pp. 347-366
+
+
+
+
+
+
+
+Reynolds, C.W (1987) 
+ Flocks, Herds, and Schools: A Distributed Behavioral Model
+, Computer Graphics, 21(4) (SIGGRAPH 87 Conference Proceedings) pp. 25-34
+
+
+
+
+
+
+
+Tu, X. (1996) 
+ Artificial Animals for Computer Animation: Biomechanics, Locomotion, Perception, and Behavior
+, Dissertation. University of Toronto
+
+
+
+
+
+
+
+Watt, A. et al (2003) 
+ SVG Unleashed
+, Sams Publishing
+
+
+
+
+
+
+
+Yan, W. and Kalay, Y.E. (2006) 
+ Geometric, Cognitive, and Behavioral Modeling of Environmental Users
+, Proceeding of the Second International Conference on Design Computing and Cognition (DCC06), Netherlands",,"Batty, M. (2001) 
+ Editorial: Agent-based pedestrian modeling
+, Environment and Planning B: Planning and Design 28(3), pp. 321-326. Pion. Ltd.",,,,"Eastman, C.M. (1999) 
+ Building Product Models: Computer Environments Supporting Design and Construction
+, CRC Press, Boca Raton, FL.",,,,"Haklay, M., OSullivan, D., et al (2001) 
+ So go downtown: Simulating Pedestrian Movement in Town Centres
+, Environment and Planning B: Planning and Design 28(3): pp. 343-359. Pion. Ltd.",,,,"Hearn, D. and Baker, M.P. (1997) 
+ Computer Graphics
+, Prentice Hall, Inc. New Jersey",,,,"Helbing, D., Molnar, P., et al (2001) 
+ Self-organizing Pedestrian Movement
+, Environment and Planning B: Planning and Design 28(3), pp. 361-383. Pion. Ltd.",,,,"Helbing, D., Schweitzer, F., et al. (1997) 
+ Active Walker Model for the Formation of Human and Animal Trail System
+, Physical Review E 56, pp. 2527-2539",,,,"Kalay, Y.E. (2004) 
+ Architectures New Media: Principles, Theories, and Methods of Computer-Aided Design
+, MIT Press, Cambridge, MA.",,,,"Kerridge, J., Hine, J., et al. (2001) 
+ Agent-based modeling of pedestrian Movements: The Questions That Need to Be Asked
+, Environment and Planning B: Planning and Design 28(3), pp. 327-341. Pion. Ltd.",,,,"Ozel, F. (1993) 
+ Computer Simulation of Behavior in Spaces. Environmental Simulation - Research and Policy Issues
+, D. Stokols and R. W. Marans. New York, Plenum Press. pp. 191-212",,,,"ONeill, M.J. (1992) 
+ A Neural Network Simulation as a Computer-Aided Design Tool for Evaluating Building Legibility. Evaluating and Predicting Design Performance
+, Y.E. Kalay, ed., John Wiley & Sons, New York. pp. 347-366",,,,"Reynolds, C.W (1987) 
+ Flocks, Herds, and Schools: A Distributed Behavioral Model
+, Computer Graphics, 21(4) (SIGGRAPH 87 Conference Proceedings) pp. 25-34",,,,"Tu, X. (1996) 
+ Artificial Animals for Computer Animation: Biomechanics, Locomotion, Perception, and Behavior
+, Dissertation. University of Toronto",,,,"Watt, A. et al (2003) 
+ SVG Unleashed
+, Sams Publishing",,,,"Yan, W. and Kalay, Y.E. (2006) 
+ Geometric, Cognitive, and Behavioral Modeling of Environmental Users
+, Proceeding of the Second International Conference on Design Computing and Cognition (DCC06), Netherlands",,
+11,2006/08/16 16:54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

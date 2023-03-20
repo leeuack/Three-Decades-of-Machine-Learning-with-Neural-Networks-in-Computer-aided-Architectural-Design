@@ -1,0 +1,174 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52
+0,acadia20_160,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Sun, Yunjuan; Jiang, Lei; Zheng, Hao",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,A Machine Learning Method of Predicting Behavior Vitality Using Open Source Data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2020: Distributed Proximities / Volume I: Technical Papers [Proceedings of the 40th Annual Conference of the Association of Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-95213-0]. Online and Global. 24-30 October 2020. edited by B. Slocum, V. Ago, S. Doyle, A. Marcus, M. Yablonina, and M. del Campo. 160-168.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The growing popularity of machine learning has provided new opportunities to predict certain behaviors precisely by utilizing big data. In this research, we use an image-based neural network to explore the relationship between the built environment and the activity of bicyclists in that environment. The generative model can produce heat maps that can be used to predict quantitatively the cycling and running activity in a given area, and then use urban design to enhance urban vitality in that area. In the machine learning model, the input image is a plan view of the built environment, and the output image is a heat map showing certain activities in the corresponding area. After it is trained, the model yields output (the predicted heat map) at an acceptable level of accuracy. The heat map shows the levels and conditions of the subject activity in different sections of the built environment. Thus, the predicted results can help identify where regional vitality can be improved. Using this method, designers can not only predict the behavioral heat distribution but also examine the different interactions between behaviors and aspects of the environment. The extent to which factors might influence behaviors is also studied by generating a heat map of the modified plan. In addition to the potential applications of this approach, its limitations and areas for improvement are also proposed.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,SUNYUNJUAN12@126.COM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (7,081,618 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Antonakos, C. L. (1993) 
+ Environmental and Travel Preferences of Cyclists
+, PhD dissertation, University of Michigan
+
+
+
+
+
+
+
+Faghih-Imani, A., N. Eluru, A. M. El-Geneidy, M. Rabbat, and U. Haq (2014) 
+ How Land-Use and Urban Form Impact Bicycle Flows: Evidence from the Bicycle-Sharing System (BIXI) in Montreal
+, Journal of Transport Geography 41 (August): 306314. https://doi.org/10.1016/j.jtrangeo.2014.01.013
+
+
+
+
+
+
+
+Fraser, S.D.S., and K. Lock (2011) 
+ Cycling for Transport and Public Health: A Systematic Review of the Effect of the Environment on Cycling
+, The European Journal of Public Health 21 (6): 738743
+
+
+
+
+
+
+
+Goodfellow, I., J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, and Y. Bengio (2014) 
+ Generative Adversarial Nets
+, Advances in Neural Information Processing Systems: 26722680. Cambridge, MA: MIT Press
+
+
+
+
+
+
+
+Howard, C., and E. K. Burns (2001) 
+ Cycling to Work in Phoenix: Route Choice, Travel Behavior and Commuter Characteristics
+, Transportation Research Record: Journal of the Transportation Research Board 1773: 3946
+
+
+
+
+
+
+
+Isola, P., J. Zhu, T. Zhou, and A. A. Efros (2017) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, arXiv preprint. https://arxiv.org/abs/1611.07004
+
+
+
+
+
+
+
+Liu, H. C., and J. J. Lin (2019) 
+ Associations of Built Environments with Spatiotemporal Patterns of Public Bicycle Use
+, Journal of Transport Geography 74 (1): 299312. https://doi.org/10.1016/j.jtrangeo.2018.12.010
+
+
+
+
+
+
+
+Mao, H., Y. Hu, B. Kar, S. Gao, and G. McKenzie (2017) 
+ GeoAI 2017 Workshop Report: The 1st ACM Sigspatial International Workshop on GeoAI: AI and Deep Learning for Geographic Knowledge Discovery: Redondo Beach, CA, USANovember 7, 2016
+, SIGSPATIAL Special 9 (3): 25
+
+
+
+
+
+
+
+Naderi, J. R., and B. Raman (2005) 
+ Capturing Impressions of Pedestrian Landscapes Used for Healing Purposes with Decision Tree Learning
+, Landscape and Urban Planning 73 (23): 155166. https://doi.org/10.1016/j.landurbplan.2004.11.012
+
+
+
+
+
+
+
+Steinfeld, Kyle (2019) 
+ GAN Loci: Imaging Place using Generative Adversarial Networks
+, ACADIA 19: Ubiquity and Autonomy [Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Austin, TX, 2126 October 2019, edited by K. Bieg, D. Briscoe, and C. Odom, 392403. CUMINCAD
+
+
+
+
+
+
+
+Wang, B., and I. Kim (2018) 
+ Short-term Prediction for Bike-Sharing Service Using Machine Learning
+, Transportation Research Procedia 34: 171178. https://doi.org/10.1016/j.trpro.2018.11.029
+
+
+
+
+
+
+
+Zhang, Fan, Bolei Zhou, Liu Liu, Yu Liu, Helene H. Fung, Hui Lin,and CarloRatti (2018) 
+ Measuring Human Perceptions of a Large-Scale Urban Region Using Machine Learning
+, Landscape and Urban Planning 180 (September): 148160
+
+
+
+
+
+
+
+Zhou, X (2015) 
+ Understanding Temporal Patterns of Biking Behavior By Analyzing Massive Bike Sharing Data in Chicago
+, PLoS ONE 10 (10): 120. https://doi.org/10.1371/journal.pone.0137922",,"Antonakos, C. L. (1993) 
+ Environmental and Travel Preferences of Cyclists
+, PhD dissertation, University of Michigan",,,,"Faghih-Imani, A., N. Eluru, A. M. El-Geneidy, M. Rabbat, and U. Haq (2014) 
+ How Land-Use and Urban Form Impact Bicycle Flows: Evidence from the Bicycle-Sharing System (BIXI) in Montreal
+, Journal of Transport Geography 41 (August): 306314. https://doi.org/10.1016/j.jtrangeo.2014.01.013",,,,"Fraser, S.D.S., and K. Lock (2011) 
+ Cycling for Transport and Public Health: A Systematic Review of the Effect of the Environment on Cycling
+, The European Journal of Public Health 21 (6): 738743",,,,"Goodfellow, I., J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, and Y. Bengio (2014) 
+ Generative Adversarial Nets
+, Advances in Neural Information Processing Systems: 26722680. Cambridge, MA: MIT Press",,,,"Howard, C., and E. K. Burns (2001) 
+ Cycling to Work in Phoenix: Route Choice, Travel Behavior and Commuter Characteristics
+, Transportation Research Record: Journal of the Transportation Research Board 1773: 3946",,,,"Isola, P., J. Zhu, T. Zhou, and A. A. Efros (2017) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, arXiv preprint. https://arxiv.org/abs/1611.07004",,,,"Liu, H. C., and J. J. Lin (2019) 
+ Associations of Built Environments with Spatiotemporal Patterns of Public Bicycle Use
+, Journal of Transport Geography 74 (1): 299312. https://doi.org/10.1016/j.jtrangeo.2018.12.010",,,,"Mao, H., Y. Hu, B. Kar, S. Gao, and G. McKenzie (2017) 
+ GeoAI 2017 Workshop Report: The 1st ACM Sigspatial International Workshop on GeoAI: AI and Deep Learning for Geographic Knowledge Discovery: Redondo Beach, CA, USANovember 7, 2016
+, SIGSPATIAL Special 9 (3): 25",,,,"Naderi, J. R., and B. Raman (2005) 
+ Capturing Impressions of Pedestrian Landscapes Used for Healing Purposes with Decision Tree Learning
+, Landscape and Urban Planning 73 (23): 155166. https://doi.org/10.1016/j.landurbplan.2004.11.012",,,,"Steinfeld, Kyle (2019) 
+ GAN Loci: Imaging Place using Generative Adversarial Networks
+, ACADIA 19: Ubiquity and Autonomy [Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Austin, TX, 2126 October 2019, edited by K. Bieg, D. Briscoe, and C. Odom, 392403. CUMINCAD",,,,"Wang, B., and I. Kim (2018) 
+ Short-term Prediction for Bike-Sharing Service Using Machine Learning
+, Transportation Research Procedia 34: 171178. https://doi.org/10.1016/j.trpro.2018.11.029",,,,"Zhang, Fan, Bolei Zhou, Liu Liu, Yu Liu, Helene H. Fung, Hui Lin,and CarloRatti (2018) 
+ Measuring Human Perceptions of a Large-Scale Urban Region Using Machine Learning
+, Landscape and Urban Planning 180 (September): 148160",,,,"Zhou, X (2015) 
+ Understanding Temporal Patterns of Biking Behavior By Analyzing Massive Bike Sharing Data in Chicago
+, PLoS ONE 10 (10): 120. https://doi.org/10.1371/journal.pone.0137922",,
+11,2021/10/28 06:57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+﻿,0
+0,"Yeh, I."
+1,1997
+2,Application of neural networks to automatic soil pressure balance control for shield tunneling
+3,Automation in Construction 5 (5) (1997) pp. 421-426
+4,"In this paper, a shield control system software to balance soil pressure on the shield cutting face is described. This software, which adjusts the speed of the shield jack and the speed of the screw conveyor, is based on a neural network. The basic structure of the control system software consists of a modeling mechanism and a control mechanism. The modeling mechanism of this sytem has a learning function based on a back-propagation neural network to model the mechanism of the soil pressure in the soil room of the shield. The learning function renews the model in accordance with the historical records of shield operation. The control mechanism of this system has a searching function to find the optimal value of the desired speed of the shield jack and the screw conveyor to reach the desired soil pressure. This system has been tested on a tunneling project in Taipei City. The results showed that the control method of this system is very effective as a means of controlling the shield in various start states."
+5,journal paper
+6,http://www.elsevier.com/locate/autcon
+7,Content-type: text/plain
+8,2003/05/15 19:23

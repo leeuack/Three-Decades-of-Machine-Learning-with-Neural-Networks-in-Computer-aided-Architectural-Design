@@ -1,0 +1,257 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,"Bhavnani, S.K., Garrett, J. and Shaw, D.S.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,1993,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Leading Indicators of CAD Experience,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"CAAD Futures 93 [Conference Proceedings / ISBN 0-444-89922-7] (Pittsburgh / USA), 1993, pp. 313-334",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Current interfaces and help facilities of CAD systems are not designed to respond to a user's performance. To develop such adaptive environments, a better understanding of the indicators of CAD experience is required. This paper discusses the results of studying behavior patterns of different types and levels of CAD users for a specific drawing task. The results show that the type and experience of the CAD user has a clear correlation to the pattern of commands used, the time taken, and the quality of drawing produced. By using the experimental data to train a neural network, the paper demonstrates a connectionist approach for experience assessment. This information, it is proposed, can provide input to an adaptive interface which generates unobtrusive interception to improve the performance of a CAD user. Future experiments to explore the issues of generality and interception are presented.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"CAD user Modeling, Adaptive Interface, Neural Networks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,bhavnani@umich.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (91,445 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Anderson, J.R., Boyle, F.C., Corbett, A.T. and Lewis, M.W. (1990) 
+ Cognitive Modeling and Intelligent Tutoring
+, Artificial Intelligence 42 pp. 7-49
+
+
+
+
+
+
+
+Anderson, J.R. (1983) 
+ The Architecture of Cognition
+, Cambridge: Harvard University Press
+
+
+
+
+
+
+
+Andes, R.C. and Rouse, W.B. (1990) 
+ Specification of Adaptive Aiding Systems
+, IEEE Intemational Conference on Systems, Man and Cybernetics Conference Proceedings, pp. 4-7
+
+
+
+
+
+
+
+Benyon, D. and Murray, D. (1988) 
+ Experience with Adaptive Interfaces
+, Computer Journal 31(5), pp. 465-73
+
+
+
+
+
+
+
+Bietz, W., Langner, T., Luczak, H., Muller, T. and Springer, J. (1990) 
+ Evaluation of a Compact CAD-course in Laboratory Experiments
+, International Journal of Human Computer Interaction 2( 2), pp. 111-35
+
+
+
+
+
+
+
+Chen, Q. and Norcio, A.F. (1991) 
+ A Neural Network Approach to User Modeling
+, Proceedings, IEEE 1991 International Conference on Systems, Man, and Cybemetics, pp. 13-16
+
+
+
+
+
+
+
+Copeland, J.C., Eccles, S.R. (1992) 
+ Skill Metrics on a Genetic Graph as a Mechanism for Driving Adaptation in an Operating System Interface
+, International Journal of Man-Machine Studies 36 pp. 697-718
+
+
+
+
+
+
+
+Cuomo, D.L and Sharit, J. (1989) 
+ Human Performance in Computer-Aided Architectural Design
+, Proceedings, Third International Conference on Human-Computer Interaction 2 pp. 241-9
+
+
+
+
+
+
+
+Dayhoff, J. (1990) 
+ Neural Network Architectures-An Introduction
+, New York: Van Nostrand Reinhold
+
+
+
+
+
+
+
+Doane, S.M., Pellegrino, J.W. and Klatzky, R.L. (1990) 
+ Expertise in a Computer Operating System: Conceptualization and Performance
+, Human-Computer Interaction 5, pp. 267-304
+
+
+
+
+
+
+
+Draper, S. (1984) 
+ The Nature of Expertise in UNIX
+, B. Shackel (ed.), Human Computer interaction -Interact 84 Amsterdam: North Holland, pp. 465-47 1
+
+
+
+
+
+
+
+Fels, S.S. and Hinton, G.E. (1990) 
+ Building Adaptive Interfaces with Neural Networks: The Glove-talk Pilot Study
+, D. Diaper, D. Gilmore, G. Cockton, B. Shackel (eds.), Human Computer Interaction-Interact 90 - pp. 683-8
+
+
+
+
+
+
+
+Finlay, J. and Beale, R. (1990) 
+ Neural Networks in Human-computer Interaction: A View of User Modeling
+, IEEE Colloquium on Neural Nets in Human-Computer Interaction, No. 179 pp. 1-3
+
+
+
+
+
+
+
+Fisher, G. and Lemke, A.C. (1987) 
+ Construction Kits and Design Environments: Steps Toward Human Problem-Domain Communication
+, Human- Computer Interaction 3 pp. 179-222
+
+
+
+
+
+
+
+Greenberg, S. and Witten, I.H. (1985) 
+ Adaptive Personalized Interfaces A Question of Viability
+, Behavior and Information Technology 4(l), pp. 31-45
+
+
+
+
+
+
+
+Krogsaeter, M., Bruning, I. and Thomas, C.G. (1992) 
+ FLEXEL: Adding Flexibility to a Commercially Available Software System
+, Sankt Augustin: Gesellschaft für Mathematik und Datenverarbeitung mbH
+
+
+
+
+
+
+
+Lang, G.T., Eberts, R.E., Gabel, M.G. and Barash, M.M. (1991) 
+ Extracting and Using Procedural Knowledge in a CAD Task
+, IEEE Transactions on Engineering Management 38 pp. 257-68
+
+
+
+
+
+
+
+Luczak, H., Beitz, W., Springer, J. and Langner, T. (1991) 
+ Frictions  and Frustrations in Creative-Informatory Work With Computer Aided Design-CAD-Systems
+, Proceedings, of the Fourth International Conference on Human-Computer Interaction, pp. 175-9
+
+
+
+
+
+
+
+Majchrzak, A. (1990) 
+ Effect of CAD on the Jobs of Drafters and Engineers: A Quantitative Case Study
+, International Journal ofMan-Machine Studies 32(3), pp. 245-62
+
+
+
+
+
+
+
+Newell, A. and Card, S.K. (1985) 
+ The Prospects for Psychological Science in Human-Computer Interaction
+, Human- Computer Interaction 1 pp. 209-242",,"Anderson, J.R., Boyle, F.C., Corbett, A.T. and Lewis, M.W. (1990) 
+ Cognitive Modeling and Intelligent Tutoring
+, Artificial Intelligence 42 pp. 7-49",,,,"Anderson, J.R. (1983) 
+ The Architecture of Cognition
+, Cambridge: Harvard University Press",,,,"Andes, R.C. and Rouse, W.B. (1990) 
+ Specification of Adaptive Aiding Systems
+, IEEE Intemational Conference on Systems, Man and Cybernetics Conference Proceedings, pp. 4-7",,,,"Benyon, D. and Murray, D. (1988) 
+ Experience with Adaptive Interfaces
+, Computer Journal 31(5), pp. 465-73",,,,"Bietz, W., Langner, T., Luczak, H., Muller, T. and Springer, J. (1990) 
+ Evaluation of a Compact CAD-course in Laboratory Experiments
+, International Journal of Human Computer Interaction 2( 2), pp. 111-35",,,,"Chen, Q. and Norcio, A.F. (1991) 
+ A Neural Network Approach to User Modeling
+, Proceedings, IEEE 1991 International Conference on Systems, Man, and Cybemetics, pp. 13-16",,,,"Copeland, J.C., Eccles, S.R. (1992) 
+ Skill Metrics on a Genetic Graph as a Mechanism for Driving Adaptation in an Operating System Interface
+, International Journal of Man-Machine Studies 36 pp. 697-718",,,,"Cuomo, D.L and Sharit, J. (1989) 
+ Human Performance in Computer-Aided Architectural Design
+, Proceedings, Third International Conference on Human-Computer Interaction 2 pp. 241-9",,,,"Dayhoff, J. (1990) 
+ Neural Network Architectures-An Introduction
+, New York: Van Nostrand Reinhold",,,,"Doane, S.M., Pellegrino, J.W. and Klatzky, R.L. (1990) 
+ Expertise in a Computer Operating System: Conceptualization and Performance
+, Human-Computer Interaction 5, pp. 267-304",,,,"Draper, S. (1984) 
+ The Nature of Expertise in UNIX
+, B. Shackel (ed.), Human Computer interaction -Interact 84 Amsterdam: North Holland, pp. 465-47 1",,,,"Fels, S.S. and Hinton, G.E. (1990) 
+ Building Adaptive Interfaces with Neural Networks: The Glove-talk Pilot Study
+, D. Diaper, D. Gilmore, G. Cockton, B. Shackel (eds.), Human Computer Interaction-Interact 90 - pp. 683-8",,,,"Finlay, J. and Beale, R. (1990) 
+ Neural Networks in Human-computer Interaction: A View of User Modeling
+, IEEE Colloquium on Neural Nets in Human-Computer Interaction, No. 179 pp. 1-3",,,,"Fisher, G. and Lemke, A.C. (1987) 
+ Construction Kits and Design Environments: Steps Toward Human Problem-Domain Communication
+, Human- Computer Interaction 3 pp. 179-222",,,,"Greenberg, S. and Witten, I.H. (1985) 
+ Adaptive Personalized Interfaces A Question of Viability
+, Behavior and Information Technology 4(l), pp. 31-45",,,,"Krogsaeter, M., Bruning, I. and Thomas, C.G. (1992) 
+ FLEXEL: Adding Flexibility to a Commercially Available Software System
+, Sankt Augustin: Gesellschaft für Mathematik und Datenverarbeitung mbH",,,,"Lang, G.T., Eberts, R.E., Gabel, M.G. and Barash, M.M. (1991) 
+ Extracting and Using Procedural Knowledge in a CAD Task
+, IEEE Transactions on Engineering Management 38 pp. 257-68",,,,"Luczak, H., Beitz, W., Springer, J. and Langner, T. (1991) 
+ Frictions  and Frustrations in Creative-Informatory Work With Computer Aided Design-CAD-Systems
+, Proceedings, of the Fourth International Conference on Human-Computer Interaction, pp. 175-9",,,,"Majchrzak, A. (1990) 
+ Effect of CAD on the Jobs of Drafters and Engineers: A Quantitative Case Study
+, International Journal ofMan-Machine Studies 32(3), pp. 245-62",,,,"Newell, A. and Card, S.K. (1985) 
+ The Prospects for Psychological Science in Human-Computer Interaction
+, Human- Computer Interaction 1 pp. 209-242",,
+10,2003/11/21 14:16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

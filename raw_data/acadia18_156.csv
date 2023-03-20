@@ -1,0 +1,117 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32
+0,acadia18_156,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Huang, Weixin; Zheng, Hao",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Architectural Drawings
+Recognition and Generation
+through Machine Learning",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA // 2018: Recalibration. On imprecisionand infidelity. [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA) ISBN 978-0-692-17729-7] Mexico City, Mexico 18-20 October, 2018, pp.  156-165",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"With the development of information technology, the ideas of programming and mass calculation were introduced into the design field, resulting in the growth of computer- aided design. With the idea of designing by data, we began to manipulate data directly, and interpret data through design works. Machine Learning as a decision making tool has been widely used in many fields. It can be used to analyze large amounts of data and predict future changes. Generative Adversarial Network (GAN) is a model framework in machine learning. Its specially designed to learn and generate output data with similar or identical characteristics. Pix2pixHD is a modified version of GAN that learns image data in pairs and generates new images based on the input. The author applied pix2pixHD in recognizing and generating architectural drawings, marking rooms with different colors and then generating apartment plans through two convolutional neural networks. Next, in order to understand how these networks work, the author analyzed their framework, and provided an explanation of the three working principles of the networks, convolution layer, residual network layer and deconvolution layer. Lastly, in order to visualize the networks in architectural drawings, the author derived data from different layer and different training epochs, and visualized the findings as gray scale images. It was found that the features of the architectural plan drawings have been gradually learned and stored as parameters in the networks. As the networks get deeper and the training epoch increases, the features in the graph become more concise and clearer. This phenomenon may be inspiring in understanding the designing behavior of humans.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"full paper, design study, generative design, ai + machine learning, ai & machine learning",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,huangwx@tsinghua.edu.cn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (5,705,903 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio (2014) 
+ Generative Adversarial Nets
+, Advances in Neural Information Processing Systems 27. Montreal, QC: NIPS
+
+
+
+
+
+
+
+Isola, Phillip, Jun-Yan Zhu, Tinghui Zhou, and Alexei A Efros (2017) 
+ Image-to-image Translation with Conditional Adversarial Networks
+, arXiv preprint. arXiv:1611.07004
+
+
+
+
+
+
+
+Luo, Dan, Jinsong Wang, and Weiguo Xu (2018) 
+ Robotic Automatic Generation of Performance Model for Non-Uniform Limear Material via Deep Learning
+, Learning, Prototyping and Adapting, Proceedings of the 23rd International Conference on Computer-Aided Architectural Design Research in Asia. Beijing: CAADRIA
+
+
+
+
+
+
+
+Mirza, Mehdi, and Simon Osindero (2014) 
+ Conditional Generative Adversarial Nets
+, arXiv preprint. arXiv:1411.1784
+
+
+
+
+
+
+
+Peng, Wenzhe, Fan Zhang, and Takehiko Nagakura (2017) 
+ Machines Perception of Space: Employing 3D Isovist Methods and a Convolutional Neural Network in Architectural Space Classification
+, Disciplines & Disruption: Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture, edited by Takehiko Nagakura, Skylar Tibbits, Mariana Ibanez, and Caitlin Mueller, 47481. Cambridge, MA: ACADIA
+
+
+
+
+
+
+
+Wang, Ting-Chun, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, and Bryan Catanzaro (2017) 
+ High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
+, arXiv preprint. arXiv:1711.11585
+
+
+
+
+
+
+
+Zheng, Hao (2018) 
+ Drawing with Bots Human-computer Collaborative Drawing Experiments
+, Learning, Prototyping and Adapting, Proceedings of the 23rd International Conference on Computer-Aided Architectural Design Research in Asia. Beijing: CAADRIA
+
+
+
+
+
+
+
+Zhu, Jun-Yan, Philipp Krähenbühl, Eli Shechtman, and Alexei A Efros (2016) 
+ Generative Visual Manipulation on the Natural Image Manifold
+, Proceedings of the 14th European Conference on Computer Vision, part V, edited by Bastian Liebe, Jiri Matas, Nicu Sebe, and Max Welling, 597613. Amsterdam: ECCV",,"Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio (2014) 
+ Generative Adversarial Nets
+, Advances in Neural Information Processing Systems 27. Montreal, QC: NIPS",,,,"Isola, Phillip, Jun-Yan Zhu, Tinghui Zhou, and Alexei A Efros (2017) 
+ Image-to-image Translation with Conditional Adversarial Networks
+, arXiv preprint. arXiv:1611.07004",,,,"Luo, Dan, Jinsong Wang, and Weiguo Xu (2018) 
+ Robotic Automatic Generation of Performance Model for Non-Uniform Limear Material via Deep Learning
+, Learning, Prototyping and Adapting, Proceedings of the 23rd International Conference on Computer-Aided Architectural Design Research in Asia. Beijing: CAADRIA",,,,"Mirza, Mehdi, and Simon Osindero (2014) 
+ Conditional Generative Adversarial Nets
+, arXiv preprint. arXiv:1411.1784",,,,"Peng, Wenzhe, Fan Zhang, and Takehiko Nagakura (2017) 
+ Machines Perception of Space: Employing 3D Isovist Methods and a Convolutional Neural Network in Architectural Space Classification
+, Disciplines & Disruption: Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture, edited by Takehiko Nagakura, Skylar Tibbits, Mariana Ibanez, and Caitlin Mueller, 47481. Cambridge, MA: ACADIA",,,,"Wang, Ting-Chun, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, and Bryan Catanzaro (2017) 
+ High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
+, arXiv preprint. arXiv:1711.11585",,,,"Zheng, Hao (2018) 
+ Drawing with Bots Human-computer Collaborative Drawing Experiments
+, Learning, Prototyping and Adapting, Proceedings of the 23rd International Conference on Computer-Aided Architectural Design Research in Asia. Beijing: CAADRIA",,,,"Zhu, Jun-Yan, Philipp Krähenbühl, Eli Shechtman, and Alexei A Efros (2016) 
+ Generative Visual Manipulation on the Natural Image Manifold
+, Proceedings of the 14th European Conference on Computer Vision, part V, edited by Bastian Liebe, Jiri Matas, Nicu Sebe, and Max Welling, 597613. Amsterdam: ECCV",,
+12,2019/01/07 11:21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

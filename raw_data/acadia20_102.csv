@@ -1,0 +1,234 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72
+0,acadia20_102,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Stojanovic, Djordje; Vujovic, Milica; Miloradovic, Branko",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Indoor Positioning System for Occupation Density Control,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2020: Distributed Proximities / Volume I: Technical Papers [Proceedings of the 40th Annual Conference of the Association of Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-95213-0]. Online and Global. 24-30 October 2020. edited by B. Slocum, V. Ago, S. Doyle, A. Marcus, M. Yablonina, and M. del Campo. 102-109.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The reported research focuses on occupational density as an increasingly important architectural measure and uses occupancy simulation to optimize distancing criteria imposed by the COVID-19 pandemic. The paper addresses the following questions: How to engage computational techniques (CTs) to improve the accuracy of two existing types of indoor positioning systems? How to employ simulation methods in establishing critical occupation density to balance social distancing needs and the efficient use of resources? The larger objective and the aim of further research is to develop an autonomous system capable of establishing an accurate number of people present in a room and informing occupants if space is available according to prescribed sanitary standards. The paper presents occupancy simulation approximating input that would be provided by the outlined multisensor data fusion technique aiming to improve the accuracy of the existing indoor localization solutions. The projected capacity to capture information related to social distancing and occupants positioning is used to ground a method for determining a room-specific occupational density threshold. Our early results indicate that the type of activities, equipment, and furniture in a room, addressed through occupants positioning, may impact the frequency of distancing incidents. Our initial findings centered on simulation modeling indicate that data, composed of the two sets (occupant count and the number of recorded distancing incidents) can be overlapped to help establish room-specific standards rather than apply generic measures. In conclusion, we discuss the opportunities and challenges of the proposed system and its role after the pandemic.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,d.s@unimelb.edu.au,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (2,197,564 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Abbas, Moustafa, Moustafa Elhamshary, Hamada Rizk, Marwan Torki, and Moustaf Youssef (2019) 
+ WiDeep: WiFi-Based Accurate and Robust Indoor Localization System Using Deep Learning
+, Proceedings of IEEE International Conference on Pervasive Computing and Communications, 110. Kyoto, Japan
+
+
+
+
+
+
+
+Berry, Jaclyn, and Kat Park (2017) 
+ A Passive System for Quantifying Indoor Space Utilization
+, ACADIA 2017: Disciplines and Disruption [Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Cambridge, MA, 24 November 2017, edited by T. Nagakura, S. Tibbits, M. Ibanez, and C. Mueller, 138145. CUMINCAD
+
+
+
+
+
+
+
+Dai, Xilei, Junjie Liu, and Xin Zhang (2020) 
+ A Review of Studies Applying Machine Learning Models to Predict Occupancy and Window-Opening Behaviours in Smart Buildings
+, Energy and Buildings 223: 110159
+
+
+
+
+
+
+
+Datta, Suseta, and Sankhadeep Chatterjee (2019) 
+ An Efficient Indoor Occupancy Detection System Using Artificial Neural Network
+, Advances in Intelligent Systems and Computing 811: 317329
+
+
+
+
+
+
+
+Gomez-Zamora, Paula, Sonit Bafna, Craig Zimring, Ellen Do, and Mario Vega Romero (2019) 
+ Spatiotemporal Occupancy for Building Analytics
+, Architecture in the Age of the 4th Industrial Revolution Proceedings of the 37th eCAADe and 23rd SIGraDi Conference, edited by J.P. Sousa, J.P. Xavier, and G. Castro Henriques, 111120. Porto, Portugal. 
+
+
+
+
+
+
+
+Großwindhager, Bernhard, Michael Rath, Josef Kulmer, Stefan Hinteregger, Stefan, Moustafa Bakr, Carlos Boano, Klaus Witrisal, and Kai Romer (2017) 
+ UWB-Based Single-Anchor Low-Cost Indoor Localization System
+, Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems, edited by M. Rasit Eskicioglu. Delft, Netherlands
+
+
+
+
+
+
+
+Hansen, Kai (2016) 
+ Designing Responsive Environments Through User Experience Research
+, International Journal of Architectural Computing 14 (4): 372385
+
+
+
+
+
+
+
+Hobson, Brodie, Daniel Lowcay, Burak Gunay, Araz Ashouri, and Guy Newsham (2019) 
+ Opportunistic Occupancy-Count Estimation Using Sensor Fusion
+, Building and Environment 159: 106154
+
+
+
+
+
+
+
+Hsu, Ya-Wen, Yen-Wei Chen, and Jau-Woei Perng (2020) 
+ Estimation of the Number of Passengers in a Bus Using Deep Learning
+, Sensors (Basel) 20 (8): 2178
+
+
+
+
+
+
+
+Kulmer, Josef, Stefan Grebien, Bernhard Grosswindhager, Michael Rath, Mustafa Bakr, Erik Leitinger, and Klaus Witrisal (2017) 
+ Using DecaWave UWB Transceivers for High-Accuracy Multipath-Assisted Indoor Positioning
+, the Proceedings of 2017 IEEE International Conference on Communications Workshops (ICC Workshops) edited by A. Jamalipour and C. Papadias, 1239-1245. Paris
+
+
+
+
+
+
+
+Kumar, Sachin, Shobha Rai, Rampal Singh, and Saibal K. Pal (2018) 
+ Machine Learning-Based Method and Its Performance Analysis for Occupancy Detection in Indoor Environment
+, Proceedings of Third International Symposium on Signal Processing and Intelligent Recognition Systems (SIRS-2017), 240251. Manipal, India
+
+
+
+
+
+
+
+Liang, Xin, Tianzhen Hong, and Geoffrey Shen (2016) 
+ Occupancy Data Analytics and Prediction: A Case Study
+, Building and Environment 102: 179192
+
+
+
+
+
+
+
+Ouf, Mohamed, William OBrien, and Burak Gunay (2019) 
+ On Quantifying Building Performance Adaptability to Variable Occupancy
+, Building and Environment 155: 257267
+
+
+
+
+
+
+
+Pallikere, Avinash, Robin Qiu, Parhum Delgoshaei, and Ashkan Negahban (2019) 
+ Incorporating Occupancy Data in Scheduling Building Equipment: A Simulation Optimization Framework
+, Energy and Buildings 209: 109655
+
+
+
+
+
+
+
+Saha, Homagni, Anthony Florita, Gregor Henze, and Soumik Sarkar (2019) 
+ Occupancy Sensing in Buildings: A Review of Data Analytics Approaches
+, Energy and Buildings 188189: 278285
+
+
+
+
+
+
+
+Sardar, Santu, Amit K. Mishra, and Mohammed Z. A. Khan (2020) 
+ Indoor Occupancy Estimation Using the LTE-CommSense System
+, International Journal of Remote Sensing 41 (14): 56095619
+
+
+
+
+
+
+
+Sun, Kailai, Qianchuan Zhao, and Jianhong Zou (2020) 
+ A Review of Building Occupancy Measurement Systems
+, Energy and Buildings 216: 109965
+
+
+
+
+
+
+
+Suzuki, Larissa, Peter Cooper, Theo Tryfonas, and George Oikonomou (2015) 
+ Hidden Presence: Sensing Occupancy and Extracting Value from Occupancy Data
+, the Proceedings of the 4th International Conference Design, User Experience, and Usability: Interactive Experience Design, DUXU 2015, edited by M. Aaron, 412424. Los Angeles",,"Abbas, Moustafa, Moustafa Elhamshary, Hamada Rizk, Marwan Torki, and Moustaf Youssef (2019) 
+ WiDeep: WiFi-Based Accurate and Robust Indoor Localization System Using Deep Learning
+, Proceedings of IEEE International Conference on Pervasive Computing and Communications, 110. Kyoto, Japan",,,,"Berry, Jaclyn, and Kat Park (2017) 
+ A Passive System for Quantifying Indoor Space Utilization
+, ACADIA 2017: Disciplines and Disruption [Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Cambridge, MA, 24 November 2017, edited by T. Nagakura, S. Tibbits, M. Ibanez, and C. Mueller, 138145. CUMINCAD",,,,"Dai, Xilei, Junjie Liu, and Xin Zhang (2020) 
+ A Review of Studies Applying Machine Learning Models to Predict Occupancy and Window-Opening Behaviours in Smart Buildings
+, Energy and Buildings 223: 110159",,,,"Datta, Suseta, and Sankhadeep Chatterjee (2019) 
+ An Efficient Indoor Occupancy Detection System Using Artificial Neural Network
+, Advances in Intelligent Systems and Computing 811: 317329",,,,"Gomez-Zamora, Paula, Sonit Bafna, Craig Zimring, Ellen Do, and Mario Vega Romero (2019) 
+ Spatiotemporal Occupancy for Building Analytics
+, Architecture in the Age of the 4th Industrial Revolution Proceedings of the 37th eCAADe and 23rd SIGraDi Conference, edited by J.P. Sousa, J.P. Xavier, and G. Castro Henriques, 111120. Porto, Portugal.",,,,"Großwindhager, Bernhard, Michael Rath, Josef Kulmer, Stefan Hinteregger, Stefan, Moustafa Bakr, Carlos Boano, Klaus Witrisal, and Kai Romer (2017) 
+ UWB-Based Single-Anchor Low-Cost Indoor Localization System
+, Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems, edited by M. Rasit Eskicioglu. Delft, Netherlands",,,,"Hansen, Kai (2016) 
+ Designing Responsive Environments Through User Experience Research
+, International Journal of Architectural Computing 14 (4): 372385",,,,"Hobson, Brodie, Daniel Lowcay, Burak Gunay, Araz Ashouri, and Guy Newsham (2019) 
+ Opportunistic Occupancy-Count Estimation Using Sensor Fusion
+, Building and Environment 159: 106154",,,,"Hsu, Ya-Wen, Yen-Wei Chen, and Jau-Woei Perng (2020) 
+ Estimation of the Number of Passengers in a Bus Using Deep Learning
+, Sensors (Basel) 20 (8): 2178",,,,"Kulmer, Josef, Stefan Grebien, Bernhard Grosswindhager, Michael Rath, Mustafa Bakr, Erik Leitinger, and Klaus Witrisal (2017) 
+ Using DecaWave UWB Transceivers for High-Accuracy Multipath-Assisted Indoor Positioning
+, the Proceedings of 2017 IEEE International Conference on Communications Workshops (ICC Workshops) edited by A. Jamalipour and C. Papadias, 1239-1245. Paris",,,,"Kumar, Sachin, Shobha Rai, Rampal Singh, and Saibal K. Pal (2018) 
+ Machine Learning-Based Method and Its Performance Analysis for Occupancy Detection in Indoor Environment
+, Proceedings of Third International Symposium on Signal Processing and Intelligent Recognition Systems (SIRS-2017), 240251. Manipal, India",,,,"Liang, Xin, Tianzhen Hong, and Geoffrey Shen (2016) 
+ Occupancy Data Analytics and Prediction: A Case Study
+, Building and Environment 102: 179192",,,,"Ouf, Mohamed, William OBrien, and Burak Gunay (2019) 
+ On Quantifying Building Performance Adaptability to Variable Occupancy
+, Building and Environment 155: 257267",,,,"Pallikere, Avinash, Robin Qiu, Parhum Delgoshaei, and Ashkan Negahban (2019) 
+ Incorporating Occupancy Data in Scheduling Building Equipment: A Simulation Optimization Framework
+, Energy and Buildings 209: 109655",,,,"Saha, Homagni, Anthony Florita, Gregor Henze, and Soumik Sarkar (2019) 
+ Occupancy Sensing in Buildings: A Review of Data Analytics Approaches
+, Energy and Buildings 188189: 278285",,,,"Sardar, Santu, Amit K. Mishra, and Mohammed Z. A. Khan (2020) 
+ Indoor Occupancy Estimation Using the LTE-CommSense System
+, International Journal of Remote Sensing 41 (14): 56095619",,,,"Sun, Kailai, Qianchuan Zhao, and Jianhong Zou (2020) 
+ A Review of Building Occupancy Measurement Systems
+, Energy and Buildings 216: 109965",,,,"Suzuki, Larissa, Peter Cooper, Theo Tryfonas, and George Oikonomou (2015) 
+ Hidden Presence: Sensing Occupancy and Extracting Value from Occupancy Data
+, the Proceedings of the 4th International Conference Design, User Experience, and Usability: Interactive Experience Design, DUXU 2015, edited by M. Aaron, 412424. Los Angeles",,
+11,2021/10/28 06:57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

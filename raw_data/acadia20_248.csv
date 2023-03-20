@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,acadia20_248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Saha, Nirvik; Haymaker, John; Shelden, Dennis",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Space Allocation Techniques (SAT),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2020: Distributed Proximities / Volume I: Technical Papers [Proceedings of the 40th Annual Conference of the Association of Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-95213-0]. Online and Global. 24-30 October 2020. edited by B. Slocum, V. Ago, S. Doyle, A. Marcus, M. Yablonina, and M. del Campo. 248-257.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Architects and urban designers use space allocation to develop layouts constrained by project-specific attributes of spaces and relations between them. The space allocation problem (SAP) is a general class of computable problems that eluded automation due to combinatorial complexity and diversity of architectural forms. In this paper, we propose a solution to the space allocation problem using reinforcement learning (RL). In RL, an artificial agent interacts with a simulation of the design problem to learn the optimal spatial organization of a layout using a feedback mechanism based on project-specific constraints. Compared to supervised learning, where the scope of the design problem is restricted by the availability of prior samples, we developed a general approach using RL to address novel design problems, represented as SAP. We integrated the proposed solution to SAP with numerous geometry modules, collectively defined as the space allocation techniques (SAT). In this implementation, the optimization and generative modules are decoupled such that designers can connect the modules in various ways to generate layouts with desired geometric and topological attributes. The outcome of this research is a user-friendly, freely accessible Rhino Grasshopper (C#) plugin, namely, the Design Optimization Toolset or DOTs, a compilation of the proposed SAT. DOTs allows designers to interactively develop design alternatives that reconcile project-specific constraints with the geometric complexity of architectural forms. We describe how professional designers have applied DOTs in space planning, site parcellation, massing, and urban design problems that integrate with performance analysis to enable a holistic, semi-automated design exploration.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,nirviksaha@gatech.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (5,681,552 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Armour, G. C., and E. S. Buffa (1963) 
+ A Heuristic Algorithm and Simulation Approach to Relative Location of Facilities
+, Management Science 9 (2): 294309
+
+
+
+
+
+
+
+Calixto, V., and G. Celani (2015) 
+ A Literature Review for Space Planning Optimization Using an Evolutionary Algorithm Approach: 19922014
+, SIGraDi 2015 [Proceedings of the 19th Conference of the Iberoamerican Society of Digital Graphics], Florianopolis, Brazil, 2327 November 2015, 662671. CUMINCAD
+
+
+
+
+
+
+
+Chang, S., N. Saha, D. Castro-Lacouture, and P. P. J. Yang (2019) 
+ Multivariate Relationships between Campus Design Parameters and Energy Performance Using Reinforcement Learning and Parametric Modeling
+, Applied Energy 249: 253264
+
+
+
+
+
+
+
+Galle, P (1986) 
+ Abstraction as a Tool of Automated Floor-Plan Design
+, Environment and Planning B: Planning and Design 13 (1): 2146
+
+
+
+
+
+
+
+Huang, W., and H. Zheng (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, ACADIA 2018: Recalibration: On Imprecision and Infidelity [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Mexico City, Mexico, 1820 October 2018, edited by P. Anzalone, M. del Signore, and A. J. Wit, 156165. CUMINCAD. 
+
+
+
+
+
+
+
+Hubbs, D., P. Hector, S. Owais, N. Sahinidis, I. Grossmann, and J. Wassick (2020) 
+ OR-Gym: A Reinforcement Learning Library for Operations Research Problem
+, arXiv preprint. ArXiv abs/2008.06319
+
+
+
+
+
+
+
+Jagielski, J., and J. S. Gero (1997) 
+ A Genetic Programming Approach to the Space Layout Planning Problem
+, CAAD Futures 1997 [Proceedings of the 7th International Conference on Computer Aided Architectural Design Futures], Munich, Germany, 46 August 1997, edited by R. Junge, 875884. Springer
+
+
+
+
+
+
+
+Keller, Sean (2006) 
+ Fenland Tech: Architectural Science in Postwar Cambridge
+, Grey Room 2006 (23): 4065. doi: https://doi.org/10.1162/grey.2006.1.23.40
+
+
+
+
+
+
+
+Liggett, R. S (2000) 
+ Automated Facilities Layout: Past, Present and Future
+, Automation in Construction 9 (2): 197215
+
+
+
+
+
+
+
+Lopes, R., T. Tutenel, R. M. Smelik, K. J. de Kraker, and R. Bidarra (2010) 
+ A Constrained Growth Method for Procedural Floor Plan Generation
+, Proceedings of the 11th International Conference of Intelligence Games Simulation, Leicester, UK, 1719 November 2010, 1320. GAME-ON
+
+
+
+
+
+
+
+Martin, J (2006) 
+ Procedural House Generation: A Method for Dynamically Generating Floor Plans
+, Paper presented at the Symposium on Interactive 3D Graphics and Games, Redwood City, CA, 1417 March
+
+
+
+
+
+
+
+Mazyavkina, N., S. Sviridov, S. Ivanov, and E. Burnaev (2020) 
+ Reinforcement Learning for Combinatorial Optimization: A Survey
+, arXiv preprint. arXiv:2003.03600
+
+
+
+
+
+
+
+Nauata, N, K. Chang, C. Chin-Yi, G. Mori, and Y. Furukawa (2020) 
+ House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation
+, European Conference on Computer Vision. arXiv preprint. arXiv:2003.06988
+
+
+
+
+
+
+
+Rezaee, R., T. Marshall, S. Bernal, N. Saha, and J. Haymaker (2019) 
+ Constructing and Exploring Building Configurations Based on Design and Multi-Performance Criteria
+, 16th Conference of IBPSA [Proceedings of Building Simulation 2019], Rome, Italy, 24 September 2019, edited by V. Corrado, E. Fabrizio, A. Gasparella, and F. Patuzzi, 29902997. International Building Performance Simulation Association
+
+
+
+
+
+
+
+Rodrigues, E., A. Gaspar, and A. Gomes (2013) 
+ An Approach to the Multi-Level Space Allocation Problem in Architecture Using a Hybrid Evolutionary Technique
+, Automation in Construction 35: 482498
+
+
+
+
+
+
+
+Shao, Kun, Zhentao Tang, Yuanheng Zhu, Nannan Li, and Dongbin Zhao (2019) 
+ A Survey of Deep Reinforcement Learning in Video Games
+, arXiv preprint. arXiv:1912.10944
+
+
+
+
+
+
+
+Shekhawat, K (2018) 
+ Enumerating Generic Rectangular Floor Plans
+, Automation in Construction 92: 151165
+
+
+
+
+
+
+
+Sutton, R.S., and A. G. Barto (1998) 
+ Reinforcement Learning: An Introduction
+, Cambridge, MA: MIT Press
+
+
+
+
+
+
+
+Wu, W., X. M. Fu, R. Tang, Y. Wang, Y. H. Qi, and L. Liu (2019) 
+ Data-Driven Interior Plan Generation for Residential Buildings
+, ACM Transactions on Graphics (TOG) 38 (6): 112
+
+
+
+
+
+
+
+Yu, C., J. Liu, and Shamim Nemati (2020) 
+ Reinforcement Learning in Healthcare: A Survey
+, arXiv preprint. arXiv:1908.08796",,"Armour, G. C., and E. S. Buffa (1963) 
+ A Heuristic Algorithm and Simulation Approach to Relative Location of Facilities
+, Management Science 9 (2): 294309",,,,"Calixto, V., and G. Celani (2015) 
+ A Literature Review for Space Planning Optimization Using an Evolutionary Algorithm Approach: 19922014
+, SIGraDi 2015 [Proceedings of the 19th Conference of the Iberoamerican Society of Digital Graphics], Florianopolis, Brazil, 2327 November 2015, 662671. CUMINCAD",,,,"Chang, S., N. Saha, D. Castro-Lacouture, and P. P. J. Yang (2019) 
+ Multivariate Relationships between Campus Design Parameters and Energy Performance Using Reinforcement Learning and Parametric Modeling
+, Applied Energy 249: 253264",,,,"Galle, P (1986) 
+ Abstraction as a Tool of Automated Floor-Plan Design
+, Environment and Planning B: Planning and Design 13 (1): 2146",,,,"Huang, W., and H. Zheng (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, ACADIA 2018: Recalibration: On Imprecision and Infidelity [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Mexico City, Mexico, 1820 October 2018, edited by P. Anzalone, M. del Signore, and A. J. Wit, 156165. CUMINCAD.",,,,"Hubbs, D., P. Hector, S. Owais, N. Sahinidis, I. Grossmann, and J. Wassick (2020) 
+ OR-Gym: A Reinforcement Learning Library for Operations Research Problem
+, arXiv preprint. ArXiv abs/2008.06319",,,,"Jagielski, J., and J. S. Gero (1997) 
+ A Genetic Programming Approach to the Space Layout Planning Problem
+, CAAD Futures 1997 [Proceedings of the 7th International Conference on Computer Aided Architectural Design Futures], Munich, Germany, 46 August 1997, edited by R. Junge, 875884. Springer",,,,"Keller, Sean (2006) 
+ Fenland Tech: Architectural Science in Postwar Cambridge
+, Grey Room 2006 (23): 4065. doi: https://doi.org/10.1162/grey.2006.1.23.40",,,,"Liggett, R. S (2000) 
+ Automated Facilities Layout: Past, Present and Future
+, Automation in Construction 9 (2): 197215",,,,"Lopes, R., T. Tutenel, R. M. Smelik, K. J. de Kraker, and R. Bidarra (2010) 
+ A Constrained Growth Method for Procedural Floor Plan Generation
+, Proceedings of the 11th International Conference of Intelligence Games Simulation, Leicester, UK, 1719 November 2010, 1320. GAME-ON",,,,"Martin, J (2006) 
+ Procedural House Generation: A Method for Dynamically Generating Floor Plans
+, Paper presented at the Symposium on Interactive 3D Graphics and Games, Redwood City, CA, 1417 March",,,,"Mazyavkina, N., S. Sviridov, S. Ivanov, and E. Burnaev (2020) 
+ Reinforcement Learning for Combinatorial Optimization: A Survey
+, arXiv preprint. arXiv:2003.03600",,,,"Nauata, N, K. Chang, C. Chin-Yi, G. Mori, and Y. Furukawa (2020) 
+ House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation
+, European Conference on Computer Vision. arXiv preprint. arXiv:2003.06988",,,,"Rezaee, R., T. Marshall, S. Bernal, N. Saha, and J. Haymaker (2019) 
+ Constructing and Exploring Building Configurations Based on Design and Multi-Performance Criteria
+, 16th Conference of IBPSA [Proceedings of Building Simulation 2019], Rome, Italy, 24 September 2019, edited by V. Corrado, E. Fabrizio, A. Gasparella, and F. Patuzzi, 29902997. International Building Performance Simulation Association",,,,"Rodrigues, E., A. Gaspar, and A. Gomes (2013) 
+ An Approach to the Multi-Level Space Allocation Problem in Architecture Using a Hybrid Evolutionary Technique
+, Automation in Construction 35: 482498",,,,"Shao, Kun, Zhentao Tang, Yuanheng Zhu, Nannan Li, and Dongbin Zhao (2019) 
+ A Survey of Deep Reinforcement Learning in Video Games
+, arXiv preprint. arXiv:1912.10944",,,,"Shekhawat, K (2018) 
+ Enumerating Generic Rectangular Floor Plans
+, Automation in Construction 92: 151165",,,,"Sutton, R.S., and A. G. Barto (1998) 
+ Reinforcement Learning: An Introduction
+, Cambridge, MA: MIT Press",,,,"Wu, W., X. M. Fu, R. Tang, Y. Wang, Y. H. Qi, and L. Liu (2019) 
+ Data-Driven Interior Plan Generation for Residential Buildings
+, ACM Transactions on Graphics (TOG) 38 (6): 112",,,,"Yu, C., J. Liu, and Shamim Nemati (2020) 
+ Reinforcement Learning in Healthcare: A Survey
+, arXiv preprint. arXiv:1908.08796",,
+11,2021/10/28 06:57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

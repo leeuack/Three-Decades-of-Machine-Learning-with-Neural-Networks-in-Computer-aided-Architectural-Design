@@ -1,0 +1,248 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76
+0,acadia18_166,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Kvochick, Tyler",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Sneaky Spatial Segmentation. Reading Architectural Drawings with Deep Neural Networks and 
+Without Labeling Data",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA // 2018: Recalibration. On imprecisionand infidelity. [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA) ISBN 978-0-692-17729-7] Mexico City, Mexico 18-20 October, 2018, pp.  166-175",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Currently, it is nearly impossible for an artificial neural network to generalize a task from very few examples. Humans, however, excel at this. For instance, it is not necessary for a designer to see thousands or millions of unique examples of how to place a given drawing symbol in a way that meets the economic, aesthetic, and performative goals of the project. In fact, the goals can be (and usually are) communicated abstractly in natural language. Machine learning (ML) models, however, do need numerous examples. The methods that we explore here are an attempt to circumvent this in order to make ML models more immediately useful.In this work, we present progress on the application of contemporary ML techniques to the design process in the architecture, engineering, and construction (AEC) industry. We introduce a technique to partially circumvent the data hungriness of neural networks, which is a significant impediment to their application outside of the ML research community. We also show results on the applicability of this technique to real-world drawings and present research that addresses how some fundamental attributes of drawings as images affect the way they are interpreted in deep neural networks. Our primary contribution is a technique to train a neural network to segment real-world architectural drawings after using only generated pseudodrawings.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"full paper, representation + perception, computation, ai & machine learning",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,tyler.kvochick@teecom.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (6,787,633 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+American Institute of Architects, The (2016) 
+ Architectural Graphic Standards, 12th ed, edited by Dennis J. Hall. Hoboken
+, NJ: John Wiley & Sons. https://www.graphicstandards.com/
+
+
+
+
+
+
+
+Caley, Jeffrey A., Nicholas R.J. Lawrance, and Geoffrey A. Hollinger (2016) 
+ Deep Learning of Structured Environments for Robot Search
+, Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems, 398792. Daejeon, Korea: IROS. doi:10.1109/IROS.2016.7759587
+
+
+
+
+
+
+
+Dai, Jifeng, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, and Yichen Wei (2017) 
+ Deformable Convolutional Networks
+, ArXiv:1703.06211 [Cs], March. http://arxiv.org/abs/1703.06211
+
+
+
+
+
+
+
+Denton, Emily, Soumith Chintala, Arthur Szlam, and Rob Fergus (2015) 
+ Deep Generative Image Models Using a Laplacian Pyramid of Adversarial Networks
+, ArXiv:1506.05751 [Cs], June. http://arxiv.org/abs/1506.05751
+
+
+
+
+
+
+
+Dodge, Samuel, Jiu Xu, and Bjorn Stenger (2017) 
+ Parsing Floor Plan Images
+, Proceedings of the Fifteenth IAPR International Conference on Machine Vision Applications, 35861. Nagoya, Japan: MVA. doi:10.23919/MVA.2017.7986875
+
+
+
+
+
+
+
+Jain, Sambhav R., and Kye Okabe (2017) 
+ Training a Fully Convolutional Neural Network to Route Integrated Circuits
+, June. https://arxiv.org/abs/1706.08948
+
+
+
+
+
+
+
+Kingma, Diederik P., and Jimmy Ba (2014) 
+ Adam: A Method for Stochastic Optimization
+, December. https://arxiv.org/abs/1412.6980
+
+
+
+
+
+
+
+Leal-Taixé, Laura, Anton Milan, Ian Reid, Stefan Roth, and Konrad Schindler (2015) 
+ MOTChallenge 2015: Towards a Benchmark for Multi-Target Tracking
+, April. https://arxiv.org/abs/1504.01942
+
+
+
+
+
+
+
+Lin, Tsung-Yi, Michael Maire, Serge Belongie, Lubomir Bourdev, Ross Girshick, James Hays, Pietro Perona, Deva Ramanan, C. Lawrence Zitnick, and Piotr Dollár (2014) 
+ Microsoft COCO: Common Objects in Context
+, ArXiv:1405.0312 [Cs], May. http://arxiv.org/abs/1405.0312
+
+
+
+
+
+
+
+Masters, Dominic, and Carlo Luschi (2018) 
+ Revisiting Small Batch Training for Deep Neural Networks
+, ArXiv:1804.07612 [Cs, Stat], April. http://arxiv.org/abs/1804.07612
+
+
+
+
+
+
+
+Miikkulainen, Risto, Jason Liang, Elliot Meyerson, Aditya Rawal, Dan Fink, Olivier Francon, Bala Raju, et al. (2017) 
+ Evolving Deep Neural Networks
+, ArXiv:1703.00548 [Cs], March. http://arxiv.org/abs/1703.00548
+
+
+
+
+
+
+
+Orhan, A. Emin, and Xaq Pitkow (2017) 
+ Skip Connections Eliminate Singularities
+, ArXiv:1701.09175 [Cs], January. http://arxiv.org/abs/1701.09175
+
+
+
+
+
+
+
+Perez, Luis, and Jason Wang (2017) 
+ The Effectiveness of Data Augmentation in Image Classification Using Deep Learning
+, ArXiv:1712.04621 [Cs], December. http://arxiv.org/abs/1712.04621
+
+
+
+
+
+
+
+Rahman, Md Atiqur, and Yang Wang (2016) 
+ Optimizing Intersection-Over-Union in Deep Neural Networks for Image Segmentation
+, Advances in Visual Computing: Proceedings of the 12th International Symposium on Visual Computing, edited by G. Bebis, R. Boyle, B. Parvin, D. Koracin, F. Porikli, S. Skaff, Al. Entezari, et al., 10072: 23444. Cham: Springer International Publishing. doi:10.1007/978-3-319-50835-1_22
+
+
+
+
+
+
+
+Russakovsky, Olga, Jia Deng, Zhiheng Huang, Alexander C. Berg, and Li Fei-Fei (2013) 
+ Detecting Avocados to Zucchinis: What Have We Done, and Where Are We Going?
+, Proceedings of the IEEE International Conference on Computer Vision, 206471. Sydney, Australia: ICCV. doi:10.1109/ICCV.2013.258
+
+
+
+
+
+
+
+Shelhamer, Evan, Jonathan Long, and Trevor Darrell (2016) 
+ Fully Convolutional Networks for Semantic Segmentation
+, ArXiv:1605.06211 [Cs], May. http://arxiv.org/abs/1605.06211
+
+
+
+
+
+
+
+Tyleèek, Radim, and Radim ára (2013) 
+ Spatial Pattern Templates for Recognition of Objects with Regular Structure
+, Pattern Recognition: 35th German Conference on Pattern Recognition, edited by Joachim Weickert, Matthias Hein, and Bernt Schiele, 8142: 36474. Berlin: Springer. doi:10.1007/978-3-642-40602-7_39
+
+
+
+
+
+
+
+Wang, Xiaosong, Yifan Peng, Le Lu, Zhiyong Lu, Mohammadhadi Bagheri, and Ronald M. Summers (2017) 
+ ChestX-Ray8: Hospital-Scale Chest X-Ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 346271. Honolulu, HI: CVPR. doi:10.1109/CVPR.2017.369
+
+
+
+
+
+
+
+Zhang, Mengxiao, Wangquan Wu, Yanren Zhang, Kun He, Tao Yu, Huan Long, and John E. Hopcroft (2017) 
+ The Local Dimension of Deep Manifold
+, November. https://arxiv.org/abs/1711.01573",,"American Institute of Architects, The (2016) 
+ Architectural Graphic Standards, 12th ed, edited by Dennis J. Hall. Hoboken
+, NJ: John Wiley & Sons. https://www.graphicstandards.com/",,,,"Caley, Jeffrey A., Nicholas R.J. Lawrance, and Geoffrey A. Hollinger (2016) 
+ Deep Learning of Structured Environments for Robot Search
+, Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems, 398792. Daejeon, Korea: IROS. doi:10.1109/IROS.2016.7759587",,,,"Dai, Jifeng, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, and Yichen Wei (2017) 
+ Deformable Convolutional Networks
+, ArXiv:1703.06211 [Cs], March. http://arxiv.org/abs/1703.06211",,,,"Denton, Emily, Soumith Chintala, Arthur Szlam, and Rob Fergus (2015) 
+ Deep Generative Image Models Using a Laplacian Pyramid of Adversarial Networks
+, ArXiv:1506.05751 [Cs], June. http://arxiv.org/abs/1506.05751",,,,"Dodge, Samuel, Jiu Xu, and Bjorn Stenger (2017) 
+ Parsing Floor Plan Images
+, Proceedings of the Fifteenth IAPR International Conference on Machine Vision Applications, 35861. Nagoya, Japan: MVA. doi:10.23919/MVA.2017.7986875",,,,"Jain, Sambhav R., and Kye Okabe (2017) 
+ Training a Fully Convolutional Neural Network to Route Integrated Circuits
+, June. https://arxiv.org/abs/1706.08948",,,,"Kingma, Diederik P., and Jimmy Ba (2014) 
+ Adam: A Method for Stochastic Optimization
+, December. https://arxiv.org/abs/1412.6980",,,,"Leal-Taixé, Laura, Anton Milan, Ian Reid, Stefan Roth, and Konrad Schindler (2015) 
+ MOTChallenge 2015: Towards a Benchmark for Multi-Target Tracking
+, April. https://arxiv.org/abs/1504.01942",,,,"Lin, Tsung-Yi, Michael Maire, Serge Belongie, Lubomir Bourdev, Ross Girshick, James Hays, Pietro Perona, Deva Ramanan, C. Lawrence Zitnick, and Piotr Dollár (2014) 
+ Microsoft COCO: Common Objects in Context
+, ArXiv:1405.0312 [Cs], May. http://arxiv.org/abs/1405.0312",,,,"Masters, Dominic, and Carlo Luschi (2018) 
+ Revisiting Small Batch Training for Deep Neural Networks
+, ArXiv:1804.07612 [Cs, Stat], April. http://arxiv.org/abs/1804.07612",,,,"Miikkulainen, Risto, Jason Liang, Elliot Meyerson, Aditya Rawal, Dan Fink, Olivier Francon, Bala Raju, et al. (2017) 
+ Evolving Deep Neural Networks
+, ArXiv:1703.00548 [Cs], March. http://arxiv.org/abs/1703.00548",,,,"Orhan, A. Emin, and Xaq Pitkow (2017) 
+ Skip Connections Eliminate Singularities
+, ArXiv:1701.09175 [Cs], January. http://arxiv.org/abs/1701.09175",,,,"Perez, Luis, and Jason Wang (2017) 
+ The Effectiveness of Data Augmentation in Image Classification Using Deep Learning
+, ArXiv:1712.04621 [Cs], December. http://arxiv.org/abs/1712.04621",,,,"Rahman, Md Atiqur, and Yang Wang (2016) 
+ Optimizing Intersection-Over-Union in Deep Neural Networks for Image Segmentation
+, Advances in Visual Computing: Proceedings of the 12th International Symposium on Visual Computing, edited by G. Bebis, R. Boyle, B. Parvin, D. Koracin, F. Porikli, S. Skaff, Al. Entezari, et al., 10072: 23444. Cham: Springer International Publishing. doi:10.1007/978-3-319-50835-1_22",,,,"Russakovsky, Olga, Jia Deng, Zhiheng Huang, Alexander C. Berg, and Li Fei-Fei (2013) 
+ Detecting Avocados to Zucchinis: What Have We Done, and Where Are We Going?
+, Proceedings of the IEEE International Conference on Computer Vision, 206471. Sydney, Australia: ICCV. doi:10.1109/ICCV.2013.258",,,,"Shelhamer, Evan, Jonathan Long, and Trevor Darrell (2016) 
+ Fully Convolutional Networks for Semantic Segmentation
+, ArXiv:1605.06211 [Cs], May. http://arxiv.org/abs/1605.06211",,,,"Tyleèek, Radim, and Radim ára (2013) 
+ Spatial Pattern Templates for Recognition of Objects with Regular Structure
+, Pattern Recognition: 35th German Conference on Pattern Recognition, edited by Joachim Weickert, Matthias Hein, and Bernt Schiele, 8142: 36474. Berlin: Springer. doi:10.1007/978-3-642-40602-7_39",,,,"Wang, Xiaosong, Yifan Peng, Le Lu, Zhiyong Lu, Mohammadhadi Bagheri, and Ronald M. Summers (2017) 
+ ChestX-Ray8: Hospital-Scale Chest X-Ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 346271. Honolulu, HI: CVPR. doi:10.1109/CVPR.2017.369",,,,"Zhang, Mengxiao, Wangquan Wu, Yanren Zhang, Kun He, Tao Yu, Huan Long, and John E. Hopcroft (2017) 
+ The Local Dimension of Deep Manifold
+, November. https://arxiv.org/abs/1711.01573",,
+12,2019/01/07 11:21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

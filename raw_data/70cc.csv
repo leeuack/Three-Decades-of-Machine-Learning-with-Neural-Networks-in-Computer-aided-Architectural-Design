@@ -1,0 +1,10 @@
+﻿,0
+0,"Witten, I.H. and Frank, E."
+1,2000
+2,Data Mining - Practical Machine Learning Tools and Techniques with JAVA Implementations
+3,Morgan Kaufmann
+4,"Witten and Frank's textbook was one of two books that I used for a data mining class in the Fall of 2001. The book covers all major methods of data mining that produce a knowledge representation as output. Knowledge representation is hereby understood as a representation that can be studied, understood, and interpreted by human beings, at least in principle. Thus, neural networks and genetic algorithms are excluded from the topics of this textbook. We need to say ""can be understood in principle"" because a large decision tree or a large rule set may be as hard to interpret as a neural network. The book first develops the basic machine learning and data mining methods. These include decision trees, classification and association rules, support vector machines, instance-based learning, Naive Bayes classifiers, clustering, and numeric prediction based on linear regression, regression trees, and model trees. It then goes deeper into evaluation and implementation issues. Next it moves on to deeper coverage of issues such as attribute selection, discretization, data cleansing, and combinations of multiple models (bagging, boosting, and stacking). The final chapter deals with advanced topics such as visual machine learning, text mining, and Web mining."
+5,other
+6,"file.pdf (87,759 bytes)"
+7,Content-type: text/plain
+8,2003/04/23 13:50

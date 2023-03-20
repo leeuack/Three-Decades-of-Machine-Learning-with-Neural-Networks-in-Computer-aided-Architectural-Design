@@ -1,0 +1,257 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,509caadria2004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Jaewook Lee, Yongwook Jeong, Seung Wook Kim, Yehuda E. Kalay",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Intelligent Behavior Control of 3D Objects in Virtual Environments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"CAADRIA 2004 [Proceedings of the 9th International Conference on Computer Aided Architectural Design Research in Asia / ISBN 89-7141-648-3] Seoul Korea 28-30 April 2004, pp. 845-856",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Cyberspace is more malleable than a physical environment, so it can afford much wider range of responsiveness. By applying the concept of place-making, we are experimenting virtual environments which are responsive to their users context-specific needs. Since objects are essential components that anchor the users various activities, having interactive objects in a 3D virtual environment is a major design concern for developing a dynamic and experience-rich virtual environment. We propose a layered agent model for intelligent behavior control of 3D objects, based on constraint solving process.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,kalay@socrates.berkeley.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (154,155 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Caglayan, A. K. and Harrison, C. G. (1997) 
+ Agent Sourcebook
+, John Wiley & Sons, New York
+
+
+
+
+
+
+
+Canter, D. (1977) 
+ The psychology of place
+, St. Martin Press, NY
+
+
+
+
+
+
+
+Eggink, D., and Gross M. D. (2001) 
+ Smart Objects: Constraints and Behaviors in a 3D Design Environment
+, Education in Computer Aided Architectural Design
+
+
+
+
+
+
+
+Farenc, N., S.R. Musse, E. Schweiss, M. Kallmann, O. Aune, R. Boulic and D. Thalmann (2000) 
+ A Paradigm for Controlling Virtual Humans in Urban Environment Simulations
+, Applied Artificial Intelligence Journal, Special issue on intelligent virtual environments
+
+
+
+
+
+
+
+Fernando, T., N. Murray and K. Tan (1999) 
+ Software Architecture for a Constraint Based Virtual Environment
+, VRST 99, New York: ACM Press, pp. 147-154
+
+
+
+
+
+
+
+Holmes, A., H. Duman, and A. Pounds-Cornish (2002) 
+ The iDorm: Gateway to Heterogeneous Networking Environments
+, International ITEA Workshop on Virtual Home Environments
+
+
+
+
+
+
+
+Kalay, Y. E. and Marx, J. (2003) 
+ Changing the Metaphor: Cyberspace as a Place
+, Proceedings of the 10th Computer Aided Architectural Design Futures
+
+
+
+
+
+
+
+Kalay, Y. E. (2004) 
+ Architecture's New Media: Principles, Theories, and Methods of Computer-Aided Design
+, MIT Press, Cambridge, MA.
+
+
+
+
+
+
+
+Khemlani K., A. Timerman, B. Benne and Y. E. Kalay (1998) 
+ Intelligent Representation for Computer-Aided Building Design
+, Automation in Construction
+
+
+
+
+
+
+
+Krogh, P., Grønbæk, K. (2001) 
+ Roomware and Intelligent Buildings - objects and buildings become computer interfaces
+, Proc. of Conference on Architectural Research and Information Technology. April 27-29, Århus School of Architecture. Nordic Association for Architectural Research, Århus: pp. 63-68
+
+
+
+
+
+
+
+Le Roux, O., V. Gaildrat and R. Caubet (2000) 
+ Design of have New Constraint Solver for 3d Declarative Modeling: JACADI
+, 3IA: Interactive computer graphics and Artificial Intelligence, Limoges
+
+
+
+
+
+
+
+Maher, M. L. and Gero, J. S. (2002) 
+ Agent Model of 3D Virtual Worlds
+, Proceedings of the 22nd Association for Computer Aided Design in Architecture
+
+
+
+
+
+
+
+Martini K. (1995) 
+ Hierarchical geometric constraints for building design
+, Computer-Aided Design 27(3)
+
+
+
+
+
+
+
+Minsky, M. (1986) 
+ The Society of Mind
+, Simon and Schuster, NY.
+
+
+
+
+
+
+
+Mozer, M. C. (1998) 
+ The neural network house: An environment that adapts to its inhabitants
+, Proc. AAAI Spring Symposium on Intelligent Environments, AAAI Press, pp. 110-114
+
+
+
+
+
+
+
+Muller, J. P. (1996) 
+ The Design of Intelligent Agents
+, Springer, Berlin
+
+
+
+
+
+
+
+OMG Agent Working Group (2000) 
+ Agent Technology Green Paper
+, Technical Report, Object Management Group
+
+
+
+
+
+
+
+Russell, S. and Norvig, P. (2003) 
+ Artificial Intelligence: a Modern Approach
+, (2nd Edition), Prentice Hall Series in Artificial Intelligence, New Jersey
+
+
+
+
+
+
+
+Scerri, P. (1998) 
+ A Multi-Layered Behavior Based System for Controlling RoboCup Agents
+, RoboCup-97: The First Robot World Cup Soccer Games and Conferences, Springer Verlag Lecture Notes in Artificial Intelligence
+
+
+
+
+
+
+
+Sutherland, I. E. (1963) 
+ Sketchpad: A Man-Machine Graphical Communication System
+, Garland Publishing, NY.",,"Caglayan, A. K. and Harrison, C. G. (1997) 
+ Agent Sourcebook
+, John Wiley & Sons, New York",,,,"Canter, D. (1977) 
+ The psychology of place
+, St. Martin Press, NY",,,,"Eggink, D., and Gross M. D. (2001) 
+ Smart Objects: Constraints and Behaviors in a 3D Design Environment
+, Education in Computer Aided Architectural Design",,,,"Farenc, N., S.R. Musse, E. Schweiss, M. Kallmann, O. Aune, R. Boulic and D. Thalmann (2000) 
+ A Paradigm for Controlling Virtual Humans in Urban Environment Simulations
+, Applied Artificial Intelligence Journal, Special issue on intelligent virtual environments",,,,"Fernando, T., N. Murray and K. Tan (1999) 
+ Software Architecture for a Constraint Based Virtual Environment
+, VRST 99, New York: ACM Press, pp. 147-154",,,,"Holmes, A., H. Duman, and A. Pounds-Cornish (2002) 
+ The iDorm: Gateway to Heterogeneous Networking Environments
+, International ITEA Workshop on Virtual Home Environments",,,,"Kalay, Y. E. and Marx, J. (2003) 
+ Changing the Metaphor: Cyberspace as a Place
+, Proceedings of the 10th Computer Aided Architectural Design Futures",,,,"Kalay, Y. E. (2004) 
+ Architecture's New Media: Principles, Theories, and Methods of Computer-Aided Design
+, MIT Press, Cambridge, MA.",,,,"Khemlani K., A. Timerman, B. Benne and Y. E. Kalay (1998) 
+ Intelligent Representation for Computer-Aided Building Design
+, Automation in Construction",,,,"Krogh, P., Grønbæk, K. (2001) 
+ Roomware and Intelligent Buildings - objects and buildings become computer interfaces
+, Proc. of Conference on Architectural Research and Information Technology. April 27-29, Århus School of Architecture. Nordic Association for Architectural Research, Århus: pp. 63-68",,,,"Le Roux, O., V. Gaildrat and R. Caubet (2000) 
+ Design of have New Constraint Solver for 3d Declarative Modeling: JACADI
+, 3IA: Interactive computer graphics and Artificial Intelligence, Limoges",,,,"Maher, M. L. and Gero, J. S. (2002) 
+ Agent Model of 3D Virtual Worlds
+, Proceedings of the 22nd Association for Computer Aided Design in Architecture",,,,"Martini K. (1995) 
+ Hierarchical geometric constraints for building design
+, Computer-Aided Design 27(3)",,,,"Minsky, M. (1986) 
+ The Society of Mind
+, Simon and Schuster, NY.",,,,"Mozer, M. C. (1998) 
+ The neural network house: An environment that adapts to its inhabitants
+, Proc. AAAI Spring Symposium on Intelligent Environments, AAAI Press, pp. 110-114",,,,"Muller, J. P. (1996) 
+ The Design of Intelligent Agents
+, Springer, Berlin",,,,"OMG Agent Working Group (2000) 
+ Agent Technology Green Paper
+, Technical Report, Object Management Group",,,,"Russell, S. and Norvig, P. (2003) 
+ Artificial Intelligence: a Modern Approach
+, (2nd Edition), Prentice Hall Series in Artificial Intelligence, New Jersey",,,,"Scerri, P. (1998) 
+ A Multi-Layered Behavior Based System for Controlling RoboCup Agents
+, RoboCup-97: The First Robot World Cup Soccer Games and Conferences, Springer Verlag Lecture Notes in Artificial Intelligence",,,,"Sutherland, I. E. (1963) 
+ Sketchpad: A Man-Machine Graphical Communication System
+, Garland Publishing, NY.",,
+10,2004/05/20 17:43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

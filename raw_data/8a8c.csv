@@ -1,0 +1,257 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,"Choi, J.W., Kwon, D.-Y. and Lee, H.-S.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,DesignBUF: Exploring and Extending 2D Boolean Set Operations with Multiple Modes in the Early Design Phase,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Proceedings of the Ninth International Conference on Computer Aided Architectural Design Futures [ISBN 0-7923-7023-6] Eindhoven, 8-11 July 2001, pp. 589-602",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Boolean set operations have been a powerful design function set for any CAD systems including 2D and 3D domains. Their capacity to provide even more powerful design tools have not, however, been fully explored in the 2D system. The purpose of this study is to further explore 2D Boolean set operations with multiple modes, which include a pick mode, a wait mode, a drag-and-drop mode, and a draw-and-action mode. We develop a prototype design tool, called DesignBUF. It introduces a new concept of design object buffer, an intermediate design zone in which a designer freely sketches his/her design with design objects in a brainstorming fashion since valuable design ideas are ephemeral? and the designer needs to generate design schemes rapidly before the ideas disappear or are forgotten. After finishing such fast brainstorming processes, especially in the early design phase, the designer gets a stable and refined form of a floor plan, which in turn becomes a well structured form to maintain building and design information systematically. Therefore, the designer keeps switching back and forth between the design object buffer and structured floor plans. We believe that this dual working memory will not only increase system flexibility, but also reduce computation with unnecessarily complex design objects. This study also develops a robust algorithm to transform the intermediate design objects into a well-structured floor plan. In fact, the algorithm is also used for the extended Boolean set operations described above. A structured floor plan can also be transformed into non-structured forms. Research issues for future development are also identified at the end of the paper.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Design Buffer, Extended Boolean Set Operations, Structured Floor Plan.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,jchoi@yonsei.ac.kr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (330,202 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Carrara, G. and Kalay, Y.  (1994) 
+ Knowledge-based computational support for architectural design 
+, Automation in Construction, 3, pp.157-175
+
+
+
+
+
+
+
+Chase, Scott C.   (1999) 
+ Grammar Based Design: Issues for User Interaction Models 
+, Media and Design Process, ACADIA Proceedings, pp.198-210
+
+
+
+
+
+
+
+Chase,Scott C.   (1996) 
+ Design Modeling With Shape Algebras and Formal Logic 
+, Design Computation, ACADIA Proceedings, pp. 99-113
+
+
+
+
+
+
+
+Choi, J.W.  (1997) 
+ A development of an intelligent CAD engine to support architectural design collaboration 
+, Korea CAD/CAM Journal, pp. 53-59
+
+
+
+
+
+
+
+Eastman, C.M. (et al.)  (1991) 
+ A Data Model for Design Databases 
+, J.S. Gero (ed), Artificial Intelligence in Design '91, Butterworth- Heinemann, Oxford
+
+
+
+
+
+
+
+Eastman, C.M.  (1991) 
+ A Data Model Analysis of Modularity and Extensibility in Building Database 
+, Environment and Building, 27(2), pp.135-148
+
+
+
+
+
+
+
+Eastman, C.M.  (1994) 
+ A Data Model for Design Knowledge 
+, Automation in Construction, 3, pp.135-147
+
+
+
+
+
+
+
+Kalay, Y., Khemlani, L., and Choi, J.W.  (1998) 
+ An Integrated Model to Support Distributed Collaborative Design of Buildings 
+, Automation in Construction, 7, pp.177-188
+
+
+
+
+
+
+
+Kim, U.  (1992) 
+ An Object-based Modeling System Coupled with Design Information System
+, 6th International Conference on Systems Research, Baden Baden, Germany
+
+
+
+
+
+
+
+Kim, U.  (1995) 
+ An Object-based Building Product Model : From Modeling to Documentation 
+, International Council for Building Research Studies and Documentation, W78 TG10 Workshop, Stanford, USA
+
+
+
+
+
+
+
+Kolarevic, Branko   (1994) 
+ Lines, Relations, Drawing and Design, Reconnecting
+, ACADIA Proceedings, pp. 51-61
+
+
+
+
+
+
+
+Liggett, R.S.  (1992) 
+ Designer-automated algorithm partnership: an interactive graphic approach to facility layout 
+, Kalay, Y. (ed), Principles of Computer-Aided Design: Evaluating and Predicting Design Performance, John Wiley & Sons
+
+
+
+
+
+
+
+Mahdavi, A.  (1999) 
+ A comprehensive and computational environment for performance based reasoning in building design and evaluation 
+, Automation in Construction, 8, pp. 427-435
+
+
+
+
+
+
+
+Maher, M.L. and Simoff, S.J.  (1997) 
+ Formalising building requirements using Activity/ Space
+, Automation in Construction, 6, pp. 77-95
+
+
+
+
+
+
+
+ONeill M.J.  (1992) 
+ Neural network simulation as a computer-aided design tool for predicting wayfinding performance 
+, Kalay, Y. (ed), Principles of Computer-Aided Design: Evaluating and Predicting Design Performance, John Wiley & Sons
+
+
+
+
+
+
+
+Steadman, P.  (1993) 
+ A database of the non -domestic building stock of Britain 
+, Automation in Construction, 2 (1) pp. 31-45
+
+
+
+
+
+
+
+Stiny, George   (1993) 
+ Emergence and Continuity in Shape Grammars 
+, CAAD Futures  93, pp. 37-54
+
+
+
+
+
+
+
+Tan, Milton   (1990) 
+ Closing in an Open Problem  reasons nad a strategy to encode emergent subshapes 
+, ACADIA Proceedings, pp. 5-19
+
+
+
+
+
+
+
+Yessios, C.I.  (1986) 
+ Architectural Modeling, Architecture 844 Lecture Notes I 
+, Graduate Program in Computer-Aided Architectural Design, Department of Architecture, The Ohio State University
+
+
+
+
+
+
+
+Yessios, C.I.  (1986) 
+ The Computability of Void Architectural Modeling 
+, The Computability of Design, Proceedings of Symposium on Computer-Aided Design at Suny Buffalo, New York",,"Carrara, G. and Kalay, Y.  (1994) 
+ Knowledge-based computational support for architectural design 
+, Automation in Construction, 3, pp.157-175",,,,"Chase, Scott C.   (1999) 
+ Grammar Based Design: Issues for User Interaction Models 
+, Media and Design Process, ACADIA Proceedings, pp.198-210",,,,"Chase,Scott C.   (1996) 
+ Design Modeling With Shape Algebras and Formal Logic 
+, Design Computation, ACADIA Proceedings, pp. 99-113",,,,"Choi, J.W.  (1997) 
+ A development of an intelligent CAD engine to support architectural design collaboration 
+, Korea CAD/CAM Journal, pp. 53-59",,,,"Eastman, C.M. (et al.)  (1991) 
+ A Data Model for Design Databases 
+, J.S. Gero (ed), Artificial Intelligence in Design '91, Butterworth- Heinemann, Oxford",,,,"Eastman, C.M.  (1991) 
+ A Data Model Analysis of Modularity and Extensibility in Building Database 
+, Environment and Building, 27(2), pp.135-148",,,,"Eastman, C.M.  (1994) 
+ A Data Model for Design Knowledge 
+, Automation in Construction, 3, pp.135-147",,,,"Kalay, Y., Khemlani, L., and Choi, J.W.  (1998) 
+ An Integrated Model to Support Distributed Collaborative Design of Buildings 
+, Automation in Construction, 7, pp.177-188",,,,"Kim, U.  (1992) 
+ An Object-based Modeling System Coupled with Design Information System
+, 6th International Conference on Systems Research, Baden Baden, Germany",,,,"Kim, U.  (1995) 
+ An Object-based Building Product Model : From Modeling to Documentation 
+, International Council for Building Research Studies and Documentation, W78 TG10 Workshop, Stanford, USA",,,,"Kolarevic, Branko   (1994) 
+ Lines, Relations, Drawing and Design, Reconnecting
+, ACADIA Proceedings, pp. 51-61",,,,"Liggett, R.S.  (1992) 
+ Designer-automated algorithm partnership: an interactive graphic approach to facility layout 
+, Kalay, Y. (ed), Principles of Computer-Aided Design: Evaluating and Predicting Design Performance, John Wiley & Sons",,,,"Mahdavi, A.  (1999) 
+ A comprehensive and computational environment for performance based reasoning in building design and evaluation 
+, Automation in Construction, 8, pp. 427-435",,,,"Maher, M.L. and Simoff, S.J.  (1997) 
+ Formalising building requirements using Activity/ Space
+, Automation in Construction, 6, pp. 77-95",,,,"ONeill M.J.  (1992) 
+ Neural network simulation as a computer-aided design tool for predicting wayfinding performance 
+, Kalay, Y. (ed), Principles of Computer-Aided Design: Evaluating and Predicting Design Performance, John Wiley & Sons",,,,"Steadman, P.  (1993) 
+ A database of the non -domestic building stock of Britain 
+, Automation in Construction, 2 (1) pp. 31-45",,,,"Stiny, George   (1993) 
+ Emergence and Continuity in Shape Grammars 
+, CAAD Futures  93, pp. 37-54",,,,"Tan, Milton   (1990) 
+ Closing in an Open Problem  reasons nad a strategy to encode emergent subshapes 
+, ACADIA Proceedings, pp. 5-19",,,,"Yessios, C.I.  (1986) 
+ Architectural Modeling, Architecture 844 Lecture Notes I 
+, Graduate Program in Computer-Aided Architectural Design, Department of Architecture, The Ohio State University",,,,"Yessios, C.I.  (1986) 
+ The Computability of Void Architectural Modeling 
+, The Computability of Design, Proceedings of Symposium on Computer-Aided Design at Suny Buffalo, New York",,
+10,2006/11/07 06:22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

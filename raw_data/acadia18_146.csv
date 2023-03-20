@@ -1,0 +1,248 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76
+0,acadia18_146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Rossi, Gabriella; Nicholas, Paul",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Re/Learning the Wheel. Methods to Utilize Neural Networks as Design Tools for Doubly
+Curved Metal Surfaces",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA // 2018: Recalibration. On imprecisionand infidelity. [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA) ISBN 978-0-692-17729-7] Mexico City, Mexico 18-20 October, 2018, pp.  146-155",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper introduces concepts and computational methodologies for utilizing neural networks as design tools for architecture and demonstrates their application in the making of doubly curved metal surfaces using a contemporary version of the English Wheel. The research adopts an interdisciplinary approach to develop a novel method to model complex geometric features using computational models that originate from the field of computer vision.The paper contextualizes the approach with respect to the current state of the art of the usage of artificial neural networks both in architecture and beyond. It illustrates the cyber physical system that is at the core of this research, with a focus on the employed neural networkbased computational method. Finally, the paper discusses the repercussions of these design tools on the contemporary design paradigm.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"full paper, ai & machine learning, digital craft, robotic production, computation",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,gr@gabriellarossi.tech,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (4,861,765 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Al-Zubaidi, Salah, Jaharah A. Ghani, and Che H.C. Haron (2011) 
+ Application of ANN in Milling Process: A Review
+, Modelling and Simulation in Engineering 2011: 696275
+
+
+
+
+
+
+
+Ashby, W. Ross (1954) 
+ Design for a Brain
+, New York: John Wiley & Sons
+
+
+
+
+
+
+
+Brugnaro, Giulio, and Sean Hanna (2017) 
+ Adaptive Robotic Training Methods for Subtractive Manufacturing
+, Disciplines & Disruption: Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture, edited by Takehiko Nagakura, Skylar Tibbits, Mariana Ibanez, and Caitlin Mueller, 1649. Cambridge, MA: ACADIA
+
+
+
+
+
+
+
+Callicott, Nick (2005) 
+ Adaptive Architectural Design
+, Architectural Design 75 (4): 669
+
+
+
+
+
+
+
+Carpo, Mario (2011) 
+ The Alphabet And The Algorithm
+, Cambridge, MA: MIT Press
+
+
+
+
+
+
+
+Cheng, Chi-Li, and June-Hao Hou (2016) 
+ Biomimetic Robotic Construction Process: An Approach for Adapting Mass Irregular-Shaped Natural Materials
+, Complexity & Simplicity: Proceedings of the 34th eCAADe Conference vol. 1, edited by Aulikki Herneoja, Toni Österlund, and Piia Markkanen, 13342. Oulu, Finland: eCAADe
+
+
+
+
+
+
+
+Gero, John (2017) 
+ Cognitive Design Computing
+, ShoCK!: Sharing Computational Knowledge!Proceedings of the 35th eCAADe Conference, vol. 1, edited by A. Fioravanti, S. Cursi, S. Elahmar, S. Gargaro, G. Loffreda, G. Novembri, and A. Trento, 3740. Rome: eCAADe
+
+
+
+
+
+
+
+Goodfellow, Ian, Yoshua Bengio, and Aaron Courville (2016) 
+ Deep Learning
+, Cambridge, MA: MIT Press
+
+
+
+
+
+
+
+Kamnitsas, Konstantinos, Christian Ledig, Virginia FJ Newcombe, Joanna P. Simpson, Andrew D. Kane, David K. Menon, Daniel Rueckert, and Ben Glocker (2017) 
+ Efficient Multi-Scale 3D CNN with Fully Connected CRF for Accurate Brain Lesion Segmentation
+, Medical Image Analysis 36: 6178
+
+
+
+
+
+
+
+Kashid, Sachin, and Shailendra Kumar (2012) 
+ Applications of Artificial Neural Network to Sheet Metal Work: A Review
+, American Journal of Intelligent Systems 2 (7): 16876
+
+
+
+
+
+
+
+LeCun, Yann, Léon Bottou, Yoshua Bengio, and Patrick Haffner (1998) 
+ Gradient-based Learning Applied to Document Recognition
+, Proceedings of the IEEE 86 (11): 2278324
+
+
+
+
+
+
+
+Li, Qing, Weidong Cai, Xiaogang Wang, Yun Zhou, David Dagan Feng, and Mei Chen (2014) 
+ Medical Image Classification with Convolutional Neural Network
+, Proceedings of the 13th International Conference on Control, Automation, Robotics & Vision, 8448. Singapore: ICARCV
+
+
+
+
+
+
+
+Long, Jonathan, Evan Shelhamer, and Trevor Darrell (2015) 
+ Fully Convolutional Networks for Semantic Segmentation
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 343140. Boston: CVPR
+
+
+
+
+
+
+
+Maturana, Daniel, and Sebastian Scherer (2015) 
+ Voxnet: A 3D Convolutional Neural Network for Real-time Object Recognition
+, Proceedings of the 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems, 9228. Hamburg: IROS
+
+
+
+
+
+
+
+Mitchell, William (2001) 
+ Roll Over Euclid: How Frank Gehry Designs and Builds
+, Frank Gehry, Architect, edited by J. Fiona Ragheb, 35263. New York: Guggenheim Museum Publications
+
+
+
+
+
+
+
+Norlander, Rickard, Josef Grahn, and Atsuto Maki (2015) 
+ Wooden Knot Detection using ConvNet Transfer Learning
+, Image Analysis: Proceedings of the 19th Scandinavian Conference on Image Analysis, edited by Rasmus R. Paulsen and Kim S. Pedersen, 26374. Cham: Springer
+
+
+
+
+
+
+
+Sharif, Shani, and T. Russel Gentry (2015) 
+ Design Cognition Shift from Craftsman to Digital Maker
+, Emerging Experience in Past, Present and Future of Digital Architecture, Proceedings of the 20th International Conference of the Association for Computer-Aided Architectural Design Research in Asia, edited by Y. Ikeda, C.M. Herr, D. Holzer, S. Kaijima, M.J. Kim, and M.A. Schnabel, 68392. Daegu, Korea: CAADRIA
+
+
+
+
+
+
+
+Smigielska, Maria (2018) 
+ Application of Machine Learning within the Integrative Design and Fabrication of Robotic Rod Bending Processes
+, Humanizing Digital Reality: Design Modelling Symposium Paris 2017, edited by K. De Rycke, C. Gengnagel, O. Baverel, J. Burry, C. Mueller, M. Nguyen, P. Rahm, M.R. Thomsen, 52336. Singapore: Springer
+
+
+
+
+
+
+
+Zwierzycki, Mateusz, Paul Nicholas, and Mette Ramsgaard Thomsen (2018) 
+ Localised and Learnt Applications of Machine Learning for Robotic Incremental Sheet Forming
+, Humanizing Digital Reality, Design Modelling Symposium Paris 2017, edited by K. De Rycke, C. Gengnagel, O. Baverel, J. Burry, C. Mueller, M. Nguyen, P. Rahm, M.R. Thomsen, 37382. Singapore: Springer",,"Al-Zubaidi, Salah, Jaharah A. Ghani, and Che H.C. Haron (2011) 
+ Application of ANN in Milling Process: A Review
+, Modelling and Simulation in Engineering 2011: 696275",,,,"Ashby, W. Ross (1954) 
+ Design for a Brain
+, New York: John Wiley & Sons",,,,"Brugnaro, Giulio, and Sean Hanna (2017) 
+ Adaptive Robotic Training Methods for Subtractive Manufacturing
+, Disciplines & Disruption: Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture, edited by Takehiko Nagakura, Skylar Tibbits, Mariana Ibanez, and Caitlin Mueller, 1649. Cambridge, MA: ACADIA",,,,"Callicott, Nick (2005) 
+ Adaptive Architectural Design
+, Architectural Design 75 (4): 669",,,,"Carpo, Mario (2011) 
+ The Alphabet And The Algorithm
+, Cambridge, MA: MIT Press",,,,"Cheng, Chi-Li, and June-Hao Hou (2016) 
+ Biomimetic Robotic Construction Process: An Approach for Adapting Mass Irregular-Shaped Natural Materials
+, Complexity & Simplicity: Proceedings of the 34th eCAADe Conference vol. 1, edited by Aulikki Herneoja, Toni Österlund, and Piia Markkanen, 13342. Oulu, Finland: eCAADe",,,,"Gero, John (2017) 
+ Cognitive Design Computing
+, ShoCK!: Sharing Computational Knowledge!Proceedings of the 35th eCAADe Conference, vol. 1, edited by A. Fioravanti, S. Cursi, S. Elahmar, S. Gargaro, G. Loffreda, G. Novembri, and A. Trento, 3740. Rome: eCAADe",,,,"Goodfellow, Ian, Yoshua Bengio, and Aaron Courville (2016) 
+ Deep Learning
+, Cambridge, MA: MIT Press",,,,"Kamnitsas, Konstantinos, Christian Ledig, Virginia FJ Newcombe, Joanna P. Simpson, Andrew D. Kane, David K. Menon, Daniel Rueckert, and Ben Glocker (2017) 
+ Efficient Multi-Scale 3D CNN with Fully Connected CRF for Accurate Brain Lesion Segmentation
+, Medical Image Analysis 36: 6178",,,,"Kashid, Sachin, and Shailendra Kumar (2012) 
+ Applications of Artificial Neural Network to Sheet Metal Work: A Review
+, American Journal of Intelligent Systems 2 (7): 16876",,,,"LeCun, Yann, Léon Bottou, Yoshua Bengio, and Patrick Haffner (1998) 
+ Gradient-based Learning Applied to Document Recognition
+, Proceedings of the IEEE 86 (11): 2278324",,,,"Li, Qing, Weidong Cai, Xiaogang Wang, Yun Zhou, David Dagan Feng, and Mei Chen (2014) 
+ Medical Image Classification with Convolutional Neural Network
+, Proceedings of the 13th International Conference on Control, Automation, Robotics & Vision, 8448. Singapore: ICARCV",,,,"Long, Jonathan, Evan Shelhamer, and Trevor Darrell (2015) 
+ Fully Convolutional Networks for Semantic Segmentation
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 343140. Boston: CVPR",,,,"Maturana, Daniel, and Sebastian Scherer (2015) 
+ Voxnet: A 3D Convolutional Neural Network for Real-time Object Recognition
+, Proceedings of the 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems, 9228. Hamburg: IROS",,,,"Mitchell, William (2001) 
+ Roll Over Euclid: How Frank Gehry Designs and Builds
+, Frank Gehry, Architect, edited by J. Fiona Ragheb, 35263. New York: Guggenheim Museum Publications",,,,"Norlander, Rickard, Josef Grahn, and Atsuto Maki (2015) 
+ Wooden Knot Detection using ConvNet Transfer Learning
+, Image Analysis: Proceedings of the 19th Scandinavian Conference on Image Analysis, edited by Rasmus R. Paulsen and Kim S. Pedersen, 26374. Cham: Springer",,,,"Sharif, Shani, and T. Russel Gentry (2015) 
+ Design Cognition Shift from Craftsman to Digital Maker
+, Emerging Experience in Past, Present and Future of Digital Architecture, Proceedings of the 20th International Conference of the Association for Computer-Aided Architectural Design Research in Asia, edited by Y. Ikeda, C.M. Herr, D. Holzer, S. Kaijima, M.J. Kim, and M.A. Schnabel, 68392. Daegu, Korea: CAADRIA",,,,"Smigielska, Maria (2018) 
+ Application of Machine Learning within the Integrative Design and Fabrication of Robotic Rod Bending Processes
+, Humanizing Digital Reality: Design Modelling Symposium Paris 2017, edited by K. De Rycke, C. Gengnagel, O. Baverel, J. Burry, C. Mueller, M. Nguyen, P. Rahm, M.R. Thomsen, 52336. Singapore: Springer",,,,"Zwierzycki, Mateusz, Paul Nicholas, and Mette Ramsgaard Thomsen (2018) 
+ Localised and Learnt Applications of Machine Learning for Robotic Incremental Sheet Forming
+, Humanizing Digital Reality, Design Modelling Symposium Paris 2017, edited by K. De Rycke, C. Gengnagel, O. Baverel, J. Burry, C. Mueller, M. Nguyen, P. Rahm, M.R. Thomsen, 37382. Singapore: Springer",,
+12,2019/01/07 11:21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

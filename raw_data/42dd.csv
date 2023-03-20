@@ -1,0 +1,100 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+0,"Kobayashi, Yoshihiro and Terzidis, Kostas",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2000,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Extracting the Geometry of Buildings from Satellite Images using Fuzzy Multiple Layer Perceptrons,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"SIGraDi2000 - Construindo (n)o espacio digital (constructing the digital Space) [4th SIGRADI Conference Proceedings / ISBN 85-88027-02-X] Rio de Janeiro (Brazil) 25-28 september 2000, pp. 236-239",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,This paper presents Computer Aided Architectural Design (CAAD) system utilizing the technologies of artificial intelligence (AI) and image processing. The goal is to create a CAAD system that detects buildings from satellite images and produces computer city models allowing the systems users to manipulate the models utilizing machine learning technology. The flexibility and usability of the system was evaluated with case studies. Soft computing technologies including neural networks and fuzzy systems are mainly applied and tested as the systems methodology.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,SIGRADI,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"sunp@ucla.edu, kostas@ucla.edu",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"file.pdf (256,628 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Chellappa, R., Zheng, Q., Davis, L.S., Lin, C.L., Zhang, X., Rodriguez, C., Rosenfeld, A., and Moore, T.  (1994) 
+ Site-Model-Based Monitoring of Aerial Images 
+, Proc. ARPA Image Understanding workshop, vol. 1, 295-318
+
+
+
+
+
+
+
+Hsieh, Y. (1996) 
+ SiteCity: A Semi-Automated Site Modeling System 
+, Proc. IEEE Conference Computer Vision and Pattern Recognition, June 1996, 499-506
+
+
+
+
+
+
+
+Liggett, R, Friedman, S, and Jepson, W. (1995) 
+ Interactive Design/Decision Making in a Virtual Urban World: Visual Simulation and GIS 
+, Proceedings of the Fifteenth Annual ESRI User Conference. Palm Springs, CA, (May)
+
+
+
+
+
+
+
+Mckeown, D.M.  (1990) 
+ Toward Automatic Cartographic Feature Extraction from Aerial Imagery
+, Mapping and Spatial Modeling for Navigation, L. F. Fau, (ed)., NATO ASI series, vol. F65, 149-180
+
+
+
+
+
+
+
+Mitra, S. and Pal, S.K. (1994) 
+ Logical operation based Fuzzy MLP for classification and rule generation
+, Neural Networks, vol. 7, 353-373
+
+
+
+
+
+
+
+Pal, S.K. and Mitra, S. (1992) 
+ Multi-Layer perceptron, fuzzy set and classification 
+, IEEE Transactions on Neural Networks, vol.3, 683-697
+
+
+
+
+
+
+
+Pal, S.K. and Mitra, S. (1999) 
+ Neuro-Fuzzy Pattern Recognition 
+, New York: Wiley-Interscience",,"Chellappa, R., Zheng, Q., Davis, L.S., Lin, C.L., Zhang, X., Rodriguez, C., Rosenfeld, A., and Moore, T.  (1994) 
+ Site-Model-Based Monitoring of Aerial Images 
+, Proc. ARPA Image Understanding workshop, vol. 1, 295-318",,,,"Hsieh, Y. (1996) 
+ SiteCity: A Semi-Automated Site Modeling System 
+, Proc. IEEE Conference Computer Vision and Pattern Recognition, June 1996, 499-506",,,,"Liggett, R, Friedman, S, and Jepson, W. (1995) 
+ Interactive Design/Decision Making in a Virtual Urban World: Visual Simulation and GIS 
+, Proceedings of the Fifteenth Annual ESRI User Conference. Palm Springs, CA, (May)",,,,"Mckeown, D.M.  (1990) 
+ Toward Automatic Cartographic Feature Extraction from Aerial Imagery
+, Mapping and Spatial Modeling for Navigation, L. F. Fau, (ed)., NATO ASI series, vol. F65, 149-180",,,,"Mitra, S. and Pal, S.K. (1994) 
+ Logical operation based Fuzzy MLP for classification and rule generation
+, Neural Networks, vol. 7, 353-373",,,,"Pal, S.K. and Mitra, S. (1992) 
+ Multi-Layer perceptron, fuzzy set and classification 
+, IEEE Transactions on Neural Networks, vol.3, 683-697",,,,"Pal, S.K. and Mitra, S. (1999) 
+ Neuro-Fuzzy Pattern Recognition 
+, New York: Wiley-Interscience",,
+9,2016/03/10 08:54,,,,,,,,,,,,,,,,,,,,,,,,,,,,

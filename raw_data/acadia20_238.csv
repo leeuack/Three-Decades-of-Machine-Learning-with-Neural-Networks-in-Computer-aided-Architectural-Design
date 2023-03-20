@@ -1,0 +1,222 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68
+0,acadia20_238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Zhang, Hang",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Text-to-Form,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2020: Distributed Proximities / Volume I: Technical Papers [Proceedings of the 40th Annual Conference of the Association of Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-95213-0]. Online and Global. 24-30 October 2020. edited by B. Slocum, V. Ago, S. Doyle, A. Marcus, M. Yablonina, and M. del Campo. 238-247.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Traditionally, architects express their thoughts on the design of 3D architectural forms via perspective renderings and standardized 2D drawings. However, as architectural design is always multidimensional and intricate, it is difficult to make others understand the design intention, concrete form, and even spatial layout through simple language descriptions. Benefiting from the fast development of machine learning, especially natural language processing and convolutional neural networks, this paper proposes a Linguistics-based Architectural Form Generative Model (LAFGM) that could be trained to make 3D architectural form predictions based simply on language input. Several related works exist that focus on learning text-to-image generation, while others have taken a further step by generating simple shapes from the descriptions. However, the text parsing and output of these works still remain either at the 2D stage or confined to a single geometry. On the basis of these works, this paper used both Stanford Scene Graph Parser (Sebastian et al. 2015) and graph convolutional networks (Kipf and Welling 2016) to compile the analytic semantic structure for the input texts, then generated the 3D architectural form expressed by the language descriptions, which is also aided by several optimization algorithms. To a certain extent, the training results approached the 3D form intended in the textual description, not only indicating the tremendous potential of LAFGM from linguistic input to 3D architectural form, but also innovating design expression and communication regarding 3D spatial information.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,kv333q@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (7,245,384 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bidgoli, Ardavan, and Pedro Veloso (2018) 
+ DeepCloud. The Application of a Data-driven, Generative Model in Design
+, ACADIA 2018: Recalibration: On Imprecision and Infidelity [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Mexico City, Mexico, 1820 October 2018, edited by P. Anzalone, M. del Signore, and A. J. Wit, 176185. CUMINCAD
+
+
+
+
+
+
+
+Chen, K., C.  B. Choy, M. Savva et al (2018) 
+ Text2shape: Generating Shapes from Natural Language by Learning Joint Embeddings
+, Asian Conference on Computer Vision, 100116. Cham: Springer
+
+
+
+
+
+
+
+de Miguel, Jaime, Maria Eugenia Villafane, Luka Pikorec, and Fernando Sancho-Caparrini (2019) 
+ Deep Form FindingUsing Variational Autoencoders for Deep Form Finding of Structural Typologies
+, Architecture in the Age of the 4th Industrial Revolution [Proceedings of the 37th eCAADe and 23rd SIGraDi Conference, Volume 1], Porto, Portugal, 1113 September 2019, edited by J. P. Sousa, J. P. Xavier, and G. Castro Henriques, 7180. eCAADe
+
+
+
+
+
+
+
+Gatt, Albert, and Emiel Krahmer (2018) 
+ Survey of the State of the Art in Natural Language Generation: Core Tasks, Applications and Evaluation
+, Journal of Artificial Intelligence Research 61: 65170
+
+
+
+
+
+
+
+Goodfellow, I., J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, and Y. Bengio (2014) 
+ Generative Adversarial Nets
+, Advances in Neural Information Processing Systems: 26722680
+
+
+
+
+
+
+
+Goodfellow, I., Y. Bengio, A. Courville (2016) 
+ 6.2.2.3 Softmax Units for Multinoulli Output Distributions
+, Deep Learning, edited by I. Goodfellow, Y. Bengio, and A. Courville, 180184. Cambridge: MIT Press
+
+
+
+
+
+
+
+Harris, C.R., K. J. Millman, S. J. van der Walt, et al (2020) 
+ Array programming with NumPy
+, Nature 585, 357362. DOI: 0.1038/s41586-020-2649-2
+
+
+
+
+
+
+
+Kingma, Diederik P., and Jimmy Ba (2014) 
+ Adam: A method for stochastic optimization
+, arXiv preprint arXiv:1412.6980
+
+
+
+
+
+
+
+Kipf, T. N., and M. Welling (2016) 
+ Semi-Supervised Classification with Graph Convolutional Networks
+, arXiv preprint. arXiv:1609.02907
+
+
+
+
+
+
+
+Krizhevsky, A., I. Sutskever, and G. Hinton (2012) 
+ Imagenet Classification with Deep Convolutional Neural Networks
+, Advances in Neural Information Processing Systems: 10971105
+
+
+
+
+
+
+
+Liu, Henan, Longai Liao, and Akshay Srivastava (2019) 
+ An Anonymous Composition
+, ACADIA 19: Ubiquity and Autonomy [Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Austin, TX, 2126 October 2019, edited by K. Bieg, D. Briscoe, and C. Odom, 404411. CUMINCAD
+
+
+
+
+
+
+
+Sebastian, Schuster, Ranjay Krishna, Angel Chang, Li Fei-Fei, and Christopher D. Manning (2015) 
+ Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval
+, Proceedings of the Fourth Workshop on Vision and Language, Lisbon, Portugal, 18 September 2015,  7080. Association for Computational Linguistics
+
+
+
+
+
+
+
+Shi, X, Z. Chen, H. Wang et al (2015) 
+ Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting
+, Advances in Neural Information Processing Systems 28: 802810
+
+
+
+
+
+
+
+Tan, F., S. Feng, and V. Ordonez (2019) 
+ Text2Scene: Generating Compositional Scenes from Textual Descriptions
+, Proceedings of the 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, 1520 June 2019, 67036712. IEEE. 
+
+
+
+
+
+
+
+Tingting, Qiao. Jing Zhang, Duanqing Xu, and Dacheng Tao (2019) 
+ Mirrorgan: Learning Text-to-Image Generation by Redescription
+, Proceedings of the 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, 1520 June 2019, 15051514. IEEE
+
+
+
+
+
+
+
+Zhang, Hang, and Ezio Blasetti (2020) 
+ 3D Architectural Form Style Transfer through Machine Learning
+, Anthropocene, Design in the Age of Humans [Proceedings of the 25th CAADRIA Conference, Volume 2], Bangkok, Thailand, 56 August 2020, edited by D. Holzer, W. Nakapan, A. Globa, and I. Koh, 659668. CUMINCAD
+
+
+
+
+
+
+
+Zhang, Yan, Arnod Grignard, Alexander Aubuchon, Kevin Lyons, and Kent Larson (2018) 
+ Machine Learning for Real-time Urban Metrics and Design Recommendations
+, ACADIA 2018: Recalibration: On Imprecision and Infidelity [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Mexico City, Mexico, 1820 October 2018, edited by P. Anzalone, M. del Signore, and A. J. Wit, 196205. CUMINCAD",,"Bidgoli, Ardavan, and Pedro Veloso (2018) 
+ DeepCloud. The Application of a Data-driven, Generative Model in Design
+, ACADIA 2018: Recalibration: On Imprecision and Infidelity [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Mexico City, Mexico, 1820 October 2018, edited by P. Anzalone, M. del Signore, and A. J. Wit, 176185. CUMINCAD",,,,"Chen, K., C.  B. Choy, M. Savva et al (2018) 
+ Text2shape: Generating Shapes from Natural Language by Learning Joint Embeddings
+, Asian Conference on Computer Vision, 100116. Cham: Springer",,,,"de Miguel, Jaime, Maria Eugenia Villafane, Luka Pikorec, and Fernando Sancho-Caparrini (2019) 
+ Deep Form FindingUsing Variational Autoencoders for Deep Form Finding of Structural Typologies
+, Architecture in the Age of the 4th Industrial Revolution [Proceedings of the 37th eCAADe and 23rd SIGraDi Conference, Volume 1], Porto, Portugal, 1113 September 2019, edited by J. P. Sousa, J. P. Xavier, and G. Castro Henriques, 7180. eCAADe",,,,"Gatt, Albert, and Emiel Krahmer (2018) 
+ Survey of the State of the Art in Natural Language Generation: Core Tasks, Applications and Evaluation
+, Journal of Artificial Intelligence Research 61: 65170",,,,"Goodfellow, I., J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, and Y. Bengio (2014) 
+ Generative Adversarial Nets
+, Advances in Neural Information Processing Systems: 26722680",,,,"Goodfellow, I., Y. Bengio, A. Courville (2016) 
+ 6.2.2.3 Softmax Units for Multinoulli Output Distributions
+, Deep Learning, edited by I. Goodfellow, Y. Bengio, and A. Courville, 180184. Cambridge: MIT Press",,,,"Harris, C.R., K. J. Millman, S. J. van der Walt, et al (2020) 
+ Array programming with NumPy
+, Nature 585, 357362. DOI: 0.1038/s41586-020-2649-2",,,,"Kingma, Diederik P., and Jimmy Ba (2014) 
+ Adam: A method for stochastic optimization
+, arXiv preprint arXiv:1412.6980",,,,"Kipf, T. N., and M. Welling (2016) 
+ Semi-Supervised Classification with Graph Convolutional Networks
+, arXiv preprint. arXiv:1609.02907",,,,"Krizhevsky, A., I. Sutskever, and G. Hinton (2012) 
+ Imagenet Classification with Deep Convolutional Neural Networks
+, Advances in Neural Information Processing Systems: 10971105",,,,"Liu, Henan, Longai Liao, and Akshay Srivastava (2019) 
+ An Anonymous Composition
+, ACADIA 19: Ubiquity and Autonomy [Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Austin, TX, 2126 October 2019, edited by K. Bieg, D. Briscoe, and C. Odom, 404411. CUMINCAD",,,,"Sebastian, Schuster, Ranjay Krishna, Angel Chang, Li Fei-Fei, and Christopher D. Manning (2015) 
+ Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval
+, Proceedings of the Fourth Workshop on Vision and Language, Lisbon, Portugal, 18 September 2015,  7080. Association for Computational Linguistics",,,,"Shi, X, Z. Chen, H. Wang et al (2015) 
+ Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting
+, Advances in Neural Information Processing Systems 28: 802810",,,,"Tan, F., S. Feng, and V. Ordonez (2019) 
+ Text2Scene: Generating Compositional Scenes from Textual Descriptions
+, Proceedings of the 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, 1520 June 2019, 67036712. IEEE.",,,,"Tingting, Qiao. Jing Zhang, Duanqing Xu, and Dacheng Tao (2019) 
+ Mirrorgan: Learning Text-to-Image Generation by Redescription
+, Proceedings of the 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, 1520 June 2019, 15051514. IEEE",,,,"Zhang, Hang, and Ezio Blasetti (2020) 
+ 3D Architectural Form Style Transfer through Machine Learning
+, Anthropocene, Design in the Age of Humans [Proceedings of the 25th CAADRIA Conference, Volume 2], Bangkok, Thailand, 56 August 2020, edited by D. Holzer, W. Nakapan, A. Globa, and I. Koh, 659668. CUMINCAD",,,,"Zhang, Yan, Arnod Grignard, Alexander Aubuchon, Kevin Lyons, and Kent Larson (2018) 
+ Machine Learning for Real-time Urban Metrics and Design Recommendations
+, ACADIA 2018: Recalibration: On Imprecision and Infidelity [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Mexico City, Mexico, 1820 October 2018, edited by P. Anzalone, M. del Signore, and A. J. Wit, 196205. CUMINCAD",,
+11,2021/10/28 06:57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

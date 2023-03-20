@@ -1,0 +1,256 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,"Liu, Yu Tung",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,1996,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Connectionist CAAD for Restructuring Shapes in Terms of Emergent Subshapes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"CAADRIA 96 [Proceedings of The First Conference on Computer Aided Architectural Design Research in Asia / ISBN 9627-75-703-9] Hong Kong (Hong Kong) 25-27 April 1996, pp. 	173-190",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Designers naturally restructure shapes in terms of emergent subshapes in the process of design.  According to the result of a psychological experiment about how experienced and non-experienced designers see shapes, only experienced designers can encode implicit subshapes emerged from the primary shapes.  Many symbolic approaches have been considered in addressing this focused problem.  On the other hand, the issue is also encountered by connectionist networks, also called parallel distributed models or neural networks.  Recognizing both explicit and implicit emergent subshapes has been explored using connectionist networks associated with appropriate mechanisms of visual attention, namely recurrent attention and searchlight attention in combination.  The distinction between symbolic and connectionist computations of shapes is discussed.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,aleppo@arch.nctu.edu.tw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"file.pdf (1,009,266 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Akin, Ö.  (1986) 
+ Psychology ofArchitectural Design
+, Pion, London
+
+
+
+
+
+
+
+Broadbent, D.E.  (1970) 
+ Stimulus set and response set: Two kinds of selective attention 
+, DI. Mostofsky, ed., Attention. Contemporary theory and analysis (Meredith, New York) 5160.
+
+
+
+
+
+
+
+Coyne, R.D.  (1991) 
+ Modelling the emergence of design descriptions across schemata 
+, Environment and Planning B: Planning and Design 18 427-458.
+
+
+
+
+
+
+
+Coyne, R.D. and Newton, S.  (1990) 
+ Design reasoning by association 
+, Environment and Planning B: Planning and Design 17  39-56. 
+
+
+
+
+
+
+
+Crick, F.H.C. (1984) 
+ The function of the thalamic reticular complex: The searchlight hypothesis 
+, proc. of The National Academy of Science, USA, 81, 4586-4590.
+
+
+
+
+
+
+
+Dinsmore, J.  (1992) 
+ Thunder in the gap 
+, J. Dinsmore, ed., Symbolic and connectionist paradigms: Closing the gap (Erlbaum, Hillsdale, NJ) 1-23.
+
+
+
+
+
+
+
+Fodor, J. and Pylyshyn, Z.W.  (1988) 
+ Connectionism and cognitive architecture: A critical analysis 
+, S. Pinker and J. Mehler, eds., Connections and symbols (MIT Press, Cambridge, MA) 3-72.
+
+
+
+
+
+
+
+Gero, J.S. and Yan, M.  (1993) 
+ Discovering emergent shapes using a data-driven symbolic model 
+, U. Flemming & S. Van Wyk, eds. CAAD Futures '93 (Elsevier, Amsterdam) 3-17.
+
+
+
+
+
+
+
+Gregory, R.L. (ed.)  (1987) 
+ The Oxford Companion to the Mind 
+, Oxford University Press, Oxford
+
+
+
+
+
+
+
+Henderson, L.  (1982) 
+ Orthography and Word Recognition in Reading 
+, Academic Press, New York
+
+
+
+
+
+
+
+James, W.  (1946) 
+ The Principles of Psychology 
+, Dover, New York, [1890]
+
+
+
+
+
+
+
+Koffka, K.  (1935) 
+ Principles of Gestalt Psychology
+, Harcourt, Brace and Company, New York
+
+
+
+
+
+
+
+Kosslyn, S.M. and Koeing, 0.  (1992) 
+ WetMind 
+, Free Press, New York
+
+
+
+
+
+
+
+Liu, Y.T.  (1991) 
+ Schematic-Designer: A knowledge-based CAD system for schematic design in architecture 
+, Design Studies 12(3) 151-167.
+
+
+
+
+
+
+
+Liu, Y.T.  (1994) 
+ Symbolic CAAD versus Connectionist CAAD 
+, Languages of design 2(4) 325-346.
+
+
+
+
+
+
+
+Liu, Y.T.  (1994) 
+ Encoding explicit and implicit emergent subshapes based on empirical findings about human vision 
+, J.S. Gero & F. Sudweeks, eds., Artificial Intelligence in Design '94(Kluwer, Dordrecht, Netherlands) 401-418.
+
+
+
+
+
+
+
+Liu, Y.T.  (1995) 
+ Some phenomena of seeing shapes in design 
+, Design Studies 16 (3)  367-385.
+
+
+
+
+
+
+
+Liu, Y.T.  (19??) 
+ Restructuring shapes in terms of emergent subshapes: A computational and cognitive model 
+, Accepted to appear in Environment and Planning B: Planning and Design.
+
+
+
+
+
+
+
+McClelland, J.L., Rumelhart, D.E. and Hinton, G.E.  (1986) 
+ The appeal of parallel distributed processing 
+, D.E. Rumelhart, IL. McClelland & the PDP Research Group, eds., Parallel distributed pro cessing (MIT Press, Cambridge, MA) 3-44,
+
+
+
+
+
+
+
+Minsky, M.  (1963) 
+ Steps toward artificial intelligence 
+, E.A. Feigenbaum & J. Feldman, eds., Computers and Thought (McGraw-Hill, New York) 406-450.",,"Akin, Ö.  (1986) 
+ Psychology ofArchitectural Design
+, Pion, London",,,,"Broadbent, D.E.  (1970) 
+ Stimulus set and response set: Two kinds of selective attention 
+, DI. Mostofsky, ed., Attention. Contemporary theory and analysis (Meredith, New York) 5160.",,,,"Coyne, R.D.  (1991) 
+ Modelling the emergence of design descriptions across schemata 
+, Environment and Planning B: Planning and Design 18 427-458.",,,,"Coyne, R.D. and Newton, S.  (1990) 
+ Design reasoning by association 
+, Environment and Planning B: Planning and Design 17  39-56.",,,,"Crick, F.H.C. (1984) 
+ The function of the thalamic reticular complex: The searchlight hypothesis 
+, proc. of The National Academy of Science, USA, 81, 4586-4590.",,,,"Dinsmore, J.  (1992) 
+ Thunder in the gap 
+, J. Dinsmore, ed., Symbolic and connectionist paradigms: Closing the gap (Erlbaum, Hillsdale, NJ) 1-23.",,,,"Fodor, J. and Pylyshyn, Z.W.  (1988) 
+ Connectionism and cognitive architecture: A critical analysis 
+, S. Pinker and J. Mehler, eds., Connections and symbols (MIT Press, Cambridge, MA) 3-72.",,,,"Gero, J.S. and Yan, M.  (1993) 
+ Discovering emergent shapes using a data-driven symbolic model 
+, U. Flemming & S. Van Wyk, eds. CAAD Futures '93 (Elsevier, Amsterdam) 3-17.",,,,"Gregory, R.L. (ed.)  (1987) 
+ The Oxford Companion to the Mind 
+, Oxford University Press, Oxford",,,,"Henderson, L.  (1982) 
+ Orthography and Word Recognition in Reading 
+, Academic Press, New York",,,,"James, W.  (1946) 
+ The Principles of Psychology 
+, Dover, New York, [1890]",,,,"Koffka, K.  (1935) 
+ Principles of Gestalt Psychology
+, Harcourt, Brace and Company, New York",,,,"Kosslyn, S.M. and Koeing, 0.  (1992) 
+ WetMind 
+, Free Press, New York",,,,"Liu, Y.T.  (1991) 
+ Schematic-Designer: A knowledge-based CAD system for schematic design in architecture 
+, Design Studies 12(3) 151-167.",,,,"Liu, Y.T.  (1994) 
+ Symbolic CAAD versus Connectionist CAAD 
+, Languages of design 2(4) 325-346.",,,,"Liu, Y.T.  (1994) 
+ Encoding explicit and implicit emergent subshapes based on empirical findings about human vision 
+, J.S. Gero & F. Sudweeks, eds., Artificial Intelligence in Design '94(Kluwer, Dordrecht, Netherlands) 401-418.",,,,"Liu, Y.T.  (1995) 
+ Some phenomena of seeing shapes in design 
+, Design Studies 16 (3)  367-385.",,,,"Liu, Y.T.  (19??) 
+ Restructuring shapes in terms of emergent subshapes: A computational and cognitive model 
+, Accepted to appear in Environment and Planning B: Planning and Design.",,,,"McClelland, J.L., Rumelhart, D.E. and Hinton, G.E.  (1986) 
+ The appeal of parallel distributed processing 
+, D.E. Rumelhart, IL. McClelland & the PDP Research Group, eds., Parallel distributed pro cessing (MIT Press, Cambridge, MA) 3-44,",,,,"Minsky, M.  (1963) 
+ Steps toward artificial intelligence 
+, E.A. Feigenbaum & J. Feldman, eds., Computers and Thought (McGraw-Hill, New York) 406-450.",,
+9,2003/05/17 07:54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

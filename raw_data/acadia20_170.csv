@@ -1,0 +1,78 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+0,acadia20_170,,,,,,,,,,,,,,,,,,,,
+1,"Li, Peiwen; Zhu, Wenbo",,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,
+3,Clustering and Morphological Analysis of Campus Context,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2020: Distributed Proximities / Volume I: Technical Papers [Proceedings of the 40th Annual Conference of the Association of Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-95213-0]. Online and Global. 24-30 October 2020. edited by B. Slocum, V. Ago, S. Doyle, A. Marcus, M. Yablonina, and M. del Campo. 170-177.",,,,,,,,,,,,,,,,,,,,
+5,"Figure-ground is an indispensable and significant part of urban design and urban morphological research, especially for the study of the university, which exists as a unique product of the city development and also develops with the city. In the past few decades, methods adapted by scholars of analyzing the figure-ground relationship of university campuses have gradually turned from qualitative to quantitative. And with the widespread application of AI technology in various disciplines, emerging research tools such as machine learning/deep learning have also been used in the study of urban morphology. On this basis, this paper reports on a potential application of deep clustering and big-data methods for campus morphological analysis. It documents a new framework for compressing the customized diagrammatic images containing a campus and its surrounding city context into integrated feature vectors via a convolutional autoencoder model, and using the compressed feature vectors for clustering and quantitative analysis of campus morphology.",,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,
+7,paper,,,,,,,,,,,,,,,,,,,,
+8,lpwseu@163.com,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (5,003,480 bytes)",,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Dong, J., L. Li and D. Han (2019) 
+ New Quantitative Approach for the Morphological Similarity Analysis of Urban Fabrics Based on a Convolutional Autoencoder
+, IEEE Access 7: 13816274
+
+
+
+
+
+
+
+Li, X., S. Cheng, K. Li, and C. Chen (2017) 
+ Data Analysis of Urban FabricA Case Study of Hankou Yanjiang Area
+, Architectural Journal (S1): 713
+
+
+
+
+
+
+
+Meng, Zhang (2018) 
+ Research on Outer Space Morphology of Primary and Secondary Schools Based on Space Syntax
+, Master's thesis, Southeast University
+
+
+
+
+
+
+
+Rhee, Jinmo (2019) 
+ Context-rich Urban Analysis Using Machine LearningA Case Study in Pittsburgh, PA
+, Architecture in the Age of the 4th Industrial RevolutionProceedings of the 37th eCAADe and 23rd SIGraDi Conference, edited by J.P. Sousa, J. P. Xavier, and G. Castro Henriques, 34352. Portugal. CUMINCAD
+
+
+
+
+
+
+
+van der Maaten, L. J. P. and G.E. Hinton (2008) 
+ Visualizing High-Dimensional Data Using t-SNE
+, Journal of Machine Learning Research 9 (Nov): 2579-2605",,"Dong, J., L. Li and D. Han (2019) 
+ New Quantitative Approach for the Morphological Similarity Analysis of Urban Fabrics Based on a Convolutional Autoencoder
+, IEEE Access 7: 13816274",,,,"Li, X., S. Cheng, K. Li, and C. Chen (2017) 
+ Data Analysis of Urban FabricA Case Study of Hankou Yanjiang Area
+, Architectural Journal (S1): 713",,,,"Meng, Zhang (2018) 
+ Research on Outer Space Morphology of Primary and Secondary Schools Based on Space Syntax
+, Master's thesis, Southeast University",,,,"Rhee, Jinmo (2019) 
+ Context-rich Urban Analysis Using Machine LearningA Case Study in Pittsburgh, PA
+, Architecture in the Age of the 4th Industrial RevolutionProceedings of the 37th eCAADe and 23rd SIGraDi Conference, edited by J.P. Sousa, J. P. Xavier, and G. Castro Henriques, 34352. Portugal. CUMINCAD",,,,"van der Maaten, L. J. P. and G.E. Hinton (2008) 
+ Visualizing High-Dimensional Data Using t-SNE
+, Journal of Machine Learning Research 9 (Nov): 2579-2605",,
+11,2021/10/28 06:57,,,,,,,,,,,,,,,,,,,,

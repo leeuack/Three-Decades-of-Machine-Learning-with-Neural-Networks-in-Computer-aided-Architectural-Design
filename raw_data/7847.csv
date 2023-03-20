@@ -1,0 +1,10 @@
+﻿,0
+0,"Kartam, Nabil and Flood,  Ian"
+1,2000
+2,Construction simulation using parallel computing environments
+3,Automation in Construction 10 (1) (2000) pp. 69-78
+4,"The paper describes and compares alternative approaches to implementing construction simulation models within a multiprocessor computing environment. Both parallel-algorithmic and neural network based methods of simulating construction processes are considered, and compared with the conventional serial-algorithmic approach. The lines along which a simulation algorithm can be divided into tasks for parallel execution on a multiprocessor are first discussed, and the merits of each approach are identified. This is followed by a brief discourse on neural networks, their application to construction simulation, and the way in which such an implementation can be implemented within a multiprocessing environment. The merits and demerits of all approaches are discussed with particular reference to a model of an excavation system. A case study comparing the speed at which each implementation can process a simulation shows the neural approach to operate approximately two orders of magnitude faster than the alternatives. The paper concludes with an indication of future research to be conducted in this field."
+5,journal paper
+6,http://www.elsevier.com/locate/autcon
+7,Content-type: text/plain
+8,2003/05/15 19:22

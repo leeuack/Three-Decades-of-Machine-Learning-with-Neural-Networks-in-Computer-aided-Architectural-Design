@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,acadia20_208,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Zheng, Hao; Wang, Xinyu; Qi, Zehua; Sun, Shixuan; Akbarzadeh, Masoud",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Generating and Optimizing a Funicular Arch Floor Structure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2020: Distributed Proximities / Volume I: Technical Papers [Proceedings of the 40th Annual Conference of the Association of Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-95213-0]. Online and Global. 24-30 October 2020. edited by B. Slocum, V. Ago, S. Doyle, A. Marcus, M. Yablonina, and M. del Campo. 208-217.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In this paper, we propose a geometry-based generative design method to generate and optimize a floor structure with funicular building members. This method challenges the antiquated column system, which has been used for more than a century. By inputting the floor plan with the positions of columns, designers can generate a variety of funicular supporting structures, expanding the choice of floor structure designs beyond simply columns and beams and encouraging the creation of architectural spaces with more diverse design elements. We further apply machine learning techniques (artificial neural networks) to evaluate and optimize the structural performance and constructability of the funicular structure, thus finding the optimal solutions within the almost infinite solution space. To achieve this, a machine learning model is trained and used as a fast evaluator to help the evolutionary algorithm find the optimal designs. This interdisciplinary method combines computer science and structural design, providing flexible design choices for generating floor structures.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,zhhao@design.upenn.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (5,675,146 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Adriaenssens, S., P. Block, D. Veenendaal, and C. Williams (2014) 
+ Shell Structures for Architecture: Form Finding and Optimization.
+, Routledge
+
+
+
+
+
+
+
+Akbarzadeh, M., T. Van Mele, and P. Block (2015) 
+ On the Equilibrium of Funicular Polyhedral Frames and Convex Polyhedral Force Diagrams
+, Computer-Aided Design 63: 118128
+
+
+
+
+
+
+
+Akbarzadeh, M. (2016) 
+ 3D Graphical Statics Using Reciprocal Polyhedral Diagrams
+, PhD dissertation, ETH Zurich
+
+
+
+
+
+
+
+Aksöz, Z., and C. Preisinger (2019) 
+ An Interactive Structural Optimization of Space Frame Structures Using Machine Learning
+, Impact: Design With All Senses [Proceedings of the Design Modelling Symposium], Berlin, Germany, edited by Christoph Gengnagel, Olivier Baverel, Jane Burry, Mette Ramsgaard-Thomsen, and Stefan Weinzierl, 1831. Springer
+
+
+
+
+
+
+
+Anderson, S. (1984) 
+ Architectural Research Programmes in the Work of Le Corbusier
+, Design Studies 5 (3): 151158
+
+
+
+
+
+
+
+Block, P.,and J. Ochsendorf (2007) 
+ Thrust Network Analysis: A New Methodology for Three-Dimensional Equilibrium
+, Journal of the International Association for Shell and Spatial Structures 48 (3): 167173
+
+
+
+
+
+
+
+Bolhassani, M., M. Akbarzadeh, M. Mahnia, and R. Taherian (2018) 
+ On Structural Behavior of a Funicular Concrete Polyhedral Frame Designed by 3D Graphic Statics
+, Structures 14: 5658
+
+
+
+
+
+
+
+Bow, R. H (1873) 
+ Economics of Construction in Relation to Framed Structures
+, Cambridge: Cambridge University Press
+
+
+
+
+
+
+
+Cremona, L (1890) 
+ Graphical Statics: Two Treatises on the Graphical Calculus and Reciprocal Figures in Graphical Statics.
+, Oxford: Clarendon Press
+
+
+
+
+
+
+
+Fivet, C., and D. Zastavni (2013) 
+ Constraint-Based Graphic Statics: New Paradigms of Computer-Aided Structural Equilibrium Design
+, Beyond the Limits of Man [Proceedings of IASS Annual Symposia], Wroclaw, Poland, 2327 September 2013, edited by J.B. Obrêbski and R. Tarczewski, 16(6). International Association for Shell and Spatial Structures (IASS)
+
+
+
+
+
+
+
+Maxwell, J. C (1864) 
+ XLV. On Reciprocal Figures and Diagrams of Forces
+, The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science 27 (182): 250261
+
+
+
+
+
+
+
+Maxwell, J. C (1870) 
+ I.on Reciprocal Figures, Frames, and Diagrams of Forces
+, Earth and Environmental Science Transactions of the Royal Society of Edinburgh 26 (1): 140
+
+
+
+
+
+
+
+Schrems, Maximilian J., and Toni Kotnik (2013) 
+ Statically Motivated Formfinding Based on Extended Graphical Statics (EGS)
+, Open Systems [Proceedings of the 18th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2013)], Singapore, 1518 May 2012, edited by R. Stouffs, P. Janssen, S. Roudavski, and B. Tunçer, 843852. CAADRIA
+
+
+
+
+
+
+
+Showkatbakhsh, M., E. Erdine, and A. L. Rodriguez (2020) 
+ Multi-Objective Optimization of Robotically Bent In-Situ Reinforcement System
+, The 11th Annual Symposium on Simulation for Architecture and Urban Design (SimAUD), 177184. Vienna, Austria
+
+
+
+
+
+
+
+Theodoropoulos, C (2000) 
+ Shaping Structures: Statics
+, Cambridge, MA: MIT Press
+
+
+
+
+
+
+
+Turlock, M., and K. Steinfeld (2019) 
+ Necessary Tension: A Dual-Evaluation Generative Design Method for Tension Net Structures
+, Impact: Design With All Senses [Proceedings of the Design Modelling Symposium], Berlin, Germany, edited by Christoph Gengnagel, Olivier Baverel, Jane Burry, Mette Ramsgaard-Thomsen, and Stefan Weinzierl, 250262. Springer
+
+
+
+
+
+
+
+Van Mele, T., and P. Block (2014) 
+ Algebraic Graph Statics
+, Computer-Aided Design 53: 104116
+
+
+
+
+
+
+
+Van Mele, T., L. Lachauer, M. Rippmann, and P. Block (2012) 
+ Geometry-Based Understanding of Structures
+, Journal of the International Association for Shell and Spatial Structures 53 (4): 285295
+
+
+
+
+
+
+
+Yetkin, O., and A. G. Sorguç (2019) 
+ Design Space Exploration of Initial Structural Design Alternatives via Artificial Neural Networks
+, Architecture in the Age of the 4th Industrial Revolution [Proceedings of the 37th eCAADe and 23rd SIGraDi Conference],  Porto, Portugal, 1113 September 2019, edited by J.P. Sousa, J.P. Xavier, and G. Henriques, 5560. CUMINCAD
+
+
+
+
+
+
+
+Zheng, H (2020) 
+ Form Finding and Evaluating Through Machine Learning: The Prediction of Personal Design Preference in Polyhedral Structures
+, Proceedings of the 2019 DigitalFUTURES, Shanghai, China, 78 July 2019, edited by Yuan P., Xie Y., Yao J., Yan C. 169178. Singapore: Springer. https://doi.org/10.1007/978-981-13-8153-9_15",,"Adriaenssens, S., P. Block, D. Veenendaal, and C. Williams (2014) 
+ Shell Structures for Architecture: Form Finding and Optimization.
+, Routledge",,,,"Akbarzadeh, M., T. Van Mele, and P. Block (2015) 
+ On the Equilibrium of Funicular Polyhedral Frames and Convex Polyhedral Force Diagrams
+, Computer-Aided Design 63: 118128",,,,"Akbarzadeh, M. (2016) 
+ 3D Graphical Statics Using Reciprocal Polyhedral Diagrams
+, PhD dissertation, ETH Zurich",,,,"Aksöz, Z., and C. Preisinger (2019) 
+ An Interactive Structural Optimization of Space Frame Structures Using Machine Learning
+, Impact: Design With All Senses [Proceedings of the Design Modelling Symposium], Berlin, Germany, edited by Christoph Gengnagel, Olivier Baverel, Jane Burry, Mette Ramsgaard-Thomsen, and Stefan Weinzierl, 1831. Springer",,,,"Anderson, S. (1984) 
+ Architectural Research Programmes in the Work of Le Corbusier
+, Design Studies 5 (3): 151158",,,,"Block, P.,and J. Ochsendorf (2007) 
+ Thrust Network Analysis: A New Methodology for Three-Dimensional Equilibrium
+, Journal of the International Association for Shell and Spatial Structures 48 (3): 167173",,,,"Bolhassani, M., M. Akbarzadeh, M. Mahnia, and R. Taherian (2018) 
+ On Structural Behavior of a Funicular Concrete Polyhedral Frame Designed by 3D Graphic Statics
+, Structures 14: 5658",,,,"Bow, R. H (1873) 
+ Economics of Construction in Relation to Framed Structures
+, Cambridge: Cambridge University Press",,,,"Cremona, L (1890) 
+ Graphical Statics: Two Treatises on the Graphical Calculus and Reciprocal Figures in Graphical Statics.
+, Oxford: Clarendon Press",,,,"Fivet, C., and D. Zastavni (2013) 
+ Constraint-Based Graphic Statics: New Paradigms of Computer-Aided Structural Equilibrium Design
+, Beyond the Limits of Man [Proceedings of IASS Annual Symposia], Wroclaw, Poland, 2327 September 2013, edited by J.B. Obrêbski and R. Tarczewski, 16(6). International Association for Shell and Spatial Structures (IASS)",,,,"Maxwell, J. C (1864) 
+ XLV. On Reciprocal Figures and Diagrams of Forces
+, The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science 27 (182): 250261",,,,"Maxwell, J. C (1870) 
+ I.on Reciprocal Figures, Frames, and Diagrams of Forces
+, Earth and Environmental Science Transactions of the Royal Society of Edinburgh 26 (1): 140",,,,"Schrems, Maximilian J., and Toni Kotnik (2013) 
+ Statically Motivated Formfinding Based on Extended Graphical Statics (EGS)
+, Open Systems [Proceedings of the 18th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2013)], Singapore, 1518 May 2012, edited by R. Stouffs, P. Janssen, S. Roudavski, and B. Tunçer, 843852. CAADRIA",,,,"Showkatbakhsh, M., E. Erdine, and A. L. Rodriguez (2020) 
+ Multi-Objective Optimization of Robotically Bent In-Situ Reinforcement System
+, The 11th Annual Symposium on Simulation for Architecture and Urban Design (SimAUD), 177184. Vienna, Austria",,,,"Theodoropoulos, C (2000) 
+ Shaping Structures: Statics
+, Cambridge, MA: MIT Press",,,,"Turlock, M., and K. Steinfeld (2019) 
+ Necessary Tension: A Dual-Evaluation Generative Design Method for Tension Net Structures
+, Impact: Design With All Senses [Proceedings of the Design Modelling Symposium], Berlin, Germany, edited by Christoph Gengnagel, Olivier Baverel, Jane Burry, Mette Ramsgaard-Thomsen, and Stefan Weinzierl, 250262. Springer",,,,"Van Mele, T., and P. Block (2014) 
+ Algebraic Graph Statics
+, Computer-Aided Design 53: 104116",,,,"Van Mele, T., L. Lachauer, M. Rippmann, and P. Block (2012) 
+ Geometry-Based Understanding of Structures
+, Journal of the International Association for Shell and Spatial Structures 53 (4): 285295",,,,"Yetkin, O., and A. G. Sorguç (2019) 
+ Design Space Exploration of Initial Structural Design Alternatives via Artificial Neural Networks
+, Architecture in the Age of the 4th Industrial Revolution [Proceedings of the 37th eCAADe and 23rd SIGraDi Conference],  Porto, Portugal, 1113 September 2019, edited by J.P. Sousa, J.P. Xavier, and G. Henriques, 5560. CUMINCAD",,,,"Zheng, H (2020) 
+ Form Finding and Evaluating Through Machine Learning: The Prediction of Personal Design Preference in Polyhedral Structures
+, Proceedings of the 2019 DigitalFUTURES, Shanghai, China, 78 July 2019, edited by Yuan P., Xie Y., Yao J., Yan C. 169178. Singapore: Springer. https://doi.org/10.1007/978-981-13-8153-9_15",,
+11,2021/10/28 06:57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,209 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64
+0,acadia03_051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Lim, Chor-Kheng",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,G Pen: An Intelligent Designers Playmate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Connecting >> Crossroads of Digital Discourse [Proceedings of the 2003 Annual Conference of the Association for Computer Aided Design In Architecture / ISBN 1-880250-12-8] Indianapolis (Indiana) 24-27 October 2003,  pp. 403-409",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In the field of design the pen-based system is a newly developed computer interface that provides the designer with the convenience of a pen in freehand sketches. But these pen-based systems only focus on an interface familiar to the designers and the application of the hardware and software that go with it, treating the pen only as a mouse-like input device. As pen and pad are devices for the pen-based system, the hope is that they can be endowed with more intelligent characteristics to let them interact with designers gestures and become a creative source for the designers, while simultaneously preventing the design fixation encountered by designers during design process. This research utilizes the unintentional hand gestures made by designers, such as the designers grip of the pen or movement involved in playing with the pen, putting it down, knocking it, twisting it or shaking it, during the thinking process or when running into a design fixation. From the interaction between the pen and the pad, certain actions may be generated to stimulate the designers thinking process. This research uses a neural network as the main learning mechanism for the eventual development of a prototype of a pen-based drawing system that provides timely visual stimulation: a G Pen system.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,kheng@arch.nctu.edu.tw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (1,033,501 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Coyne, R.D. and Newton, S. (1990) 
+ Design reasoning by association 
+, Environment and planning B: Planning and design 17: 39-56
+
+
+
+
+
+
+
+Do, E.Y.-L.  (2001) 
+ VR Sketchpad 
+, CAAD FUTURES Eindhoven. 161-172
+
+
+
+
+
+
+
+Gross, M.D.  (1996) 
+ The Electronic Cocktail Napkin - a computational environment for working with design diagrams 
+, Design studies. 17(1): 53-69
+
+
+
+
+
+
+
+Gross, M.D. and Do, E. (1996) 
+ Ambiguous Intensions: A Paper-like interface for creative design 
+, Proceedings of ACM conference on user interface software technology
+
+
+
+
+
+
+
+Haykin, S. (1999) 
+ Neural networks: A comprehensive foundation 
+, Prentice Hall
+
+
+
+
+
+
+
+Hennessey, J.M.  (1992) 
+ The IDEATE project: Exploring computer enhancements for conceptualising 
+, Edited by T.White and A Tzonis, Automation based creative design. Elsevier, Amsterdam
+
+
+
+
+
+
+
+Igarashi, T.,Matsuoka, S. andTanaka, H.  (1999) 
+ Teddy: A sketching interface for 3D freeform design 
+, ACM SIGGRAPH. Annual Conference on Computer Graphics. 409-416.
+
+
+
+
+
+
+
+Jansson, G.D. and Smith, S. (1991) 
+ Design Fixation 
+, Design studies 12(1): 3-11
+
+
+
+
+
+
+
+Landay, J.A. (1996) 
+ SILK: Sketching Interfaces Like Krazy. 
+, Human factors in Computing. CHI96
+
+
+
+
+
+
+
+Moran, T.P. and Chiu, P. (1995) 
+ Implicit Structures for Pen-Based System within a Freedom Interaction Paradigm 
+, Proceeding CHI95
+
+
+
+
+
+
+
+Nabeshima, S., Yamamoto, K., Agusa, T.Taguch  (1995) 
+ MEMO-PEN: a new input device
+, CHI95 Conference Companion 1995: 256-257
+
+
+
+
+
+
+
+Plimmer, B.E. and Apperley, M. (2002) 
+ Computer- aided sketching to capture preliminary design 
+, Australian user interface conference (AUIC2002) 
+
+
+
+
+
+
+
+Schon, D.A. and Wiggins, G.  (1992) 
+ Kinds of seeing and their structures in designing 
+, Design studies,13: 135-156
+
+
+
+
+
+
+
+Schweikardt, E. and Gross, M.D. (2000) 
+ Digital clay:deriving digital models from freehand sketches 
+, Automation in construction 9: 107-115
+
+
+
+
+
+
+
+Trinder, M. (1999) 
+ The computers role in sketch design: A transparent sketching medium 
+, Proceedings of CAADfutures99
+
+
+
+
+
+
+
+Wellner, P.  (1993) 
+ Interacting with paper on the DigitalDesk 
+, Communications of the ACM. 87-96",,"Coyne, R.D. and Newton, S. (1990) 
+ Design reasoning by association 
+, Environment and planning B: Planning and design 17: 39-56",,,,"Do, E.Y.-L.  (2001) 
+ VR Sketchpad 
+, CAAD FUTURES Eindhoven. 161-172",,,,"Gross, M.D.  (1996) 
+ The Electronic Cocktail Napkin - a computational environment for working with design diagrams 
+, Design studies. 17(1): 53-69",,,,"Gross, M.D. and Do, E. (1996) 
+ Ambiguous Intensions: A Paper-like interface for creative design 
+, Proceedings of ACM conference on user interface software technology",,,,"Haykin, S. (1999) 
+ Neural networks: A comprehensive foundation 
+, Prentice Hall",,,,"Hennessey, J.M.  (1992) 
+ The IDEATE project: Exploring computer enhancements for conceptualising 
+, Edited by T.White and A Tzonis, Automation based creative design. Elsevier, Amsterdam",,,,"Igarashi, T.,Matsuoka, S. andTanaka, H.  (1999) 
+ Teddy: A sketching interface for 3D freeform design 
+, ACM SIGGRAPH. Annual Conference on Computer Graphics. 409-416.",,,,"Jansson, G.D. and Smith, S. (1991) 
+ Design Fixation 
+, Design studies 12(1): 3-11",,,,"Landay, J.A. (1996) 
+ SILK: Sketching Interfaces Like Krazy. 
+, Human factors in Computing. CHI96",,,,"Moran, T.P. and Chiu, P. (1995) 
+ Implicit Structures for Pen-Based System within a Freedom Interaction Paradigm 
+, Proceeding CHI95",,,,"Nabeshima, S., Yamamoto, K., Agusa, T.Taguch  (1995) 
+ MEMO-PEN: a new input device
+, CHI95 Conference Companion 1995: 256-257",,,,"Plimmer, B.E. and Apperley, M. (2002) 
+ Computer- aided sketching to capture preliminary design 
+, Australian user interface conference (AUIC2002)",,,,"Schon, D.A. and Wiggins, G.  (1992) 
+ Kinds of seeing and their structures in designing 
+, Design studies,13: 135-156",,,,"Schweikardt, E. and Gross, M.D. (2000) 
+ Digital clay:deriving digital models from freehand sketches 
+, Automation in construction 9: 107-115",,,,"Trinder, M. (1999) 
+ The computers role in sketch design: A transparent sketching medium 
+, Proceedings of CAADfutures99",,,,"Wellner, P.  (1993) 
+ Interacting with paper on the DigitalDesk 
+, Communications of the ACM. 87-96",,
+10,2003/10/30 15:20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

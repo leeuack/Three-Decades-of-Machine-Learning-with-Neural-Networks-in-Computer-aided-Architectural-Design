@@ -1,0 +1,138 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40
+0,acadia20_178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Meeran, Ahmed; Conrad Joyce, Sam",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Machine Learning for Comparative Urban Planning at Scale: An Aviation Case Study,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2020: Distributed Proximities / Volume I: Technical Papers [Proceedings of the 40th Annual Conference of the Association of Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-95213-0]. Online and Global. 24-30 October 2020. edited by B. Slocum, V. Ago, S. Doyle, A. Marcus, M. Yablonina, and M. del Campo. 178-187.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Aviation is in flux, experiencing 5.4% yearly growth over the last two decades. However, with COVID-19 aviation was hard hit. This, along with its contribution to global warming, has led to louder calls to limit its use. This situation emphasizes how urban planners and technologists could contribute to understanding and responding to this change. This paper explores a novel workflow of performing image-based machine learning (ML) on satellite images of over 1,000 world airports that were algorithmically collated using European Space Agency Sentinel2 API. From these, the top 350 United States airports were analyzed with land use parameters extracted around the airport using computer vision, which were mapped against their passenger footfall numbers. The results demonstrate a scalable approach to identify how easy and beneficial it would be for certain airports to expand or contract and how this would impact the surrounding urban environment in terms of pollution and congestion. The generic nature of this workflow makes it possible to potentially extend this method to any large infrastructure and compare and analyze specific features across a large number of images while being able to understand the same feature through time. This is critical in answering key typology-based urban design challenges at a higher level and without needing to perform on-ground studies, which could be expensive and time-consuming.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,ahmed_basheer@mymail.sutd.edu.sg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (11,060,068 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Albert, Adrian, Jasleen Kaur, and Marta Gonzalez (2017) 
+ Using Convolutional Networks and Satellite Imagery to Identify Patterns in Urban Environments at a Large Scale
+, Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 1357-1366. New York, NY: ACM
+
+
+
+
+
+
+
+Basu, Saikat, Sangram Ganguly, Supratik Mukhopadhyay, Robert Dibiano, Manohar Karki, and Ramakrishna Nemani (2015) 
+ DeepSat  A Learning framework for Satellite Imagery
+, Proceedings of the 23rd SIGSPATIAL International Conference on Advances in Geographic Information Systems, 37:1-37:10. New York, NY: ACM. 
+
+
+
+
+
+
+
+Demir, Ilke, Krzysztof Koperski, David Lindenbaum, Guan Pang, Jing Huang, Saikat Basu, Forest Hughes, Devis Tuia, and Ramesh Raskar (2018) 
+ DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images
+, 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). https://doi.org/10.1109/CVPRW.2018.00031
+
+
+
+
+
+
+
+Dong, Hao, Guang Yang, Fangde Liu, Yuanhan Mo, and Yike Guo (2017) 
+ Automatic Brain Tumor Detection and Segmentation Using U-Net Based Fully Convolutional Networks
+, Annual Conference on Medical Image Understanding and Analysis, 506517. Edinburgh, UK
+
+
+
+
+
+
+
+Gueguen, Lionel, and Raffay Hamid (2015) 
+ Large-Scale Damage Detection Using Satellite Imagery
+, CVPR 2015. Boston: Computer Vision and Pattern Recognition
+
+
+
+
+
+
+
+Ibrahim, Nazim, and Sam Joyce (2019) 
+ User Directed Meta Parametric Design for Option Exploration
+, ACADIA 19: Ubiquity and Autonomy [Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Austin, TX, 2126 October 2019, edited by K. Bieg, D. Briscoe, and C. Odom, 5059. CUMINCAD
+
+
+
+
+
+
+
+Karchevskiy, Mikhail, Insaf Ashrapov, and Leonid Kozinkin (2018) 
+ Automatic Salt Deposits Segmentation: A Deep Learning Approach
+, ArXiv. https://arxiv.org/abs/1812.01429
+
+
+
+
+
+
+
+Malarvizhi, K., S. Vasantha Kumar, and P. Porchelvan (2015) 
+ Use of High Resolution Google Earth Satellite Imagery in Landuse Map Preparation for Urban Related Applications
+, International Conference on Emerging Trends in Engineering, Science and Technology. Thrissur
+
+
+
+
+
+
+
+Ronneberger, Olaf, Philipp Fischer, and Thomas Brox (2015) 
+ U-Net: Convolutional Networks for Biomedical Image Segmentation
+, LNCS 9351: 234241
+
+
+
+
+
+
+
+Sadik-Khan, Janette (2017) 
+ Streetfight: Handbook for an Urban Revolution
+, Penguin Books",,"Albert, Adrian, Jasleen Kaur, and Marta Gonzalez (2017) 
+ Using Convolutional Networks and Satellite Imagery to Identify Patterns in Urban Environments at a Large Scale
+, Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 1357-1366. New York, NY: ACM",,,,"Basu, Saikat, Sangram Ganguly, Supratik Mukhopadhyay, Robert Dibiano, Manohar Karki, and Ramakrishna Nemani (2015) 
+ DeepSat  A Learning framework for Satellite Imagery
+, Proceedings of the 23rd SIGSPATIAL International Conference on Advances in Geographic Information Systems, 37:1-37:10. New York, NY: ACM.",,,,"Demir, Ilke, Krzysztof Koperski, David Lindenbaum, Guan Pang, Jing Huang, Saikat Basu, Forest Hughes, Devis Tuia, and Ramesh Raskar (2018) 
+ DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images
+, 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). https://doi.org/10.1109/CVPRW.2018.00031",,,,"Dong, Hao, Guang Yang, Fangde Liu, Yuanhan Mo, and Yike Guo (2017) 
+ Automatic Brain Tumor Detection and Segmentation Using U-Net Based Fully Convolutional Networks
+, Annual Conference on Medical Image Understanding and Analysis, 506517. Edinburgh, UK",,,,"Gueguen, Lionel, and Raffay Hamid (2015) 
+ Large-Scale Damage Detection Using Satellite Imagery
+, CVPR 2015. Boston: Computer Vision and Pattern Recognition",,,,"Ibrahim, Nazim, and Sam Joyce (2019) 
+ User Directed Meta Parametric Design for Option Exploration
+, ACADIA 19: Ubiquity and Autonomy [Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Austin, TX, 2126 October 2019, edited by K. Bieg, D. Briscoe, and C. Odom, 5059. CUMINCAD",,,,"Karchevskiy, Mikhail, Insaf Ashrapov, and Leonid Kozinkin (2018) 
+ Automatic Salt Deposits Segmentation: A Deep Learning Approach
+, ArXiv. https://arxiv.org/abs/1812.01429",,,,"Malarvizhi, K., S. Vasantha Kumar, and P. Porchelvan (2015) 
+ Use of High Resolution Google Earth Satellite Imagery in Landuse Map Preparation for Urban Related Applications
+, International Conference on Emerging Trends in Engineering, Science and Technology. Thrissur",,,,"Ronneberger, Olaf, Philipp Fischer, and Thomas Brox (2015) 
+ U-Net: Convolutional Networks for Biomedical Image Segmentation
+, LNCS 9351: 234241",,,,"Sadik-Khan, Janette (2017) 
+ Streetfight: Handbook for an Urban Revolution
+, Penguin Books",,
+11,2021/10/28 06:57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,acadia20_382,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Hosmer, Tyson; Tigas, Panagiotis; Reeves, David; He, Ziming",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Spatial Assembly with Self-Play Reinforcement Learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA 2020: Distributed Proximities / Volume I: Technical Papers [Proceedings of the 40th Annual Conference of the Association of Computer Aided Design in Architecture (ACADIA) ISBN 978-0-578-95213-0]. Online and Global. 24-30 October 2020. edited by B. Slocum, V. Ago, S. Doyle, A. Marcus, M. Yablonina, and M. del Campo. 382-393.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"We present a framework to generate intelligent spatial assemblies from sets of digitally encoded spatial parts designed by the architect with embedded principles of prefabrication, assembly awareness, and reconfigurability. The methodology includes a bespoke constraint-solving algorithm for autonomously assembling 3D geometries into larger spatial compositions for the built environment. A series of graph-based analysis methods are applied to each assembly to extract performance metrics related to architectural space-making goals, including structural stability, material density, spatial segmentation, connectivity, and spatial distribution. Together with the constraint-based assembly algorithm and analysis methods, we have integrated a novel application of deep reinforcement (RL) learning for training the models to improve at matching the multiperformance goals established by the user through self-play. RL is applied to improve the selection and sequencing of parts while considering local and global objectives. The users design intent is embedded through the design of partial units of 3D space with embedded fabrication principles and their relational constraints over how they connect to each other and the quantifiable goals to drive the distribution of effective features. The methodology has been developed over three years through three case study projects called ArchiGo (20172018), NoMAS (20182019), and IRSILA (2019-2020). Each demonstrates the potential for buildings with reconfigurable and adaptive life cycles.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,tyson.hosmer@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (8,847,215 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Brand, Stewart (1995) 
+ How Buildings Learn: What Happens after Theyre Built
+, Penguin
+
+
+
+
+
+
+
+Chaillou, Stanislas (2019) 
+ AI + Architecture: Towards a New Approach
+, Masters thesis. Harvard School of Design. 
+
+
+
+
+
+
+
+Chaslot, G., S. Bakkes, I. Szita, and P. Spronck (2008) 
+ Monte-Carlo Tree Search: A New Framework for Game AI
+, Proceedings of the Fourth Artificial Intelligence and Interactive Digital Entertainment Conference, Stanford, CA, 2224 October 2008, edited by Chris Darken and Michael Mateas, 216217. AAAI Press
+
+
+
+
+
+
+
+Gershenfeld, Neil, Matthew Carney, Benjamin Jenett, Sam Calisch, and Spencer Wilson (2015) 
+ Macrofabrication with Digital Materials: Robotic Assembly
+, Architectural Design 85: 122127
+
+
+
+
+
+
+
+Goodfellow, Ian, J. Pouget-Abadie, M. Mirza, et al (2014) 
+ Generative Adversarial Networks
+, Proceedings of the 27th International Conference on Neural Information Processing Systems, 26722680. Cambridge, MA: MIT Press
+
+
+
+
+
+
+
+Haarnoja, Tuomas, et al (2018) 
+ Soft Actor-Critic Algorithms and Applications
+, arXiv preprint. arXiv:1812.05905
+
+
+
+
+
+
+
+Hosmer, Tyson, and Tigas Panagiotis (2019) 
+ Towards an Autonomous Architecture: Deep Reinforcement Learning for Autonomous Robotic Tensegrity (ART)
+, ACADIA 19: Ubiquity and Autonomy [Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Austin, TX, 2126 October 2019, edited by K. Bieg, D. Briscoe, and C. Odom, 1629. CUMINCAD
+
+
+
+
+
+
+
+Isola, Phillip, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros (2017) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, CVPR. arXiv:1611.07004
+
+
+
+
+
+
+
+Killian, Axel (2006) 
+ Design Innovation Through Constraint Modeling
+, International Journal of Architectural Computing 4 (1): 87105
+
+
+
+
+
+
+
+Killian, Axel (2006) 
+ Design Exploration through Bidirectional Modeling of Constraints
+, PhD thesis, MIT, Cambridge, MA
+
+
+
+
+
+
+
+Killian, Axel (2014) 
+ Design Exploration and Steering of Design
+, Inside Smartgeometry, 122129. John Wiley & Sons, Ltd
+
+
+
+
+
+
+
+Kirschner, Marc. Variations in Evolutionary Biology. Spuybroek, Lars (2009) 
+ The Architecture of Variation
+, London : Thames and Hudson. 26-33. 
+
+
+
+
+
+
+
+Koehler, Daniel (2019) 
+ Mereological Thinking: Figuring Realities within Urban Form
+, Architectural Design 89 (2): 30-37
+
+
+
+
+
+
+
+Krzysztof, A (2003) 
+ Principles of Constraint Programming
+, Cambridge: Cambridge University Press
+
+
+
+
+
+
+
+Merrell, Paul C (2009) 
+ Model synthesis
+, PhD dissertation. University of North Carolina at Chapel Hill
+
+
+
+
+
+
+
+Miguel, Ian (2001) 
+ Dynamic Flexible Constraint Satisfaction and Its Application to AI Planning
+, PhD thesis. Edinburgh University
+
+
+
+
+
+
+
+Modi, P. J., H. Jung, M. Tambe, W. M. Shen, and S. Kulkarni (2001) 
+ A Dynamic Distributed Constraint Satisfaction Approach to Resource Allocation
+, International Conference on Principles and Practice of Constraint Programming, 26 November 2001, 685-700. Berlin, Heidelberg: Springer
+
+
+
+
+
+
+
+Negroponte, N (1970) 
+ The Architecture Machine
+, Cambridge, MA: MIT Press.
+
+
+
+
+
+
+
+Ngwepe, Lusca, and Clinton Aigbavboa (2015) 
+ A Theoretical Review of Building Life Cycle Stages and Their Related Environmental Impacts
+, Journal of Civil Engineering and Environmental Technology, 2 (13): 715. http://hdl.handle.net/10210/69042
+
+
+
+
+
+
+
+Parter, Merav, Nadav Kashtan, and Uri Alon (2008) 
+ Facilitated Variation: How Evolution Learns from Past Environments to Generalize to New Environments
+, PLoS Computational Biology 4 (11): e1000206",,"Brand, Stewart (1995) 
+ How Buildings Learn: What Happens after Theyre Built
+, Penguin",,,,"Chaillou, Stanislas (2019) 
+ AI + Architecture: Towards a New Approach
+, Masters thesis. Harvard School of Design.",,,,"Chaslot, G., S. Bakkes, I. Szita, and P. Spronck (2008) 
+ Monte-Carlo Tree Search: A New Framework for Game AI
+, Proceedings of the Fourth Artificial Intelligence and Interactive Digital Entertainment Conference, Stanford, CA, 2224 October 2008, edited by Chris Darken and Michael Mateas, 216217. AAAI Press",,,,"Gershenfeld, Neil, Matthew Carney, Benjamin Jenett, Sam Calisch, and Spencer Wilson (2015) 
+ Macrofabrication with Digital Materials: Robotic Assembly
+, Architectural Design 85: 122127",,,,"Goodfellow, Ian, J. Pouget-Abadie, M. Mirza, et al (2014) 
+ Generative Adversarial Networks
+, Proceedings of the 27th International Conference on Neural Information Processing Systems, 26722680. Cambridge, MA: MIT Press",,,,"Haarnoja, Tuomas, et al (2018) 
+ Soft Actor-Critic Algorithms and Applications
+, arXiv preprint. arXiv:1812.05905",,,,"Hosmer, Tyson, and Tigas Panagiotis (2019) 
+ Towards an Autonomous Architecture: Deep Reinforcement Learning for Autonomous Robotic Tensegrity (ART)
+, ACADIA 19: Ubiquity and Autonomy [Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)], Austin, TX, 2126 October 2019, edited by K. Bieg, D. Briscoe, and C. Odom, 1629. CUMINCAD",,,,"Isola, Phillip, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros (2017) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, CVPR. arXiv:1611.07004",,,,"Killian, Axel (2006) 
+ Design Innovation Through Constraint Modeling
+, International Journal of Architectural Computing 4 (1): 87105",,,,"Killian, Axel (2006) 
+ Design Exploration through Bidirectional Modeling of Constraints
+, PhD thesis, MIT, Cambridge, MA",,,,"Killian, Axel (2014) 
+ Design Exploration and Steering of Design
+, Inside Smartgeometry, 122129. John Wiley & Sons, Ltd",,,,"Kirschner, Marc. Variations in Evolutionary Biology. Spuybroek, Lars (2009) 
+ The Architecture of Variation
+, London : Thames and Hudson. 26-33.",,,,"Koehler, Daniel (2019) 
+ Mereological Thinking: Figuring Realities within Urban Form
+, Architectural Design 89 (2): 30-37",,,,"Krzysztof, A (2003) 
+ Principles of Constraint Programming
+, Cambridge: Cambridge University Press",,,,"Merrell, Paul C (2009) 
+ Model synthesis
+, PhD dissertation. University of North Carolina at Chapel Hill",,,,"Miguel, Ian (2001) 
+ Dynamic Flexible Constraint Satisfaction and Its Application to AI Planning
+, PhD thesis. Edinburgh University",,,,"Modi, P. J., H. Jung, M. Tambe, W. M. Shen, and S. Kulkarni (2001) 
+ A Dynamic Distributed Constraint Satisfaction Approach to Resource Allocation
+, International Conference on Principles and Practice of Constraint Programming, 26 November 2001, 685-700. Berlin, Heidelberg: Springer",,,,"Negroponte, N (1970) 
+ The Architecture Machine
+, Cambridge, MA: MIT Press.",,,,"Ngwepe, Lusca, and Clinton Aigbavboa (2015) 
+ A Theoretical Review of Building Life Cycle Stages and Their Related Environmental Impacts
+, Journal of Civil Engineering and Environmental Technology, 2 (13): 715. http://hdl.handle.net/10210/69042",,,,"Parter, Merav, Nadav Kashtan, and Uri Alon (2008) 
+ Facilitated Variation: How Evolution Learns from Past Environments to Generalize to New Environments
+, PLoS Computational Biology 4 (11): e1000206",,
+11,2021/10/28 06:57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

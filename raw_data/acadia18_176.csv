@@ -1,0 +1,263 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,acadia18_176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Bidgoli, Ardavan; Veloso,Pedro",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"DeepCloud. The Application of a Data-driven, Generative Model in Design",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA // 2018: Recalibration. On imprecisionand infidelity. [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA) ISBN 978-0-692-17729-7] Mexico City, Mexico 18-20 October, 2018, pp.  176-185",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Generative systems have a significant potential to synthesize innovative design alternatives. Still, most of the common systems that have been adopted in design require the designer to explicitly define the specifications of the procedures and in some cases the design space. In contrast, a generative system could potentially learn both aspects through processing a database of existing solutions without the supervision of the designer. To explore this possibility, we review recent advancements of generative models in machine learning and current applications of learning techniques in design. Then, we describe the development of a data-driven generative system titled DeepCloud. It combines an autoencoder architecture for point clouds with a web-based interface and analog input devices to provide an intuitive experience for data-driven generation of design alternatives. We delineate the implementation of two prototypes of DeepCloud, their contributions, and potentials for generative design.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"full paper, design tools software computing + gaming, ai & machine learning, generative design, autoencoders",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,abidgoli@andrew.cmu.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (5,575,022 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Achlioptas, Panos, Olga Diamanti, Ioannis Mitliagkas, and Leonidas Guibas (2018) 
+ Learning Representations and Generative Models for 3D Point Clouds
+, Proceedings of Machine Learning Research 80: 4049
+
+
+
+
+
+
+
+Bishop, Christopher M.  (2006) 
+ Pattern Recognition and Machine Learning
+, New York: Springer-Verlag
+
+
+
+
+
+
+
+Doersch, Carl (2016) 
+ Tutorial on Variational Autoencoders
+, arXiv Preprint arXiv:1606.05908
+
+
+
+
+
+
+
+Fischer, Thomas, and Christiane M Herr (2001) 
+ Teaching Generative Design
+, Proceedings of the 4th Conference on Generative Art. Milan: GA
+
+
+
+
+
+
+
+Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio (2014) 
+ Generative Adversarial Nets
+, Advances in Neural Information Processing Systems 27: 267280
+
+
+
+
+
+
+
+Harding, John, and Christian Derix (2011) 
+ Associative Spatial Networks in Architectural Design: Artificial Cognition of Space Using Neural Networks with Spectral Graph Theory
+, Design Computing and Cognition 10, edited by John Gero, 30523. Cham: Springer
+
+
+
+
+
+
+
+Isola, Phillip, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros (2017) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, Proceedings of the 30th IEEE Conference on Computer Vision and Pattern Recognition, 596777. Honolulu, HI: CVPR. doi:10.1109/cvpr.2017.632
+
+
+
+
+
+
+
+Karras, Tero, Timo Aila, Samuli Laine, and Jaakko Lehtinen (2017) 
+ Progressive Growing of GANs for Improved Quality, Stability, and Variation
+, arXiv preprint arXiv:1710.10196
+
+
+
+
+
+
+
+Kingma, Diederik P, and Max Welling (2013) 
+ Auto-Encoding Variational Bayes
+, arXiv Preprint arXiv:1312.6114, 114. https://doi.org/10.1051/0004-6361/201527329
+
+
+
+
+
+
+
+Koenig, Reinhard, Matthias Standfest, and Gerhard Schmitt (2014) 
+ Evolutionary Multi-Criteria Optimization for Building Layout Planning-Exemplary Application Based on the PSSA Framework
+, Fusion: Proceedings of the 32nd International Conference on Education and research in Computer Aided Architectural Design in Europe, vol 2., edited by Emine Mine Thompson, 56774. Newcastle upon Tyne, UK: eCAADe
+
+
+
+
+
+
+
+Ma, Shuang, Jianlong Fu, Chang Wen Chen, and Tao Mei (2018) 
+ DA-GAN: Instance-Level Image Translation by Deep Attention Generative Adversarial Networks (with Supplementary Materials
+, http://arxiv.org/abs/1802.06454
+
+
+
+
+
+
+
+Matejka, Justin, Michael Glueck, Erin Bradner, Ali Hashemi, Tovi Grossman, and George Fitzmaurice (2018) 
+ Dream Lens: Exploration and Visualization of Large-Scale Generative Design Datasets
+, Proceedings of the CHI Conference on Human Factors in Computing Systems, 369. Montreal, QC: CHI
+
+
+
+
+
+
+
+Mitchell, Tom M. (1997) 
+ Machine Learning
+, New York: McGraw-Hill
+
+
+
+
+
+
+
+Mitchell, William J. (1997) 
+ Computer-Aided Architectural Design
+, New York: Mason Charter Pub
+
+
+
+
+
+
+
+Nagy, Daniel (2017) 
+ The Design Space
+, Medium. January 24, 2017. https://medium.com/generative-design/step-1-generate-6bf73fb3a004
+
+
+
+
+
+
+
+Narahara, Taro (2017) 
+ Collective Construction Modeling and Machine Learning: Potential for Architectural Design
+, ShoCK!: Sharing Computational Knowledge!Proceedings of the 35th eCAADe Conference, vol. 1, edited by A. Fioravanti, S. Cursi, S. Elahmar, S. Gargaro, G. Loffreda, G. Novembri, and A. Trento, 593600. Rome: eCAADe
+
+
+
+
+
+
+
+Nourbakhsh, Mehdi, Nigel Morris, Michael Bergin, Francesco Iorio, and Daniele Grandi (2016) 
+ Embedded Sensors and Feedback Loops for Iterative Improvement in Design Synthesis for Additive Manufacturing
+, Proceedings of the 36th Computers and INformation in Engineering Conference, vol. 1A, V01AT02A031. Charlotte, NC: ASME
+
+
+
+
+
+
+
+Pascanu, Razvan, Tomas Mikolov, and Yoshua Bengio (2013) 
+ On the 
+
+Difficulty of Training Recurrent Neural Networks
+, Proceedings of Machine Learning Research 28: 131018
+
+
+
+
+
+
+
+Sjoberg, Christian, Christopher Beorkrem, and Jefferson Ellinger (2017) 
+ Emergent Syntax: Machine Learning for the Curation of Design Solution Space
+, Disciplines & Disruption: Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture, edited by Takehiko Nagakura, Skylar Tibbits, Mariana Ibanez, and Caitlin Mueller, 55261. Cambridge, MA: ACADIA
+
+
+
+
+
+
+
+Yumer, Mehmet Ersin, and Levent Burak Kara (2014) 
+ Co-Constrained Handles for Deformation in Shape Collections
+, ACM Transactions on Graphics 33 (6): 187",,"Achlioptas, Panos, Olga Diamanti, Ioannis Mitliagkas, and Leonidas Guibas (2018) 
+ Learning Representations and Generative Models for 3D Point Clouds
+, Proceedings of Machine Learning Research 80: 4049",,,,"Bishop, Christopher M.  (2006) 
+ Pattern Recognition and Machine Learning
+, New York: Springer-Verlag",,,,"Doersch, Carl (2016) 
+ Tutorial on Variational Autoencoders
+, arXiv Preprint arXiv:1606.05908",,,,"Fischer, Thomas, and Christiane M Herr (2001) 
+ Teaching Generative Design
+, Proceedings of the 4th Conference on Generative Art. Milan: GA",,,,"Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio (2014) 
+ Generative Adversarial Nets
+, Advances in Neural Information Processing Systems 27: 267280",,,,"Harding, John, and Christian Derix (2011) 
+ Associative Spatial Networks in Architectural Design: Artificial Cognition of Space Using Neural Networks with Spectral Graph Theory
+, Design Computing and Cognition 10, edited by John Gero, 30523. Cham: Springer",,,,"Isola, Phillip, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros (2017) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, Proceedings of the 30th IEEE Conference on Computer Vision and Pattern Recognition, 596777. Honolulu, HI: CVPR. doi:10.1109/cvpr.2017.632",,,,"Karras, Tero, Timo Aila, Samuli Laine, and Jaakko Lehtinen (2017) 
+ Progressive Growing of GANs for Improved Quality, Stability, and Variation
+, arXiv preprint arXiv:1710.10196",,,,"Kingma, Diederik P, and Max Welling (2013) 
+ Auto-Encoding Variational Bayes
+, arXiv Preprint arXiv:1312.6114, 114. https://doi.org/10.1051/0004-6361/201527329",,,,"Koenig, Reinhard, Matthias Standfest, and Gerhard Schmitt (2014) 
+ Evolutionary Multi-Criteria Optimization for Building Layout Planning-Exemplary Application Based on the PSSA Framework
+, Fusion: Proceedings of the 32nd International Conference on Education and research in Computer Aided Architectural Design in Europe, vol 2., edited by Emine Mine Thompson, 56774. Newcastle upon Tyne, UK: eCAADe",,,,"Ma, Shuang, Jianlong Fu, Chang Wen Chen, and Tao Mei (2018) 
+ DA-GAN: Instance-Level Image Translation by Deep Attention Generative Adversarial Networks (with Supplementary Materials
+, http://arxiv.org/abs/1802.06454",,,,"Matejka, Justin, Michael Glueck, Erin Bradner, Ali Hashemi, Tovi Grossman, and George Fitzmaurice (2018) 
+ Dream Lens: Exploration and Visualization of Large-Scale Generative Design Datasets
+, Proceedings of the CHI Conference on Human Factors in Computing Systems, 369. Montreal, QC: CHI",,,,"Mitchell, Tom M. (1997) 
+ Machine Learning
+, New York: McGraw-Hill",,,,"Mitchell, William J. (1997) 
+ Computer-Aided Architectural Design
+, New York: Mason Charter Pub",,,,"Nagy, Daniel (2017) 
+ The Design Space
+, Medium. January 24, 2017. https://medium.com/generative-design/step-1-generate-6bf73fb3a004",,,,"Narahara, Taro (2017) 
+ Collective Construction Modeling and Machine Learning: Potential for Architectural Design
+, ShoCK!: Sharing Computational Knowledge!Proceedings of the 35th eCAADe Conference, vol. 1, edited by A. Fioravanti, S. Cursi, S. Elahmar, S. Gargaro, G. Loffreda, G. Novembri, and A. Trento, 593600. Rome: eCAADe",,,,"Nourbakhsh, Mehdi, Nigel Morris, Michael Bergin, Francesco Iorio, and Daniele Grandi (2016) 
+ Embedded Sensors and Feedback Loops for Iterative Improvement in Design Synthesis for Additive Manufacturing
+, Proceedings of the 36th Computers and INformation in Engineering Conference, vol. 1A, V01AT02A031. Charlotte, NC: ASME",,,,"Pascanu, Razvan, Tomas Mikolov, and Yoshua Bengio (2013) 
+ On the 
+
+Difficulty of Training Recurrent Neural Networks
+, Proceedings of Machine Learning Research 28: 131018",,,,"Sjoberg, Christian, Christopher Beorkrem, and Jefferson Ellinger (2017) 
+ Emergent Syntax: Machine Learning for the Curation of Design Solution Space
+, Disciplines & Disruption: Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture, edited by Takehiko Nagakura, Skylar Tibbits, Mariana Ibanez, and Caitlin Mueller, 55261. Cambridge, MA: ACADIA",,,,"Yumer, Mehmet Ersin, and Levent Burak Kara (2014) 
+ Co-Constrained Handles for Deformation in Shape Collections
+, ACM Transactions on Graphics 33 (6): 187",,
+12,2019/01/07 11:21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

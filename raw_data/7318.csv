@@ -1,0 +1,257 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,"Tunçer, B., Stouffs, R. and  Sariyildiz, S.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Integrating Architectural Abstractions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Reinventing the Discourse - How Digital Tools Help Bridge and Transform Research, Education and Practice in Architecture [Proceedings of the Twenty First Annual Conference of the Association for Computer-Aided Design in Architecture / ISBN 1-880250-10-1] Buffalo (New York) 11-14 October 2001, pp. 110-121",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Building projects are communicated through project documents. A collection of these documents are stored, related, and managed within digital environments for various purposes. These environments are all concerned with the complexity of organizing an information space: how to organize the information and to relate the individual entities within this organization in order to support effective searching and browsing of the resulting information structure. We present a methodology to handle this complexity through integrating a number of design documents of different formats within a single information structure. When this integrated structure is highly intra-related, it provides support for effective searching and browsing of this information. To achieve such intra-relatedness, we consider a notion of types from architecture as a semantic structure for project document management in the AEC industry. We discuss specific techniques to support this use of types with respect to EDMSs and Web-based project management systems. We describe a prototype application, a presentation tool for architectural analyses, which combines these techniques.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Complexity, Information Structure, Architectural Analysis, Flexibility, Effectiveness",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,b.tuncer@bk.tudelft.nl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (521,697 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Achten, H.  (1997) 
+ Generic Representations
+, Ph.D. diss. Eindhoven: Eindhoven University of Technology
+
+
+
+
+
+
+
+Akin, O., Cumming, M., Shealey, M. and Tunçer, B.  (1997) 
+ An electronic design assistance tool for case-based representation of designs
+, Automation in Construction 6: 265-274
+
+
+
+
+
+
+
+Barrow, H.G. and Tenenbaum, J.M.  (1981) 
+ Computational vision
+, Proceedings of the IEEE 69(5):572-595. New York The Institute of Electrical and Electronic Engineers
+
+
+
+
+
+
+
+Bishop, C.M.  (1995) 
+ Neural networks for pattern recognition
+, Oxford: Clarendon
+
+
+
+
+
+
+
+Ching, F.D.K.  (1979) 
+ Architecture: Form, Space and Order
+, New York: Van Nostrand Reinhold
+
+
+
+
+
+
+
+De Jong, T.M. and van der Voordt, T.J.M.  (2000) 
+ Retrieval and reference
+, Ways to Study: Architectural, Urban, and Technical Design, eds. T.M. de Jong, Y.J. Cuperus and T.J.M. van der Voordt, 29-35. Delft: Faculty of Architecture, Delft University of Technology
+
+
+
+
+
+
+
+Flemming, U.  (1990) 
+ Syntactic structures in architecture: teaching composition with computer assistance
+, The Electronic Design Studio, eds. M. McCullough, W.J. Mitchell and P. Purcell, 31-48. Cambridge, Mass.: The MIT Press
+
+
+
+
+
+
+
+Gero, J.S.  (1990) 
+ Design prototypes: a knowledge representation schema for design
+, AI Magazine 11(4): 2636
+
+
+
+
+
+
+
+Goldschmidt, G.  (1995) 
+ Visual displays for design: Imagery, analogy and databases of visual images
+, Visual Databases in Architecture, eds. A. Koutamanis, H. Timmermans and I. Vermeulen, 53-74. Aldershot, UK: Avebury
+
+
+
+
+
+
+
+Greenberg, I.  (1999) 
+ Facing up to new interfaces
+, IEEE Computer 32(4): 14-16
+
+
+
+
+
+
+
+Gross, M.  (1995) 
+ Indexing visual databases of designs with diagrams
+, Visual Databases in Architecture, eds. A. Koutamanis, H. Timmermans and I. Vermeulen, 1-14. Aldershot, UK: Avebury
+
+
+
+
+
+
+
+Inoue, K. and Urahama, K.  (2000) 
+ Learning of view-invariant pattern recognizer with temporal context
+, Pattern Recognition 33: 1665-1674
+
+
+
+
+
+
+
+Johnson, P.A. (1994) 
+ The Theory of Architecture: Concepts, Themes and Practices
+, New York: Van Nostrand Reinhold, pp. 347-348
+
+
+
+
+
+
+
+Krishnamurti, R. and Earl, C.F.  (1992) 
+ Shape recognition in three dimensions
+, Environment and Planning B: Planning and Design 19 : 585-603
+
+
+
+
+
+
+
+Krishnamurti, R. and Stouffs, R.  (1997) 
+ Spatial change: continuity, reversibility and emergent shapes
+, Environment and Planning B: Planning and Design 24: 359-384
+
+
+
+
+
+
+
+Lawrence, R.J.  (1994) 
+ Types as analytical tool: reinterpretation and application
+, Ordering Space: Types in Architecture and Design, eds. K.A. Franck, and L.H. Schneekloth, 273. New York: Van Nostrand Reinhold
+
+
+
+
+
+
+
+Leupen B., Grafe, C., Körnig, N., Lampe, M. and De Zeeuw, P. (1997) 
+ Design and Analysis
+, Rotterdam: O1O, p. 132
+
+
+
+
+
+
+
+Lottaz, C., Stouffs, R. and Smith, I.  (2000) 
+ Increasing understanding during collaboration through advanced representations
+, Electronic Journal of Information Technology in Construction 5(1): 1-24
+
+
+
+
+
+
+
+Madrazo, L.  (1995) 
+ The Concept of Type in Architecture: An Inquiry into the Nature of Architectural Form
+, Ph.D. diss. Zurich: Swiss Federal Institute of Technology
+
+
+
+
+
+
+
+Madrazo, L.  (2000) 
+ Computers and architectural design: going beyond the tool
+, Automation in Construction 9(1): 5-17",,"Achten, H.  (1997) 
+ Generic Representations
+, Ph.D. diss. Eindhoven: Eindhoven University of Technology",,,,"Akin, O., Cumming, M., Shealey, M. and Tunçer, B.  (1997) 
+ An electronic design assistance tool for case-based representation of designs
+, Automation in Construction 6: 265-274",,,,"Barrow, H.G. and Tenenbaum, J.M.  (1981) 
+ Computational vision
+, Proceedings of the IEEE 69(5):572-595. New York The Institute of Electrical and Electronic Engineers",,,,"Bishop, C.M.  (1995) 
+ Neural networks for pattern recognition
+, Oxford: Clarendon",,,,"Ching, F.D.K.  (1979) 
+ Architecture: Form, Space and Order
+, New York: Van Nostrand Reinhold",,,,"De Jong, T.M. and van der Voordt, T.J.M.  (2000) 
+ Retrieval and reference
+, Ways to Study: Architectural, Urban, and Technical Design, eds. T.M. de Jong, Y.J. Cuperus and T.J.M. van der Voordt, 29-35. Delft: Faculty of Architecture, Delft University of Technology",,,,"Flemming, U.  (1990) 
+ Syntactic structures in architecture: teaching composition with computer assistance
+, The Electronic Design Studio, eds. M. McCullough, W.J. Mitchell and P. Purcell, 31-48. Cambridge, Mass.: The MIT Press",,,,"Gero, J.S.  (1990) 
+ Design prototypes: a knowledge representation schema for design
+, AI Magazine 11(4): 2636",,,,"Goldschmidt, G.  (1995) 
+ Visual displays for design: Imagery, analogy and databases of visual images
+, Visual Databases in Architecture, eds. A. Koutamanis, H. Timmermans and I. Vermeulen, 53-74. Aldershot, UK: Avebury",,,,"Greenberg, I.  (1999) 
+ Facing up to new interfaces
+, IEEE Computer 32(4): 14-16",,,,"Gross, M.  (1995) 
+ Indexing visual databases of designs with diagrams
+, Visual Databases in Architecture, eds. A. Koutamanis, H. Timmermans and I. Vermeulen, 1-14. Aldershot, UK: Avebury",,,,"Inoue, K. and Urahama, K.  (2000) 
+ Learning of view-invariant pattern recognizer with temporal context
+, Pattern Recognition 33: 1665-1674",,,,"Johnson, P.A. (1994) 
+ The Theory of Architecture: Concepts, Themes and Practices
+, New York: Van Nostrand Reinhold, pp. 347-348",,,,"Krishnamurti, R. and Earl, C.F.  (1992) 
+ Shape recognition in three dimensions
+, Environment and Planning B: Planning and Design 19 : 585-603",,,,"Krishnamurti, R. and Stouffs, R.  (1997) 
+ Spatial change: continuity, reversibility and emergent shapes
+, Environment and Planning B: Planning and Design 24: 359-384",,,,"Lawrence, R.J.  (1994) 
+ Types as analytical tool: reinterpretation and application
+, Ordering Space: Types in Architecture and Design, eds. K.A. Franck, and L.H. Schneekloth, 273. New York: Van Nostrand Reinhold",,,,"Leupen B., Grafe, C., Körnig, N., Lampe, M. and De Zeeuw, P. (1997) 
+ Design and Analysis
+, Rotterdam: O1O, p. 132",,,,"Lottaz, C., Stouffs, R. and Smith, I.  (2000) 
+ Increasing understanding during collaboration through advanced representations
+, Electronic Journal of Information Technology in Construction 5(1): 1-24",,,,"Madrazo, L.  (1995) 
+ The Concept of Type in Architecture: An Inquiry into the Nature of Architectural Form
+, Ph.D. diss. Zurich: Swiss Federal Institute of Technology",,,,"Madrazo, L.  (2000) 
+ Computers and architectural design: going beyond the tool
+, Automation in Construction 9(1): 5-17",,
+10,2002/04/25 17:30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

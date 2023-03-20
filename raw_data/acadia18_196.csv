@@ -1,0 +1,212 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64
+0,acadia18_196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Zhang, Yan; Grignard; Aubuchon, Alexander; Lyons, Keven; Larson, Kent",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Machine Learning for Real-time Urban 
+Metrics and Design Recommendations",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"ACADIA // 2018: Recalibration. On imprecisionand infidelity. [Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA) ISBN 978-0-692-17729-7] Mexico City, Mexico 18-20 October, 2018, pp.  196-205",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Cities are growing, becoming more complex, and changing rapidly. Currently, community engagement for urban decision-making is often ineffective, uninformed, and only occurs in projects later stages. To facilitate a more collaborative and evidence-based urban decision- making process for both experts and non-experts, real-time feedback and optimized suggestions are essential. However, most of the current tools for urban planning are neither capable of performing complex simulations in real time nor of providing guidance for better urban performance.CityMatrix was introduced to address these challenges. Machine learning techniques were applied to achieve real-time prediction of multiple urban simulations, and thousands of city configurations were simulated. The simulation results were used to train a convolutional neural network (CNN) to predict the traffic and solar performance of unseen city configurations. The prediction with the CNN is thousands of times faster than the original simulations and maintains a high-quality representation of the results. This machine learning approach was applied as a versatile, quick, accurate, and computationally efficient method not only for real-time feedback, but also for optimized design recommendations. Users involved in the evaluation of this project had a better understanding of the embodied trade-offs of the city and achieved their goals in an efficient manner.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"full paper, optimization, collaboration, urban design & analysis, ai & machine learning",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,ryanz@mit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (6,819,463 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Abadi, Martín, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen, Craig Citro, Greg S Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin, et al. (2016) 
+ Tensorflow: Large-Scale Machine Learning on Heterogeneous Distributed Systems
+, arXiv preprint arXiv:1603.04467
+
+
+
+
+
+
+
+Alonso, Luis, Yan Zhang, Arnaud Grignard, Ariel Noyman, Yasushi Sakai, Markus Elkatsha, Ronan Doorley, and Kent Larson (2018) 
+ Data-Driven, Evidence-Based Simulation of Urban Dynamics: Use Case Volpe
+, Unifying Themes in Complex Systems IX: Proceedings of the Ninth International Conference on Complex Systems, 25361. Cham, Switzerland: Springer
+
+
+
+
+
+
+
+Browne, C.B., E. Powley, D. Whitehouse, S.M. Lucas, P.I. Cowling, P. Rohlfshagen, S. Tavener, D. Perez, S. Samothrakis, and S. Colton (2012) 
+ A Survey of Monte Carlo Tree Search Methods
+, IEEE Transactions on Computational Intelligence and AI in Games 4 (1): 1-43
+
+
+
+
+
+
+
+Grignard, Arnaud, and Alexis Drogoul (2017) 
+ Agent-Based Visualization: A Real-Time Visualization Tool Applied Both to Data and Simulation Outputs
+, The Workshops of the Thirty-First AAAI Conference on Artificial Intelligence: Human-Machine Collaborative Learning, 6705. San Francisco: AAAI
+
+
+
+
+
+
+
+Grignard, Arnaud, Núria Maci?, Luis Alonso Pastor, Ariel Noyman, Yan Zhang, and Kent Larson (2018) 
+ CityScope Andorra: A Multi-level Interactive and Tangible Agent-based Visualization
+, Proceedings of the 17th International Conference on Autonomous Agents and MultiAgent Systems, 193940. Stockholm, Sweden: AAMAS
+
+
+
+
+
+
+
+Grignard, Arnaud, Patrick Taillandier, Benoit Gaudou, Duc An Vo, Nghi Quang Huynh, and Alexis Drogoul (2013) 
+ GAMA 1.6: Advancing the Art of Complex Agent-Based Modeling and Simulation
+, PRIMA 13: International Conference on Principles and Practice of Multi-Agent Systems, 11731. Berlin: Springer
+
+
+
+
+
+
+
+Grimm, Nancy B., S.H. Faeth, N.E. Golubiewski, C.L. Redman, J. Wu, X. Bai, and J.M. Briggs (2008) 
+ Global Change and the Ecology of Cities
+, Science 319 (5864): 75660
+
+
+
+
+
+
+
+Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E Hinton (2012) 
+ Imagenet Classification with Deep Convolutional Neural Networks
+, Proceedings of the 25th International Conference on Neural Information Processing Systems 10971105. Lake Tahoe, NV: NIPS
+
+
+
+
+
+
+
+Kröner, Andreas, P. Holl, W. Marquardt, and E.D. Gilles (1990) 
+ DIVA: An Open Architecture for Dynamic Simulation
+, Computers & Chemical Engineering 14 (11): 128995
+
+
+
+
+
+
+
+Midgley, James, and Anthony Hall (1986) 
+ Community Participation, Social Development and the State
+, London: Routledge
+
+
+
+
+
+
+
+Niepert, Mathias, Mohamed Ahmed, and Konstantin Kutzkov (2016) 
+ Learning Convolutional Neural Networks for Graphs
+, Proceedings of Machine Learning Research 48: 201423
+
+
+
+
+
+
+
+Rajpurkar, Pranav, Awni Y Hannun, Masoumeh Haghpanahi, Codie Bourn, and Andrew Y Ng. (2017) 
+ Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks
+, arXiv preprint arXiv:1707.01836
+
+
+
+
+
+
+
+Silver, David, Aja Huang, Chris J Maddison, Arthur Guez, Laurent Sifre, George Van Den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, et al. (2016) 
+ Mastering the Game of Go with Deep Neural Networks and Tree Search
+, Nature 529 (7587): 48489
+
+
+
+
+
+
+
+Underkoffler, John, and Hiroshi Ishii (1999) 
+ Urp: A Luminous-Tangible Workbench for Urban Planning and Design
+, Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 386393. Pittsburgh, PA: CHI
+
+
+
+
+
+
+
+Zhang, Yan, and Kent Larson (2018) 
+ CityScope: Application of Tangible Interface, Augmented Reality, and Artificial Intelligence in the Urban Decision Support System
+, Time + Architecture 2018 (01): 4449
+
+
+
+
+
+
+
+Zhang, Yan (2017) 
+ CityMatrix: an urban decision support system augmented by artificial intelligence
+, Masters thesis, Massachusetts Institute of Technology",,"Abadi, Martín, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen, Craig Citro, Greg S Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin, et al. (2016) 
+ Tensorflow: Large-Scale Machine Learning on Heterogeneous Distributed Systems
+, arXiv preprint arXiv:1603.04467",,,,"Alonso, Luis, Yan Zhang, Arnaud Grignard, Ariel Noyman, Yasushi Sakai, Markus Elkatsha, Ronan Doorley, and Kent Larson (2018) 
+ Data-Driven, Evidence-Based Simulation of Urban Dynamics: Use Case Volpe
+, Unifying Themes in Complex Systems IX: Proceedings of the Ninth International Conference on Complex Systems, 25361. Cham, Switzerland: Springer",,,,"Browne, C.B., E. Powley, D. Whitehouse, S.M. Lucas, P.I. Cowling, P. Rohlfshagen, S. Tavener, D. Perez, S. Samothrakis, and S. Colton (2012) 
+ A Survey of Monte Carlo Tree Search Methods
+, IEEE Transactions on Computational Intelligence and AI in Games 4 (1): 1-43",,,,"Grignard, Arnaud, and Alexis Drogoul (2017) 
+ Agent-Based Visualization: A Real-Time Visualization Tool Applied Both to Data and Simulation Outputs
+, The Workshops of the Thirty-First AAAI Conference on Artificial Intelligence: Human-Machine Collaborative Learning, 6705. San Francisco: AAAI",,,,"Grignard, Arnaud, Núria Maci?, Luis Alonso Pastor, Ariel Noyman, Yan Zhang, and Kent Larson (2018) 
+ CityScope Andorra: A Multi-level Interactive and Tangible Agent-based Visualization
+, Proceedings of the 17th International Conference on Autonomous Agents and MultiAgent Systems, 193940. Stockholm, Sweden: AAMAS",,,,"Grignard, Arnaud, Patrick Taillandier, Benoit Gaudou, Duc An Vo, Nghi Quang Huynh, and Alexis Drogoul (2013) 
+ GAMA 1.6: Advancing the Art of Complex Agent-Based Modeling and Simulation
+, PRIMA 13: International Conference on Principles and Practice of Multi-Agent Systems, 11731. Berlin: Springer",,,,"Grimm, Nancy B., S.H. Faeth, N.E. Golubiewski, C.L. Redman, J. Wu, X. Bai, and J.M. Briggs (2008) 
+ Global Change and the Ecology of Cities
+, Science 319 (5864): 75660",,,,"Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E Hinton (2012) 
+ Imagenet Classification with Deep Convolutional Neural Networks
+, Proceedings of the 25th International Conference on Neural Information Processing Systems 10971105. Lake Tahoe, NV: NIPS",,,,"Kröner, Andreas, P. Holl, W. Marquardt, and E.D. Gilles (1990) 
+ DIVA: An Open Architecture for Dynamic Simulation
+, Computers & Chemical Engineering 14 (11): 128995",,,,"Midgley, James, and Anthony Hall (1986) 
+ Community Participation, Social Development and the State
+, London: Routledge",,,,"Niepert, Mathias, Mohamed Ahmed, and Konstantin Kutzkov (2016) 
+ Learning Convolutional Neural Networks for Graphs
+, Proceedings of Machine Learning Research 48: 201423",,,,"Rajpurkar, Pranav, Awni Y Hannun, Masoumeh Haghpanahi, Codie Bourn, and Andrew Y Ng. (2017) 
+ Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks
+, arXiv preprint arXiv:1707.01836",,,,"Silver, David, Aja Huang, Chris J Maddison, Arthur Guez, Laurent Sifre, George Van Den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, et al. (2016) 
+ Mastering the Game of Go with Deep Neural Networks and Tree Search
+, Nature 529 (7587): 48489",,,,"Underkoffler, John, and Hiroshi Ishii (1999) 
+ Urp: A Luminous-Tangible Workbench for Urban Planning and Design
+, Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 386393. Pittsburgh, PA: CHI",,,,"Zhang, Yan, and Kent Larson (2018) 
+ CityScope: Application of Tangible Interface, Augmented Reality, and Artificial Intelligence in the Urban Decision Support System
+, Time + Architecture 2018 (01): 4449",,,,"Zhang, Yan (2017) 
+ CityMatrix: an urban decision support system augmented by artificial intelligence
+, Masters thesis, Massachusetts Institute of Technology",,
+12,2019/01/07 11:21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
