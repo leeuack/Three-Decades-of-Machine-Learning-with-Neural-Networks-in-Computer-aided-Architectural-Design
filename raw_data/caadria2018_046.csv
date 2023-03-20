@@ -1,0 +1,102 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+0,caadria2018_046,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Lu, Siliang and Cochran Hameen, Erica",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Integrated IR Vision Sensor for Online Clothing Insulation Measurement,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"T. Fukuda, W. Huang, P. Janssen, K. Crolla, S. Alhadidi (eds.), Learning, Adapting and Prototyping - Proceedings of the 23rd CAADRIA Conference - Volume 1, Tsinghua University, Beijing, China, 17-19 May 2018, pp. 565-573",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"As one of the most important building systems, HVAC plays a key role in creating a comfortable thermal environment. Predicted Mean Vote (PMV), an index that predicts the mean value of the votes of a large group of persons on the thermal sensation scale, has been adopted to evaluate the built environment. Compared to environmental factors, clothing insulation can be much harder to measure in the field. The existing research on real-time clothing insulation measurement mainly focuses on expensive infrared thermography (IR) cameras. Therefore, to ensure cost-effectiveness, the paper has proposed a solution consisting of a normal camera, IR and air temperature sensors and Arduino Nanos to measure clothing insulation in real-time. Moreover, the algorithm includes the initialization from clothing classification with pre-trained neural network and optimization of the clothing insulation calculation. A total of 8 tests have been conducted with garments for spring/fall, summer and winter. The current results have shown the accuracy of T-shirt classification can reach over 90%. Moreover, compared with the results with IR cameras and reference values, the accuracies of the proposed sensing system vary with different clothing types. Research shall be further conducted and be applied into the dynamic PMV-based HVAC control system.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,clothing insulation; skin temperature; clothing classification; IR temperature sensor; Optimization,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,siliang1@andrew.cmu.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,882,245 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+ASHRAE, S (2010) 
+ Standard 55-2010:Thermal Environmental Conditions for Human Occupancy
+, ASHRAE. Atalanta USA
+
+
+
+
+
+
+
+Banerjee, D, Chattopadhyay, S K and Suneet, T (2013) 
+ Infrared thermography in material research- A review of textile applications
+, Indian Journal of Fibre & Textile Research, 38, pp. 427-437
+
+
+
+
+
+
+
+Lee, J H, Kim, Y K and Kim, K S (2016) 
+ Estimating Clothing Thermal Insulation Using an Infrared Camera
+, sensors, 16(3), p. 341
+
+
+
+
+
+
+
+Liu, Z, Yan, S, Luo, P, Wang, X and Tang, X (2016) 
+ Fashion Landmark Detection in the Wild
+, European Conference on Computer Vision (ECCV)
+
+
+
+
+
+
+
+Malchaire, J (2004) 
+ ISO 7933, Ergonomics of the Thermal Environment-Analytical Determination and Interpretation of Heat Stress Using Calculation of the Predicted Heat Strain, 2nd ed.
+, International Organization for Standardization (ISO), Geneva
+
+
+
+
+
+
+
+Schiavon, S and Lee, K H (2013) 
+ Dynamic predictive clothing insulation models based on outdoor air and indoor operative temperatures
+, Building and Environment, 59, pp. 250-260
+
+
+
+
+
+
+
+Szegedy, C, Liu, W, Jia, Y, Sermanet, P and Reed, S (2015) 
+ Going Deeper with Convolutions
+, CVPR 2015",,"ASHRAE, S (2010) 
+ Standard 55-2010:Thermal Environmental Conditions for Human Occupancy
+, ASHRAE. Atalanta USA",,,,"Banerjee, D, Chattopadhyay, S K and Suneet, T (2013) 
+ Infrared thermography in material research- A review of textile applications
+, Indian Journal of Fibre & Textile Research, 38, pp. 427-437",,,,"Lee, J H, Kim, Y K and Kim, K S (2016) 
+ Estimating Clothing Thermal Insulation Using an Infrared Camera
+, sensors, 16(3), p. 341",,,,"Liu, Z, Yan, S, Luo, P, Wang, X and Tang, X (2016) 
+ Fashion Landmark Detection in the Wild
+, European Conference on Computer Vision (ECCV)",,,,"Malchaire, J (2004) 
+ ISO 7933, Ergonomics of the Thermal Environment-Analytical Determination and Interpretation of Heat Stress Using Calculation of the Predicted Heat Strain, 2nd ed.
+, International Organization for Standardization (ISO), Geneva",,,,"Schiavon, S and Lee, K H (2013) 
+ Dynamic predictive clothing insulation models based on outdoor air and indoor operative temperatures
+, Building and Environment, 59, pp. 250-260",,,,"Szegedy, C, Liu, W, Jia, Y, Sermanet, P and Reed, S (2015) 
+ Going Deeper with Convolutions
+, CVPR 2015",,
+11,2018/05/17 07:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,

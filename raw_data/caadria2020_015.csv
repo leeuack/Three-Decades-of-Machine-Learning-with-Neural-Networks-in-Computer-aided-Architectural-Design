@@ -1,0 +1,13 @@
+﻿,0
+0,caadria2020_015
+1,"Zheng, Hao, An, Keyao, Wei, Jingxuan and Ren, Yue"
+2,2020
+3,Apartment Floor Plans Generation via Generative Adversarial Networks
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 2, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 599-608"
+5,"When drawing architectural plans, designers should always define every detail, so the images can contain enough information to support design. This process usually costs much time in the early design stage when the design boundary has not been finally determined. Thus the designers spend a lot of time working forward and backward drawing sketches for different site conditions. Meanwhile, Machine Learning, as a decision-making tool, has been widely used in many fields. Generative Adversarial Network (GAN) is a model frame in machine learning, specially designed to learn and generate image data. Therefore, this research aims to apply GAN in creating architectural plan drawings, helping designers automatically generate the predicted details of apartment floor plans with given boundaries. Through the machine learning of image pairs that show the boundary and the details of plan drawings, the learning program will build a model to learn the connections between two given images, and then the evaluation program will generate architectural drawings according to the inputted boundary images. This automatic design tool can help release the heavy load of architects in the early design stage, quickly providing a preview of design solutions for architectural plans."
+6,Machine Learning; Artificial Intelligence; Architectural Design; Interior Design
+7,CAADRIA
+8,zhhao@design.upenn.edu
+9,"file.pdf (5,144,237 bytes)"
+10,Content-type: text/plain
+11,2020/08/14 18:40

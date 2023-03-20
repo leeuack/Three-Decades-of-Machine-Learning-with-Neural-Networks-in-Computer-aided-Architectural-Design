@@ -1,0 +1,32 @@
+﻿,0
+0,"Silva, Neander"
+1,1997
+2,Artificial Intelligence and 3D Modelling Exploration: An Integrated Digital Design Studio
+3,Challenges of the Future [15th eCAADe Conference Proceedings / ISBN 0-9523687-3-0] Vienna (Austria) 17-20 September 1997
+4,"This paper describes a CAAD teaching strategy in which some Artificial
+Intelligence techniques are integrated with 3D modelling exploration. The
+main objective is to lead the students towards ""repertoire"" acquisition and
+creative exploration of design alternatives. This strategy is based on
+dialogue emulation, graphic precedent libraries, and 3D modelling as a
+medium of design study.The course syllabus is developed in two parts: a first stage in which the
+students interact with an intelligent interface that emulates a dialogue.
+This interface produces advice composed of either precedents or possible
+new solutions. Textual descriptions of precedents are coupled with
+graphical illustrations and textual descriptions of possible new solutions
+are coupled with sets of 3D components. The second and final stage of
+the course is based on 3D modelling, not simply as a means of
+presentation, but as a design study medium. The students are then
+encouraged to get the systems output from the first stage of the course
+and explore it graphically. This is done through an environment in which
+modelling in 3D is straightforward allowing the focus to be placed on
+design exploration rather than simply on design presentation. The
+students go back to the first stage for further advice depending on the
+results achieved in the second stage. This cycle is repeated until the
+design solution receives a satisfactory assessment."
+5,"Education, Design Process, Interfaces, Neural Networks, 3D Modelling"
+6,eCAADe
+7,neander@guarany.cpd.unb.br
+8,http://info.tuwien.ac.at/ecaade/proc/silva/silva.htm
+9,"file.pdf (9,327 bytes)"
+10,Content-type: text/plain
+11,2001/08/17 13:11

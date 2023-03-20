@@ -1,0 +1,126 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+0,caadria2016_881,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Silvestre, Joaquim; Yasushi Ikeda and Franc?ois Gue?na",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Artificial Imagination of Architecture with Deep Convolutional Neural Network,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Living Systems and Micro-Utopias: Towards Continuous Designing, Proceedings of the 21st International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2016) / Melbourne 30 March2 April 2016, pp. 881-890",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper attempts to determine if an Artificial Intelli- gence system using deep convolutional neural network (ConvNet) will be able to imagine architecture. Imagining architecture by means of algorithms can be affiliated to the research field of generative archi- tecture. ConvNet makes it possible to avoid that difficulty by automat- ically extracting and classifying these rules as features from large ex- ample data. Moreover, image-base rendering algorithms can manipu- late those abstract rules encoded in the ConvNet. From these rules and without constructing a prior 3D model, these algorithms can generate perspective of an architectural image. To conclude, establishing shape grammar with this automated system opens prospects for generative architecture with image-base rendering algorithms.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Machine learning; convolutional neural network; generative design; image-based rendering,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,j.silvestre82@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (24,587,129 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+CoRR (2013) 
+ Learning Hierarchical Features for Scene Labeling
+, IEEE Trans
+
+
+
+
+
+
+
+Fitzgibbon, A., Wexler, Y. and Zisserman, A. (2003) 
+ Image-based rendering using imagebased priors
+, ICCV
+
+
+
+
+
+
+
+Fuller, M. and Sónia, M. (2011) 
+ Feral Computing: From Ubiquitous Calculation to Wild Interactions
+, Fiberculture Journal, 135, 144163
+
+
+
+
+
+
+
+Gatys, A. L., Ecker, S. A. and Bethge, M. (2015) 
+ A Neural Algorithm of Artistic Style
+, CoRR
+
+
+
+
+
+
+
+Nielsen, N. M. (2015) 
+ Neural Networks and Deep Learning
+, Detremination Press
+
+
+
+
+
+
+
+Stiny, G. (1980) 
+ Introduction to shape and shape grammars
+, Environment and Planning B, 7(3), 343351
+
+
+
+
+
+
+
+Terzidis, K. (2006) 
+ Algorithmic Architecture
+, Architectural Press, Boston
+
+
+
+
+
+
+
+Wood, J. (2007) 
+ Design for Micro-Utopias: Making the Unthinkable Possible
+, Gower
+
+
+
+
+
+
+
+Zhou, B., Lapedriza, A., Xiao, J., Torralba, A. and Oliva, A. (2014) 
+ Learning Deep Features for Scene Recognition using Places Database
+, Advances in Neural Information Processing Systems, 27 (NIPS)",,"CoRR (2013) 
+ Learning Hierarchical Features for Scene Labeling
+, IEEE Trans",,,,"Fitzgibbon, A., Wexler, Y. and Zisserman, A. (2003) 
+ Image-based rendering using imagebased priors
+, ICCV",,,,"Fuller, M. and Sónia, M. (2011) 
+ Feral Computing: From Ubiquitous Calculation to Wild Interactions
+, Fiberculture Journal, 135, 144163",,,,"Gatys, A. L., Ecker, S. A. and Bethge, M. (2015) 
+ A Neural Algorithm of Artistic Style
+, CoRR",,,,"Nielsen, N. M. (2015) 
+ Neural Networks and Deep Learning
+, Detremination Press",,,,"Stiny, G. (1980) 
+ Introduction to shape and shape grammars
+, Environment and Planning B, 7(3), 343351",,,,"Terzidis, K. (2006) 
+ Algorithmic Architecture
+, Architectural Press, Boston",,,,"Wood, J. (2007) 
+ Design for Micro-Utopias: Making the Unthinkable Possible
+, Gower",,,,"Zhou, B., Lapedriza, A., Xiao, J., Torralba, A. and Oliva, A. (2014) 
+ Learning Deep Features for Scene Recognition using Places Database
+, Advances in Neural Information Processing Systems, 27 (NIPS)",,
+11,2016/03/11 09:21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

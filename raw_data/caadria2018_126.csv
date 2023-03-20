@@ -1,0 +1,78 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+0,caadria2018_126,,,,,,,,,,,,,,,,,,,,
+1,"Khean, Nariddh, Kim, Lucas, Martinez, Jorge, Doherty, Ben, Fabbri, Alessandra, Gardner, Nicole and Haeusler, M. Hank",,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,
+3,The Introspection of Deep Neural Networks - Towards Illuminating the Black Box - Training Architects Machine Learning via Grasshopper Definitions,,,,,,,,,,,,,,,,,,,,
+4,"T. Fukuda, W. Huang, P. Janssen, K. Crolla, S. Alhadidi (eds.), Learning, Adapting and Prototyping - Proceedings of the 23rd CAADRIA Conference - Volume 2, Tsinghua University, Beijing, China, 17-19 May 2018, pp. 237-246",,,,,,,,,,,,,,,,,,,,
+5,"Machine learning is yet to make a significant impact in the field of architecture and design. However, with the combination of artificial neural networks, a biologically inspired machine learning paradigm, and deep learning, a hierarchical subsystem of machine learning, the predictive capabilities of machine learning processes could prove a valuable tool for designers. Yet, the inherent knowledge gap between the fields of architecture and computer science has meant the complexity of machine learning, and thus its potential value and applications in the design of the built environment remain little understood. To bridge this knowledge gap, this paper describes the development of a learning tool directed at architects and designers to better understand the inner workings of machine learning. Within the parametric modelling environment of Grasshopper, this research develops a framework to express the mathematic and programmatic operations of neural networks in a visual scripting language. This offers a way to segment and parametrise each neural network operation into a basic expression. Unpacking the complexities of machine learning in an intermediary software environment such as Grasshopper intends to foster the broader adoption of artificial intelligence in architecture.",,,,,,,,,,,,,,,,,,,,
+6,machine learning; neural network; action research; supervised learning; education,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,
+8,m.haeusler@unsw.edu.au,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (3,148,344 bytes)",,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Carpo, M. (2013) 
+ The Digital Turn in Architecture
+, Chichester: Wiley
+
+
+
+
+
+
+
+Carpo, M. (2017) 
+ The Second Digital Turn: Design Beyond Intelligence
+, Mass. MIT Press, Cambridge
+
+
+
+
+
+
+
+Cichocka, J.M., Browne, W.N. and Rodriguez, E. (2017) 
+ Optimization in the Architectural Practice
+, Proceedings of the 22nd International Conference for CAADRIA 2017, Hong Kong, pp. 389-391
+
+
+
+
+
+
+
+Greenfield, A. (2017) 
+ Radical Technologies: The Design of Everyday Life
+, Verso, London
+
+
+
+
+
+
+
+Nielsen, M.A. (2015) 
+ Neural Networks and Deep Learning
+, Determinaton Press",,"Carpo, M. (2013) 
+ The Digital Turn in Architecture
+, Chichester: Wiley",,,,"Carpo, M. (2017) 
+ The Second Digital Turn: Design Beyond Intelligence
+, Mass. MIT Press, Cambridge",,,,"Cichocka, J.M., Browne, W.N. and Rodriguez, E. (2017) 
+ Optimization in the Architectural Practice
+, Proceedings of the 22nd International Conference for CAADRIA 2017, Hong Kong, pp. 389-391",,,,"Greenfield, A. (2017) 
+ Radical Technologies: The Design of Everyday Life
+, Verso, London",,,,"Nielsen, M.A. (2015) 
+ Neural Networks and Deep Learning
+, Determinaton Press",,
+11,2018/05/17 07:08,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,78 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+0,caadria2018_290,,,,,,,,,,,,,,,,,,,,
+1,"Wang, Zhenyu, Shi, Jia, Yu, Chuanfei and Gao, Guoyuan",,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,
+3,Automatic Design of Main Pedestrian Entrance of Building Site Based on Machine Learning - A Case Study of Museums in China's Urban Environment,,,,,,,,,,,,,,,,,,,,
+4,"T. Fukuda, W. Huang, P. Janssen, K. Crolla, S. Alhadidi (eds.), Learning, Adapting and Prototyping - Proceedings of the 23rd CAADRIA Conference - Volume 2, Tsinghua University, Beijing, China, 17-19 May 2018, pp. 227-235",,,,,,,,,,,,,,,,,,,,
+5,"The main pedestrian entrance of the building site has a direct influence on the use of the buildings, so the selection of the main pedestrian entrance is very important in the process of architectural design. The correct selection of the main pedestrian entrance of building site depends on the experience of designers and environment data collected by designers, the process is time consuming and inefficient, especially when the building site located in complex urban environment. In order to improve the efficiency of design process, we used online map to collect museums information in China as training samples, and constructing artificial neural networks to predict the direction of the main pedestrian entrance. After the training, we get the prediction model with 79% prediction accuracy. Although the accuracy still need to be improved, it creates a new approach to analysis the main pedestrian entrance of the site and worth further researching.",,,,,,,,,,,,,,,,,,,,
+6,Artificial Neural Network (ANN); Main Pedestrian Entrance of Building Site; Automatic Design,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,
+8,514656668@qq.com,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (9,473,302 bytes)",,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Brugnaro, G and Hanna, S (2017) 
+ Adaptive Robotic Training Methods for Subtractive Manufacturing
+, Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture, pp. 164-169
+
+
+
+
+
+
+
+Ekici, B B and Aksoy, U T (2009) 
+ Prediction of building energy consumption by using artificial neural networks
+, Advances in Engineering Software, 40(5), pp. 356-362
+
+
+
+
+
+
+
+Nabil, A, Pitt, M and Hanna, S (2014) 
+ Neural network architectures for a user overridable dynamic shading system
+, Proceedings of the 2014 Building Simulation and Optimization Conference, The Bartlett, UCL Faculty of the Built Environment Institute for Environmental Design and Engineering
+
+
+
+
+
+
+
+Saraee, M, Vahid Moosavi, S and Rezapour, S (2011) 
+ Application of Self Organizing Map (SOM) to model a machining process
+, Journal of Manufacturing Technology Management, 22(6), pp. 818-830
+
+
+
+
+
+
+
+Wilkinson, S and Hanna, S (2014) 
+ Approximating computational fluid dynamics for generative tall building design
+, International Journal of Architectural Computing, 12(2), pp. 155-177",,"Brugnaro, G and Hanna, S (2017) 
+ Adaptive Robotic Training Methods for Subtractive Manufacturing
+, Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture, pp. 164-169",,,,"Ekici, B B and Aksoy, U T (2009) 
+ Prediction of building energy consumption by using artificial neural networks
+, Advances in Engineering Software, 40(5), pp. 356-362",,,,"Nabil, A, Pitt, M and Hanna, S (2014) 
+ Neural network architectures for a user overridable dynamic shading system
+, Proceedings of the 2014 Building Simulation and Optimization Conference, The Bartlett, UCL Faculty of the Built Environment Institute for Environmental Design and Engineering",,,,"Saraee, M, Vahid Moosavi, S and Rezapour, S (2011) 
+ Application of Self Organizing Map (SOM) to model a machining process
+, Journal of Manufacturing Technology Management, 22(6), pp. 818-830",,,,"Wilkinson, S and Hanna, S (2014) 
+ Approximating computational fluid dynamics for generative tall building design
+, International Journal of Architectural Computing, 12(2), pp. 155-177",,
+11,2018/05/17 07:08,,,,,,,,,,,,,,,,,,,,

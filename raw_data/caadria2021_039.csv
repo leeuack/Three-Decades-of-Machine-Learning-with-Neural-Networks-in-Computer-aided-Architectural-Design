@@ -1,0 +1,210 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64
+0,caadria2021_039,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Chen, Jielin, Stouffs, Rudi and Biljecki, Filip",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Hierarchical (multi-label) architectural image recognition and classification,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"A. Globa, J. van Ameijde, A. Fingrut, N. Kim, T.T.S. Lo (eds.), PROJECTIONS - Proceedings of the 26th CAADRIA Conference - Volume 1, The Chinese University of Hong Kong and Online, Hong Kong, 29 March - 1 April 2021, pp. 161-170",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The task of architectural image recognition for both architectural functionality and style remains an open challenge. In addition, the paucity of well-organized, large-scale architectural image datasets with specific consideration for the domain of architectural design research has hindered the exploration of these challenging tasks. Drawing upon images from the professional architectural website ArchdailyÂ®, and leveraging state-of-the-art deep-learning-based classification models, we explore a hierarchical multi-label classification model as a potential baseline for the task of architectural image classification. The resulting model showcases the potential for innovative architectural discipline-related analyses and demonstrates some heuristic insights for visual feature extraction pertaining to both architectural functionality and architectural style.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,image recognition; hierarchical classification; multi-label classification; architectural functionality; style,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,chen.jielin@u.nus.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (7,110,086 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Deng, J, Dong, W, Socher, R, Li, LJ, Li, K and Li, FF (2009) 
+ Imagenet: A large-scale hierarchical image database
+, 2009 IEEE conference on computer vision and pattern recognition, pp. 248-255
+
+
+
+
+
+
+
+Freitas, A and Carvalho, A (2007) 
+ A tutorial on hierarchical classification with applications in bioinformatics
+, Taniar, David (eds), Research and trends in data mining technologies and applications, IGI Global, pp. 175-208
+
+
+
+
+
+
+
+Hoffmann, EJ, Wang, YY, Werner, M, Kang, J and Zhu, XX (2019) 
+ Model fusion for building type classification from aerial and street view images
+, Remote Sensing, 11(11), p. 1259
+
+
+
+
+
+
+
+Huang, G, Liu, Z, Van Der Maaten, L and Weinberger, KQ (2017) 
+ Densely connected convolutional networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 4700-4708
+
+
+
+
+
+
+
+Kang, J, Körner, M, Wang, Y, Taubenböck, H and Zhu, XX (2018) 
+ Building instance classification using street view images
+, ISPRS journal of photogrammetry and remote sensing, 145, pp. 44-59
+
+
+
+
+
+
+
+Llamas, J, M Lerones, P, Medina, R, Zalama, E and Gómez-García-Bermejo, J (2017) 
+ Classification of architectural heritage images using deep learning techniques
+, Applied Sciences, 7(10), p. 992
+
+
+
+
+
+
+
+Nguyen, QC, Sajjadi, M, McCullough, M, Pham, M, Nguyen, TT, Yu, WJ, Meng, HW, Wen, M, Li, FF and Smith, KR (2018) 
+ Neighbourhood looking glass: 360? automated characterisation of the built environment for neighbourhood effects research
+, J Epidemiol Community Health, 72(3), pp. 260-266
+
+
+
+
+
+
+
+Paszke, A, Gross, S, Massa, F, Lerer, A, Bradbury, J, Chanan, G, Killeen, T, Lin, Z, Gimelshein, N and Antiga, L (2019) 
+ Pytorch: An imperative style, high-performance deep learning library
+, Advances in neural information processing systems, pp. 8026-8037
+
+
+
+
+
+
+
+Pedregosa, F, Varoquaux, G, Gramfort, A, Michel, V, Thirion, B, Grisel, O, Blondel, M, Prettenhofer, P, Weiss, R and Dubourg, V (2011) 
+ Scikit-learn: Machine learning in Python
+, the Journal of machine Learning research, 12, pp. 2825-2830
+
+
+
+
+
+
+
+Selvaraju, RR, Cogswell, M, Das, A, Vedantam, R, Parikh, D and Batra, D (2017) 
+ Grad-cam: Visual explanations from deep networks via gradient-based localization
+, Proceedings of the IEEE international conference on computer vision, pp. 618-626
+
+
+
+
+
+
+
+Shalunts, G, Haxhimusa, Y and Sablatnig, R (2011) 
+ Architectural style classification of building facade windows
+, International Symposium on Visual Computing, pp. 280-289
+
+
+
+
+
+
+
+Silla, CN and Freitas, AA (2011) 
+ A survey of hierarchical classification across different application domains
+, Data Mining and Knowledge Discovery, 22(1-2), pp. 31-72
+
+
+
+
+
+
+
+Van der Maaten, L and Hinton, G (2008) 
+ Visualizing data using t-SNE
+, Journal of machine learning research, 9(Nov), pp. 2579-2605
+
+
+
+
+
+
+
+von Platten, J, Sandels, C, Jörgensson, K, Karlsson, V, Mangold, M and Mjörnell, K (2020) 
+ Using Machine Learning to Enrich Building Databases-Methods for Tailored Energy Retrofits
+, Energies, 13(10), p. 2574
+
+
+
+
+
+
+
+Xie, S, Girshick, R, Dollár, P, Tu, Z and He, K (2017) 
+ Aggregated residual transformations for deep neural networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1492-1500
+
+
+
+
+
+
+
+Xu, Z, Tao, D, Zhang, Y, Wu, J and Tsoi, AC (2014) 
+ Architectural style classification using multinomial latent logistic regression
+, European Conference on Computer Vision, pp. 600-615",,"Deng, J, Dong, W, Socher, R, Li, LJ, Li, K and Li, FF (2009) 
+ Imagenet: A large-scale hierarchical image database
+, 2009 IEEE conference on computer vision and pattern recognition, pp. 248-255",,,,"Freitas, A and Carvalho, A (2007) 
+ A tutorial on hierarchical classification with applications in bioinformatics
+, Taniar, David (eds), Research and trends in data mining technologies and applications, IGI Global, pp. 175-208",,,,"Hoffmann, EJ, Wang, YY, Werner, M, Kang, J and Zhu, XX (2019) 
+ Model fusion for building type classification from aerial and street view images
+, Remote Sensing, 11(11), p. 1259",,,,"Huang, G, Liu, Z, Van Der Maaten, L and Weinberger, KQ (2017) 
+ Densely connected convolutional networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 4700-4708",,,,"Kang, J, Körner, M, Wang, Y, Taubenböck, H and Zhu, XX (2018) 
+ Building instance classification using street view images
+, ISPRS journal of photogrammetry and remote sensing, 145, pp. 44-59",,,,"Llamas, J, M Lerones, P, Medina, R, Zalama, E and Gómez-García-Bermejo, J (2017) 
+ Classification of architectural heritage images using deep learning techniques
+, Applied Sciences, 7(10), p. 992",,,,"Nguyen, QC, Sajjadi, M, McCullough, M, Pham, M, Nguyen, TT, Yu, WJ, Meng, HW, Wen, M, Li, FF and Smith, KR (2018) 
+ Neighbourhood looking glass: 360? automated characterisation of the built environment for neighbourhood effects research
+, J Epidemiol Community Health, 72(3), pp. 260-266",,,,"Paszke, A, Gross, S, Massa, F, Lerer, A, Bradbury, J, Chanan, G, Killeen, T, Lin, Z, Gimelshein, N and Antiga, L (2019) 
+ Pytorch: An imperative style, high-performance deep learning library
+, Advances in neural information processing systems, pp. 8026-8037",,,,"Pedregosa, F, Varoquaux, G, Gramfort, A, Michel, V, Thirion, B, Grisel, O, Blondel, M, Prettenhofer, P, Weiss, R and Dubourg, V (2011) 
+ Scikit-learn: Machine learning in Python
+, the Journal of machine Learning research, 12, pp. 2825-2830",,,,"Selvaraju, RR, Cogswell, M, Das, A, Vedantam, R, Parikh, D and Batra, D (2017) 
+ Grad-cam: Visual explanations from deep networks via gradient-based localization
+, Proceedings of the IEEE international conference on computer vision, pp. 618-626",,,,"Shalunts, G, Haxhimusa, Y and Sablatnig, R (2011) 
+ Architectural style classification of building facade windows
+, International Symposium on Visual Computing, pp. 280-289",,,,"Silla, CN and Freitas, AA (2011) 
+ A survey of hierarchical classification across different application domains
+, Data Mining and Knowledge Discovery, 22(1-2), pp. 31-72",,,,"Van der Maaten, L and Hinton, G (2008) 
+ Visualizing data using t-SNE
+, Journal of machine learning research, 9(Nov), pp. 2579-2605",,,,"von Platten, J, Sandels, C, Jörgensson, K, Karlsson, V, Mangold, M and Mjörnell, K (2020) 
+ Using Machine Learning to Enrich Building Databases-Methods for Tailored Energy Retrofits
+, Energies, 13(10), p. 2574",,,,"Xie, S, Girshick, R, Dollár, P, Tu, Z and He, K (2017) 
+ Aggregated residual transformations for deep neural networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1492-1500",,,,"Xu, Z, Tao, D, Zhang, Y, Wu, J and Tsoi, AC (2014) 
+ Architectural style classification using multinomial latent logistic regression
+, European Conference on Computer Vision, pp. 600-615",,
+11,2021/03/29 07:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

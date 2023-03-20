@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,caadria2021_080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Yang, Xuyou and Xu, Weishun",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,A Tool for Searching Active Bending Bamboo Strips in Construction via Deep Learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"A. Globa, J. van Ameijde, A. Fingrut, N. Kim, T.T.S. Lo (eds.), PROJECTIONS - Proceedings of the 26th CAADRIA Conference - Volume 1, The Chinese University of Hong Kong and Online, Hong Kong, 29 March - 1 April 2021, pp. 463-472",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"As an alternative material for construction, the structural use of bamboo in architecture is commonly associated with active bending. However, as natural material, the deformation of unprocessed bamboo strips is affected by the distribution of nodes, whose impact on deformation is difficult to precisely programme for each individual case and thus often causes discrepancies between generic digital simulation and construction. This research proposes a tool for searching active bending bamboo strips via deep leaning based on a multi-task neural network. The tool is able to predict both the number and locations of nodes suggested on bamboo strips according to a target curve as tool input. By approximating the prediction, users can find a strip that is most likely to deform into the desired geometry.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,neural network; active bending; neural architecture search (NAS); bamboo; material behaviour,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,xuyou.yang.92@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (4,220,354 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Adriaenssens, S and Barnes, MR (2001) 
+ Tensegrity spline beam and grid shell structures
+, Engineering structures, 23(1), pp. 29-36
+
+
+
+
+
+
+
+Bauer, AM, Längst, P, La Magna, R, Lienhard, J, Piker, D, Quinn, G, Gengnagel, C and Bletzinger, KU (2018) 
+ Exploring Software Approaches for the Design and Simulation of Bending Active Systems
+, Proceedings of IASS Annual Symposia 2018, Boston, USA, pp. 1-8
+
+
+
+
+
+
+
+Chen, D, Luo, D, Xu, W, Luo, C, Shen, L, Yan, X and Wang, T (2019) 
+ Re-perceive 3D printing with Artificial Intelligence
+, Proceedings of the 37th eCAADe/23nd SIGraDi Conference, Porto, Portugal, pp. 443-450
+
+
+
+
+
+
+
+Chen, IC and Hou, JH (2016) 
+ Design with bamboo bend: Bridging natural material and computational design
+, Proceedings of the 21st CAADRIA Conference, Melbourne, Australia, pp. 125-133
+
+
+
+
+
+
+
+Cuvilliers, P, Yang, JR, Coar, L and Mueller, C (2018) 
+ A comparison of two algorithms for the simulation of bending-active structures
+, International Journal of Space Structures, 33(2), pp. 73-85
+
+
+
+
+
+
+
+Dongsheng, H, Aiping, Z and Yuling, B (2013) 
+ Experimental and analytical study on the nonlinear bending of parallel strand bamboo beams
+, Construction and Building Materials, 44, pp. 585-592
+
+
+
+
+
+
+
+Duchi, J, Hazan, E and Singer, Y (2011) 
+ Adaptive subgradient methods for online learning and stochastic optimization.
+, Journal of machine learning research, 12(7), pp. 2121-2159
+
+
+
+
+
+
+
+Elsken, T, Metzen, JH and Hutter, F (2019) 
+ Neural architecture search: A survey
+, Journal of Machine Learning Research, 20, pp. 1-21
+
+
+
+
+
+
+
+Escamilla, EZ and Habert, G (2014) 
+ Environmental impacts of bamboo-based construction materials representing global production diversity
+, Journal of Cleaner Production, 69, pp. 117-127
+
+
+
+
+
+
+
+Escamilla, EZ, Habert, G, Daza, JFC, Archila, HF, Fern\'andez, JSE, Trujillo, D and Archilla, HF (2018) 
+ Industrial or traditional bamboo construction? Comparative life cycle assessment (LCA) of bamboo-based buildings
+, Sustainability (Switzerland), 10(9), p. 3096
+
+
+
+
+
+
+
+Janssen, JJ (1988) 
+ The importance of bamboo as a building material
+, Bamboos: Current Research, Proceedings of the Engineering and Utilization International Bamboo, Workshop, Cochin, India, pp. 14-18
+
+
+
+
+
+
+
+Lienhard, J, Alpermann, H, Gengnagel, C and Knippers, J (2013) 
+ Active bending, a review on structures where bending is used as a self-formation process
+, International Journal of Space Structures, 28(3-4), pp. 187-196
+
+
+
+
+
+
+
+Lienhard, J (2014) 
+ Bending-active structures: form-finding strategies using elastic deformation in static and kinetic systems and the structural potentials therein
+, Ph.D. Thesis, University of Stuttgart
+
+
+
+
+
+
+
+Luo, D, Wang, J and Xu, W (2018) 
+ Applied Automatic Machine Learning Process for Material Computation
+, Proceedings of the 36th eCAADe Conference, £ód, Poland, pp. 109-118
+
+
+
+
+
+
+
+Meng, J and Sun, D (2018) 
+ Effects of node distribution on bending deformation of bamboo
+, Journal of Tropical Forest Science, 30(4), pp. 554-559
+
+
+
+
+
+
+
+Nerdinger, W and Barthel, R (2005) 
+ Frei Otto: Complete Works: Lightweight Construction, Natural Design
+, Birkhäuser Switzerland
+
+
+
+
+
+
+
+Obataya, E, Kitin, P and Yamauchi, H (2007) 
+ Bending characteristics of bamboo (Phyllostachys pubescens) with respect to its fiber-foam composite structure
+, Wood science and technology, 41(5), pp. 385-400
+
+
+
+
+
+
+
+Piker, D (2013) 
+ Kangaroo: form finding with computational physics
+, Architectural Design, 83(2), pp. 136-137
+
+
+
+
+
+
+
+Schmidhuber, J (2015) 
+ Deep learning in neural networks: An overview
+, Neural networks, 61, pp. 85-117
+
+
+
+
+
+
+
+van der Lugt, P, van den Dobbelsteen, A and Janssen, J. J. (2006) 
+ An environmental, economic and practical assessment of bamboo as a building material for supporting structures
+, Construction and building materials, 20(9), pp. 648-656",,"Adriaenssens, S and Barnes, MR (2001) 
+ Tensegrity spline beam and grid shell structures
+, Engineering structures, 23(1), pp. 29-36",,,,"Bauer, AM, Längst, P, La Magna, R, Lienhard, J, Piker, D, Quinn, G, Gengnagel, C and Bletzinger, KU (2018) 
+ Exploring Software Approaches for the Design and Simulation of Bending Active Systems
+, Proceedings of IASS Annual Symposia 2018, Boston, USA, pp. 1-8",,,,"Chen, D, Luo, D, Xu, W, Luo, C, Shen, L, Yan, X and Wang, T (2019) 
+ Re-perceive 3D printing with Artificial Intelligence
+, Proceedings of the 37th eCAADe/23nd SIGraDi Conference, Porto, Portugal, pp. 443-450",,,,"Chen, IC and Hou, JH (2016) 
+ Design with bamboo bend: Bridging natural material and computational design
+, Proceedings of the 21st CAADRIA Conference, Melbourne, Australia, pp. 125-133",,,,"Cuvilliers, P, Yang, JR, Coar, L and Mueller, C (2018) 
+ A comparison of two algorithms for the simulation of bending-active structures
+, International Journal of Space Structures, 33(2), pp. 73-85",,,,"Dongsheng, H, Aiping, Z and Yuling, B (2013) 
+ Experimental and analytical study on the nonlinear bending of parallel strand bamboo beams
+, Construction and Building Materials, 44, pp. 585-592",,,,"Duchi, J, Hazan, E and Singer, Y (2011) 
+ Adaptive subgradient methods for online learning and stochastic optimization.
+, Journal of machine learning research, 12(7), pp. 2121-2159",,,,"Elsken, T, Metzen, JH and Hutter, F (2019) 
+ Neural architecture search: A survey
+, Journal of Machine Learning Research, 20, pp. 1-21",,,,"Escamilla, EZ and Habert, G (2014) 
+ Environmental impacts of bamboo-based construction materials representing global production diversity
+, Journal of Cleaner Production, 69, pp. 117-127",,,,"Escamilla, EZ, Habert, G, Daza, JFC, Archila, HF, Fern\'andez, JSE, Trujillo, D and Archilla, HF (2018) 
+ Industrial or traditional bamboo construction? Comparative life cycle assessment (LCA) of bamboo-based buildings
+, Sustainability (Switzerland), 10(9), p. 3096",,,,"Janssen, JJ (1988) 
+ The importance of bamboo as a building material
+, Bamboos: Current Research, Proceedings of the Engineering and Utilization International Bamboo, Workshop, Cochin, India, pp. 14-18",,,,"Lienhard, J, Alpermann, H, Gengnagel, C and Knippers, J (2013) 
+ Active bending, a review on structures where bending is used as a self-formation process
+, International Journal of Space Structures, 28(3-4), pp. 187-196",,,,"Lienhard, J (2014) 
+ Bending-active structures: form-finding strategies using elastic deformation in static and kinetic systems and the structural potentials therein
+, Ph.D. Thesis, University of Stuttgart",,,,"Luo, D, Wang, J and Xu, W (2018) 
+ Applied Automatic Machine Learning Process for Material Computation
+, Proceedings of the 36th eCAADe Conference, £ód, Poland, pp. 109-118",,,,"Meng, J and Sun, D (2018) 
+ Effects of node distribution on bending deformation of bamboo
+, Journal of Tropical Forest Science, 30(4), pp. 554-559",,,,"Nerdinger, W and Barthel, R (2005) 
+ Frei Otto: Complete Works: Lightweight Construction, Natural Design
+, Birkhäuser Switzerland",,,,"Obataya, E, Kitin, P and Yamauchi, H (2007) 
+ Bending characteristics of bamboo (Phyllostachys pubescens) with respect to its fiber-foam composite structure
+, Wood science and technology, 41(5), pp. 385-400",,,,"Piker, D (2013) 
+ Kangaroo: form finding with computational physics
+, Architectural Design, 83(2), pp. 136-137",,,,"Schmidhuber, J (2015) 
+ Deep learning in neural networks: An overview
+, Neural networks, 61, pp. 85-117",,,,"van der Lugt, P, van den Dobbelsteen, A and Janssen, J. J. (2006) 
+ An environmental, economic and practical assessment of bamboo as a building material for supporting structures
+, Construction and building materials, 20(9), pp. 648-656",,
+11,2021/03/29 07:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

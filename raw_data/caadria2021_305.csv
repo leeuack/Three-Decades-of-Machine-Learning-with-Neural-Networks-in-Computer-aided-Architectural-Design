@@ -1,0 +1,222 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68
+0,caadria2021_305,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Keshavarzi, Mohammad, Afolabi, Oladapo, Caldas, Luisa, Yang, Allen Y. and Zakhor, Avideh",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,GenScan: A Generative Method for Populating Parametric 3D Scan Datasets,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"A. Globa, J. van Ameijde, A. Fingrut, N. Kim, T.T.S. Lo (eds.), PROJECTIONS - Proceedings of the 26th CAADRIA Conference - Volume 1, The Chinese University of Hong Kong and Online, Hong Kong, 29 March - 1 April 2021, pp. 91-100",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The availability of rich 3D datasets corresponding to the geometrical complexity of the built environments is considered an ongoing challenge for 3D deep learning methodologies. To address this challenge, we introduce GenScan, a generative system that populates synthetic 3D scan datasets in a parametric fashion. The system takes an existing captured 3D scan as an input and outputs alternative variations of the building layout including walls, doors, and furniture with corresponding textures. GenScan is fully automated system that can also be manually controlled by a user through an assigned user interface. Our proposed system utilizes a combination of a hybrid deep neural network and a parametrizer module to extract and transform elements of a given 3D scan. GenScan takes advantage of style transfer techniques to generate new textures for the generated scenes. We believe our system would facilitate data augmentation to expand the currently limited 3D geometry datasets commonly used in 3D computer vision, generative design and general 3D deep learning tasks.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Computational Geometry; Generative Modeling; 3D Manipulation; Texture Synthesis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,mkeshavarzi@berkeley.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (15,935,346 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Armeni, I, Sener, O, Zamir, AR, Jiang, H, Brilakis, I, Fischer, M and Savarese, S (2016) 
+ 3d semantic parsing of large-scale indoor spaces
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1534-1543
+
+
+
+
+
+
+
+Dai, A, Chang, AX, Savva, M, Halber, M, Funkhouser, T and Niessner, M (2017) 
+ Scannet: Richly-annotated 3d reconstructions of indoor scenes
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5828-5839
+
+
+
+
+
+
+
+Fisher, M, Ritchie, D, Savva, M, Funkhouser, T and Hanrahan, P (2012) 
+ Example-based synthesis of 3D object arrangements
+, ACM Transactions on Graphics (TOG), 31(6), pp. 1-11
+
+
+
+
+
+
+
+Germer, T and Schwarz, M (2009) 
+ Procedural Arrangement of Furniture for Real-Time Walkthroughs
+, Computer Graphics Forum, pp. 2068-2078
+
+
+
+
+
+
+
+Kermani, ZS, Liao, Z, Tan, P and Zhang, H (2016) 
+ Learning 3D Scene Synthesis from Annotated RGB-D Images
+, Computer Graphics Forum, pp. 197-206
+
+
+
+
+
+
+
+Keshavarzi, M, Yang, AY, Ko, W and Caldas, L (2020) 
+ Optimization and Manipulation of Contextual Mutual Spaces for Multi-User Virtual and Augmented Reality Interaction
+, 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), pp. 353-362
+
+
+
+
+
+
+
+Li, M, Patil, AG, Xu, K, Chaudhuri, S, Khan, O, Shamir, A, Tu, C, Chen, B, Cohen-Or, D and Zhang, H (2019) 
+ Grains: Generative recursive autoencoders for indoor scenes
+, ACM Transactions on Graphics (TOG), 38(2), pp. 1-16
+
+
+
+
+
+
+
+Liu, C, Wu, J and Furukawa, Y (2018) 
+ Floornet: A unified framework for floorplan reconstruction from 3d scans
+, Proceedings of the European Conference on Computer Vision (ECCV), pp. 201-217
+
+
+
+
+
+
+
+McCormac, J, Handa, A, Davison, A and Leutenegger, S (2017) 
+ Semanticfusion: Dense 3d semantic mapping with convolutional neural networks
+, 2017 IEEE International Conference on Robotics and automation (ICRA), pp. 4628-4635
+
+
+
+
+
+
+
+Merrell, P, Schkufza, E, Li, Z, Agrawala, M and Koltun, V (2011) 
+ Interactive furniture layout using interior design guidelines
+, ACM transactions on graphics (TOG), 30(4), pp. 1-10
+
+
+
+
+
+
+
+Muller, P, Wonka, P, Haegler, S, Ulmer, A and Van Gool, L (2006) 
+ Procedural modeling of buildings
+, surname missing, initials missing (eds), ACM SIGGRAPH 2006 Papers, pp. 614-623
+
+
+
+
+
+
+
+Saldana, M and Johanson, C (2013) 
+ Procedural modeling for rapid-prototyping of multiple building phases
+, International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 5, p. W1
+
+
+
+
+
+
+
+Schops, T, Schonberger, JL, Galliani, S, Sattler, T, Schindler, K, Pollefeys, M and Geiger, A (2017) 
+ A multi-view stereo benchmark with high-resolution images and multi-camera videos
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3260-3269
+
+
+
+
+
+
+
+Song, S, Lichtenberg, SP and Xiao, J (2015) 
+ Sun rgb-d: A rgb-d scene understanding benchmark suite
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 567-576
+
+
+
+
+
+
+
+Song, S, Yu, F, Zeng, A, Chang, AX, Savva, M and Funkhouser, T (2017) 
+ Semantic scene completion from a single depth image
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1746-1754
+
+
+
+
+
+
+
+Yu, LF, Yeung, SK, Tang, CK, Terzopoulos, D, Chan, TF and Osher, SJ (2011) 
+ Make it home: automatic optimization of furniture arrangement
+, ACM Transactions on Graphics (TOG)-Proceedings of ACM SIGGRAPH 2011, v. 30,(4), July 2011, article no. 86, 30(4)
+
+
+
+
+
+
+
+Zhang, SH, Zhang, SK, Liang, Y and Hall, P (2019) 
+ A survey of 3D indoor scene synthesis
+, Journal of Computer Science and Technology, 34(3), pp. 594-608",,"Armeni, I, Sener, O, Zamir, AR, Jiang, H, Brilakis, I, Fischer, M and Savarese, S (2016) 
+ 3d semantic parsing of large-scale indoor spaces
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1534-1543",,,,"Dai, A, Chang, AX, Savva, M, Halber, M, Funkhouser, T and Niessner, M (2017) 
+ Scannet: Richly-annotated 3d reconstructions of indoor scenes
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5828-5839",,,,"Fisher, M, Ritchie, D, Savva, M, Funkhouser, T and Hanrahan, P (2012) 
+ Example-based synthesis of 3D object arrangements
+, ACM Transactions on Graphics (TOG), 31(6), pp. 1-11",,,,"Germer, T and Schwarz, M (2009) 
+ Procedural Arrangement of Furniture for Real-Time Walkthroughs
+, Computer Graphics Forum, pp. 2068-2078",,,,"Kermani, ZS, Liao, Z, Tan, P and Zhang, H (2016) 
+ Learning 3D Scene Synthesis from Annotated RGB-D Images
+, Computer Graphics Forum, pp. 197-206",,,,"Keshavarzi, M, Yang, AY, Ko, W and Caldas, L (2020) 
+ Optimization and Manipulation of Contextual Mutual Spaces for Multi-User Virtual and Augmented Reality Interaction
+, 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), pp. 353-362",,,,"Li, M, Patil, AG, Xu, K, Chaudhuri, S, Khan, O, Shamir, A, Tu, C, Chen, B, Cohen-Or, D and Zhang, H (2019) 
+ Grains: Generative recursive autoencoders for indoor scenes
+, ACM Transactions on Graphics (TOG), 38(2), pp. 1-16",,,,"Liu, C, Wu, J and Furukawa, Y (2018) 
+ Floornet: A unified framework for floorplan reconstruction from 3d scans
+, Proceedings of the European Conference on Computer Vision (ECCV), pp. 201-217",,,,"McCormac, J, Handa, A, Davison, A and Leutenegger, S (2017) 
+ Semanticfusion: Dense 3d semantic mapping with convolutional neural networks
+, 2017 IEEE International Conference on Robotics and automation (ICRA), pp. 4628-4635",,,,"Merrell, P, Schkufza, E, Li, Z, Agrawala, M and Koltun, V (2011) 
+ Interactive furniture layout using interior design guidelines
+, ACM transactions on graphics (TOG), 30(4), pp. 1-10",,,,"Muller, P, Wonka, P, Haegler, S, Ulmer, A and Van Gool, L (2006) 
+ Procedural modeling of buildings
+, surname missing, initials missing (eds), ACM SIGGRAPH 2006 Papers, pp. 614-623",,,,"Saldana, M and Johanson, C (2013) 
+ Procedural modeling for rapid-prototyping of multiple building phases
+, International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 5, p. W1",,,,"Schops, T, Schonberger, JL, Galliani, S, Sattler, T, Schindler, K, Pollefeys, M and Geiger, A (2017) 
+ A multi-view stereo benchmark with high-resolution images and multi-camera videos
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3260-3269",,,,"Song, S, Lichtenberg, SP and Xiao, J (2015) 
+ Sun rgb-d: A rgb-d scene understanding benchmark suite
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 567-576",,,,"Song, S, Yu, F, Zeng, A, Chang, AX, Savva, M and Funkhouser, T (2017) 
+ Semantic scene completion from a single depth image
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1746-1754",,,,"Yu, LF, Yeung, SK, Tang, CK, Terzopoulos, D, Chan, TF and Osher, SJ (2011) 
+ Make it home: automatic optimization of furniture arrangement
+, ACM Transactions on Graphics (TOG)-Proceedings of ACM SIGGRAPH 2011, v. 30,(4), July 2011, article no. 86, 30(4)",,,,"Zhang, SH, Zhang, SK, Liang, Y and Hall, P (2019) 
+ A survey of 3D indoor scene synthesis
+, Journal of Computer Science and Technology, 34(3), pp. 594-608",,
+11,2021/03/29 07:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

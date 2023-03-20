@@ -1,0 +1,150 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+0,caadria2008_23_session3a_185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Merrick, Kathryn; Mary Lou Maher, Rob Saunders",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Achieving adaptable behaviour in intelligent rooms using curious supervised learning agents,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"CAADRIA 2008 [Proceedings of the 13th International Conference on Computer Aided Architectural Design Research in Asia] Chiang Mai (Thailand) 9-12 April 2008, pp. 185-192",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Multiple devices, both hardware and software, may come and go at any time in a given room. Software controlling the behaviour of these devices must be able to adapt to encompass new devices or the removal of existing devices. This paper presents a model for curious, supervised learning agents that address the issue of adaptability at a behavioural level in an intelligent room. Curious, supervised learning agents comprise a curiosity module and a supervised learning algorithm. The curiosity module identifies interesting devices on which to focus the agents learning. The supervised learning component realises behaviours by observing, modelling and mimicking human actions. Our framework is demonstrated in a virtual meeting room in Second Life. We show that the curious learning agent can adapt its behaviour to identify new learning goals in response to new devices and activities.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Curiosity, Supervised learning, Agent, Intelligent room",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"{kathryn, mary, rob}@arch.usyd.edu.au",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (130,109 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+BLIP Systems (2007) 
+ BLIPNet Technical White Paper
+, BLIP Systems A/S, Aalborg, Denmark
+
+
+
+
+
+
+
+Brdiczka, O., Reignier, P. and Crowley, J. (2005) 
+ Supervised learning of an abstract context model for an intelligent environment
+, Joint sOc-EUSAI Conference, Grenoble, pp. 259-264
+
+
+
+
+
+
+
+Brooks, R. A., Coen, M., Dang, D., DeBonet, J., Kramer, J., Lozano-Perez, T., Mellor, J., Pook, P., Stauffer, C., Stein, L., Torrance, M., Wessler, M. (1997) 
+ The intelligent room project
+, The Second International Cognitive Technology Conference, Aizu, pp. 271-279
+
+
+
+
+
+
+
+Coen, M., Phillips, B., Warshawsky, N., Weisman, L., Peters, S., Finin, P. (1999) 
+ Meeting the computational needs of intelligent environments: the Metaglue system
+, MANSE
+
+
+
+
+
+
+
+Maher, M-L., Merrick, K., Macindoe, O. (2006) 
+ Intrinsically motivated intelligent sensed environments
+, The Thirteenth International Workshop of the European Group for Intelligent Computing in Engineering, Ascona, Switzerland, pp 455-475
+
+
+
+
+
+
+
+Mozer, M. (1998) 
+ The neural network house: an environment that adapts to its inhabitants
+, AAAI Spring Symposium on Intelligent Environments, pp 110-114
+
+
+
+
+
+
+
+Phillips, B. (1999) 
+ Metaglue: a programming language for multi-agent systems
+, Masters Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+
+
+
+
+
+
+
+Roman, M., Hess, C., Cerqueira, R., Ranganat, A., Campbell, R., Nahrstedt, K. (2002) 
+ Gaia: a middleware infrastructure to enable active spaces
+, IEEE Pervasive Computing, (Oct-Dec 2002), pp 74-83
+
+
+
+
+
+
+
+Stanley, J. C. (1976) 
+ Computer simulation of a model of habituation
+, Nature, 261: 146-148
+
+
+
+
+
+
+
+Steels, L. (1996) 
+ Self-organising vocabularies, Technical Report
+, Artificial Intelligence Laboratory, Vrije Universiteit, Brussels
+
+
+
+
+
+
+
+Weiser, M. (1991) 
+ The computer for the 21st century
+, Scientific America, 265(3): 94-104",,"BLIP Systems (2007) 
+ BLIPNet Technical White Paper
+, BLIP Systems A/S, Aalborg, Denmark",,,,"Brdiczka, O., Reignier, P. and Crowley, J. (2005) 
+ Supervised learning of an abstract context model for an intelligent environment
+, Joint sOc-EUSAI Conference, Grenoble, pp. 259-264",,,,"Brooks, R. A., Coen, M., Dang, D., DeBonet, J., Kramer, J., Lozano-Perez, T., Mellor, J., Pook, P., Stauffer, C., Stein, L., Torrance, M., Wessler, M. (1997) 
+ The intelligent room project
+, The Second International Cognitive Technology Conference, Aizu, pp. 271-279",,,,"Coen, M., Phillips, B., Warshawsky, N., Weisman, L., Peters, S., Finin, P. (1999) 
+ Meeting the computational needs of intelligent environments: the Metaglue system
+, MANSE",,,,"Maher, M-L., Merrick, K., Macindoe, O. (2006) 
+ Intrinsically motivated intelligent sensed environments
+, The Thirteenth International Workshop of the European Group for Intelligent Computing in Engineering, Ascona, Switzerland, pp 455-475",,,,"Mozer, M. (1998) 
+ The neural network house: an environment that adapts to its inhabitants
+, AAAI Spring Symposium on Intelligent Environments, pp 110-114",,,,"Phillips, B. (1999) 
+ Metaglue: a programming language for multi-agent systems
+, Masters Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology",,,,"Roman, M., Hess, C., Cerqueira, R., Ranganat, A., Campbell, R., Nahrstedt, K. (2002) 
+ Gaia: a middleware infrastructure to enable active spaces
+, IEEE Pervasive Computing, (Oct-Dec 2002), pp 74-83",,,,"Stanley, J. C. (1976) 
+ Computer simulation of a model of habituation
+, Nature, 261: 146-148",,,,"Steels, L. (1996) 
+ Self-organising vocabularies, Technical Report
+, Artificial Intelligence Laboratory, Vrije Universiteit, Brussels",,,,"Weiser, M. (1991) 
+ The computer for the 21st century
+, Scientific America, 265(3): 94-104",,
+11,2012/05/30 19:29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

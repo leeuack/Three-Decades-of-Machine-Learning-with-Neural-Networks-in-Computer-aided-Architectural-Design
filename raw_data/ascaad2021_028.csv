@@ -1,0 +1,257 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ascaad2021_028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Fahmy, Marwa",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Applying Urban Parametricism in the Design of Dynamic Neighborhoods,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Abdelmohsen, S, El-Khouly, T, Mallasi, Z and Bennadji, A (eds.), Architecture in the Age of Disruptive Technologies: Transformations and Challenges [9th ASCAAD Conference Proceedings ISBN 978-1-907349-20-1] Cairo (Egypt) [Virtual Conference] 2-4 March 2021, pp. 646-660",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Neighborhoods are considered basic spatial units of an urban area. Their forms have complex and hierarchical structures that contain building layouts, street segments, street networks and etc.. The traditional ways of computationally producing neighborhoods have proven incompetence. Some of these conventional ways focus on the morphological approaches, but they do not include all urban features. Meanwhile, other models that can design urban features have limited formulation flexibility. Besides the absence of dynamic generation behavior as they dont use parametric techniques. They lack interactivity with the surroundings as they dont use streets as the main generator of neighborhoods. Additionally, they dont have the ability of automatically analyzing the site. Other models are generated for a specific location and miss the interactivity with other sites. This study implements parametric techniques to generate an urban model with wide design varieties. Furthermore, the model has dynamic morphological behavior, capable of interacting with the designer's modifications. This study focuses on the streets and grid as the dominant element of neighborhoods. The study also presents a predefined function in the scripting process.  The model also proposes a python switcher to allow easy accessing all the inputs. Also, the research converts the elements to be more interactive, responsive, flexible, and dynamic. Therefore, all the neighborhood elements are simultaneously created according to user requirements. The study method is divided into three stages: Decomposition, Formulation, Modeling, and evaluation. Each process is defined with its tools, inputs, and parameters.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,ASCAAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,marwa_fakhry@m-eng.helwan.edu.eg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (1,911,259 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Aschwanden, G., D.P.A. (2016) 
+ Sneighbourhood detection with analytical tools, Identifying neighbourhoods from geospatial and transportation data though graph evaluation and learning algorithms
+, 21st International Conference of the Association for Computer-Aided Architectural Design Research in Asia CAADRIA, 1322 10
+
+
+
+
+
+
+
+Batty, M. (2013) 
+ the new science of cities
+, Cambridge, Massachusetts: The MIT Press
+
+
+
+
+
+
+
+Behnam, S.J., Zarabadi, Z.S. (2017) 
+ Parametric Design as an Approach to Respond to Complexity
+, World Academy of Science, Engineering and Technology, International Journal of Civil, Environmental, Structural, Construction and Architectural Engineering 11, 875880
+
+
+
+
+
+
+
+Boeing, G. (2018) 
+ Measuring the Complexity of Urban Form and Design
+, Urban Design International. https://doi.org/10.1057/s41289-018-0072-1
+
+
+
+
+
+
+
+Boyer, M.C. (2015) 
+ On modelling complexity and urban form
+, Architectural Design 85, 5459. https://doi.org/10.1002/ad.1977
+
+
+
+
+
+
+
+Caliskan, O. (2017) 
+ Parametric Design in Urbanism: A Critical Reflection
+, Planning Practice & Research 32:4. https://doi.org/10.1080/02697459.2017.1378862
+
+
+
+
+
+
+
+Calvano, M., Casale, A., Ippoliti, E., Guadagnoli, F. (2018) 
+ RESPONSIVE URBAN MODELS BY PROCESSING SETS OF HETEROGENEOUS DATA
+, ISPRS -International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences XLII2, 193200. https://doi.org/10.5194/isprs-archives-XLII-2-193-2018
+
+
+
+
+
+
+
+Canuto, R., Amorim, L. (2012) 
+ Establishing parameters for urbanity
+, Presented at the Eighth international space syntax symposium, Santiago de Chile: PUC, pp. 117
+
+
+
+
+
+
+
+Chowdhury, S., Schnabel, M.A. (2018) 
+ A Communication System in Urban Design Process: An Algorithmic Neighbourhood Design Approach
+, Design Communication Association, 3D. Presented at the A Communication System in Urban Design Process, New York , USA, pp. 271279
+
+
+
+
+
+
+
+Chowdhury, S., Schnabel, M.A. (2018) 
+ An Algorithmic Methodology to Predict Urban Form - An Instrument for Urban Design
+, Proceedings of the 23rd International Conference of the Association for Computer-Aided Architectural DesignResearchinAsia(CAADRIA). Presented at the Learning, Adapting and Prototyping, CUMINCAD, HongKong., pp. 401410
+
+
+
+
+
+
+
+De Castro, M.M., Moura, A.C.M., Nogueira, R.H., De Aguiar, T., De Oliveira, F.H. (2018) 
+ Parametric Modeling as an Alternative Tool for Planning and Management of the Urban Landscape in Brazil Case Study of Balneario Camboriu
+, DISEGNARECON 11, 17.113
+
+
+
+
+
+
+
+Koenig, R., Miao, Y., Knecht, K., Bu, P., Mei-Chih, C. (2017) 
+ Interactive Urban Synthesis Computational Methods for fast Prototyping of Urban Design Proposals, in: Computer-Aided Architectural Design. Future Trajectories
+, Presented at the 17th International Conference, CAADFutures 2017, Springer Nature Singapore Pte Ltd., Istanbul, Turkey, pp. 2341. https://doi.org/10.1007/978-981-10-5197-5_2
+
+
+
+
+
+
+
+Moosavi, V. (2017) 
+ Urban morphology meets deep learning: Exploring urban forms in one million cities, town and villages across the planet
+, arXiv preprint arXiv:1709.02939
+
+
+
+
+
+
+
+Newman, M. (2018) 
+ Networks
+, Second Edition, New to this Edition: ed. Oxford University Press, Oxford, New York
+
+
+
+
+
+
+
+Schumacher, P. (2009) 
+ Parametricism: A New Global Style for Architecture and Urban Design
+, Archit Design 79, 1423. https://doi.org/10.1002/ad.912
+
+
+
+
+
+
+
+Sileryte, R., Cavic, L., Beirao, J.N. (2017) 
+ Automated generation of versatile data model for analyzing urban architectural void
+, Computers, Environment and Urban Systems 66, 130144. https://doi.org/10.1016/j.compenvurbsys.2017.08.008
+
+
+
+
+
+
+
+Steino, N., Obeling, E. (2014) 
+ Developing a parametric urban design tool. Some structural challenges and possible ways to overcome them
+, Architecturae et Artibus 6, 5157
+
+
+
+
+
+
+
+Verebes, T. (2014) 
+ Masterplanning the adaptive city: computational urbanism in the twenty-first century
+, Routledge/Taylor & Francis Group, London; New York
+
+
+
+
+
+
+
+Vidmar, J., Kozelj, Janez (2015) 
+ Adaptive urbanism: aparametric map approach
+, University of Ljubljana, Faculty of Architecure, Faculty of civil and Geodetic Engineering, the creativity game theory and practice of spatial planning
+
+
+
+
+
+
+
+Von Richthofen, A., Knecht, K., Miao, Y., König, R. (2018) 
+ The Urban Elements method for teaching parametric urban design to professionals
+, Frontiers of Architectural Research. https://doi.org/10.1016/j.foar.2018.08.002",,"Aschwanden, G., D.P.A. (2016) 
+ Sneighbourhood detection with analytical tools, Identifying neighbourhoods from geospatial and transportation data though graph evaluation and learning algorithms
+, 21st International Conference of the Association for Computer-Aided Architectural Design Research in Asia CAADRIA, 1322 10",,,,"Batty, M. (2013) 
+ the new science of cities
+, Cambridge, Massachusetts: The MIT Press",,,,"Behnam, S.J., Zarabadi, Z.S. (2017) 
+ Parametric Design as an Approach to Respond to Complexity
+, World Academy of Science, Engineering and Technology, International Journal of Civil, Environmental, Structural, Construction and Architectural Engineering 11, 875880",,,,"Boeing, G. (2018) 
+ Measuring the Complexity of Urban Form and Design
+, Urban Design International. https://doi.org/10.1057/s41289-018-0072-1",,,,"Boyer, M.C. (2015) 
+ On modelling complexity and urban form
+, Architectural Design 85, 5459. https://doi.org/10.1002/ad.1977",,,,"Caliskan, O. (2017) 
+ Parametric Design in Urbanism: A Critical Reflection
+, Planning Practice & Research 32:4. https://doi.org/10.1080/02697459.2017.1378862",,,,"Calvano, M., Casale, A., Ippoliti, E., Guadagnoli, F. (2018) 
+ RESPONSIVE URBAN MODELS BY PROCESSING SETS OF HETEROGENEOUS DATA
+, ISPRS -International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences XLII2, 193200. https://doi.org/10.5194/isprs-archives-XLII-2-193-2018",,,,"Canuto, R., Amorim, L. (2012) 
+ Establishing parameters for urbanity
+, Presented at the Eighth international space syntax symposium, Santiago de Chile: PUC, pp. 117",,,,"Chowdhury, S., Schnabel, M.A. (2018) 
+ A Communication System in Urban Design Process: An Algorithmic Neighbourhood Design Approach
+, Design Communication Association, 3D. Presented at the A Communication System in Urban Design Process, New York , USA, pp. 271279",,,,"Chowdhury, S., Schnabel, M.A. (2018) 
+ An Algorithmic Methodology to Predict Urban Form - An Instrument for Urban Design
+, Proceedings of the 23rd International Conference of the Association for Computer-Aided Architectural DesignResearchinAsia(CAADRIA). Presented at the Learning, Adapting and Prototyping, CUMINCAD, HongKong., pp. 401410",,,,"De Castro, M.M., Moura, A.C.M., Nogueira, R.H., De Aguiar, T., De Oliveira, F.H. (2018) 
+ Parametric Modeling as an Alternative Tool for Planning and Management of the Urban Landscape in Brazil Case Study of Balneario Camboriu
+, DISEGNARECON 11, 17.113",,,,"Koenig, R., Miao, Y., Knecht, K., Bu, P., Mei-Chih, C. (2017) 
+ Interactive Urban Synthesis Computational Methods for fast Prototyping of Urban Design Proposals, in: Computer-Aided Architectural Design. Future Trajectories
+, Presented at the 17th International Conference, CAADFutures 2017, Springer Nature Singapore Pte Ltd., Istanbul, Turkey, pp. 2341. https://doi.org/10.1007/978-981-10-5197-5_2",,,,"Moosavi, V. (2017) 
+ Urban morphology meets deep learning: Exploring urban forms in one million cities, town and villages across the planet
+, arXiv preprint arXiv:1709.02939",,,,"Newman, M. (2018) 
+ Networks
+, Second Edition, New to this Edition: ed. Oxford University Press, Oxford, New York",,,,"Schumacher, P. (2009) 
+ Parametricism: A New Global Style for Architecture and Urban Design
+, Archit Design 79, 1423. https://doi.org/10.1002/ad.912",,,,"Sileryte, R., Cavic, L., Beirao, J.N. (2017) 
+ Automated generation of versatile data model for analyzing urban architectural void
+, Computers, Environment and Urban Systems 66, 130144. https://doi.org/10.1016/j.compenvurbsys.2017.08.008",,,,"Steino, N., Obeling, E. (2014) 
+ Developing a parametric urban design tool. Some structural challenges and possible ways to overcome them
+, Architecturae et Artibus 6, 5157",,,,"Verebes, T. (2014) 
+ Masterplanning the adaptive city: computational urbanism in the twenty-first century
+, Routledge/Taylor & Francis Group, London; New York",,,,"Vidmar, J., Kozelj, Janez (2015) 
+ Adaptive urbanism: aparametric map approach
+, University of Ljubljana, Faculty of Architecure, Faculty of civil and Geodetic Engineering, the creativity game theory and practice of spatial planning",,,,"Von Richthofen, A., Knecht, K., Miao, Y., König, R. (2018) 
+ The Urban Elements method for teaching parametric urban design to professionals
+, Frontiers of Architectural Research. https://doi.org/10.1016/j.foar.2018.08.002",,
+10,2021/08/09 11:11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

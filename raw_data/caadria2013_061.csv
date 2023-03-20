@@ -1,0 +1,247 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76
+0,caadria2013_061,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Lyu Junchao, Sun Chengyu and Zhao Qi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Does the Debate on Stress Effect Lead Evacuation Simulation Models to Different Performances?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Open Systems: Proceedings of the 18th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2013) / Singapore 15-18 May 2013, pp. 179-187",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,WOS:000351496100018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"There exists a long time debate over the rational state of the evacuees in the evacuation simulation. Sime et al. insisted that the evacuees behave rationally in most cases. Following this argument Arthur and Passini concluded that if a setting works well under normal conditions, it will have a better chance of working well in emergency conditions. Such an argument for rational decision-making makes statistical models, such as Utility Maximizing Model (UMM), acting as proper framework for choice modelling in evacuation. However, on the other side, some people pointed out that there exists panic in the evacuation and bounded rationality theory, represented by pruned Decision Tree Model (DTM), should be adapted in choice modelling instead. Such a debate over stress effect causes hesitations and uncertainties when researchers try to select a proper model framework for their practical simulation. This study compared the performances (prediction accuracies) of the UMM and DTM with the same set of choice data collected in a virtual evacuation experiment. With a similar level of performance on both sides, it is suggested that the on-going debate does NOT bring any difference to the choice modelling in practical evacuation simulation. It is time to improve the performance rather than to continue the debate.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"vacuation, Architectural cue, Machine learning, Bounded rationality",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,jeromelue@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (3,734,758 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Aleskerov, F., Monjardet, B. and Bouyssou, D. (2007) 
+ Utility maximization, choice and preference
+, Springer
+
+
+
+
+
+
+
+Arentze, T. and Timmermans, H. (2000) 
+ A learning based transportation oriented simulation system
+, Transportation Research Part B: Methodological, 38(7), 613633
+
+
+
+
+
+
+
+Arthur, P. and Passini, R. (1992) 
+ Wayfinding: People, signs, and architecture
+, Focus Strategic Communications
+
+
+
+
+
+
+
+Bouyssou, D., Dubois, D., Prade, H. and Pirlot, M. (2010) 
+ Decision Making Process: Concepts and Methods
+, Wiley
+
+
+
+
+
+
+
+Gigerenzer, G. and Selten, R. (2002) 
+ Bounded rationality: The adaptive toolbox
+, MIT, Cambridge, MA, 3848
+
+
+
+
+
+
+
+Gigerenzer, G., Todd, P. M. and ABC Research Group (1999) 
+ Simple heuristics that make us smart
+, Oxford University
+
+
+
+
+
+
+
+Hansen, J. H. L. and Womack, B. D. (1996) 
+ Feature analysis and neural network-based classification of speech under stress
+, IEEE Transactions on Speech and Audio Processing, 4(4), 307313
+
+
+
+
+
+
+
+Harsanyi, J. C. (1990) 
+ Advances in understanding rational behavior, in P. K. Moser (ed.)
+, Rationality in Action: Contemporary Approaches, Cambridge University, 271293
+
+
+
+
+
+
+
+Keller, N., Cokely, E. T., Katsikopoulos, K. V. and Wegwarth, O. (2010) 
+ Naturalistic heuristics for decision making
+, Journal of Cognitive Engineering and Decision Making, 4(3), 256274
+
+
+
+
+
+
+
+Maule, A. J. and Svenson, O. (1993) 
+ Time Pressure and Stress in Human Judgment and Decision Making
+, Springer
+
+
+
+
+
+
+
+Miller, G. A. G. (1956) 
+ The magical number seven plus or minus two: some limits on our capacity for processing information
+, Psychological review, 63(2), 8197
+
+
+
+
+
+
+
+Ozel, F. (1987) 
+ A computer model BGRAF: A cognitive approach to emergency egress simulation
+, University of Michigan
+
+
+
+
+
+
+
+Rokach, L. and Maimon, O. Z. (2008) 
+ Data mining with decision trees: theory and applications
+, World Scientific
+
+
+
+
+
+
+
+Sime, J. D. (1980) 
+ The concept of panic
+, Fires and human behaviour, 1(5)
+
+
+
+
+
+
+
+Simon, H. A. (1956) 
+ Rational choice and the structure of the environment
+, Psychological review, 63(2), 129
+
+
+
+
+
+
+
+Sun, C., de Vries, B. and Zhao, Q. (2008) 
+ Measure the Evacuees Preference on Architectural Cues by CAVE, in H. J. P. Timmermans and B. de Vries (eds.)
+, Proceedings of the 9th International 186 LYU J., SUN C. AND ZHAO Q. Conference on Design & Decision Support Systems in Architecture and Urban Planning, Eindhoven University of Technology, Eindhoven, The Netherlands, 15 pp
+
+
+
+
+
+
+
+Sun, C. (2009) 
+ Architectural cue model in evacuation simulation for underground space design
+, PhD Dissertation, Eindhoven University of Technology, Eindhoven, The Netherlands
+
+
+
+
+
+
+
+Taddei, D. (2012) 
+ From Rational to Behavioral: New Tendencies in Decision Theory and Cognitive Psychology and their Impact on the Routine Level Analysis of Organizations
+, PhD Dissertation, LUISS Guido Carli
+
+
+
+
+
+
+
+Witten, I. H., Frank, E. and Hall, M. A. (2011) 
+ Data Mining: Practical Machine Learning Tools and Techniques, 3rd ed.
+, Morgan Kaufmann",,"Aleskerov, F., Monjardet, B. and Bouyssou, D. (2007) 
+ Utility maximization, choice and preference
+, Springer",,,,"Arentze, T. and Timmermans, H. (2000) 
+ A learning based transportation oriented simulation system
+, Transportation Research Part B: Methodological, 38(7), 613633",,,,"Arthur, P. and Passini, R. (1992) 
+ Wayfinding: People, signs, and architecture
+, Focus Strategic Communications",,,,"Bouyssou, D., Dubois, D., Prade, H. and Pirlot, M. (2010) 
+ Decision Making Process: Concepts and Methods
+, Wiley",,,,"Gigerenzer, G. and Selten, R. (2002) 
+ Bounded rationality: The adaptive toolbox
+, MIT, Cambridge, MA, 3848",,,,"Gigerenzer, G., Todd, P. M. and ABC Research Group (1999) 
+ Simple heuristics that make us smart
+, Oxford University",,,,"Hansen, J. H. L. and Womack, B. D. (1996) 
+ Feature analysis and neural network-based classification of speech under stress
+, IEEE Transactions on Speech and Audio Processing, 4(4), 307313",,,,"Harsanyi, J. C. (1990) 
+ Advances in understanding rational behavior, in P. K. Moser (ed.)
+, Rationality in Action: Contemporary Approaches, Cambridge University, 271293",,,,"Keller, N., Cokely, E. T., Katsikopoulos, K. V. and Wegwarth, O. (2010) 
+ Naturalistic heuristics for decision making
+, Journal of Cognitive Engineering and Decision Making, 4(3), 256274",,,,"Maule, A. J. and Svenson, O. (1993) 
+ Time Pressure and Stress in Human Judgment and Decision Making
+, Springer",,,,"Miller, G. A. G. (1956) 
+ The magical number seven plus or minus two: some limits on our capacity for processing information
+, Psychological review, 63(2), 8197",,,,"Ozel, F. (1987) 
+ A computer model BGRAF: A cognitive approach to emergency egress simulation
+, University of Michigan",,,,"Rokach, L. and Maimon, O. Z. (2008) 
+ Data mining with decision trees: theory and applications
+, World Scientific",,,,"Sime, J. D. (1980) 
+ The concept of panic
+, Fires and human behaviour, 1(5)",,,,"Simon, H. A. (1956) 
+ Rational choice and the structure of the environment
+, Psychological review, 63(2), 129",,,,"Sun, C., de Vries, B. and Zhao, Q. (2008) 
+ Measure the Evacuees Preference on Architectural Cues by CAVE, in H. J. P. Timmermans and B. de Vries (eds.)
+, Proceedings of the 9th International 186 LYU J., SUN C. AND ZHAO Q. Conference on Design & Decision Support Systems in Architecture and Urban Planning, Eindhoven University of Technology, Eindhoven, The Netherlands, 15 pp",,,,"Sun, C. (2009) 
+ Architectural cue model in evacuation simulation for underground space design
+, PhD Dissertation, Eindhoven University of Technology, Eindhoven, The Netherlands",,,,"Taddei, D. (2012) 
+ From Rational to Behavioral: New Tendencies in Decision Theory and Cognitive Psychology and their Impact on the Routine Level Analysis of Organizations
+, PhD Dissertation, LUISS Guido Carli",,,,"Witten, I. H., Frank, E. and Hall, M. A. (2011) 
+ Data Mining: Practical Machine Learning Tools and Techniques, 3rd ed.
+, Morgan Kaufmann",,
+12,2016/05/16 09:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

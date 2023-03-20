@@ -1,0 +1,186 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56
+0,caadria2021_225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Cao, Shuqi and Ji, Guohua",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Automatically generating layouts of large-scale office park using position-based dynamics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"A. Globa, J. van Ameijde, A. Fingrut, N. Kim, T.T.S. Lo (eds.), PROJECTIONS - Proceedings of the 26th CAADRIA Conference - Volume 1, The Chinese University of Hong Kong and Online, Hong Kong, 29 March - 1 April 2021, pp. 21-30",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In this paper we propose an automatic layout algorithm using PBD (Position-Based Dynamic) for large-scale office park planning. Typically, the organization of buildings into a layout is a labor-intensive problem, and takes up most of designers working time. Unlike Evolutionary Algorithms who has high computational cost, and GAN (Generative Adversarial Networks) whose constraints are not explicit, PBD can handle complex geometric constraints fast enough to be used in interactive environments. The high efficiency will not only accelerate the design iteration from draft to drawings, but also provide precious feasible sample for performance optimization. Furthermore, PBD is intuitive and flexible to be implemented which makes it a potential technique to be used in real design workflow.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Generative Design; Automated Layout Generation; Position-Based Dynamics; Real-time Design Tool; Exploratory Design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,dg20360001@smail.nju.edu.cn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (9,866,682 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Arvin, SA and House, DH (1999) 
+ Making Designs Come Alive: Using Physically Based Modeling Techniques in Space Layout Planning
+, Computers in Building: Proceedings of the CAADfutures'99, Georgia Institute of Technology, Atlanta, Georgia, USA, pp. 245-262
+
+
+
+
+
+
+
+Guo, Z and Li, B (2017) 
+ Evolutionary approach for spatial architecture layout design enhanced by an agent-based topology finding system
+, Frontiers of Architectural Research, 6(1), pp. 53-62
+
+
+
+
+
+
+
+Harada, M, Witkin, A and Baraff, D (1995) 
+ Interactive Physically-Based Manipulation of Discrete/Continuous Models
+, SIGGRAPH '95, New York, NY, United States
+
+
+
+
+
+
+
+Kalay, YE (2004) 
+ Architecture
+, MIT Press, Cambridge, MA, the United States
+
+
+
+
+
+
+
+Kim, H and Yi, YK (2019) 
+ QuVue implementation for decisions related to high-rise residential building layouts
+, Building and Environment, 148, pp. 116-127
+
+
+
+
+
+
+
+Kämpf, JH, Montavon, M, Bunyesc, J, Bolliger, R and Robinson, D (2010) 
+ Optimisation of buildings' solar irradiation availability
+, Solar Energy, 84(4), pp. 596-603
+
+
+
+
+
+
+
+Merrell, P, Schkufza, E and Koltun, V (2010) 
+ Computer-generated residential building layouts
+, ACM SIGGRAPH Asia 2010, Seoul, South Korea, p. Association for Computing Machinery: Article 181.
+
+
+
+
+
+
+
+Müller, M, Heidelberger, B, Hennix, M and Ratcliff, J (2007) 
+ Position based dynamics
+, Journal of Visual Communication and Image Representation, 18(2), pp. 109-118
+
+
+
+
+
+
+
+Rodrigues, E, Sousa-Rodrigues, D, Teixeira de Sampayo, M, Gaspar, AR, Gomes, A and Henggeler Antunes, C (2017) 
+ Clustering of architectural floor plans: A comparison of shape representations
+, Automation in Construction, 80, pp. 48-65
+
+
+
+
+
+
+
+Turrin, M, Buelow, Pv and Stouffs, R (2011) 
+ Design explorations of performance driven geometry in architectural design using parametric modeling and genetic algorithms
+, Adv. Eng. Inform., 25(4), pp. 656-675
+
+
+
+
+
+
+
+Weiss, T, Litteneker, A, Duncan, N, Nakada, M, Jiang, C, Yu, L and Terzopoulos, D (2019) 
+ Fast and Scalable Position-Based Layout Synthesis
+, IEEE Transactions on Visualization and Computer Graphics, 25(12), pp. 3231-3243
+
+
+
+
+
+
+
+Yang, YL, Wang, J, Vouga, E and Wonka, P (2013) 
+ Urban pattern: layout design by hierarchical domain splitting
+, ACM Trans. Graph., 32(6), p. Article 181
+
+
+
+
+
+
+
+Yeh, YT, Yang, L, Watson, M, Goodman, ND and Hanrahan, P (2012) 
+ Synthesizing open worlds with constraints using locally annealed reversible jump MCMC
+, ACM Trans. Graph., 31(4), p. Article 56
+
+
+
+
+
+
+
+Yi, YK and Kim, H (2015) 
+ Agent-based geometry optimization with Genetic Algorithm (GA) for tall apartment's solar right
+, Solar Energy, 113, pp. 236-250",,"Arvin, SA and House, DH (1999) 
+ Making Designs Come Alive: Using Physically Based Modeling Techniques in Space Layout Planning
+, Computers in Building: Proceedings of the CAADfutures'99, Georgia Institute of Technology, Atlanta, Georgia, USA, pp. 245-262",,,,"Guo, Z and Li, B (2017) 
+ Evolutionary approach for spatial architecture layout design enhanced by an agent-based topology finding system
+, Frontiers of Architectural Research, 6(1), pp. 53-62",,,,"Harada, M, Witkin, A and Baraff, D (1995) 
+ Interactive Physically-Based Manipulation of Discrete/Continuous Models
+, SIGGRAPH '95, New York, NY, United States",,,,"Kalay, YE (2004) 
+ Architecture
+, MIT Press, Cambridge, MA, the United States",,,,"Kim, H and Yi, YK (2019) 
+ QuVue implementation for decisions related to high-rise residential building layouts
+, Building and Environment, 148, pp. 116-127",,,,"Kämpf, JH, Montavon, M, Bunyesc, J, Bolliger, R and Robinson, D (2010) 
+ Optimisation of buildings' solar irradiation availability
+, Solar Energy, 84(4), pp. 596-603",,,,"Merrell, P, Schkufza, E and Koltun, V (2010) 
+ Computer-generated residential building layouts
+, ACM SIGGRAPH Asia 2010, Seoul, South Korea, p. Association for Computing Machinery: Article 181.",,,,"Müller, M, Heidelberger, B, Hennix, M and Ratcliff, J (2007) 
+ Position based dynamics
+, Journal of Visual Communication and Image Representation, 18(2), pp. 109-118",,,,"Rodrigues, E, Sousa-Rodrigues, D, Teixeira de Sampayo, M, Gaspar, AR, Gomes, A and Henggeler Antunes, C (2017) 
+ Clustering of architectural floor plans: A comparison of shape representations
+, Automation in Construction, 80, pp. 48-65",,,,"Turrin, M, Buelow, Pv and Stouffs, R (2011) 
+ Design explorations of performance driven geometry in architectural design using parametric modeling and genetic algorithms
+, Adv. Eng. Inform., 25(4), pp. 656-675",,,,"Weiss, T, Litteneker, A, Duncan, N, Nakada, M, Jiang, C, Yu, L and Terzopoulos, D (2019) 
+ Fast and Scalable Position-Based Layout Synthesis
+, IEEE Transactions on Visualization and Computer Graphics, 25(12), pp. 3231-3243",,,,"Yang, YL, Wang, J, Vouga, E and Wonka, P (2013) 
+ Urban pattern: layout design by hierarchical domain splitting
+, ACM Trans. Graph., 32(6), p. Article 181",,,,"Yeh, YT, Yang, L, Watson, M, Goodman, ND and Hanrahan, P (2012) 
+ Synthesizing open worlds with constraints using locally annealed reversible jump MCMC
+, ACM Trans. Graph., 31(4), p. Article 56",,,,"Yi, YK and Kim, H (2015) 
+ Agent-based geometry optimization with Genetic Algorithm (GA) for tall apartment's solar right
+, Solar Energy, 113, pp. 236-250",,
+11,2021/03/29 07:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

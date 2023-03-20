@@ -1,0 +1,234 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72
+0,caadria2021_446,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Zhou, Yifan and Park, Hyoung-June",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Sketch with Artificial Intelligence (AI) - A Multimodal AI Approach for Conceptual Design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"A. Globa, J. van Ameijde, A. Fingrut, N. Kim, T.T.S. Lo (eds.), PROJECTIONS - Proceedings of the 26th CAADRIA Conference - Volume 1, The Chinese University of Hong Kong and Online, Hong Kong, 29 March - 1 April 2021, pp. 201-210",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The goal of the research is to investigate an AI approach to assist architects with multimodal inputs (sketches and textual information) for conceptual design. With different textual inputs, the AI approach generates the architectural stylistic variations of a users initial sketch input as a design inspiration. A novel machine learning approach for the multimodal input system is introduced and compared to other approaches. The machine learning approach is performed through procedural training with the content curation of training data in order to control the fidelity of generated designs from the input and to manage their diversity. In this paper, the framework of the proposed AI approach is explained. Furthermore, the implementation of its prototype is demonstrated with various examples.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Artificial Intelligence; Stylistic Variations; Multimodal Input; Content Curation; Procedural Training,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,hjpark@hawaii.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (8,001,736 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Chaillou, S (2019) 
+ AI + Architecture | Towards a New Approach
+, Master's Thesis, Havard Graduate School of Design
+
+
+
+
+
+
+
+Goodfellow, I, Bengio, Y, Courville, A and Bengio, Y (2016) 
+ Deep learning
+, MIT press Cambridge
+
+
+
+
+
+
+
+Huang, W and Zheng, H (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)
+
+
+
+
+
+
+
+Isola, P, Zhu, JY, Zhou, T and Efros, AA (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition
+
+
+
+
+
+
+
+Liu, Z, Luo, P, Wang, X and Tang, X (2015) 
+ Deep learning face attributes in the wild
+, Proceedings of the IEEE international conference on computer vision
+
+
+
+
+
+
+
+Michael, G (1977) 
+ Necessity for drawing-tangible speculation
+, Architectural Design, 47, pp. 384-394
+
+
+
+
+
+
+
+Moore, K (2000) 
+ Between the Lines: drawing, creativity and design
+, Environments by Design, 3, pp. 35-58
+
+
+
+
+
+
+
+Mothersill, P and Bove, VM (2019) 
+ Beyond Average Tools. On the use of 'dumb'computation and purposeful ambiguity to enhance the creative process
+, The Design Journal, 22, pp. 1147-1161
+
+
+
+
+
+
+
+Newton, D (2019) 
+ Generative Deep Learning in Architectural Design
+, Technology| Architecture+ Design, 3, p. 2
+
+
+
+
+
+
+
+Rumelhart, DE, Hinton, GE and Williams, RJ (1986) 
+ Learning representations by back-propagating errors
+, Nature, 323, pp. 533-536
+
+
+
+
+
+
+
+Russell, S and Norvig, P (2013) 
+ Artificial intelligence: a modern approach
+, Pearson Education Limited
+
+
+
+
+
+
+
+Samuel, AL (1959) 
+ Some studies in machine learning using the game of checkers
+, IBM Journal of research development, 3, pp. 210-229
+
+
+
+
+
+
+
+Sangkloy, P, Lu, J, Fang, C, Yu, F and Hays, J (2017) 
+ Scribbler: Controlling deep image synthesis with sketch and color
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
+
+
+
+
+
+
+
+Schildt, G (1989) 
+ Alvar Aalto, the Mature Year
+, Rizzoli, New York
+
+
+
+
+
+
+
+Schmitt, P and Weiß, S (2018) 
+ The Chair Project: A Case-Study for using Generative Machine Learning as Automatism
+, 32nd Conference on Neural Information Processing Systems (NIPS 2018)
+
+
+
+
+
+
+
+Winnemöller, H, Kyprianidis, JE and Olsen, SC (2012) 
+ XDoG: an extended difference-of-Gaussians compendium including advanced image stylization
+, Computers & Graphics, 36, pp. 740-753
+
+
+
+
+
+
+
+Yoshimura, Y, Cai, B, Wang, Z and Ratti, C (2019) 
+ Deep learning architect: classification for architectural design through the eye of artificial intelligence
+, International Conference on Computers in Urban Planning and Urban Management
+
+
+
+
+
+
+
+Zhao, J, Xie, X, Wang, L, Cao, M and Zhang, M (2019) 
+ Generating photographic faces from the sketch guided by attribute using GAN
+, IEEE Access, 7, pp. 23844-23851",,"Chaillou, S (2019) 
+ AI + Architecture | Towards a New Approach
+, Master's Thesis, Havard Graduate School of Design",,,,"Goodfellow, I, Bengio, Y, Courville, A and Bengio, Y (2016) 
+ Deep learning
+, MIT press Cambridge",,,,"Huang, W and Zheng, H (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)",,,,"Isola, P, Zhu, JY, Zhou, T and Efros, AA (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition",,,,"Liu, Z, Luo, P, Wang, X and Tang, X (2015) 
+ Deep learning face attributes in the wild
+, Proceedings of the IEEE international conference on computer vision",,,,"Michael, G (1977) 
+ Necessity for drawing-tangible speculation
+, Architectural Design, 47, pp. 384-394",,,,"Moore, K (2000) 
+ Between the Lines: drawing, creativity and design
+, Environments by Design, 3, pp. 35-58",,,,"Mothersill, P and Bove, VM (2019) 
+ Beyond Average Tools. On the use of 'dumb'computation and purposeful ambiguity to enhance the creative process
+, The Design Journal, 22, pp. 1147-1161",,,,"Newton, D (2019) 
+ Generative Deep Learning in Architectural Design
+, Technology| Architecture+ Design, 3, p. 2",,,,"Rumelhart, DE, Hinton, GE and Williams, RJ (1986) 
+ Learning representations by back-propagating errors
+, Nature, 323, pp. 533-536",,,,"Russell, S and Norvig, P (2013) 
+ Artificial intelligence: a modern approach
+, Pearson Education Limited",,,,"Samuel, AL (1959) 
+ Some studies in machine learning using the game of checkers
+, IBM Journal of research development, 3, pp. 210-229",,,,"Sangkloy, P, Lu, J, Fang, C, Yu, F and Hays, J (2017) 
+ Scribbler: Controlling deep image synthesis with sketch and color
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition",,,,"Schildt, G (1989) 
+ Alvar Aalto, the Mature Year
+, Rizzoli, New York",,,,"Schmitt, P and Weiß, S (2018) 
+ The Chair Project: A Case-Study for using Generative Machine Learning as Automatism
+, 32nd Conference on Neural Information Processing Systems (NIPS 2018)",,,,"Winnemöller, H, Kyprianidis, JE and Olsen, SC (2012) 
+ XDoG: an extended difference-of-Gaussians compendium including advanced image stylization
+, Computers & Graphics, 36, pp. 740-753",,,,"Yoshimura, Y, Cai, B, Wang, Z and Ratti, C (2019) 
+ Deep learning architect: classification for architectural design through the eye of artificial intelligence
+, International Conference on Computers in Urban Planning and Urban Management",,,,"Zhao, J, Xie, X, Wang, L, Cao, M and Zhang, M (2019) 
+ Generating photographic faces from the sketch guided by attribute using GAN
+, IEEE Access, 7, pp. 23844-23851",,
+11,2021/03/29 07:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

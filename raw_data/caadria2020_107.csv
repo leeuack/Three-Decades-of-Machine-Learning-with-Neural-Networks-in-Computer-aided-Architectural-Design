@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,caadria2020_107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Meng, Leo Lin, Graham, Jeremy and Haeusler, M. Hank",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,t-SNE: A Dimensionality Reduction Tool for Design Data Visualisation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 2, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 629-638",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"One can argue that data is the 'new oil'. Yet more important than the sheer quantity of data is the question, in the context of architecture and design, how data is represented in design, as this is becoming a more relevant question to the architecture profession. We argue that data, in particular n-dimensional, is often hidden even in BIM models. Hence we propose a new way of understanding the space by (1) generate and integrate space analytics data using space syntax method as well as space usage data and (2) visualise the data using t-Distributed Stochastic Neighbour Embedding (t-SNE), an unsupervised learning and dimensionality reduction tool to help intuitively display high dimensions of data. This approach may help to discover the 'hidden layers' of the building information that may be otherwise omitted. This investigation, its proposed hypothesis, methodology, implications, significance and evaluation are presented in the paper.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Data-Driven Design;  t-SNE;  Machine Learning;  Space Syntax,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,m.haeusler@unsw.edu.au,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,539,546 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Abdulmawla, A, Schneider, S, Bielik, M and Koenig, R (2018) 
+ Integrated Data Analysis for Parametric Design Environment-mineR: a Grasshopper plugin based on R
+, eCAADe 2018
+
+
+
+
+
+
+
+Algeciras-rodriguez, J (2016) 
+ Trained Architectonics
+, ASCAAD 2016, p. 461
+
+
+
+
+
+
+
+Algeciras-rodriguez, J (2018) 
+ Stochastic Hybrids-From references to design options through Self-Organizing Maps methodology
+, eCAADe 2018
+
+
+
+
+
+
+
+Andrew, VM (2005) 
+ Form Follows Data
+, OKK Verlag; Vienna
+
+
+
+
+
+
+
+Aparicio, G (2017) 
+ Data-Insight-Driven Project Delivery: Approach to Accelerated Project Delivery Using Data Analytics, Data Mining and Data Visualization
+, ACADIA
+
+
+
+
+
+
+
+Bell, S and Bala, K (2015) 
+ Learning Visual Similarity For Product Design With Convolutional Neural Networks
+, ACM Transactions on Graphics (TOG), 34(4), p. 98
+
+
+
+
+
+
+
+Bermudez, J, Agutter, J and Foresti, S (2006) 
+ Architectural Research in Information Visualization: 10 Years After
+, International Journal of Architectural Computing, 4(3), pp. 1-18
+
+
+
+
+
+
+
+Brynjolfson, E and McAfee, A (2016) 
+ The Second Machine Age Work, Progress, and Prosperity in a Time of Brilliant Technologies
+, W W Norton
+
+
+
+
+
+
+
+Dursun, P (2007) 
+ Space Syntax In Architectural Design
+, 6th International Space Syntax Symposium, pp. 01-56
+
+
+
+
+
+
+
+Feng, C and Zhang, W (2019) 
+ Algorithms For The Parametric Analysis Of Metric, Directional, And Intersection Reach
+, Environment and Planning B: Urban Analytics and City Science, 46(8), pp. 1422-1438
+
+
+
+
+
+
+
+Hillier, B and Hanson, J (1989) 
+ The social logic of space
+, Cambridge university press
+
+
+
+
+
+
+
+Hillier, B and Leaman, A (1973) 
+ The Man-environment Paradigm And Its Paradoxes
+, Architectural Design, 78(8), pp. 507-511
+
+
+
+
+
+
+
+Langley, P, Derix, C and Coates, P (2007) 
+ Meta-Cognitive Mappings: Growing Neural Networks for Generative Urbanism
+, Generative Arts Conference, Milan
+
+
+
+
+
+
+
+Maaten, Lvd and Hinton, G (2008) 
+ Visualizing Data Using t-SNE
+, Journal of machine learning research, 9, pp. 2579-2605
+
+
+
+
+
+
+
+Major, MD (2018) 
+ The Syntax of City Space: American Urban Grids
+, Routledge
+
+
+
+
+
+
+
+Mayer-Schoenberger, V and Cukier, K (2014) 
+ Big Data - A Revolution that will transform how we live, work and think
+, Eamon Dolan/Mariner Books
+
+
+
+
+
+
+
+Nourian, P, Rezvani, S and Sariyildiz, S (2013) 
+ Designing With Space Syntax
+, eCAADe 2013
+
+
+
+
+
+
+
+Peng, W, Zhang, F and Nagakura, T (2017) 
+ Machines' Perception of Space: Employing 3D Isovist Methods and a Convolutional Neural Network in Architectural Space Classification
+, ACADIA 2017
+
+
+
+
+
+
+
+Pramanik, A, Haymaker, J, Swarts, M and Zimring, C (2015) 
+ Integrating clinic process flow, space syntax and space adjacency analysis: Formalization of computational method in building programming
+, Blucher Design Proceedings, 2(3), pp. 262-272
+
+
+
+
+
+
+
+Sevtsuk, A (2016) 
+ Urban Network Analysis Toolbox for Rhinoceros 3D
+, Planning and Technology Today, 112, pp. 4-5",,"Abdulmawla, A, Schneider, S, Bielik, M and Koenig, R (2018) 
+ Integrated Data Analysis for Parametric Design Environment-mineR: a Grasshopper plugin based on R
+, eCAADe 2018",,,,"Algeciras-rodriguez, J (2016) 
+ Trained Architectonics
+, ASCAAD 2016, p. 461",,,,"Algeciras-rodriguez, J (2018) 
+ Stochastic Hybrids-From references to design options through Self-Organizing Maps methodology
+, eCAADe 2018",,,,"Andrew, VM (2005) 
+ Form Follows Data
+, OKK Verlag; Vienna",,,,"Aparicio, G (2017) 
+ Data-Insight-Driven Project Delivery: Approach to Accelerated Project Delivery Using Data Analytics, Data Mining and Data Visualization
+, ACADIA",,,,"Bell, S and Bala, K (2015) 
+ Learning Visual Similarity For Product Design With Convolutional Neural Networks
+, ACM Transactions on Graphics (TOG), 34(4), p. 98",,,,"Bermudez, J, Agutter, J and Foresti, S (2006) 
+ Architectural Research in Information Visualization: 10 Years After
+, International Journal of Architectural Computing, 4(3), pp. 1-18",,,,"Brynjolfson, E and McAfee, A (2016) 
+ The Second Machine Age Work, Progress, and Prosperity in a Time of Brilliant Technologies
+, W W Norton",,,,"Dursun, P (2007) 
+ Space Syntax In Architectural Design
+, 6th International Space Syntax Symposium, pp. 01-56",,,,"Feng, C and Zhang, W (2019) 
+ Algorithms For The Parametric Analysis Of Metric, Directional, And Intersection Reach
+, Environment and Planning B: Urban Analytics and City Science, 46(8), pp. 1422-1438",,,,"Hillier, B and Hanson, J (1989) 
+ The social logic of space
+, Cambridge university press",,,,"Hillier, B and Leaman, A (1973) 
+ The Man-environment Paradigm And Its Paradoxes
+, Architectural Design, 78(8), pp. 507-511",,,,"Langley, P, Derix, C and Coates, P (2007) 
+ Meta-Cognitive Mappings: Growing Neural Networks for Generative Urbanism
+, Generative Arts Conference, Milan",,,,"Maaten, Lvd and Hinton, G (2008) 
+ Visualizing Data Using t-SNE
+, Journal of machine learning research, 9, pp. 2579-2605",,,,"Major, MD (2018) 
+ The Syntax of City Space: American Urban Grids
+, Routledge",,,,"Mayer-Schoenberger, V and Cukier, K (2014) 
+ Big Data - A Revolution that will transform how we live, work and think
+, Eamon Dolan/Mariner Books",,,,"Nourian, P, Rezvani, S and Sariyildiz, S (2013) 
+ Designing With Space Syntax
+, eCAADe 2013",,,,"Peng, W, Zhang, F and Nagakura, T (2017) 
+ Machines' Perception of Space: Employing 3D Isovist Methods and a Convolutional Neural Network in Architectural Space Classification
+, ACADIA 2017",,,,"Pramanik, A, Haymaker, J, Swarts, M and Zimring, C (2015) 
+ Integrating clinic process flow, space syntax and space adjacency analysis: Formalization of computational method in building programming
+, Blucher Design Proceedings, 2(3), pp. 262-272",,,,"Sevtsuk, A (2016) 
+ Urban Network Analysis Toolbox for Rhinoceros 3D
+, Planning and Technology Today, 112, pp. 4-5",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

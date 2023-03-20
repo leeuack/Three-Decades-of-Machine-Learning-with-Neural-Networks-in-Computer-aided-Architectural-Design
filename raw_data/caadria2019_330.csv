@@ -1,0 +1,102 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+0,caadria2019_330,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Pokhrel, M. K., Anderson, T. N. and Lie, T. T.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Maintaining Thermal Comfort of a Single-Sided Naturally Ventilated Model House by Intelligently Actuating Windows,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"M. Haeusler, M. A. Schnabel, T. Fukuda (eds.), Intelligent & Informed - Proceedings of the 24th CAADRIA Conference - Volume 1, Victoria University of Wellington, Wellington, New Zealand, 15-18 April 2019, pp. 705-714",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In New Zealand's (NZ) mild climatic conditions, most residential houses are ventilated naturally, mainly by opening windows. However, maintaining the indoor thermal comfort characteristics of a house by modulating natural ventilation is particularly challenging, as the solution is not explicit. Determining a solution requires a technique that adjusts openable window area while encapsulating the complexity, dynamics, and nonlinearity associated with the natural ventilation driving forces and building thermal behavior. By verifying that there exists a significant potential of regulating indoor thermal comfort of a relatively airtight and insulated house by adjusting window openable area; this work additionally confirmed an excellent capability of Artificial Neural Network (ANN) technique in predicting air temperature time-series of the naturally ventilated house. On the basis of these examinations, this work particularly developed a co-simulation strategy between building thermal-airflow model and the ANN model and demonstrated that windows could be regulated intelligently to modulate the natural ventilation and maintain indoor thermal comfort level during the summer period by applying Artificial Neural Network (ANN) based predictive controller technique.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Natural Ventilation; Thermal Comfort ; Artificial Neural Network (ANN)  ; Residential House ; Intelligent Windows,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,manoj.pokhrel@aut.ac.nz,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (6,198,112 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Ahmed, A. and Anderson, T. (2015) 
+ Hourly Global Solar Irradiance Forecasting for New Zealand
+, Solar Energy, 122(doi:10.1016/j.solener.2015.10.055), pp. 1398-1408
+
+
+
+
+
+
+
+Kalogirou, S. A. (1999) 
+ Application of Artificial Neural Networks in Energy Systems: A review
+, Energy Conversion and Management, 40 (10)(PII: S0196-8904(99)00012-6), pp. 1073-1087
+
+
+
+
+
+
+
+Krauss, J., Bauer, M., Morel, N. and EI-Khouri, M. (1998) 
+ NEUROBAT Predictive Neuro-Fuzzy Building Control System
+, EPFL, LESO-PB, 98-49, Final Report
+
+
+
+
+
+
+
+Pokhrel, M. K., Anderson, T. N. and Lie, T.T. (2018) 
+ Improving Thermal Comfort Regulating Potential in Naturally Ventilated Residential House
+, Proceedings of the Asia Pacific Solar Research Conference 2018, Sydney
+
+
+
+
+
+
+
+Pokhrel, M. K., Anderson, T. N., Currie, J. and Lie, T. T. (2017) 
+ An Intelligent System for Actuating Windows of Naturally Ventilated Residential Houses
+, Proceedings of the 51st International Conference of the Architectural Science Association (ANZAScA) 2017, Wellington
+
+
+
+
+
+
+
+Ryan, V., Burgess, G. and Easton, J. (2008) 
+ New Zealand House Typologies to Inform Energy Retrofits
+, Beacon Pathway
+
+
+
+
+
+
+
+Salque, T., Marchio, D. and Riederer, P. (2014) 
+ Neural Predictive Control for Single-Speed Ground Source Heat Pumps Connected to a Floor Heating System for Typical French Dwelling
+, Building Services Engineering Research and Technology, 35 (2), pp. 182-197",,"Ahmed, A. and Anderson, T. (2015) 
+ Hourly Global Solar Irradiance Forecasting for New Zealand
+, Solar Energy, 122(doi:10.1016/j.solener.2015.10.055), pp. 1398-1408",,,,"Kalogirou, S. A. (1999) 
+ Application of Artificial Neural Networks in Energy Systems: A review
+, Energy Conversion and Management, 40 (10)(PII: S0196-8904(99)00012-6), pp. 1073-1087",,,,"Krauss, J., Bauer, M., Morel, N. and EI-Khouri, M. (1998) 
+ NEUROBAT Predictive Neuro-Fuzzy Building Control System
+, EPFL, LESO-PB, 98-49, Final Report",,,,"Pokhrel, M. K., Anderson, T. N. and Lie, T.T. (2018) 
+ Improving Thermal Comfort Regulating Potential in Naturally Ventilated Residential House
+, Proceedings of the Asia Pacific Solar Research Conference 2018, Sydney",,,,"Pokhrel, M. K., Anderson, T. N., Currie, J. and Lie, T. T. (2017) 
+ An Intelligent System for Actuating Windows of Naturally Ventilated Residential Houses
+, Proceedings of the 51st International Conference of the Architectural Science Association (ANZAScA) 2017, Wellington",,,,"Ryan, V., Burgess, G. and Easton, J. (2008) 
+ New Zealand House Typologies to Inform Energy Retrofits
+, Beacon Pathway",,,,"Salque, T., Marchio, D. and Riederer, P. (2014) 
+ Neural Predictive Control for Single-Speed Ground Source Heat Pumps Connected to a Floor Heating System for Typical French Dwelling
+, Building Services Engineering Research and Technology, 35 (2), pp. 182-197",,
+11,2019/04/16 08:22,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,90 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+0,caadria2017_105,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Janssen, Patrick",,,,,,,,,,,,,,,,,,,,,,,,
+2,2017,,,,,,,,,,,,,,,,,,,,,,,,
+3,Evolutionary Urbanism - Exploring Form-based Codes Using Neuroevolution Algorithms,,,,,,,,,,,,,,,,,,,,,,,,
+4,"P. Janssen, P. Loh, A. Raonic, M. A. Schnabel (eds.), Protocols, Flows, and Glitches - Proceedings of the 22nd CAADRIA Conference, Xi'an Jiaotong-Liverpool University, Suzhou, China, 5-8 April 2017, pp. 303-312",,,,,,,,,,,,,,,,,,,,,,,,
+5,"Form-Based Codes are legal regulations adopted by local government that allow specific urban forms to be achieved. Such codes have a significant impact on the performative potential of the urban environment. This paper explores the possibility of using a neuroevolution algorithm to elucidate the complex relationship between Form-based Codes and their performative potential. More specifically, Compositional Pattern Producing Networks (CPPN) are used to generate parameter fields, which then drive the generation of varied urban models. For evolving the CPPN networks, a neuroevolution algorithm is used, called Neuroevolution of Augmenting Topologies (NEAT). In order to test the feasibility of the proposed approach, an abstract experiment is described in which a population of urban models are evolved, optimising a set of performance criteria related to the vista and location of the residential units.",,,,,,,,,,,,,,,,,,,,,,,,
+6,Form-based codes; evolutionary design; neural networks; neuroevolution; urban planning,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,
+8,patrick.ht.janssen@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,258,662 bytes)",,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Janssen, P, Stouffs, R, Mohanty, A, Tan, E and Li, R (2016) 
+ Parametric Modelling with GIS
+, Proceedings of eCAADe 2016, Oulu, Finland, pp 59-68
+
+
+
+
+
+
+
+Kim, JB, Clayton, M and Yan, W (2011) 
+ Parametric Form-Based Codes: Incorporation of land-use regulations into Building Information Models
+, Proceedings of ACADIA Regional 2011, pp 217-223
+
+
+
+
+
+
+
+Parolek, DG, Parolek, K and Crawford, PC (2008) 
+ Form Based Codes: A Guide for Planners, Urban Designers, Municipalities, and Developers
+, Wiley
+
+
+
+
+
+
+
+Schnabel, MArc, Zhang, Yingyi and Ayin, Serdar (2016) 
+ Using Parametric Modelling in Form-Based Code Design for High- dense Cities
+, Proceedings of SBE 2016
+
+
+
+
+
+
+
+Stanley, K O (2007) 
+ Compositional Pattern Producing Networks: A Novel Abstraction of Development
+, Genetic Programming and Evolvable Machines, 8(2), pp 131--162
+
+
+
+
+
+
+
+Stanley, KO and Miikkulainen, R (2002) 
+ Evolving neural networks through augmenting topologies
+, Evolutionary Computation, 10, pp 99-127",,"Janssen, P, Stouffs, R, Mohanty, A, Tan, E and Li, R (2016) 
+ Parametric Modelling with GIS
+, Proceedings of eCAADe 2016, Oulu, Finland, pp 59-68",,,,"Kim, JB, Clayton, M and Yan, W (2011) 
+ Parametric Form-Based Codes: Incorporation of land-use regulations into Building Information Models
+, Proceedings of ACADIA Regional 2011, pp 217-223",,,,"Parolek, DG, Parolek, K and Crawford, PC (2008) 
+ Form Based Codes: A Guide for Planners, Urban Designers, Municipalities, and Developers
+, Wiley",,,,"Schnabel, MArc, Zhang, Yingyi and Ayin, Serdar (2016) 
+ Using Parametric Modelling in Form-Based Code Design for High- dense Cities
+, Proceedings of SBE 2016",,,,"Stanley, K O (2007) 
+ Compositional Pattern Producing Networks: A Novel Abstraction of Development
+, Genetic Programming and Evolvable Machines, 8(2), pp 131--162",,,,"Stanley, KO and Miikkulainen, R (2002) 
+ Evolving neural networks through augmenting topologies
+, Evolutionary Computation, 10, pp 99-127",,
+11,2017/05/09 08:05,,,,,,,,,,,,,,,,,,,,,,,,

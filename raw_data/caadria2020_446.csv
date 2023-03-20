@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,caadria2020_446,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Cho, Dahngyu, Kim, Jinsung, Shin, Eunseo, Choi, Jungsik and Lee, Jin-Kook",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Recognizing Architectural Objects in Floor-plan Drawings Using Deep-learning Style-transfer Algorithms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 2, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 717-725",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper describes an approach of recognizing floor plans by assorting essential objects of the plan using deep-learning based style transfer algorithms. Previously, the recognition of floor plans in the design and remodeling phase was labor-intensive, requiring expert-dependent and manual interpretation. For a computer to take in the imaged architectural plan information, the symbols in the plan must be understood. However, the computer has difficulty in extracting information directly from the preexisting plans due to the different conditions of the plans. The goal is to change the preexisting plans to an integrated format to improve the readability by transferring their style into a comprehensible way using Conditional Generative Adversarial Networks (cGAN). About 100-floor plans were used for the dataset which was previously constructed by the Ministry of Land, Infrastructure, and Transport of Korea. The proposed approach has such two steps: (1) to define the important objects contained in the floor plan which needs to be extracted and (2) to use the defined objects as training input data for the cGAN style transfer model. In this paper, wall, door, and window objects were selected as the target for extraction. The preexisting floor plans would be segmented into each part, altered into a consistent format which would then contribute to automatically extracting information for further utilization.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Architectural objects; floor plan recognition; deep-learning; style-transfer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,leejinkook@yonsei.ac.kr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,371,504 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Ah-Soon, C and Tombre, K (1997) 
+ ariations on the analysis of architectural drawings
+, Proceedings of the fourth international conference on document analysis and recognition, IEEE
+
+
+
+
+
+
+
+Cherneff, J (1992) 
+ Knowledge-based interpretation of architectural drawings
+, Research in Engineering Design, 3, pp. 195-210
+
+
+
+
+
+
+
+de las Heras, L.-P (2014) 
+ Statistical segmentation and structural recognition for floor plan interpretation
+, International Journal on Document Analysis and Recognition (IJDAR), pp. 221-237
+
+
+
+
+
+
+
+Dosch, P (2000) 
+ A complete system for the analysis of architectural drawings
+, International Journal on Document Analysis and Recognition (IJDAR), 3, pp. 102-116
+
+
+
+
+
+
+
+Eastman, C (1975) 
+ The use of computers instead of drawings in building design
+, AIA Journal, 63, pp. 46-50
+
+
+
+
+
+
+
+Eastman, C (2011) 
+ BIM handbook: A guide to building information modeling for owners, managers, designers, engineers and contractors
+, John Wiley & Sons
+
+
+
+
+
+
+
+Gatys, L. A (2016) 
+ Image style transfer using convolutional neural networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition
+
+
+
+
+
+
+
+Gimenez, L (2016) 
+ Automatic reconstruction of 3D building models from scanned 2D floor plans
+, Automation in Construction, 63, pp. 48-56
+
+
+
+
+
+
+
+Huang, W and Zheng, H (2018) 
+ Architectural drawings recognition and generation through machine learning
+, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture, Mexico City, Mexico
+
+
+
+
+
+
+
+Isola, P (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition
+
+
+
+
+
+
+
+Kim, S (2018) 
+ Application of Style Transfer in the Vectorization Process of Floorplans
+, 10th International Conference on Geographic Information Science (GIScience 2018)
+
+
+
+
+
+
+
+Lu, T (2005) 
+ A new recognition model for electronic architectural drawings
+, Computer-Aided Design, 37, pp. 1053-1069
+
+
+
+
+
+
+
+Lu, T (2007) 
+ Automatic analysis and integration of architectural drawings
+, International Journal of Document Analysis and Recognition (IJDAR), 9, pp. 31-47
+
+
+
+
+
+
+
+Or, S.-h (2005) 
+ Highly automatic approach to architectural floorplan image understanding & model generation
+, Pattern Recognition, pp. 25-32
+
+
+
+
+
+
+
+Park, J and Kwon, Y.-B (2005) 
+ Main wall recognition of architectural drawings using dimension extension line
+, International Workshop on Graphics Recognition
+
+
+
+
+
+
+
+Tombre, K (1995) 
+ Graphics recognition-general context and challenges
+, Pattern Recognition Letters, 16, pp. 883-891
+
+
+
+
+
+
+
+Tombre, K (2002) 
+ Text/graphics separation revisited
+, International Workshop on Document Analysis Systems
+
+
+
+
+
+
+
+Wang, X.-Y (2018) 
+ Customization and generation of floor plans based on graph transformations
+, Automation in Construction, 94, pp. 405-416
+
+
+
+
+
+
+
+Yang, J (2018) 
+ Semantic Segmentation in Architectural Floor Plans for Detecting Walls and Doors
+, 2018 11th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), IEEE
+
+
+
+
+
+
+
+Yin, X (2008) 
+ Generating 3d building models from architectural drawings: A survey
+, IEEE computer graphics and applications, 29, pp. 20-30",,"Ah-Soon, C and Tombre, K (1997) 
+ ariations on the analysis of architectural drawings
+, Proceedings of the fourth international conference on document analysis and recognition, IEEE",,,,"Cherneff, J (1992) 
+ Knowledge-based interpretation of architectural drawings
+, Research in Engineering Design, 3, pp. 195-210",,,,"de las Heras, L.-P (2014) 
+ Statistical segmentation and structural recognition for floor plan interpretation
+, International Journal on Document Analysis and Recognition (IJDAR), pp. 221-237",,,,"Dosch, P (2000) 
+ A complete system for the analysis of architectural drawings
+, International Journal on Document Analysis and Recognition (IJDAR), 3, pp. 102-116",,,,"Eastman, C (1975) 
+ The use of computers instead of drawings in building design
+, AIA Journal, 63, pp. 46-50",,,,"Eastman, C (2011) 
+ BIM handbook: A guide to building information modeling for owners, managers, designers, engineers and contractors
+, John Wiley & Sons",,,,"Gatys, L. A (2016) 
+ Image style transfer using convolutional neural networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition",,,,"Gimenez, L (2016) 
+ Automatic reconstruction of 3D building models from scanned 2D floor plans
+, Automation in Construction, 63, pp. 48-56",,,,"Huang, W and Zheng, H (2018) 
+ Architectural drawings recognition and generation through machine learning
+, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture, Mexico City, Mexico",,,,"Isola, P (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition",,,,"Kim, S (2018) 
+ Application of Style Transfer in the Vectorization Process of Floorplans
+, 10th International Conference on Geographic Information Science (GIScience 2018)",,,,"Lu, T (2005) 
+ A new recognition model for electronic architectural drawings
+, Computer-Aided Design, 37, pp. 1053-1069",,,,"Lu, T (2007) 
+ Automatic analysis and integration of architectural drawings
+, International Journal of Document Analysis and Recognition (IJDAR), 9, pp. 31-47",,,,"Or, S.-h (2005) 
+ Highly automatic approach to architectural floorplan image understanding & model generation
+, Pattern Recognition, pp. 25-32",,,,"Park, J and Kwon, Y.-B (2005) 
+ Main wall recognition of architectural drawings using dimension extension line
+, International Workshop on Graphics Recognition",,,,"Tombre, K (1995) 
+ Graphics recognition-general context and challenges
+, Pattern Recognition Letters, 16, pp. 883-891",,,,"Tombre, K (2002) 
+ Text/graphics separation revisited
+, International Workshop on Document Analysis Systems",,,,"Wang, X.-Y (2018) 
+ Customization and generation of floor plans based on graph transformations
+, Automation in Construction, 94, pp. 405-416",,,,"Yang, J (2018) 
+ Semantic Segmentation in Architectural Floor Plans for Detecting Walls and Doors
+, 2018 11th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), IEEE",,,,"Yin, X (2008) 
+ Generating 3d building models from architectural drawings: A survey
+, IEEE computer graphics and applications, 29, pp. 20-30",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

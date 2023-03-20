@@ -1,0 +1,126 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+0,caadria2021_415,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Chuang, Cheng-Lin and Chien, Sheng-Fen",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Facilitating Architect-Client Communication in the Pre-design Phase,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"A. Globa, J. van Ameijde, A. Fingrut, N. Kim, T.T.S. Lo (eds.), PROJECTIONS - Proceedings of the 26th CAADRIA Conference - Volume 2, The Chinese University of Hong Kong and Online, Hong Kong, 29 March - 1 April 2021, pp. 71-80",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The process of architects exploring the program with clients often take place through face-to-face oral discussions and visual aids, such as photos and sketches. Our research focuses on two communication mediums: language and sketch. We employ machine learning techniques to assist architects and clients to improve their communication and reduce misunderstandings. We have trained a Naive Bayesian Classifier machine, the language assistant (LA), to classify architectural vocabularies with associations to design requirements. In addition, we have trained a Generative Adversarial Network, the sketch assistant (SA), to generate photo quality images based on architects' sketches. The language assistant and sketch assistant combined can facilitate architect-client communication during the pre-design stage.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Architect-Client Communication; Pre-design; Architectural Programming;  Machine Learning; Schematic Design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,c.l.chuang2733@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (9,121,002 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Barrett, Peter (1999) 
+ Better Construction Briefing
+, Wiley
+
+
+
+
+
+
+
+Isola, Phillip, Zhu, Jun-Yan, Zhou, Tinghui and Efros, Alexei A. (2017) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, CVPR 2017
+
+
+
+
+
+
+
+Kiviniemi, Arto (2005) 
+ Requirements Management Interface to Building Product Models
+, Ph.D. Dissertation, Department of Civil and Environmental Engineering, Stanford University
+
+
+
+
+
+
+
+Lertlakkhanakul, Jumphon, Choi, Jin Won and Kim, Mi Yun (2008) 
+ Building data model and simulation platform for spatial interaction management in smart home
+, Automation in Construction, 17, pp. 948-957
+
+
+
+
+
+
+
+Shen, Weilin, Zhang, Xiaoling, Shen, Geoffrey Qiping and Fernando, Terrence (2013) 
+ The User Pre-Occupancy Evaluation Method in designer-client communication in early design stage: A case study
+, Automation in Construction, 32, pp. 112-124
+
+
+
+
+
+
+
+Shen, Weilin (2011) 
+ A BIM-based Pre-occupancy Evaluation Platform (PEP) for facilitating designer-client communication in the early design stage
+, Ph.D. Thesis, Department of Building and Real Estate, Hong Kong Polytechnic University
+
+
+
+
+
+
+
+Sirikasem, Peerapong and Degelman, Larry O. (1990) 
+ The use of video-computer presentation Techniques to aid in communication between architect and client
+, ACADIA Conference Proceedings, pp. 205-216
+
+
+
+
+
+
+
+Taleb, Hala, Ismail, Syuhaida, Wahab, Mohammad Hussaini and Rani, W. N. M. W. M (2017) 
+ Communication management between architects and clients
+, AIP Conference Proceedings
+
+
+
+
+
+
+
+Tessema, Yohannes Abbay (2008) 
+ BIM for Improved Building Design Communication Between Architects and Clients in the Schematic Design Phase
+, Master's Thesis, Texas Tech University",,"Barrett, Peter (1999) 
+ Better Construction Briefing
+, Wiley",,,,"Isola, Phillip, Zhu, Jun-Yan, Zhou, Tinghui and Efros, Alexei A. (2017) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, CVPR 2017",,,,"Kiviniemi, Arto (2005) 
+ Requirements Management Interface to Building Product Models
+, Ph.D. Dissertation, Department of Civil and Environmental Engineering, Stanford University",,,,"Lertlakkhanakul, Jumphon, Choi, Jin Won and Kim, Mi Yun (2008) 
+ Building data model and simulation platform for spatial interaction management in smart home
+, Automation in Construction, 17, pp. 948-957",,,,"Shen, Weilin, Zhang, Xiaoling, Shen, Geoffrey Qiping and Fernando, Terrence (2013) 
+ The User Pre-Occupancy Evaluation Method in designer-client communication in early design stage: A case study
+, Automation in Construction, 32, pp. 112-124",,,,"Shen, Weilin (2011) 
+ A BIM-based Pre-occupancy Evaluation Platform (PEP) for facilitating designer-client communication in the early design stage
+, Ph.D. Thesis, Department of Building and Real Estate, Hong Kong Polytechnic University",,,,"Sirikasem, Peerapong and Degelman, Larry O. (1990) 
+ The use of video-computer presentation Techniques to aid in communication between architect and client
+, ACADIA Conference Proceedings, pp. 205-216",,,,"Taleb, Hala, Ismail, Syuhaida, Wahab, Mohammad Hussaini and Rani, W. N. M. W. M (2017) 
+ Communication management between architects and clients
+, AIP Conference Proceedings",,,,"Tessema, Yohannes Abbay (2008) 
+ BIM for Improved Building Design Communication Between Architects and Clients in the Schematic Design Phase
+, Master's Thesis, Texas Tech University",,
+11,2021/03/29 07:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

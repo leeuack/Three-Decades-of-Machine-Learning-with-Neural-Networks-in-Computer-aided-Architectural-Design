@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,caadria2021_052,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Yousif, Shermeen and Bolojan, Daniel",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Deep-Performance - Incorporating Deep Learning for Automating Building Performance Simulation in Generative Systems,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"A. Globa, J. van Ameijde, A. Fingrut, N. Kim, T.T.S. Lo (eds.), PROJECTIONS - Proceedings of the 26th CAADRIA Conference - Volume 1, The Chinese University of Hong Kong and Online, Hong Kong, 29 March - 1 April 2021, pp. 151-160",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In this study, we introduce a newly developed method called Deep-Performance, to enable automatic environmental performance simulation prediction without the need to perform simulations, by integrating deep learning strategies. The aim is to train neural networks on datasets with thousands of building design samples and their corresponding performance simulation. The trained model would offer performance prediction for design options emerging in generative protocols. The research is a work-in-progress within a broader project aimed at automating buildings environmental performance evaluations of daylight analysis and energy simulation, using deep learning (DL) models. This paper focuses on the implementation of a supervised DL method for automating the retrieval of daylight analysis metrics, targeting successful daylight design and higher building enclosure efficiency. We have further improved a Pix2Pix model trained on 5 different datasets, each containing 6000 paired images of architectural floor plans and their daylight simulation metrics. In the inference phase, the model was able to accurately predict the daylight simulation for unseen sets of floor plans. For validation, two quantitative assessment metrics were followed to assess the predicted daylight performance against the daylight performance simulation. Both assessment metrics showed high accuracy levels.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Deep Learning; Artificial Intelligence; Deep-Performance; Automating Building Performance Simulation; Generative Systems,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,syousif@fau.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (8,832,595 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bamdad, K, Cholette, ME and Bell, J (2020) 
+ Building energy optimization using surrogate model and active sampling
+, Journal of Building Performance Simulation, 13(6), pp. 760-776
+
+
+
+
+
+
+
+Bazjanac, V (2008) 
+ IFC BIM-Based Methodology for Semi-Automated Building Energy Performance Simulation
+, ICIT 2008
+
+
+
+
+
+
+
+Boden, MA (2004) 
+ The creative mind: Myths and mechanisms
+, Psychology Press
+
+
+
+
+
+
+
+Boden, MA (2007) 
+ Creativity in a nutshell
+, Think, 5(15), pp. 83-96
+
+
+
+
+
+
+
+Goodfellow, I, Bengio, Y and Courville, A (2016) 
+ Deep learning
+, MIT press
+
+
+
+
+
+
+
+Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative adversarial nets
+, Advances in neural information processing systems, pp. 2672-2680
+
+
+
+
+
+
+
+Harding, J and Brandt-Olsen, C (2018) 
+ Biomorpher: Interactive evolution for parametric design
+, nternational Journal of Architectural Computing, 16.2, pp. 144-163
+
+
+
+
+
+
+
+Hemsath, TL (2013) 
+ Conceptual energy modeling for architecture, planning and design: Impact of using building performance simulation in early design stages
+, 13th Conference of International Building Performance Simulation Association, pp. 376-384
+
+
+
+
+
+
+
+Isola, P, Zhu, JY, Zhou, T and Efros, AA (2017) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 5967-5976
+
+
+
+
+
+
+
+Kasparov, G (2017) 
+ Deep thinking: where machine intelligence ends and human creativity begins
+, Hachette UK
+
+
+
+
+
+
+
+Kazanasmaz, T, Günaydin, M and Binol, S (2009) 
+ Artificial neural networks to predict daylight illuminance in office buildings
+, Building and Environment, 44(8), pp. 1751-1757
+
+
+
+
+
+
+
+Menges, A and Ahlquist, S (2011) 
+ Computational design thinking: computation design thinking
+, John Wiley & Sons
+
+
+
+
+
+
+
+Ngarambe, J, Irakoze, A, Yun, GY and Kim, G (2020) 
+ Comparative Performance of Machine Learning Algorithms in the Prediction of Indoor Daylight Illuminances
+, Sustainability, 12(11), p. 4471
+
+
+
+
+
+
+
+Nguyen, AT, Reiter, S and Rigo, P (2014) 
+ A review on simulation-based optimization methods applied to building performance analysis
+, Applied Energy, 113, pp. 1043-1058
+
+
+
+
+
+
+
+Rahmani-Asl, M, Das, S, Tsai, B, Molloy, I and Hauck, A (2017) 
+ Energy Model Machine (EMM)-Instant Building Energy Prediction using Machine Learning
+, eCAADe, 2017, pp. 277-286
+
+
+
+
+
+
+
+Reinhart, C (2002) 
+ Effects of interior design on the daylight availability in open plan offices
+, Proceedings of the 2002 American Council for an Energy Efficient Economy (ACEEE) Summer Study on Energy Efficiency in Buildings, 3, pp. 309-322
+
+
+
+
+
+
+
+Schwartz, Y, Raslan, R, Korolija, I and Mumovic, D (2017) 
+ Integrated Building Performance Optimization: Coupling Parametric Thermal Simulation Optimization and Generative Spatial Design Programming
+, 15th International Building Performance Simulation Association Conference, San Francisco, CA, Aug, pp. 7-9
+
+
+
+
+
+
+
+Shrivastava, A, Pfister, T, Tuzel, O, Susskind, J, Wang, W and Webb, R (2017) 
+ Learning from simulated and unsupervised images through adversarial training
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 2107-2116
+
+
+
+
+
+
+
+Thomsen, M, Nicholas, P, Tamke, M, Gatz, S, Sinke, Y and Rossi, G (2020) 
+ Towards machine learning for architectural fabrication in the age of industry 4.0
+, International Journal of Architectural Computing, 2020, p. 1478077120948000
+
+
+
+
+
+
+
+Touloupaki, E and Theodosiou, T (2017) 
+ Performance simulation integrated in parametric 3d modeling as a method for early stage design optimization-a review
+, Energies, 10(5), p. 637",,"Bamdad, K, Cholette, ME and Bell, J (2020) 
+ Building energy optimization using surrogate model and active sampling
+, Journal of Building Performance Simulation, 13(6), pp. 760-776",,,,"Bazjanac, V (2008) 
+ IFC BIM-Based Methodology for Semi-Automated Building Energy Performance Simulation
+, ICIT 2008",,,,"Boden, MA (2004) 
+ The creative mind: Myths and mechanisms
+, Psychology Press",,,,"Boden, MA (2007) 
+ Creativity in a nutshell
+, Think, 5(15), pp. 83-96",,,,"Goodfellow, I, Bengio, Y and Courville, A (2016) 
+ Deep learning
+, MIT press",,,,"Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative adversarial nets
+, Advances in neural information processing systems, pp. 2672-2680",,,,"Harding, J and Brandt-Olsen, C (2018) 
+ Biomorpher: Interactive evolution for parametric design
+, nternational Journal of Architectural Computing, 16.2, pp. 144-163",,,,"Hemsath, TL (2013) 
+ Conceptual energy modeling for architecture, planning and design: Impact of using building performance simulation in early design stages
+, 13th Conference of International Building Performance Simulation Association, pp. 376-384",,,,"Isola, P, Zhu, JY, Zhou, T and Efros, AA (2017) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 5967-5976",,,,"Kasparov, G (2017) 
+ Deep thinking: where machine intelligence ends and human creativity begins
+, Hachette UK",,,,"Kazanasmaz, T, Günaydin, M and Binol, S (2009) 
+ Artificial neural networks to predict daylight illuminance in office buildings
+, Building and Environment, 44(8), pp. 1751-1757",,,,"Menges, A and Ahlquist, S (2011) 
+ Computational design thinking: computation design thinking
+, John Wiley & Sons",,,,"Ngarambe, J, Irakoze, A, Yun, GY and Kim, G (2020) 
+ Comparative Performance of Machine Learning Algorithms in the Prediction of Indoor Daylight Illuminances
+, Sustainability, 12(11), p. 4471",,,,"Nguyen, AT, Reiter, S and Rigo, P (2014) 
+ A review on simulation-based optimization methods applied to building performance analysis
+, Applied Energy, 113, pp. 1043-1058",,,,"Rahmani-Asl, M, Das, S, Tsai, B, Molloy, I and Hauck, A (2017) 
+ Energy Model Machine (EMM)-Instant Building Energy Prediction using Machine Learning
+, eCAADe, 2017, pp. 277-286",,,,"Reinhart, C (2002) 
+ Effects of interior design on the daylight availability in open plan offices
+, Proceedings of the 2002 American Council for an Energy Efficient Economy (ACEEE) Summer Study on Energy Efficiency in Buildings, 3, pp. 309-322",,,,"Schwartz, Y, Raslan, R, Korolija, I and Mumovic, D (2017) 
+ Integrated Building Performance Optimization: Coupling Parametric Thermal Simulation Optimization and Generative Spatial Design Programming
+, 15th International Building Performance Simulation Association Conference, San Francisco, CA, Aug, pp. 7-9",,,,"Shrivastava, A, Pfister, T, Tuzel, O, Susskind, J, Wang, W and Webb, R (2017) 
+ Learning from simulated and unsupervised images through adversarial training
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 2107-2116",,,,"Thomsen, M, Nicholas, P, Tamke, M, Gatz, S, Sinke, Y and Rossi, G (2020) 
+ Towards machine learning for architectural fabrication in the age of industry 4.0
+, International Journal of Architectural Computing, 2020, p. 1478077120948000",,,,"Touloupaki, E and Theodosiou, T (2017) 
+ Performance simulation integrated in parametric 3d modeling as a method for early stage design optimization-a review
+, Energies, 10(5), p. 637",,
+11,2021/03/29 07:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

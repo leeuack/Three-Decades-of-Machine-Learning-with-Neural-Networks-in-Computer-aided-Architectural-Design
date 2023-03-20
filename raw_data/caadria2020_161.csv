@@ -1,0 +1,138 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40
+0,caadria2020_161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Kido, Daiki, Fukuda, Tomohiro and Yabuki, Nobuyoshi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Mobile Mixed Reality for Environmental Design Using Real-Time Semantic Segmentation and Video Communication - Dynamic Occlusion Handling and Green View Index Estimation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 1, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 681-690",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Mixed reality (MR), that blends the real and virtual worlds, attracted attention for consensus-building among stakeholders in environmental design with the visualization of planned landscape onsite. One of the technical challenges in MR is the occlusion problem which occurs when virtual objects hide physical objects that should be rendered in front of virtual objects. This problem may cause inappropriate simulation. And the visual environmental assessment of present and proposed landscape with MR can be effective for the evidence-based design, such as urban greenery. Thus, this study aims to develop a MR-based environmental assessment system with dynamic occlusion handling and green view index estimation using semantic segmentation based on deep learning. This system was designed for the use on a mobile device with video communication over the Internet to implement a real-time semantic segmentation whose computational cost is high. The applicability of the developed system is shown through case studies.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Mixed Reality (MR); Environmental Design; Dynamic Occlusion Handling; Semantic Segmentation; Green View Index,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,kido@it.see.eng.osaka-u.ac.jp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (10,158,402 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Cao, R., Fukuda, T. and Yabuki, N. (2018) 
+ A Real-time Visual Environmental Evaluation System Using Image Segmentation: A Prototype for Green View Index
+, Proceedings of the 41st Symposium on Computer Technology of Information, Systems and Applications, pp. 205-208
+
+
+
+
+
+
+
+Cordts, M., Omran, S. and Ramos, S. (2016) 
+ The cityscapes dataset for semantic urban scene understanding
+, Proceedings of IEEE Conference on CVPR 2016, pp. 3213-3223
+
+
+
+
+
+
+
+Holynski, A. and Kopt, J. (2018) 
+ Fast depth densification for occlusion-aware augmented reality
+, ACM Transactions on Graphics (TOG), 37(6), pp. 1-11, 194
+
+
+
+
+
+
+
+Inoue, K., Fukuda, T., Cao, R. and Yabuki, N. (2018) 
+ Tracking Robustness and Green View Index Estimation of Augmented and Diminished Reality for Environmental Design: PhotoAR+DR2017 project
+, Proceedings of the 23rd Internatinal Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2018), pp. 339-348
+
+
+
+
+
+
+
+Jennings, C., Hardie, T. and Westerlund, M. (2013) 
+ Real-time communications for the web
+, IEEE Communications Magazine, 51(4), pp. 20-26
+
+
+
+
+
+
+
+Kido, D., Fukuda, T. and Yabuki, N. (2019) 
+ Development of a Semantic Segmentation System for Dynamic Occlusion Handling in Mixed Reality for Landscape Simulation
+, Proceedings of the 37th eCAADe and 23rd SIGraDi Conference, pp. 641-648, 1
+
+
+
+
+
+
+
+Milgram, P. and Kishino, F. (1994) 
+ A Taxonomy of Mixed Reality Visual Displays
+, IEICE Transactions on Information and Systems, E77-D(2), pp. 1321-1329
+
+
+
+
+
+
+
+Van Dillen, S.M., de Vries, S., Groenewegen, P.P. and Spreeuwenberg, P. (2012) 
+ Greenspace in urban neighbourhoods and residents' health: adding quality to quantity
+, Journal of Epidemiology & Community Health, 66(6), p. e8
+
+
+
+
+
+
+
+Yang, J., Zhao, L., McBride, J. and Gong, P. (2009) 
+ Can you see green? Assessing the visibility of urban forests in cities
+, Landscape and Urban Planning, 91, pp. 97-104
+
+
+
+
+
+
+
+Zhao, H., Qi, X., Shen, A. and Jia, J. (2018) 
+ ICNet for Real-Time Semantic Segmentation on High-Resolution Images
+, Proceedings of ECCV 2018, pp. 418-434",,"Cao, R., Fukuda, T. and Yabuki, N. (2018) 
+ A Real-time Visual Environmental Evaluation System Using Image Segmentation: A Prototype for Green View Index
+, Proceedings of the 41st Symposium on Computer Technology of Information, Systems and Applications, pp. 205-208",,,,"Cordts, M., Omran, S. and Ramos, S. (2016) 
+ The cityscapes dataset for semantic urban scene understanding
+, Proceedings of IEEE Conference on CVPR 2016, pp. 3213-3223",,,,"Holynski, A. and Kopt, J. (2018) 
+ Fast depth densification for occlusion-aware augmented reality
+, ACM Transactions on Graphics (TOG), 37(6), pp. 1-11, 194",,,,"Inoue, K., Fukuda, T., Cao, R. and Yabuki, N. (2018) 
+ Tracking Robustness and Green View Index Estimation of Augmented and Diminished Reality for Environmental Design: PhotoAR+DR2017 project
+, Proceedings of the 23rd Internatinal Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2018), pp. 339-348",,,,"Jennings, C., Hardie, T. and Westerlund, M. (2013) 
+ Real-time communications for the web
+, IEEE Communications Magazine, 51(4), pp. 20-26",,,,"Kido, D., Fukuda, T. and Yabuki, N. (2019) 
+ Development of a Semantic Segmentation System for Dynamic Occlusion Handling in Mixed Reality for Landscape Simulation
+, Proceedings of the 37th eCAADe and 23rd SIGraDi Conference, pp. 641-648, 1",,,,"Milgram, P. and Kishino, F. (1994) 
+ A Taxonomy of Mixed Reality Visual Displays
+, IEICE Transactions on Information and Systems, E77-D(2), pp. 1321-1329",,,,"Van Dillen, S.M., de Vries, S., Groenewegen, P.P. and Spreeuwenberg, P. (2012) 
+ Greenspace in urban neighbourhoods and residents' health: adding quality to quantity
+, Journal of Epidemiology & Community Health, 66(6), p. e8",,,,"Yang, J., Zhao, L., McBride, J. and Gong, P. (2009) 
+ Can you see green? Assessing the visibility of urban forests in cities
+, Landscape and Urban Planning, 91, pp. 97-104",,,,"Zhao, H., Qi, X., Shen, A. and Jia, J. (2018) 
+ ICNet for Real-Time Semantic Segmentation on High-Resolution Images
+, Proceedings of ECCV 2018, pp. 418-434",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

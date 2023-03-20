@@ -1,0 +1,174 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52
+0,caadria2020_222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Sun, Chengyu and Hu, Wei",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,A Rapid Building Density Survey Method Based on Improved Unet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 2, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 649-658",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"How to rapidly obtain building density information in a large range is a key problem for architecture and planning. This is because architectural design or urban planning is not isolated, and the environment of the building is influenced by the distribution of other buildings in a larger area. For areas where building density data are not readily available, the current methods to estimate building density are more or less inadequate. For example, the manual survey method is relatively slow and expensive, the traditional satellite image processing method is not very accurate or needs to purchase high-precision multispectral remote sensing image from satellite companies. Based on the deep neural network, this paper proposes a method to quickly extract large-scale building density information by using open satellite images platforms such as Baidu map, Google Earth, etc., and optimizes the application in the field of building and planning. Compared with the traditional method, it has the advantages of less time and money, higher precision, and can provide data support for architectural design and regional planning rapidly and conveniently.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,building density; rapidly and conveniently; neural network,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,1990huwei@sina.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (33,713,802 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bindajam, A (2019) 
+ The Effect of Land Surface Features on the Urban Heat Island in Buraydah City
+, EDRA 50
+
+
+
+
+
+
+
+Bu, XG, Wang, YL and Wu, JS (2006) 
+ Rationality of City Railway Planning Based on Land Use: A Case Study in Dongguan City, PRC
+, RESOURCES SCIENCE, 28(2), pp. 47-53
+
+
+
+
+
+
+
+Giridharan, R, Lau, SSY and Ganesan, S (2017) 
+ Urban design factors influencing heat island intensity in high-rise high-density environments of Hong Kong
+, Building and Environment, 42, pp. 3669-3684
+
+
+
+
+
+
+
+Goodfellow, I, Bengio, Y and Courville, A (2016) 
+ Deep learning
+, MIT press, Cambridge
+
+
+
+
+
+
+
+Ho, HC, Knudby, A, Sirovyak, P, Xu, Y, Hodul, M and Henderson, SB (2014) 
+ Mapping maximum urban air temperature on hot summer days
+, Remote Sens, 154, pp. 38-45
+
+
+
+
+
+
+
+Kajimoto, M and Susaki, J (2013) 
+ Urban density estimation from polarimetric SAR images based on a POA correction method
+, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 6(3), pp. 1418-1429
+
+
+
+
+
+
+
+Li, Y (2019) 
+ Assessment of solar energy utilization potential on building rooftop: a case study of downtown Shanghai
+, Master's Thesis, East China Normal University
+
+
+
+
+
+
+
+Luo, XY, Jian, G and Zhang, Y (2014) 
+ Simulation Study about Impact of Building Density on Heat Island Effect
+, Applied Mechanics and Materials, 590, pp. 353-357
+
+
+
+
+
+
+
+Wang, M, Yuan, S and Pan, J (2013) 
+ Building detection in high resolution satellite urban image using segmentation, corner detection combined with adaptive windowed Hough Transform
+, 2013 IEEE International Geoscience and Remote Sensing Symposium, Melbourne, pp. 508-511
+
+
+
+
+
+
+
+Xu, HM (2018) 
+ Method Research of High-Resolution Remote Sensing Imagery Classification-based U-Net Model of Deep Learning
+, Master's Thesis, Southwest Jiaotong University
+
+
+
+
+
+
+
+Xu, X, Zhang, L, Zou, L and Yuan, L (2016) 
+ Building density estimation using PolSAR images based on adaptive volume scattering model
+, 2016 IEEE International Conference on Electronic Information and Communication Technology (ICEICT), Harbin, pp. 544-548
+
+
+
+
+
+
+
+Yang, ZW (2019) 
+ Study and Analysis of the Impact of Block Spatial Form on Building Energy Consumption Based on DEST-H Model Simulation: Taking Taiyuan as an Example
+, Master's Thesis, Taiyuan University of Technology
+
+
+
+
+
+
+
+Zhang, T, Huang, X, Wen, D and Li, J (2017) 
+ Urban Building Density Estimation From High-Resolution Imagery Using Multiple Features and Support Vector Regression
+, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 10, pp. 3265-3280",,"Bindajam, A (2019) 
+ The Effect of Land Surface Features on the Urban Heat Island in Buraydah City
+, EDRA 50",,,,"Bu, XG, Wang, YL and Wu, JS (2006) 
+ Rationality of City Railway Planning Based on Land Use: A Case Study in Dongguan City, PRC
+, RESOURCES SCIENCE, 28(2), pp. 47-53",,,,"Giridharan, R, Lau, SSY and Ganesan, S (2017) 
+ Urban design factors influencing heat island intensity in high-rise high-density environments of Hong Kong
+, Building and Environment, 42, pp. 3669-3684",,,,"Goodfellow, I, Bengio, Y and Courville, A (2016) 
+ Deep learning
+, MIT press, Cambridge",,,,"Ho, HC, Knudby, A, Sirovyak, P, Xu, Y, Hodul, M and Henderson, SB (2014) 
+ Mapping maximum urban air temperature on hot summer days
+, Remote Sens, 154, pp. 38-45",,,,"Kajimoto, M and Susaki, J (2013) 
+ Urban density estimation from polarimetric SAR images based on a POA correction method
+, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 6(3), pp. 1418-1429",,,,"Li, Y (2019) 
+ Assessment of solar energy utilization potential on building rooftop: a case study of downtown Shanghai
+, Master's Thesis, East China Normal University",,,,"Luo, XY, Jian, G and Zhang, Y (2014) 
+ Simulation Study about Impact of Building Density on Heat Island Effect
+, Applied Mechanics and Materials, 590, pp. 353-357",,,,"Wang, M, Yuan, S and Pan, J (2013) 
+ Building detection in high resolution satellite urban image using segmentation, corner detection combined with adaptive windowed Hough Transform
+, 2013 IEEE International Geoscience and Remote Sensing Symposium, Melbourne, pp. 508-511",,,,"Xu, HM (2018) 
+ Method Research of High-Resolution Remote Sensing Imagery Classification-based U-Net Model of Deep Learning
+, Master's Thesis, Southwest Jiaotong University",,,,"Xu, X, Zhang, L, Zou, L and Yuan, L (2016) 
+ Building density estimation using PolSAR images based on adaptive volume scattering model
+, 2016 IEEE International Conference on Electronic Information and Communication Technology (ICEICT), Harbin, pp. 544-548",,,,"Yang, ZW (2019) 
+ Study and Analysis of the Impact of Block Spatial Form on Building Energy Consumption Based on DEST-H Model Simulation: Taking Taiyuan as an Example
+, Master's Thesis, Taiyuan University of Technology",,,,"Zhang, T, Huang, X, Wen, D and Li, J (2017) 
+ Urban Building Density Estimation From High-Resolution Imagery Using Multiple Features and Support Vector Regression
+, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 10, pp. 3265-3280",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,caadria2020_444,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Higgs, Baptiste and Doherty, Ben",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Sanitary Sanity: Evaluating Privacy Preserving Machine Learning Methods for Post-occupancy Evaluation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 2, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 697-706",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Traditional post-occupancy evaluation (POE) of building performance has typically privileged physical building attributes over human behavioural data. This is due to a lack of capability and is especially the case for private spaces such as Sanitary Facilities (SFs). A privacy-preserving sensor-based system using Machine Learning (ML) was previously developed, however it was limited to basic body position classification. Yet, SF usage behaviour can be significantly more complex. This research accordingly builds on the aforementioned work to expand behavioural classifications using a sensor-based ML system. Specifically, the case study uses a GridEYE thermal sensor array, which is trained on a cubicle location within a workplace SF. A variety of ML algorithms are then evaluated on their behaviour-classifying ability. A detailed analysis of behaviour-classification performance is then provided. A system with greater fidelity is thus demonstrated, albeit hampered by imprecise behaviour definitions. Regardless, this contributes to the capability of the broader field of research that is investigating Evidence Based Design (EBD) by extending the ability to examine human behaviour, especially in private spaces. This further contributes to the growing body of work surrounding SF provision.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,EBD; Data; Internet of Things; Machine Learning; Post Occupancy Evaluation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,BaptisteHiggs@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,437,018 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Anthony, KH and Dufresne, M (2007) 
+ Potty Parity in Perspective: Gender and Family Issues in Planning and Designing Public Restrooms
+, Journal of Planning Literature, 21(3), pp. 267-294
+
+
+
+
+
+
+
+Baillie, MA, Fraser, S and Brown, MJ (2009) 
+ Do Women Spend More Time in the Restroom than Men?
+, Psychological Reports, 105(3), pp. 789-790
+
+
+
+
+
+
+
+Banks, TL (1991) 
+ Toilets as a Feminist Issue: A True Story
+, Berkeley Women's Law Journal, 6(1), pp. 263-289
+
+
+
+
+
+
+
+Becker, HS (2008) 
+ Outsiders
+, Simon and Schuster
+
+
+
+
+
+
+
+Berry, J and Park, KS (2017) 
+ A Passive System for Quantifying Indoor Space Utilization
+, Disciplines & Disruption: Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA), Cambridge, MA, pp. 138-145
+
+
+
+
+
+
+
+Brunetti, A, Buongiorno, D, Trotta, GF and Bevilacqua, V (2018) 
+ Computer vision and deep learning techniques for pedestrian detection and tracking: A survey
+, Neurocomputing, 300, pp. 17-33
+
+
+
+
+
+
+
+Doherty, B, Gardner, N, Ray, A, Higgs, B and Varsnhney, I (2020) 
+ The shakedown: Developing an indoor-localisation system for quantifying toilet usage in offices
+, Architectural Science Review, Forthcoming
+
+
+
+
+
+
+
+Edwards, J and McKie, L (1996) 
+ Women's Public Toilets: A Serious Issue for the Body Politic
+, European Journal of Women's Studies, 3(3), pp. 215-230
+
+
+
+
+
+
+
+Greed, C (2003) 
+ Inclusive Urban Design: Public Toilets
+, Taylor & Francis, Amsterdam
+
+
+
+
+
+
+
+Greed, C (2016) 
+ Taking women's bodily functions into account in urban planning and policy: Public toilets and menstruation
+, Town Planning Review, 87(5), pp. 505-24
+
+
+
+
+
+
+
+Greed, C (2019) 
+ Join the queue: Including women's toilet needs in public space
+, The Sociological Review, 67(4), pp. 908-926
+
+
+
+
+
+
+
+Gwynne, SMV (2019) 
+ The toilet paper: Bathroom dwell time observations at an airport
+, Journal of Building Engineering, 24, pp. 1-12
+
+
+
+
+
+
+
+Han, Z, Gao, R and Fan, Z (2012) 
+ Occupancy and indoor environment quality sensing for smart buildings
+, Proceedings of IEEE I2MTC 2012
+
+
+
+
+
+
+
+Herkel, S, Knapp, U and Pfafferott, J (2008) 
+ Towards a model of user behaviour regarding the manual control of windows in office buildings
+, Building and Environment, 43(4), pp. 588-600
+
+
+
+
+
+
+
+Humphreys, L (1970) 
+ Tearoom trade. Impersonal sex in public places
+, Beitrage zur Sexualforschung, 54(0), pp. 1-138
+
+
+
+
+
+
+
+Kira, A (1976) 
+ The Bathroom
+, The Viking Press, New York, N.Y
+
+
+
+
+
+
+
+Kira, A (1994) 
+ Letter from Alexander Kira to Susan Cunningham
+, Kira, AK (eds), Letter from Alexander Kira to Susan Cunningham, Alexander Kira
+
+
+
+
+
+
+
+Li, P, Froese, TM and Brager, G (2018) 
+ Post-occupancy evaluation: State-of-the-art analysis and state-of-the-practice review
+, Building and Environment, 133, pp. 187-202
+
+
+
+
+
+
+
+MacquarieDictionary, MD (2017) 
+ Macquarie Dictionary
+, Macquarie Dictionary Publishers, Sydney
+
+
+
+
+
+
+
+Molotch, H and Norén, L (eds) (2010) 
+ Toilet: Public Restrooms and the Politics of Sharing
+, NYU Press",,"Anthony, KH and Dufresne, M (2007) 
+ Potty Parity in Perspective: Gender and Family Issues in Planning and Designing Public Restrooms
+, Journal of Planning Literature, 21(3), pp. 267-294",,,,"Baillie, MA, Fraser, S and Brown, MJ (2009) 
+ Do Women Spend More Time in the Restroom than Men?
+, Psychological Reports, 105(3), pp. 789-790",,,,"Banks, TL (1991) 
+ Toilets as a Feminist Issue: A True Story
+, Berkeley Women's Law Journal, 6(1), pp. 263-289",,,,"Becker, HS (2008) 
+ Outsiders
+, Simon and Schuster",,,,"Berry, J and Park, KS (2017) 
+ A Passive System for Quantifying Indoor Space Utilization
+, Disciplines & Disruption: Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA), Cambridge, MA, pp. 138-145",,,,"Brunetti, A, Buongiorno, D, Trotta, GF and Bevilacqua, V (2018) 
+ Computer vision and deep learning techniques for pedestrian detection and tracking: A survey
+, Neurocomputing, 300, pp. 17-33",,,,"Doherty, B, Gardner, N, Ray, A, Higgs, B and Varsnhney, I (2020) 
+ The shakedown: Developing an indoor-localisation system for quantifying toilet usage in offices
+, Architectural Science Review, Forthcoming",,,,"Edwards, J and McKie, L (1996) 
+ Women's Public Toilets: A Serious Issue for the Body Politic
+, European Journal of Women's Studies, 3(3), pp. 215-230",,,,"Greed, C (2003) 
+ Inclusive Urban Design: Public Toilets
+, Taylor & Francis, Amsterdam",,,,"Greed, C (2016) 
+ Taking women's bodily functions into account in urban planning and policy: Public toilets and menstruation
+, Town Planning Review, 87(5), pp. 505-24",,,,"Greed, C (2019) 
+ Join the queue: Including women's toilet needs in public space
+, The Sociological Review, 67(4), pp. 908-926",,,,"Gwynne, SMV (2019) 
+ The toilet paper: Bathroom dwell time observations at an airport
+, Journal of Building Engineering, 24, pp. 1-12",,,,"Han, Z, Gao, R and Fan, Z (2012) 
+ Occupancy and indoor environment quality sensing for smart buildings
+, Proceedings of IEEE I2MTC 2012",,,,"Herkel, S, Knapp, U and Pfafferott, J (2008) 
+ Towards a model of user behaviour regarding the manual control of windows in office buildings
+, Building and Environment, 43(4), pp. 588-600",,,,"Humphreys, L (1970) 
+ Tearoom trade. Impersonal sex in public places
+, Beitrage zur Sexualforschung, 54(0), pp. 1-138",,,,"Kira, A (1976) 
+ The Bathroom
+, The Viking Press, New York, N.Y",,,,"Kira, A (1994) 
+ Letter from Alexander Kira to Susan Cunningham
+, Kira, AK (eds), Letter from Alexander Kira to Susan Cunningham, Alexander Kira",,,,"Li, P, Froese, TM and Brager, G (2018) 
+ Post-occupancy evaluation: State-of-the-art analysis and state-of-the-practice review
+, Building and Environment, 133, pp. 187-202",,,,"MacquarieDictionary, MD (2017) 
+ Macquarie Dictionary
+, Macquarie Dictionary Publishers, Sydney",,,,"Molotch, H and Norén, L (eds) (2010) 
+ Toilet: Public Restrooms and the Politics of Sharing
+, NYU Press",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,162 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48
+0,caadria2020_203,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Xiao, Yahan, Chen, Sen, Ikeda, Yasushi and Hotta, Kensuke",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Automatic Recognition and Segmentation of Architectural Elements from 2D Drawings by Convolutional Neural Network,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 1, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 843-852",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The BIM modeling process is the most time-consuming aspect. This paper studies the possibility of applying the recognition and segmentation of architectural components by deep learning to assist automatic BIM modeling. The research has two parts: the first one is dataset preparing, that images with the labeled architectural components from an original CAD drawing are made for the network training, and second is training and testing, that a mature network which has been trained in hundreds of labeled images is used to make predictions. The utilization of the current study results is discussed and the optimization method as well.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,BIM; CAD drawings; Recognition and Segmentation; Convolutional Neural Network; Computer vision,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,cs0715@sfc.keio.ac.jp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,963,522 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Castelo-Branco, R and Menezes Leit?o, A (2017) 
+ Integrated Algorithmic Design: A single-script approach for multiple design tasks
+, Conference: eCAADe 35 - SchoCK (Sharing of Computable Knowledge)
+
+
+
+
+
+
+
+Geng, Q, Zhou, Z and Cao, X (2017) 
+ Survey of recent progress in semantic image segmentation with CNNs
+, Science China Information Sciences, 61, pp. 51-101
+
+
+
+
+
+
+
+He, K, Zhang, X, Ren, S and Sun, J (2016) 
+ Deep Residual Learning for Image Recognition
+, The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016
+
+
+
+
+
+
+
+Horna, S, Méneveaux, D, Damiand, G and Bertrand, Y (2009) 
+ Consistency constraints and 3D building reconstruction
+, Computer-Aided Design, 41, pp. 13-27
+
+
+
+
+
+
+
+Joie, L, Janssen, P and Stouffs, R (2018) 
+ Automated Generation of BIM Models from 2D CAD Drawings
+, CADDRIA 2018
+
+
+
+
+
+
+
+Liu, X, Deng, Z and Yang, Y (2018) 
+ Recent progress in semantic image segmentation
+, Artificial Intelligence Review, 52, pp. 1089-1106
+
+
+
+
+
+
+
+Long, J, Shelhamer, E and Darrell, T (2015) 
+ Fully Convolutional Networks for Semantic Segmentation
+, The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015
+
+
+
+
+
+
+
+Ren, H, Han, Y and Sun, C (2018) 
+ Transdata: A Data Recording and Exchanging Plug-in for Architectural Computational Design
+, CADDRIA 2018
+
+
+
+
+
+
+
+Ronneberger, O, Fischer, P and Brox, T (2015) 
+ U-Net: Convolutional Networks for Biomedical Image Segmentation
+, International Conference on Medical Image Computing and Computer-Assisted Intervention
+
+
+
+
+
+
+
+Siam, M, Elkerdawy, S, Jagersand, M and Yogamani, S (2017) 
+ Deep semantic segmentation for automated driving: Taxonomy, roadmap and challenges
+, 2017 IEEE 20th International Conference on Intelligent Transportation Systems
+
+
+
+
+
+
+
+Sigalov, K and König, M (2017) 
+ Recognition of process patterns for BIM-based construction schedules
+, Advanced Engineering Informatics, 33, pp. 456-472
+
+
+
+
+
+
+
+Xuetao, Y, Wonka, P and Razdan, A (2008) 
+ Generating 3D Building Models from Architectural Drawings: A Survey
+, IEEE Computer Graphics and Applications, 29, pp. 20-30",,"Castelo-Branco, R and Menezes Leit?o, A (2017) 
+ Integrated Algorithmic Design: A single-script approach for multiple design tasks
+, Conference: eCAADe 35 - SchoCK (Sharing of Computable Knowledge)",,,,"Geng, Q, Zhou, Z and Cao, X (2017) 
+ Survey of recent progress in semantic image segmentation with CNNs
+, Science China Information Sciences, 61, pp. 51-101",,,,"He, K, Zhang, X, Ren, S and Sun, J (2016) 
+ Deep Residual Learning for Image Recognition
+, The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016",,,,"Horna, S, Méneveaux, D, Damiand, G and Bertrand, Y (2009) 
+ Consistency constraints and 3D building reconstruction
+, Computer-Aided Design, 41, pp. 13-27",,,,"Joie, L, Janssen, P and Stouffs, R (2018) 
+ Automated Generation of BIM Models from 2D CAD Drawings
+, CADDRIA 2018",,,,"Liu, X, Deng, Z and Yang, Y (2018) 
+ Recent progress in semantic image segmentation
+, Artificial Intelligence Review, 52, pp. 1089-1106",,,,"Long, J, Shelhamer, E and Darrell, T (2015) 
+ Fully Convolutional Networks for Semantic Segmentation
+, The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015",,,,"Ren, H, Han, Y and Sun, C (2018) 
+ Transdata: A Data Recording and Exchanging Plug-in for Architectural Computational Design
+, CADDRIA 2018",,,,"Ronneberger, O, Fischer, P and Brox, T (2015) 
+ U-Net: Convolutional Networks for Biomedical Image Segmentation
+, International Conference on Medical Image Computing and Computer-Assisted Intervention",,,,"Siam, M, Elkerdawy, S, Jagersand, M and Yogamani, S (2017) 
+ Deep semantic segmentation for automated driving: Taxonomy, roadmap and challenges
+, 2017 IEEE 20th International Conference on Intelligent Transportation Systems",,,,"Sigalov, K and König, M (2017) 
+ Recognition of process patterns for BIM-based construction schedules
+, Advanced Engineering Informatics, 33, pp. 456-472",,,,"Xuetao, Y, Wonka, P and Razdan, A (2008) 
+ Generating 3D Building Models from Architectural Drawings: A Survey
+, IEEE Computer Graphics and Applications, 29, pp. 20-30",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,138 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40
+0,caadria2020_259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Rhee, Jinmo, Veloso, Pedro and Krishnamurti, Ramesh",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Integrating building footprint prediction and building massing - an experiment in Pittsburgh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 2, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 669-678",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"We present a novel method for generating building geometry using deep learning techniques based on contextual geometry in urban context and explore its potential to support building massing. For contextual geometry, we opted to investigate the building footprint, a main interface between urban and architectural forms. For training, we collected GIS data of building footprints and geometries of parcels from Pittsburgh and created a large dataset of Diagrammatic Image Dataset (DID). We employed a modified version of a VGG neural network to model the relationship between (c) a diagrammatic image of a building parcel and context without the footprint, and (q) a quadrilateral representing the original footprint. The option for simple geometrical output enables direct integration with custom design workflows because it obviates image processing and increases training speed. After training the neural network with a curated dataset, we explore a generative workflow for building massing that integrates contextual and programmatic data. As trained model can suggest a contextual boundary for a new site, we used Massigner (Rhee and Chung 2019) to recommend massing alternatives based on the subtraction of voids inside the contextual boundary that satisfy design constraints and programmatic requirements. This new method suggests the potential that learning-based method can be an alternative of rule-based design methods to grasp the complex relationships between design elements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Deep Learning; Prediction; Building Footprint; Massing; Generative Design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,jinmor@andrew.cmu.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (6,996,219 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Cardon, D, Jean-Philippe, C and Antoine, M (2018) 
+ Neurons Spike Back: The Invention of Inductive Machines and the Artificial Intelligence Controversy
+, Réseaux, Machines Prédictives, 5(211), pp. 173-220
+
+
+
+
+
+
+
+Ena, V (2018) 
+ De-Coding Rio de Janeiro's Favelas: Shape Grammar Application as a Contribution to the Debate over the Regularisation of Favelas. The Case of Parque Royal.
+, Computing for a Better Tomorrow - Proceedings of the 36th ECAADe Conference, Lodz, p. 2:429-438
+
+
+
+
+
+
+
+Hillier, B and Julienne, Hanson (1984) 
+ The Social Logic of Space
+, Cambridge Core
+
+
+
+
+
+
+
+Koenig, R (2011) 
+ Generating Urban Structures: A Method for Urban Planning Supported by Multi-Agent Systems and Cellular Automata
+, Przestrzeñ i Forma (space & FORM), 16, pp. 353-376
+
+
+
+
+
+
+
+Liggett, RS (2000) 
+ Automated Facilities Layout: Past, Present and Future
+, Automation in Construction, 9, pp. 197-215
+
+
+
+
+
+
+
+Mitchell, WJ (1977) 
+ Computer-Aided Architectural Design
+, Van Nostrand Reinhold Company
+
+
+
+
+
+
+
+Parish, YIH and Pascal, M (2001) 
+ Procedural Modeling of Cities
+, Proceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, New York, p. 301-308
+
+
+
+
+
+
+
+Rhee, J and Chung, J (2019) 
+ A Study of Automation of Housing Design Method Using Artificial Intelligence
+, Annual Conference in Architectural Institute of Korea, Daejeon, p. 39:181-84
+
+
+
+
+
+
+
+Rhee, J, Cardoso Llach, D and Krishnamurti, R (2019) 
+ Context-Rich Urban Analysis Using Machine Learning - A Case Study in Pittsburgh, PA.
+, Proceedings of the 37th eCAADe and 23rd SIGraDi Conference, Porto, p. 3:343-52
+
+
+
+
+
+
+
+Simonyan, K and Andrew, Z (2015) 
+ Very Deep Convolutional Networks for Large-Scale Image Recognition
+, International Conference on Learning Representations 2015",,"Cardon, D, Jean-Philippe, C and Antoine, M (2018) 
+ Neurons Spike Back: The Invention of Inductive Machines and the Artificial Intelligence Controversy
+, Réseaux, Machines Prédictives, 5(211), pp. 173-220",,,,"Ena, V (2018) 
+ De-Coding Rio de Janeiro's Favelas: Shape Grammar Application as a Contribution to the Debate over the Regularisation of Favelas. The Case of Parque Royal.
+, Computing for a Better Tomorrow - Proceedings of the 36th ECAADe Conference, Lodz, p. 2:429-438",,,,"Hillier, B and Julienne, Hanson (1984) 
+ The Social Logic of Space
+, Cambridge Core",,,,"Koenig, R (2011) 
+ Generating Urban Structures: A Method for Urban Planning Supported by Multi-Agent Systems and Cellular Automata
+, Przestrzeñ i Forma (space & FORM), 16, pp. 353-376",,,,"Liggett, RS (2000) 
+ Automated Facilities Layout: Past, Present and Future
+, Automation in Construction, 9, pp. 197-215",,,,"Mitchell, WJ (1977) 
+ Computer-Aided Architectural Design
+, Van Nostrand Reinhold Company",,,,"Parish, YIH and Pascal, M (2001) 
+ Procedural Modeling of Cities
+, Proceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, New York, p. 301-308",,,,"Rhee, J and Chung, J (2019) 
+ A Study of Automation of Housing Design Method Using Artificial Intelligence
+, Annual Conference in Architectural Institute of Korea, Daejeon, p. 39:181-84",,,,"Rhee, J, Cardoso Llach, D and Krishnamurti, R (2019) 
+ Context-Rich Urban Analysis Using Machine Learning - A Case Study in Pittsburgh, PA.
+, Proceedings of the 37th eCAADe and 23rd SIGraDi Conference, Porto, p. 3:343-52",,,,"Simonyan, K and Andrew, Z (2015) 
+ Very Deep Convolutional Networks for Large-Scale Image Recognition
+, International Conference on Learning Representations 2015",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

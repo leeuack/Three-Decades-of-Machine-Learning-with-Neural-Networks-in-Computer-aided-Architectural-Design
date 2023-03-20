@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,caadria2019_326,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Lai, Po Yan, Kim, Meereh, Choi, Minkyu, Lee, Chae-Seok, Porcellini, Valentin, Yi, Taeha and Lee, Ji-Hyun",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Framework of Judgment System for Smart Home Assistant Utilizing Collective Intelligence Case-Based Reasoning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"M. Haeusler, M. A. Schnabel, T. Fukuda (eds.), Intelligent & Informed - Proceedings of the 24th CAADRIA Conference - Volume 1, Victoria University of Wellington, Wellington, New Zealand, 15-18 April 2019, pp. 695-704",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper proposes a framework of judgment system for smart home assistant that utilizes Collective Intelligence Case Based Reasoning (CI-CBR). CBR is suitable for the smart home environment with its system adaptability to the changeful user scenarios. However, existing CBR solutions have shown relatively low accuracy in service recommendation. This research therefore aims at enhancing the accuracy by introducing collective intelligence into the recommendation system. Assuming that multiple agents will make better decision than single agent, we adopted a multi-agent approach to generate the most similar case, which represents the optimal recommendation from the case base. This paper describes how our system enables agents adopting different similarity measures come to an agreement about the most similar case by the means of majority voting in the judging process. Our framework of a collective judgment system demonstrates its potentials to improve recommendation accuracy, and further enhance the performance of existing smart home assistants.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Collective Intelligence;  Case Based Reasoning;  Smart home;  Service recommendation; Multi-agent system,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,pylai@kaist.ac.kr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (2,002,140 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Aamodt, A and Plaza, E (1994) 
+ Case-Based Reasoning: Foundational Issues, Methodological Variations, and System Approaches
+, Artificial Intelligence Communications. IOS Press, 7, pp. 39-59
+
+
+
+
+
+
+
+Cummins, L and Bridge, D (2009) 
+ Maintenance by a Committee of Experts: The MACE Approach to Case-Base Maintenance
+, McGinty L., Wilson D.C. (eds) Case-Based Reasoning Research and Development. ICCBR 2009, pp. 120-134
+
+
+
+
+
+
+
+El-Sappagh, SH and Elmogy, M (2015) 
+ Case Based Reasoning: Case Representation Methodologies
+, International Journal of Advanced Computer Science and Applications, 6, pp. 192-208
+
+
+
+
+
+
+
+Gregg, DG (2010) 
+ Designing for Collective Intelligence
+, Communications of the ACM, 53, pp. 134-138
+
+
+
+
+
+
+
+Heylighen, F (1999) 
+ Collective Intelligence and its Implementation on the Web: Algorithms to Develop a Collective Mental Map
+, Computational & Mathematical Organization Theory, 5, pp. 253-280
+
+
+
+
+
+
+
+Kumar, P, Gopalan, S and Sridhar, V (2005) 
+ Context enabled multi-CBR based recommendation engine for e-commerce
+, IEEE International Conference on e-Business Engineering (ICEBE'05), pp. 237-244
+
+
+
+
+
+
+
+Lau, A, Tsui, E and Lee, WB (2009) 
+ An ontology-based similarity measurement for problem-based case reasoning
+, Expert Systems with Applications. Pergamon, 36, p. 6574-6579
+
+
+
+
+
+
+
+Leake, D, Maguitman, A and Reichherzer, T (2006) 
+ Cases, Context, and Comfort: Opportunities for Case-Based Reasoning in Smart Homes
+, Augusto, JC and Nugent, CD (eds), Designing Smart Homes: The Role of Artificial Intelligence, Springer Berlin Heidelberg, pp. 109-131
+
+
+
+
+
+
+
+Leake, DB and Kendall-Morwick, J (2009) 
+ Four Heads Are Better than One: Combining Suggestions for Case Adaptation
+, McGinty L., Wilson D.C. (eds) Case-Based Reasoning Research and Development. ICCBR 2009., pp. 165-179
+
+
+
+
+
+
+
+Leake, DB (1994) 
+ Case-based reasoning
+, The Knowledge Engineering Review, 9, pp. 61-64
+
+
+
+
+
+
+
+Lee, IJ, Yi, TY, Rhim, JM, Narangerel, A, Karaji, DS and Lee, JH (2017) 
+ Case Representation of Daily Routine Data Through the Function Behavior Structure (FBS) Framework
+, Proceedings of International Conference on Human-Computer Interaction 2017, Vancouver, pp. 382-389
+
+
+
+
+
+
+
+Lee, JS and Lee, JC (2007) 
+ Context Awareness by Case-Based Reasoning in a Music Recommendation System
+, Ichikawa H., Cho WD., Satoh I., Youn H.Y. (eds) Ubiquitous Computing Systems. UCS 2007., pp. 45-58
+
+
+
+
+
+
+
+Li, H and Sun, J (2008) 
+ Ranking-order case-based reasoning for financial distress prediction
+, Knowledge-Based Systems, 21, pp. 868-878
+
+
+
+
+
+
+
+Li, H and Sun, J (2009) 
+ Majority voting combination of multiple case-based reasoning for financial distress prediction
+, Expert Systems with Applications, 36, p. 4363-4373
+
+
+
+
+
+
+
+Li, H and Sun, J (2011) 
+ Principal component case-based reasoning ensemble for business failure prediction
+, Information & Management, 48, pp. 220-227
+
+
+
+
+
+
+
+Ma, TH, Kim, YD, Ma, Q, Tang, M and Zhou, W (2005) 
+ Context-aware implementation based on CBR for smart home
+, IEEE International Conference on Wireless And Mobile Computing, Networking And Communications (WiMob 2005), pp. 112-115
+
+
+
+
+
+
+
+McArthur, SDJ, Davidson, EM, Catterson, VM, Dimeas, AL, Hatziargyriou, ND, Ponci, F and Funabashi, T (2007) 
+ Multi-Agent Systems for Power Engineering Applications-Part I: Concepts, Approaches, and Technical Challenges
+, IEEE Transactions on Power Systems, 22, p. 1743-1752
+
+
+
+
+
+
+
+Nesrine, G, Naouar, B, Ahlame, B and Arslane, Z (2015) 
+ Improving the Proactive Recommendation in Smart Home Environments: An Approach Based on Case Based Reasoning and BP-Neural Network
+, International Journal of Intelligent Systems Technologies and Applications, 7, pp. 29-35
+
+
+
+
+
+
+
+Onta?ón, S and Plaza, E (2007) 
+ Arguments and Counterexamples in Case-Based Joint Deliberation
+, Maudet N., Parsons S., Rahwan I. (eds) Argumentation in Multi-Agent Systems. ArgMAS 2006., pp. 36-53
+
+
+
+
+
+
+
+Palanca, J, del Val, E, Garcia-Fornes, A, Billhardt, H, Corchado, JM and Julián, V (2018) 
+ Designing a goal-oriented smart-home environment
+, Information Systems Frontiers, 20, pp. 125-142",,"Aamodt, A and Plaza, E (1994) 
+ Case-Based Reasoning: Foundational Issues, Methodological Variations, and System Approaches
+, Artificial Intelligence Communications. IOS Press, 7, pp. 39-59",,,,"Cummins, L and Bridge, D (2009) 
+ Maintenance by a Committee of Experts: The MACE Approach to Case-Base Maintenance
+, McGinty L., Wilson D.C. (eds) Case-Based Reasoning Research and Development. ICCBR 2009, pp. 120-134",,,,"El-Sappagh, SH and Elmogy, M (2015) 
+ Case Based Reasoning: Case Representation Methodologies
+, International Journal of Advanced Computer Science and Applications, 6, pp. 192-208",,,,"Gregg, DG (2010) 
+ Designing for Collective Intelligence
+, Communications of the ACM, 53, pp. 134-138",,,,"Heylighen, F (1999) 
+ Collective Intelligence and its Implementation on the Web: Algorithms to Develop a Collective Mental Map
+, Computational & Mathematical Organization Theory, 5, pp. 253-280",,,,"Kumar, P, Gopalan, S and Sridhar, V (2005) 
+ Context enabled multi-CBR based recommendation engine for e-commerce
+, IEEE International Conference on e-Business Engineering (ICEBE'05), pp. 237-244",,,,"Lau, A, Tsui, E and Lee, WB (2009) 
+ An ontology-based similarity measurement for problem-based case reasoning
+, Expert Systems with Applications. Pergamon, 36, p. 6574-6579",,,,"Leake, D, Maguitman, A and Reichherzer, T (2006) 
+ Cases, Context, and Comfort: Opportunities for Case-Based Reasoning in Smart Homes
+, Augusto, JC and Nugent, CD (eds), Designing Smart Homes: The Role of Artificial Intelligence, Springer Berlin Heidelberg, pp. 109-131",,,,"Leake, DB and Kendall-Morwick, J (2009) 
+ Four Heads Are Better than One: Combining Suggestions for Case Adaptation
+, McGinty L., Wilson D.C. (eds) Case-Based Reasoning Research and Development. ICCBR 2009., pp. 165-179",,,,"Leake, DB (1994) 
+ Case-based reasoning
+, The Knowledge Engineering Review, 9, pp. 61-64",,,,"Lee, IJ, Yi, TY, Rhim, JM, Narangerel, A, Karaji, DS and Lee, JH (2017) 
+ Case Representation of Daily Routine Data Through the Function Behavior Structure (FBS) Framework
+, Proceedings of International Conference on Human-Computer Interaction 2017, Vancouver, pp. 382-389",,,,"Lee, JS and Lee, JC (2007) 
+ Context Awareness by Case-Based Reasoning in a Music Recommendation System
+, Ichikawa H., Cho WD., Satoh I., Youn H.Y. (eds) Ubiquitous Computing Systems. UCS 2007., pp. 45-58",,,,"Li, H and Sun, J (2008) 
+ Ranking-order case-based reasoning for financial distress prediction
+, Knowledge-Based Systems, 21, pp. 868-878",,,,"Li, H and Sun, J (2009) 
+ Majority voting combination of multiple case-based reasoning for financial distress prediction
+, Expert Systems with Applications, 36, p. 4363-4373",,,,"Li, H and Sun, J (2011) 
+ Principal component case-based reasoning ensemble for business failure prediction
+, Information & Management, 48, pp. 220-227",,,,"Ma, TH, Kim, YD, Ma, Q, Tang, M and Zhou, W (2005) 
+ Context-aware implementation based on CBR for smart home
+, IEEE International Conference on Wireless And Mobile Computing, Networking And Communications (WiMob 2005), pp. 112-115",,,,"McArthur, SDJ, Davidson, EM, Catterson, VM, Dimeas, AL, Hatziargyriou, ND, Ponci, F and Funabashi, T (2007) 
+ Multi-Agent Systems for Power Engineering Applications-Part I: Concepts, Approaches, and Technical Challenges
+, IEEE Transactions on Power Systems, 22, p. 1743-1752",,,,"Nesrine, G, Naouar, B, Ahlame, B and Arslane, Z (2015) 
+ Improving the Proactive Recommendation in Smart Home Environments: An Approach Based on Case Based Reasoning and BP-Neural Network
+, International Journal of Intelligent Systems Technologies and Applications, 7, pp. 29-35",,,,"Onta?ón, S and Plaza, E (2007) 
+ Arguments and Counterexamples in Case-Based Joint Deliberation
+, Maudet N., Parsons S., Rahwan I. (eds) Argumentation in Multi-Agent Systems. ArgMAS 2006., pp. 36-53",,,,"Palanca, J, del Val, E, Garcia-Fornes, A, Billhardt, H, Corchado, JM and Julián, V (2018) 
+ Designing a goal-oriented smart-home environment
+, Information Systems Frontiers, 20, pp. 125-142",,
+11,2019/04/16 08:22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

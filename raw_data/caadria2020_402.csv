@@ -1,0 +1,222 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68
+0,caadria2020_402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Ezzat, Mohammed",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,A Framework for a Comprehensive Conceptualization of Urban Constructs - SpatialNet and SpatialFeaturesNet for computer-aided creative urban design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 2, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 111-120",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Analogy is thought to be foundational for designing and for design creativity. Nonetheless, practicing analogical reasoning needs a knowledge-base. The paper proposes a framework for constructing a knowledge-base of urban constructs that builds on an ontology of urbanism. The framework is composed of two modules that are responsible for representing either the concepts or the features of any urban constructs' materialization. The concepts are represented as a knowledge graph (KG) named SpatialNet, while the physical features are represented by a deep neural network (DNN) called SpatialFeaturesNet. For structuring SpatialNet, as a KG that comprehensively conceptualizes spatial qualities, deep learning applied to natural language processing (NLP) is employed. The comprehensive concepts of SpatialNet are firstly discovered using semantic analyses of nine English lingual corpora and then structured using the urban ontology. The goal of the framework is to map the spatial features to the plethora of their matching concepts. The granularity Ã nd the coherence of the proposed framework is expected to sustain or substitute other known analogical, knowledge-based, inspirational design approaches such as case-based reasoning (CBR) and its analogical application on architectural design (CBD).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Domain-specific knowledge graph of urban qualities; Deep neural network for structuring KG; Natural language processing and comprehensive understanding of urban constructs; Urban cognition and design creativity; Case-based reasoning (CBR) and case-based design (CBD),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,mohammed.ezzat@guc.edu.eg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,705,931 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Boden, M. A. (1997) 
+ The Constraints of Knowledge
+, Andersson, A. E. and Sahlin, N.-E. (eds), The Complexity of Creativity, Kluwer Academic Publishers
+
+
+
+
+
+
+
+Bordes, A., Weston, J., Collobert, R. and Bengio, Y. (2011) 
+ Learning Structured Embeddings of Knowledge Bases
+, Twenty-Fifth AAAI Conference on Artificial Intelligence
+
+
+
+
+
+
+
+Brinck, I. (1997) 
+ The Gist of Creativity
+, Andersson, A. E. and Sahlin, N.-E. (eds), The Complexity of Creativity, Kluwer Academic Publishers
+
+
+
+
+
+
+
+Ezzat, M. (2018) 
+ A Triadic Model for a Comprehensive Understanding of Urbanism: With Its Potential Utilization on Analysing the Individualistic Urban Users' Cognitive Systems
+, LaborEst, 16, pp. 25-31
+
+
+
+
+
+
+
+Ezzat, M. (2019) 
+ A Comprehensive Proposition of Urbanism
+, Calabr?, F., Della Spina, L. and Bevilacqua, C. (eds), New Metropolitan Perspectives. ISHT 2018. Smart Innovation, Systems and Technologies, vol 100., Springer, Cham
+
+
+
+
+
+
+
+Funke, J. (2009) 
+ On the Psychology of Creativity
+, Meusburger, P., Funke, J. and Wunder, E. (eds), Milieus of Creativity. Knowledge and Space, Springer, Dordrecht
+
+
+
+
+
+
+
+Goel, A. K . and Craw, S. (2006) 
+ Design, innovation and case-based reasoning
+, The Knowledge Engineering Review, 20:3, p. 271-276
+
+
+
+
+
+
+
+Heylighen, A. and Neuckermans, H. (2001) 
+ A case base of Case-Based Design tools for architecture
+, Computer-Aided Design, 33, pp. 1111-1122
+
+
+
+
+
+
+
+Ng, A. Y. (2004) 
+ Feature selection, L1 vs. L2 regularization, and rotational invariance
+, International Conference on Machine Learning
+
+
+
+
+
+
+
+Qi, C. R., Su, H., Mo, K. and Guibas, L. J. (2017) 
+ PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
+, CVPR
+
+
+
+
+
+
+
+Richter, K. and Donath, D. (2006) 
+ Towards a Better Understanding of the Case-Based Reasoning Paradigm in Architectural Education and Design
+, eCAADe
+
+
+
+
+
+
+
+Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I. and Salakhutdinov, R. (2014) 
+ Dropout: A Simple Way to Prevent Neural Networks from Overfitting
+, Journal of Machine Learning Research, 15, pp. 1929-1958
+
+
+
+
+
+
+
+Ventura, D. (2015) 
+ The Computational Creativity Complex
+, Besold, T., Schorlemmer, M. and Smaill, A. (eds), Computational Creativity Research: Towards Creative Machines, Atlantis Press
+
+
+
+
+
+
+
+Weber, M., Langenhan, C., Roth-Berghofer, T., Liwicki, M., Dengel, A. and Petzold, F. (2010) 
+ SCatch: Semantic Structure for Architectural Floor Plan Retrieval
+, Bichindaritz, I. and Montani, S. (eds), Case-Based Reasoning. Research and Development. ICCBR 2010., Springer
+
+
+
+
+
+
+
+Yi, L., Su, H., Guo, X. and Guibas, L. (2017) 
+ SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation
+, CVPR
+
+
+
+
+
+
+
+Zheng, S., Hao, Y., Lu, D., Bao, H., Xu, J., Hao, H. and Xu, B. (2017) 
+ Joint entity and relation extraction based on a hybrid neural network
+, Neurocomputing, 257, pp. 59-66
+
+
+
+
+
+
+
+Zheng, S., Xu, J., Zhou, P., Bao, H., Qi, Z. and Xu, B. (2016) 
+ A neural network framework for relation extraction: Learning entity semantic and relation pattern
+, Knowledge-Based Systems, 114, pp. 12-23",,"Boden, M. A. (1997) 
+ The Constraints of Knowledge
+, Andersson, A. E. and Sahlin, N.-E. (eds), The Complexity of Creativity, Kluwer Academic Publishers",,,,"Bordes, A., Weston, J., Collobert, R. and Bengio, Y. (2011) 
+ Learning Structured Embeddings of Knowledge Bases
+, Twenty-Fifth AAAI Conference on Artificial Intelligence",,,,"Brinck, I. (1997) 
+ The Gist of Creativity
+, Andersson, A. E. and Sahlin, N.-E. (eds), The Complexity of Creativity, Kluwer Academic Publishers",,,,"Ezzat, M. (2018) 
+ A Triadic Model for a Comprehensive Understanding of Urbanism: With Its Potential Utilization on Analysing the Individualistic Urban Users' Cognitive Systems
+, LaborEst, 16, pp. 25-31",,,,"Ezzat, M. (2019) 
+ A Comprehensive Proposition of Urbanism
+, Calabr?, F., Della Spina, L. and Bevilacqua, C. (eds), New Metropolitan Perspectives. ISHT 2018. Smart Innovation, Systems and Technologies, vol 100., Springer, Cham",,,,"Funke, J. (2009) 
+ On the Psychology of Creativity
+, Meusburger, P., Funke, J. and Wunder, E. (eds), Milieus of Creativity. Knowledge and Space, Springer, Dordrecht",,,,"Goel, A. K . and Craw, S. (2006) 
+ Design, innovation and case-based reasoning
+, The Knowledge Engineering Review, 20:3, p. 271-276",,,,"Heylighen, A. and Neuckermans, H. (2001) 
+ A case base of Case-Based Design tools for architecture
+, Computer-Aided Design, 33, pp. 1111-1122",,,,"Ng, A. Y. (2004) 
+ Feature selection, L1 vs. L2 regularization, and rotational invariance
+, International Conference on Machine Learning",,,,"Qi, C. R., Su, H., Mo, K. and Guibas, L. J. (2017) 
+ PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
+, CVPR",,,,"Richter, K. and Donath, D. (2006) 
+ Towards a Better Understanding of the Case-Based Reasoning Paradigm in Architectural Education and Design
+, eCAADe",,,,"Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I. and Salakhutdinov, R. (2014) 
+ Dropout: A Simple Way to Prevent Neural Networks from Overfitting
+, Journal of Machine Learning Research, 15, pp. 1929-1958",,,,"Ventura, D. (2015) 
+ The Computational Creativity Complex
+, Besold, T., Schorlemmer, M. and Smaill, A. (eds), Computational Creativity Research: Towards Creative Machines, Atlantis Press",,,,"Weber, M., Langenhan, C., Roth-Berghofer, T., Liwicki, M., Dengel, A. and Petzold, F. (2010) 
+ SCatch: Semantic Structure for Architectural Floor Plan Retrieval
+, Bichindaritz, I. and Montani, S. (eds), Case-Based Reasoning. Research and Development. ICCBR 2010., Springer",,,,"Yi, L., Su, H., Guo, X. and Guibas, L. (2017) 
+ SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation
+, CVPR",,,,"Zheng, S., Hao, Y., Lu, D., Bao, H., Xu, J., Hao, H. and Xu, B. (2017) 
+ Joint entity and relation extraction based on a hybrid neural network
+, Neurocomputing, 257, pp. 59-66",,,,"Zheng, S., Xu, J., Zhou, P., Bao, H., Qi, Z. and Xu, B. (2016) 
+ A neural network framework for relation extraction: Learning entity semantic and relation pattern
+, Knowledge-Based Systems, 114, pp. 12-23",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

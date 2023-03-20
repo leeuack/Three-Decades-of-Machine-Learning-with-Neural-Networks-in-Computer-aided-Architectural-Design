@@ -1,0 +1,138 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40
+0,caadria2020_306,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Akizuki, Yuta, Bernhard, Mathias, Kakooee, Reza, Kladeftira, Marirena and Dillenburger, Benjamin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Generative Modelling with Design Constraints - Reinforcement Learning for Object Generation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 1, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 445-454",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Generative design has been explored to produce unprecedented geometries, nevertheless design constraints are, in most cases, second-graded in the computational process. In this paper, reinforcement learning is deployed in order to explore the potential of generative design satisfying design objectives. The aim is to overcome the three issues identified in the state of the art: topological inconsistency, less variations in style and unpredictability in design. The goal of this paper is to develop a machine learning framework, which works as an intellectual design interpreter capable of codifying an input geometry to form a new geometry. Experiments demonstrate that the proposed method can generate a family of tables of unique aesthetics, satisfying topological consistency under given constraints.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,generative design; computational design; data-driven design; reinforcement learning; machine learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,shyss.ak@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (4,229,321 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bidgoli, A and Veloso, P (2019) 
+ DeepCloud. The Application of a Data-driven, Generative Model in Design
+, arXiv preprint arXiv:1904.01083
+
+
+
+
+
+
+
+Chang, AX, Funkhouser, T, Guibas, L, Hanrahan, P, Huang, Q, Li, Z, Savarese, S, Savva, M, Song, S, Su, H, Xiao, J, Yi, L and Yu, F (2015) 
+ Shapenet: An information-rich 3d model repository
+, arXiv preprint arXiv:1512.03012
+
+
+
+
+
+
+
+Fujimoto, S, Hoof, H and Meger, D (2018) 
+ Addressing Function Approximation Error in Actor-Critic Methods
+, International Conference on Machine Learning, pp. 1582-1591
+
+
+
+
+
+
+
+Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative adversarial nets
+, Advances in neural information processing systems, pp. 2672-2680
+
+
+
+
+
+
+
+Hovestadt, L and Bühlmann, V (2014) 
+ EigenArchitecture
+, Birkhäuser
+
+
+
+
+
+
+
+Mnih, V, Kavukcuoglu, K, Silver, D, Graves, A, Antonoglou, I, Wierstra, D and Riedmiller, M (2013) 
+ Playing atari with deep reinforcement learning
+, arXiv preprint arXiv:1312.5602
+
+
+
+
+
+
+
+Qi, CR, Su, H, Mo, K and Guibas, LJ (2017) 
+ Pointnet: Deep learning on point sets for 3d classification and segmentation
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 652-660
+
+
+
+
+
+
+
+Silver, D, Huang, A, Maddison, CJ, Guez, A, Sifre, L, Van Den Driessche, G, Schrittwieser, J, Antonoglou, I, Panneershelvam, V, Lanctot, M, Dieleman, S, Grewe, D, Nham, J, Kalchbrenner, N, Sutskever, I, Lillicrap, T, Leach, M, Kavukcuoglu, K, Graepel, T and Hassabis, D (2016) 
+ Mastering the game of Go with deep neural networks and tree search
+, nature, 529(7587), p. 484
+
+
+
+
+
+
+
+Silver, D, Hubert, T, Schrittwieser, J, Antonoglou, I, Lai, M, Guez, A, Lanctot, M, Sifre, L, Kumaran, D, Graepel, T, Lillicrap, T, Simonyan, K and Hassabis, D (2017) 
+ Mastering chess and shogi by self-play with a general reinforcement learning algorithm
+, arXiv preprint arXiv:1712.01815
+
+
+
+
+
+
+
+Wu, J, Zhang, C, Xue, T, Freeman, B and Tenenbaum, J (2016) 
+ Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling
+, Advances in neural information processing systems, pp. 82-90",,"Bidgoli, A and Veloso, P (2019) 
+ DeepCloud. The Application of a Data-driven, Generative Model in Design
+, arXiv preprint arXiv:1904.01083",,,,"Chang, AX, Funkhouser, T, Guibas, L, Hanrahan, P, Huang, Q, Li, Z, Savarese, S, Savva, M, Song, S, Su, H, Xiao, J, Yi, L and Yu, F (2015) 
+ Shapenet: An information-rich 3d model repository
+, arXiv preprint arXiv:1512.03012",,,,"Fujimoto, S, Hoof, H and Meger, D (2018) 
+ Addressing Function Approximation Error in Actor-Critic Methods
+, International Conference on Machine Learning, pp. 1582-1591",,,,"Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative adversarial nets
+, Advances in neural information processing systems, pp. 2672-2680",,,,"Hovestadt, L and Bühlmann, V (2014) 
+ EigenArchitecture
+, Birkhäuser",,,,"Mnih, V, Kavukcuoglu, K, Silver, D, Graves, A, Antonoglou, I, Wierstra, D and Riedmiller, M (2013) 
+ Playing atari with deep reinforcement learning
+, arXiv preprint arXiv:1312.5602",,,,"Qi, CR, Su, H, Mo, K and Guibas, LJ (2017) 
+ Pointnet: Deep learning on point sets for 3d classification and segmentation
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 652-660",,,,"Silver, D, Huang, A, Maddison, CJ, Guez, A, Sifre, L, Van Den Driessche, G, Schrittwieser, J, Antonoglou, I, Panneershelvam, V, Lanctot, M, Dieleman, S, Grewe, D, Nham, J, Kalchbrenner, N, Sutskever, I, Lillicrap, T, Leach, M, Kavukcuoglu, K, Graepel, T and Hassabis, D (2016) 
+ Mastering the game of Go with deep neural networks and tree search
+, nature, 529(7587), p. 484",,,,"Silver, D, Hubert, T, Schrittwieser, J, Antonoglou, I, Lai, M, Guez, A, Lanctot, M, Sifre, L, Kumaran, D, Graepel, T, Lillicrap, T, Simonyan, K and Hassabis, D (2017) 
+ Mastering chess and shogi by self-play with a general reinforcement learning algorithm
+, arXiv preprint arXiv:1712.01815",,,,"Wu, J, Zhang, C, Xue, T, Freeman, B and Tenenbaum, J (2016) 
+ Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling
+, Advances in neural information processing systems, pp. 82-90",,
+11,2020/08/14 18:39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

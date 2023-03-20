@@ -1,0 +1,246 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76
+0,caadria2021_043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Ng, Provides",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,21E8: Coupling Generative Adversarial Neural Networks (GANS) with Blockchain Applications in Building Information Modelling (BIM) Systems,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"A. Globa, J. van Ameijde, A. Fingrut, N. Kim, T.T.S. Lo (eds.), PROJECTIONS - Proceedings of the 26th CAADRIA Conference - Volume 2, The Chinese University of Hong Kong and Online, Hong Kong, 29 March - 1 April 2021, pp. 111-120",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The ability of GANs to synthesize large sets of data is ideal for coupling with BIM to formulate a multi-access system that enables users to search and browse through a spectrum of articulated options, all personalised to design specificity - an 'Architecture Machine'. Nonetheless, due to challenges in proprietary incompatibility, BIM systems currently lack a secured yet transparent way of freely integrating with crowdsourced efforts. This research proposes to employ blockchain as a means to couple GANs and BIM, with e8 networking topology to facilitate communication and distribution. It consists of a literature review and a design research that proposes a tech stack design and UML (unified modeling language) use cases, and presents preliminary design results obtained using GANs and e8.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,21e8; GANs; Blockchain; BIM; Architecture Machine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,provides.ng.19@ucl.ac.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (25,995,396 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bratton, BH (2016) 
+ The Stack - On Software and Sovereignty
+, MIT Press, Massachusetts
+
+
+
+
+
+
+
+Chaillou, S (2019) 
+ AI + Architecture | Towards a New Approach
+, Harvard University, 188
+
+
+
+
+
+
+
+Choe, DH and Park, K (2018) 
+ On intersection forms of definite 4-manifolds bounded by a rational homology 3-sphere
+, Topology and its Applications, 238, pp. 59-75
+
+
+
+
+
+
+
+Cityscapes Dataset, Cityscapes Dataset (2020) 
+ The Cityscapes Dataset
+, Retrieved November, 24, p. 2020
+
+
+
+
+
+
+
+Coons, SA (1964) 
+ An Outline of the Requirements for a Computer-Aided Design System
+, Proceedings of the May 21-23, 1963, spring joint computer conference (pp. 299-304).
+
+
+
+
+
+
+
+Dittmar, H and Ohland, G (2012) 
+ Transit-oriented development
+, Island Press
+
+
+
+
+
+
+
+Imperva, Imperva (2020) 
+ What is OSI Model: 7 Layers Explained: Imperva
+, Retrieved November 25, 2020,, from https://www.imperva.com/learn/application-security/osi-model/
+
+
+
+
+
+
+
+Kumar, N( (2020) 
+ January 01)
+, Truths about OSI layers (Simple Method).
+
+
+
+
+
+
+
+Li, Y and et, al. (2018) 
+ A closed-form solution to photorealistic image stylization
+, Proceedings of the European Conference on Computer Vision (ECCV, pp. 453-468
+
+
+
+
+
+
+
+Lisi, AG (2007) 
+ An exceptionally simple theory of everything. arXiv
+, no title given
+
+
+
+
+
+
+
+McKinsey, McKinsey (2017) 
+ A ROUTE TO HIGHER PRODUCTIVITY
+, McKinsey Global Institute
+
+
+
+
+
+
+
+Nash, J (2008) 
+ The agencies method for modeling coalitions
+, International Game Theory Review
+
+
+
+
+
+
+
+nChain, BSV (2020) 
+ The Meta-Verse. Retrieved August 24, 2020, from
+, no source given
+
+
+
+
+
+
+
+Negroponte, N (eds) (1970) 
+ The architecture machine
+, Cambridge (Mass.): M.I.T. Press
+
+
+
+
+
+
+
+Ng, P (2020) 
+ Disrupting The Information Economy of Architecture With Satoshi's Vision - How can blockchain applications in BIM help to support a circular economy inclusive to local independent and small-scale actors?
+, DC I/O, 10, p. 47330
+
+
+
+
+
+
+
+Ng, P (2020) 
+ Applying Satoshi's Vision to Brownfield Sites Revitalisation in Hong Kong
+, International Forum on Urbanism [IFoU]
+
+
+
+
+
+
+
+Page, L, Brin, S, Motwani, R and Winograd, T (1999) 
+ The PageRank citation ranking: Bringing order to the web
+, Stanford InfoLab
+
+
+
+
+
+
+
+Wang, TC and et, al. (2018) 
+ High-resolution image synthesis and semantic manipulation with conditional gans
+, Proceedings of the IEEE conference on computer vision, pp. 8798-8807
+
+
+
+
+
+
+
+Xu, Z (2018) 
+ Learning from multi-domain artistic images for arbitrary style transfer.
+, arxiv",,"Bratton, BH (2016) 
+ The Stack - On Software and Sovereignty
+, MIT Press, Massachusetts",,,,"Chaillou, S (2019) 
+ AI + Architecture | Towards a New Approach
+, Harvard University, 188",,,,"Choe, DH and Park, K (2018) 
+ On intersection forms of definite 4-manifolds bounded by a rational homology 3-sphere
+, Topology and its Applications, 238, pp. 59-75",,,,"Cityscapes Dataset, Cityscapes Dataset (2020) 
+ The Cityscapes Dataset
+, Retrieved November, 24, p. 2020",,,,"Coons, SA (1964) 
+ An Outline of the Requirements for a Computer-Aided Design System
+, Proceedings of the May 21-23, 1963, spring joint computer conference (pp. 299-304).",,,,"Dittmar, H and Ohland, G (2012) 
+ Transit-oriented development
+, Island Press",,,,"Imperva, Imperva (2020) 
+ What is OSI Model: 7 Layers Explained: Imperva
+, Retrieved November 25, 2020,, from https://www.imperva.com/learn/application-security/osi-model/",,,,"Kumar, N( (2020) 
+ January 01)
+, Truths about OSI layers (Simple Method).",,,,"Li, Y and et, al. (2018) 
+ A closed-form solution to photorealistic image stylization
+, Proceedings of the European Conference on Computer Vision (ECCV, pp. 453-468",,,,"Lisi, AG (2007) 
+ An exceptionally simple theory of everything. arXiv
+, no title given",,,,"McKinsey, McKinsey (2017) 
+ A ROUTE TO HIGHER PRODUCTIVITY
+, McKinsey Global Institute",,,,"Nash, J (2008) 
+ The agencies method for modeling coalitions
+, International Game Theory Review",,,,"nChain, BSV (2020) 
+ The Meta-Verse. Retrieved August 24, 2020, from
+, no source given",,,,"Negroponte, N (eds) (1970) 
+ The architecture machine
+, Cambridge (Mass.): M.I.T. Press",,,,"Ng, P (2020) 
+ Disrupting The Information Economy of Architecture With Satoshi's Vision - How can blockchain applications in BIM help to support a circular economy inclusive to local independent and small-scale actors?
+, DC I/O, 10, p. 47330",,,,"Ng, P (2020) 
+ Applying Satoshi's Vision to Brownfield Sites Revitalisation in Hong Kong
+, International Forum on Urbanism [IFoU]",,,,"Page, L, Brin, S, Motwani, R and Winograd, T (1999) 
+ The PageRank citation ranking: Bringing order to the web
+, Stanford InfoLab",,,,"Wang, TC and et, al. (2018) 
+ High-resolution image synthesis and semantic manipulation with conditional gans
+, Proceedings of the IEEE conference on computer vision, pp. 8798-8807",,,,"Xu, Z (2018) 
+ Learning from multi-domain artistic images for arbitrary style transfer.
+, arxiv",,
+11,2021/03/29 07:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,198 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60
+0,caadria2021_283,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Sanatani, Rohit Priyadarshi, Chatterjee, Shamik Sambit and Manna, Ishita",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Subject-specific Predictive Modelling for Urban Affect Analysis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"A. Globa, J. van Ameijde, A. Fingrut, N. Kim, T.T.S. Lo (eds.), PROJECTIONS - Proceedings of the 26th CAADRIA Conference - Volume 2, The Chinese University of Hong Kong and Online, Hong Kong, 29 March - 1 April 2021, pp. 387-396",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Recent developments in crowd-sourced data collection and machine intelligence have facilitated data-driven analyses of the affective qualities of urban environments. While past studies have focused on the commonalities of affective experience across multiple subjects, this paper demonstrates an integrated framework for subject-specific affective data collection and predictive modelling. For demonstration, 10 field observers recorded their affective appraisals of various urban environments along the scales of Liveliness, Beauty, Comfort, Safety, Interestingness, Affluence, Stress and Familiarity. Data was collected through a mobile application that also recorded geo-location, date, time of day, a high resolution image of the users field of view, and a short audio clip of ambient sound. Computer vision algorithms were employed for extraction of six key urban features from the images - built score, paved score, auto score, sky score, nature score, and human score. For predictive modelling, K-Nearest Neighbour and Random Forest regression algorithms were trained on the subject-specific datasets of urban features and affective ratings. The algorithms were able to accurately assess the predicted affective qualities of new environments based on the specific individuals affective patterns.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Urban Affect;  Subjective Experience;  Predictive Modelling;  Affect Analysis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,rohitsanatani@yahoo.co.in,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (2,943,954 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Aiello, LM, Schifanella, R, Quercia, D and Aletta, F (2016) 
+ Chatty maps: constructing sound maps of urban areas from social media data
+, Royal Society open science, 3(3), p. 150690
+
+
+
+
+
+
+
+Aspinall, P, Mavros, P, Coyne, R and Roe, J (2015) 
+ The urban brain: analysing outdoor physical activity with mobile EEG
+, British journal of sports medicine, 49(4), pp. 272-276
+
+
+
+
+
+
+
+Badrinarayanan, V, Kendall, A and Cipolla, R (2017) 
+ Segnet: A deep convolutional encoder-decoder architecture for image segmentation
+, IEEE transactions on pattern analysis and machine intelligence, 39(12), pp. 2481-2495
+
+
+
+
+
+
+
+Chen, LC, Papandreou, G, Kokkinos, I, Murphy, K and Yuille, AL (2017) 
+ Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs
+, IEEE transactions on pattern analysis and machine intelligence, 40(4), pp. 834-848
+
+
+
+
+
+
+
+Cordts, M, Omran, M, Ramos, S, Rehfeld, T, Enzweiler, M, Benenson, R, Franke, U, Roth, S and Schiele, B (2016) 
+ The cityscapes dataset for semantic urban scene understanding
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 3213-3223
+
+
+
+
+
+
+
+Dubey, A, Naik, N, Parikh, D, Raskar, R and Hidalgo, CA (2016) 
+ Deep learning the city: Quantifying urban perception at a global scale
+, European conference on computer vision, pp. 196-212
+
+
+
+
+
+
+
+Huang, H and Gartner, G (2016) 
+ Using mobile crowdsourcing and geotagged social media data to study people's affective responses to environments
+, Capineri, C (eds), European Handbook of Crowdsourced Geographic Information, Ubiquity Press, pp. 385-399
+
+
+
+
+
+
+
+Li, X, Zhang, C, Li, W, Ricard, R, Meng, Q and Zhang, W (2015) 
+ Assessing street-level urban greenery using Google Street View and a modified green view index
+, Urban Forestry & Urban Greening, 14(3), pp. 675-685
+
+
+
+
+
+
+
+Naik, N, Philipoom, J, Raskar, R and Hidalgo, C (2014) 
+ Streetscore-predicting the perceived safety of one million streetscapes
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, pp. 779-785
+
+
+
+
+
+
+
+Ojha, VK, Griego, D, Kuliga, S, Bielik, M, Bu, P, Schaeben, C, Treyer, L, Standfest, M, Schneider, S and König, R (2019) 
+ Machine learning approaches to understand the influence of urban environments on human's physiological response
+, Information Sciences, 474, pp. 154-169
+
+
+
+
+
+
+
+Salamon, J, Jacoby, C and Bello, JP (2014) 
+ A dataset and taxonomy for urban sound research
+, Proceedings of the 22nd ACM international conference on Multimedia, pp. 1041-1044
+
+
+
+
+
+
+
+Sanatani, RP (2020) 
+ A machine-learning driven design assistance framework for the affective analysis of spatial enclosures
+, RE: Anthropocene, Design in the Age of Humans, Proceedings of the 25th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2020), p. 741
+
+
+
+
+
+
+
+Shen, Q, Zeng, W, Ye, Y, Arisona, SM, Schubiger, S, Burkhard, R and Qu, H (2017) 
+ StreetVizor: Visual exploration of human-scale urban forms based on street views
+, IEEE Transactions on Visualization and Computer Graphics, 24(1), pp. 1004-1013
+
+
+
+
+
+
+
+Verma, D, Jana, A and Ramamritham, K (2018) 
+ Quantifying urban surroundings using deep learning techniques: a new proposal
+, Urban Science, 2(3), p. 78
+
+
+
+
+
+
+
+Zeile, P, Resch, B, Dörrzapf, L, Exner, JP, Sagl, G, Summa, A and Sudmanns, M (2015) 
+ Urban Emotions-tools of integrating people's perception into urban planning
+, From vision to reality for vibrant cities and regions. Proceedings of 20th international conference on urban planning, regional development and information society, pp. 905-912",,"Aiello, LM, Schifanella, R, Quercia, D and Aletta, F (2016) 
+ Chatty maps: constructing sound maps of urban areas from social media data
+, Royal Society open science, 3(3), p. 150690",,,,"Aspinall, P, Mavros, P, Coyne, R and Roe, J (2015) 
+ The urban brain: analysing outdoor physical activity with mobile EEG
+, British journal of sports medicine, 49(4), pp. 272-276",,,,"Badrinarayanan, V, Kendall, A and Cipolla, R (2017) 
+ Segnet: A deep convolutional encoder-decoder architecture for image segmentation
+, IEEE transactions on pattern analysis and machine intelligence, 39(12), pp. 2481-2495",,,,"Chen, LC, Papandreou, G, Kokkinos, I, Murphy, K and Yuille, AL (2017) 
+ Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs
+, IEEE transactions on pattern analysis and machine intelligence, 40(4), pp. 834-848",,,,"Cordts, M, Omran, M, Ramos, S, Rehfeld, T, Enzweiler, M, Benenson, R, Franke, U, Roth, S and Schiele, B (2016) 
+ The cityscapes dataset for semantic urban scene understanding
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 3213-3223",,,,"Dubey, A, Naik, N, Parikh, D, Raskar, R and Hidalgo, CA (2016) 
+ Deep learning the city: Quantifying urban perception at a global scale
+, European conference on computer vision, pp. 196-212",,,,"Huang, H and Gartner, G (2016) 
+ Using mobile crowdsourcing and geotagged social media data to study people's affective responses to environments
+, Capineri, C (eds), European Handbook of Crowdsourced Geographic Information, Ubiquity Press, pp. 385-399",,,,"Li, X, Zhang, C, Li, W, Ricard, R, Meng, Q and Zhang, W (2015) 
+ Assessing street-level urban greenery using Google Street View and a modified green view index
+, Urban Forestry & Urban Greening, 14(3), pp. 675-685",,,,"Naik, N, Philipoom, J, Raskar, R and Hidalgo, C (2014) 
+ Streetscore-predicting the perceived safety of one million streetscapes
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, pp. 779-785",,,,"Ojha, VK, Griego, D, Kuliga, S, Bielik, M, Bu, P, Schaeben, C, Treyer, L, Standfest, M, Schneider, S and König, R (2019) 
+ Machine learning approaches to understand the influence of urban environments on human's physiological response
+, Information Sciences, 474, pp. 154-169",,,,"Salamon, J, Jacoby, C and Bello, JP (2014) 
+ A dataset and taxonomy for urban sound research
+, Proceedings of the 22nd ACM international conference on Multimedia, pp. 1041-1044",,,,"Sanatani, RP (2020) 
+ A machine-learning driven design assistance framework for the affective analysis of spatial enclosures
+, RE: Anthropocene, Design in the Age of Humans, Proceedings of the 25th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2020), p. 741",,,,"Shen, Q, Zeng, W, Ye, Y, Arisona, SM, Schubiger, S, Burkhard, R and Qu, H (2017) 
+ StreetVizor: Visual exploration of human-scale urban forms based on street views
+, IEEE Transactions on Visualization and Computer Graphics, 24(1), pp. 1004-1013",,,,"Verma, D, Jana, A and Ramamritham, K (2018) 
+ Quantifying urban surroundings using deep learning techniques: a new proposal
+, Urban Science, 2(3), p. 78",,,,"Zeile, P, Resch, B, Dörrzapf, L, Exner, JP, Sagl, G, Summa, A and Sudmanns, M (2015) 
+ Urban Emotions-tools of integrating people's perception into urban planning
+, From vision to reality for vibrant cities and regions. Proceedings of 20th international conference on urban planning, regional development and information society, pp. 905-912",,
+11,2021/03/29 07:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

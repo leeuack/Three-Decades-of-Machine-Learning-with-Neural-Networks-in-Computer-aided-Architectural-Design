@@ -1,0 +1,246 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76
+0,caadria2018_314,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Kim, Jin Sung, Song, Jae Yeol and Lee, Jin Kook",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Approach to the Extraction of Design Features of Interior Design Elements Using Image Recognition Technique,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"T. Fukuda, W. Huang, P. Janssen, K. Crolla, S. Alhadidi (eds.), Learning, Adapting and Prototyping - Proceedings of the 23rd CAADRIA Conference - Volume 2, Tsinghua University, Beijing, China, 17-19 May 2018, pp. 287-296",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper aims to propose deep learning-based approach to the auto-recognition of their design features of interior design elements using given digital images. The recently image recognition technique using convolutional neural networks has shown great success in the various field of research and industry. The open-source frameworks and pre-trained image recognition models supporting image recognition task enable us to easily retrain the models to apply them on any domain. This paper describes how to apply such techniques on interior design process and depicts some demonstration results in that approaches. Furniture that is one of the most common interior design elements has sub-feature including implicit design features, such as style, shape, function as well as explicit properties, such as component, materials, and size. This paper shows to retrain the model to extract some of the features for efficiently managing and utilizing such design information. The target element is chair and the target design features are limited to functional features, materials, seating capacity and design style. Total 3933 chair images dataset and 6 retrained image recognition models were utilized for retraining. Through the combination of those multiple models, inference demonstration also has been described.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Deep learning; Image recognition; Interior design elements; Design feature; Chair,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,leejinkook@yonsei.ac.kr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (2,203,690 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Abadi, M, Agarwal, A, Barham, P, Brevdo, E, Chen, Z, Citro, C, Corrado, GS, Davis, A, Dean, J, Devin, M and Ghemawat, S (2016) 
+ Tensorflow: Large-scale machine learning on heterogeneous distributed systems
+, OSDI, 16, pp. 265-283
+
+
+
+
+
+
+
+Bell, S and Bala, K (2015) 
+ Learning visual similarity for product design with convolutional neural networks
+, ACM Transactions on Graphics (TOG), 34(4), p. 98
+
+
+
+
+
+
+
+Dazkir, SS and Read, MA (2012) 
+ Furniture forms and their influence on our emotional responses toward interior environments
+, Environment and Behavior, 44(5), pp. 722-732
+
+
+
+
+
+
+
+Hu, Z, Wen, Y, Liu, L, Jiang, J, Hong, R, Wang, M and Yan, S (2017) 
+ Visual Classification of Furniture Styles
+, ACM Transactions on Intelligent Systems and Technology (TIST), 8(5), p. 67
+
+
+
+
+
+
+
+Karayev, S, Trentacoste, M, Han, H, Agarwala, A, Darrell, T, Hertzmann, A and Winnemoeller, H (2013) 
+ Recognizing image style
+, arXiv preprint arXiv:1311.3715
+
+
+
+
+
+
+
+Krizhevsky, A, Sutskever, I and Hinton, GE (2012) 
+ Imagenet classification with deep convolutional neural networks
+, Advances in neural information processing systems, pp. 1097-1105
+
+
+
+
+
+
+
+LeCun, Y and Bengio, Y (1995) 
+ Convolutional networks for images, speech, and time series
+, Arbib, MA (eds), The handbook of brain theory and neural networks, MIT press
+
+
+
+
+
+
+
+LeCun, Y, Bengio, Y and Hinton, G (2015) 
+ Deep learning
+, Nature, 521(7553), pp. 436-444
+
+
+
+
+
+
+
+Lee, AS (2010) 
+ A study on predicting consumers' satisfaction based on the features of furniture product designs
+, International Journal of Organizational Innovation (Online), 2(3), p. 138
+
+
+
+
+
+
+
+McDonagh, D, Bruseberg, A and Haslam, C (2002) 
+ Visual product evaluation: exploring users' emotional relationships with products
+, Applied Ergonomics, 33, pp. 231-240
+
+
+
+
+
+
+
+Miller, J (2010) 
+ Furniture: World Styles from Classical to Contemporary
+, Dorling Kindersley
+
+
+
+
+
+
+
+Redmon, J, Divvala, S, Girshick, R and Farhadi, A (2016) 
+ You only look once: Unified, real-time object detection
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 779-788
+
+
+
+
+
+
+
+Ren, S, He, K, Girshick, R and Sun, J (2015) 
+ Faster R-CNN: Towards real-time object detection with region proposal networks
+, Advances in neural information processing systems, pp. 91-99
+
+
+
+
+
+
+
+Schmidhuber, J (2015) 
+ Deep learning in neural networks: An overview
+, Neural networks, 61, pp. 85-117
+
+
+
+
+
+
+
+Smardzewski, J (2015) 
+ Furniture design
+, Springer
+
+
+
+
+
+
+
+Szegedy, C, Liu, W, Jia, Y, Sermanet, P, Reed, S, Anguelov, D, Erhan, D, Vanhoucke, V and Rabinovich, A (2015) 
+ Going deeper with convolutions
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1-9
+
+
+
+
+
+
+
+Szegedy, C, Vanhoucke, V, Ioffe, S, Shlens, J and Wojna, Z (2016) 
+ Rethinking the inception architecture for computer vision
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 2818-2826
+
+
+
+
+
+
+
+Taigman, Y, Yang, M, Ranzato, M and Wolf, L (2014) 
+ Deepface: Closing the gap to human-level performance in face verification
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1701-1708
+
+
+
+
+
+
+
+Zehtaban, L, Elazhary, O and Roller, D (2016) 
+ A framework for similarity recognition of CAD models
+, Journal of Computational Design and Engineering, 3(3), pp. 274-285",,"Abadi, M, Agarwal, A, Barham, P, Brevdo, E, Chen, Z, Citro, C, Corrado, GS, Davis, A, Dean, J, Devin, M and Ghemawat, S (2016) 
+ Tensorflow: Large-scale machine learning on heterogeneous distributed systems
+, OSDI, 16, pp. 265-283",,,,"Bell, S and Bala, K (2015) 
+ Learning visual similarity for product design with convolutional neural networks
+, ACM Transactions on Graphics (TOG), 34(4), p. 98",,,,"Dazkir, SS and Read, MA (2012) 
+ Furniture forms and their influence on our emotional responses toward interior environments
+, Environment and Behavior, 44(5), pp. 722-732",,,,"Hu, Z, Wen, Y, Liu, L, Jiang, J, Hong, R, Wang, M and Yan, S (2017) 
+ Visual Classification of Furniture Styles
+, ACM Transactions on Intelligent Systems and Technology (TIST), 8(5), p. 67",,,,"Karayev, S, Trentacoste, M, Han, H, Agarwala, A, Darrell, T, Hertzmann, A and Winnemoeller, H (2013) 
+ Recognizing image style
+, arXiv preprint arXiv:1311.3715",,,,"Krizhevsky, A, Sutskever, I and Hinton, GE (2012) 
+ Imagenet classification with deep convolutional neural networks
+, Advances in neural information processing systems, pp. 1097-1105",,,,"LeCun, Y and Bengio, Y (1995) 
+ Convolutional networks for images, speech, and time series
+, Arbib, MA (eds), The handbook of brain theory and neural networks, MIT press",,,,"LeCun, Y, Bengio, Y and Hinton, G (2015) 
+ Deep learning
+, Nature, 521(7553), pp. 436-444",,,,"Lee, AS (2010) 
+ A study on predicting consumers' satisfaction based on the features of furniture product designs
+, International Journal of Organizational Innovation (Online), 2(3), p. 138",,,,"McDonagh, D, Bruseberg, A and Haslam, C (2002) 
+ Visual product evaluation: exploring users' emotional relationships with products
+, Applied Ergonomics, 33, pp. 231-240",,,,"Miller, J (2010) 
+ Furniture: World Styles from Classical to Contemporary
+, Dorling Kindersley",,,,"Redmon, J, Divvala, S, Girshick, R and Farhadi, A (2016) 
+ You only look once: Unified, real-time object detection
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 779-788",,,,"Ren, S, He, K, Girshick, R and Sun, J (2015) 
+ Faster R-CNN: Towards real-time object detection with region proposal networks
+, Advances in neural information processing systems, pp. 91-99",,,,"Schmidhuber, J (2015) 
+ Deep learning in neural networks: An overview
+, Neural networks, 61, pp. 85-117",,,,"Smardzewski, J (2015) 
+ Furniture design
+, Springer",,,,"Szegedy, C, Liu, W, Jia, Y, Sermanet, P, Reed, S, Anguelov, D, Erhan, D, Vanhoucke, V and Rabinovich, A (2015) 
+ Going deeper with convolutions
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1-9",,,,"Szegedy, C, Vanhoucke, V, Ioffe, S, Shlens, J and Wojna, Z (2016) 
+ Rethinking the inception architecture for computer vision
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 2818-2826",,,,"Taigman, Y, Yang, M, Ranzato, M and Wolf, L (2014) 
+ Deepface: Closing the gap to human-level performance in face verification
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1701-1708",,,,"Zehtaban, L, Elazhary, O and Roller, D (2016) 
+ A framework for similarity recognition of CAD models
+, Journal of Computational Design and Engineering, 3(3), pp. 274-285",,
+11,2018/05/17 07:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

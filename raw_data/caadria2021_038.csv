@@ -1,0 +1,150 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+0,caadria2021_038,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Chen, Jielin and Stouffs, Rudi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,From Exploration to Interpretation - Adopting Deep Representation Learning Models to Latent Space Interpretation of Architectural Design Alternatives,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"A. Globa, J. van Ameijde, A. Fingrut, N. Kim, T.T.S. Lo (eds.), PROJECTIONS - Proceedings of the 26th CAADRIA Conference - Volume 1, The Chinese University of Hong Kong and Online, Hong Kong, 29 March - 1 April 2021, pp. 131-140",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"An informative interpretation of the hyper-dimensional design solution space can potentially enhance the cognitive capacity of designers with respect to both conventional design practice and the research domain of computational-aided generative design. However, the hitherto research of design space exploration has had limited focus on the interpretation of the hyper solution space per se due to the knowledge gap pertaining to representation and generation. Representation learning techniques, as a core paradigm in the statistically empowered domain of machine learning, possess the capability of extracting a convoluted probabilistic distribution of hyperspace with latent features from unorganized data sources in a generalized manner, which can be an intuitive modus operandi for a structural interpretation of the intricate latent design solution space and benefit the challenging task of architectural design exploration. We examine and demonstrate the potential capabilities of representation learning techniques for the interpretation of latent architectural design solution space with consideration of disentanglement and diversity.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Design space exploration; latent space interpretation; representation learning; deep generative modelling; generative architectural design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,chen.jielin@u.nus.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (6,114,734 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bengio, Y, Courville, A and Vincent, P (2013) 
+ Representation learning: A review and new perspectives
+, IEEE transactions on pattern analysis and machine intelligence, 35(8), pp. 1798-1828
+
+
+
+
+
+
+
+Eastman, C and Computing, D (2001) 
+ New directions in design cognition: studies of representation and recall
+, Eastman, C, Newstetter, W and McCracken, M (eds), Design knowing and learning: Cognition in design education, Elsevier, pp. 147-198
+
+
+
+
+
+
+
+Erhan, H, Chan, J, Fung, G, Shireen, N and Wang, I (2017) 
+ Understanding Cognitive Overload in Generative Design-An Epistemic Action Analysis
+, Proceedings of CAADRIA 2017
+
+
+
+
+
+
+
+Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative adversarial nets
+, Advances in neural information processing systems, pp. 2672-2680
+
+
+
+
+
+
+
+Heusel, M, Ramsauer, H, Unterthiner, T, Nessler, B and Hochreiter, S (2017) 
+ Gans trained by a two time-scale update rule converge to a local nash equilibrium
+, Advances in neural information processing systems, pp. 6626-6637
+
+
+
+
+
+
+
+Karras, T, Laine, S and Aila, T (2019) 
+ A style-based generator architecture for generative adversarial networks
+, Proceedings of CVPR 2019, pp. 4401-4410
+
+
+
+
+
+
+
+Karras, T, Laine, S, Aittala, M, Hellsten, J, Lehtinen, J and Aila, T (2020) 
+ Analyzing and improving the image quality of stylegan
+, Proceedings of CVPR 2020, pp. 8110-8119
+
+
+
+
+
+
+
+Patterson, G, Xu, C, Su, H and Hays, J (2014) 
+ The sun attribute database: Beyond categories for deeper scene understanding
+, International Journal of Computer Vision, 108(1-2), pp. 59-81
+
+
+
+
+
+
+
+Shen, Y, Gu, J, Tang, X and Zhou, B (2020) 
+ Interpreting the latent space of gans for semantic face editing
+, Proceedings of CVPR 2020, pp. 9243-9252
+
+
+
+
+
+
+
+Sönmez, NO (2015) 
+ Architectural layout evolution through similarity-based evaluation
+, International Journal of Architectural Computing, 13(3-4), pp. 271-297
+
+
+
+
+
+
+
+Woodbury, RF and Burrow, AL (2006) 
+ Whither design space?
+, Artificial Intelligence for Engineering Design, Analysis and Manufacturing: AI EDAM, 20(2), p. 63",,"Bengio, Y, Courville, A and Vincent, P (2013) 
+ Representation learning: A review and new perspectives
+, IEEE transactions on pattern analysis and machine intelligence, 35(8), pp. 1798-1828",,,,"Eastman, C and Computing, D (2001) 
+ New directions in design cognition: studies of representation and recall
+, Eastman, C, Newstetter, W and McCracken, M (eds), Design knowing and learning: Cognition in design education, Elsevier, pp. 147-198",,,,"Erhan, H, Chan, J, Fung, G, Shireen, N and Wang, I (2017) 
+ Understanding Cognitive Overload in Generative Design-An Epistemic Action Analysis
+, Proceedings of CAADRIA 2017",,,,"Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative adversarial nets
+, Advances in neural information processing systems, pp. 2672-2680",,,,"Heusel, M, Ramsauer, H, Unterthiner, T, Nessler, B and Hochreiter, S (2017) 
+ Gans trained by a two time-scale update rule converge to a local nash equilibrium
+, Advances in neural information processing systems, pp. 6626-6637",,,,"Karras, T, Laine, S and Aila, T (2019) 
+ A style-based generator architecture for generative adversarial networks
+, Proceedings of CVPR 2019, pp. 4401-4410",,,,"Karras, T, Laine, S, Aittala, M, Hellsten, J, Lehtinen, J and Aila, T (2020) 
+ Analyzing and improving the image quality of stylegan
+, Proceedings of CVPR 2020, pp. 8110-8119",,,,"Patterson, G, Xu, C, Su, H and Hays, J (2014) 
+ The sun attribute database: Beyond categories for deeper scene understanding
+, International Journal of Computer Vision, 108(1-2), pp. 59-81",,,,"Shen, Y, Gu, J, Tang, X and Zhou, B (2020) 
+ Interpreting the latent space of gans for semantic face editing
+, Proceedings of CVPR 2020, pp. 9243-9252",,,,"Sönmez, NO (2015) 
+ Architectural layout evolution through similarity-based evaluation
+, International Journal of Architectural Computing, 13(3-4), pp. 271-297",,,,"Woodbury, RF and Burrow, AL (2006) 
+ Whither design space?
+, Artificial Intelligence for Engineering Design, Analysis and Manufacturing: AI EDAM, 20(2), p. 63",,
+11,2021/03/29 07:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,138 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40
+0,caadria2018_083,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Luo, Dan, Wang, Jinsong and Xu, Weiguo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Robotic Automatic Generation of Performance Model for Non-Uniform Linear Material via Deep Learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"T. Fukuda, W. Huang, P. Janssen, K. Crolla, S. Alhadidi (eds.), Learning, Adapting and Prototyping - Proceedings of the 23rd CAADRIA Conference - Volume 1, Tsinghua University, Beijing, China, 17-19 May 2018, pp. 39-48",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In the following research, a systematic approach is developed to generate an experiment-based performance model that computes and customizes properties of non-uniform linear materials to accommodate the form of designated curve under bending and natural force. In this case, the test subject is an elastomer strip of non-uniform sections. A novel solution is provided to obtain sufficient training data required for deep learning with an automatic material testing mechanism combining robotic arm automation and image recognition. The collected training data are fed into a deep combination of neural networks to generate a material performance model. Unlike most traditional performance models that are only able to simulate the final form from the properties and initial conditions of the given materials, the trained neural network offers a two-way performance model that is also able to compute appropriate material properties of non-uniform materials from target curves. This network achieves complex forms with minimal and effective programmed materials with complicated nonlinear properties and behaving under natural forces.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Material performance model; Deep Learning; Robotic automation; Material computation; Neural network,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,luo_dana@126.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (16,001,962 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Fleischmann, M, Knippers, J and Lienhard, J (2012) 
+ Material behaviour: embedding physical properties in computational design processes
+, Architectural Design, 82, pp. 271-274
+
+
+
+
+
+
+
+Graves, A (2012) 
+ Supervised Sequence Labelling with Recurrent Neural Networks
+, Springer Berlin Heidelberg
+
+
+
+
+
+
+
+Li, H (2012) 
+ Tong ji xue xi fang fa
+, Tsinghua University Press, Beijing
+
+
+
+
+
+
+
+Martins, PALS, Natal Jorge, RM and Ferreira, AJM (2006) 
+ A Comparative Study of Several Material Models for Prediction of Hyperelastic Properties: Application to Silicone-Rubber and Soft Tissues
+, Strain, 42, pp. 135-147
+
+
+
+
+
+
+
+Menges, A and Reichert, S (2012) 
+ Material capacity: embedded responsiveness
+, Architectural Design, 82, pp. 52-59
+
+
+
+
+
+
+
+Moritz, F, Knippers, J, Lienhard, J, Menges, A and Schleicher, S (2012) 
+ Material Behaviour: Embedding Physical Properties in Computational Design Processes.
+, Architectural Design, 82, pp. 44-51
+
+
+
+
+
+
+
+Oxman, N (2007) 
+ Material computation
+, International Journal of Architectural Computing, 1, pp. 21-44
+
+
+
+
+
+
+
+Parker, J.R. (2011) 
+ Algorithms for image processing and computer vision
+, Wiley, Indianapolis, IN
+
+
+
+
+
+
+
+Russell, SJ and Norvig, P (2002) 
+ Artificial Intelligence: A Modern Approach
+, Pearson
+
+
+
+
+
+
+
+Truesdell, C and Noll, W (1965) 
+ The Non-linear Fields Theories of?Mechanics
+, Antman, SS (eds), Handbuch?der?Physik?Bd.?, Springer-Verlag,Berlin,Heidelberg,New York",,"Fleischmann, M, Knippers, J and Lienhard, J (2012) 
+ Material behaviour: embedding physical properties in computational design processes
+, Architectural Design, 82, pp. 271-274",,,,"Graves, A (2012) 
+ Supervised Sequence Labelling with Recurrent Neural Networks
+, Springer Berlin Heidelberg",,,,"Li, H (2012) 
+ Tong ji xue xi fang fa
+, Tsinghua University Press, Beijing",,,,"Martins, PALS, Natal Jorge, RM and Ferreira, AJM (2006) 
+ A Comparative Study of Several Material Models for Prediction of Hyperelastic Properties: Application to Silicone-Rubber and Soft Tissues
+, Strain, 42, pp. 135-147",,,,"Menges, A and Reichert, S (2012) 
+ Material capacity: embedded responsiveness
+, Architectural Design, 82, pp. 52-59",,,,"Moritz, F, Knippers, J, Lienhard, J, Menges, A and Schleicher, S (2012) 
+ Material Behaviour: Embedding Physical Properties in Computational Design Processes.
+, Architectural Design, 82, pp. 44-51",,,,"Oxman, N (2007) 
+ Material computation
+, International Journal of Architectural Computing, 1, pp. 21-44",,,,"Parker, J.R. (2011) 
+ Algorithms for image processing and computer vision
+, Wiley, Indianapolis, IN",,,,"Russell, SJ and Norvig, P (2002) 
+ Artificial Intelligence: A Modern Approach
+, Pearson",,,,"Truesdell, C and Noll, W (1965) 
+ The Non-linear Fields Theories of?Mechanics
+, Antman, SS (eds), Handbuch?der?Physik?Bd.?, Springer-Verlag,Berlin,Heidelberg,New York",,
+11,2018/05/17 07:07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

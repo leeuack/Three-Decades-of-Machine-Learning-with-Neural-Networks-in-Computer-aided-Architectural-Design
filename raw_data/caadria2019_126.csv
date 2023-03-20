@@ -1,0 +1,126 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+0,caadria2019_126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Ng, Jennifer Mei Yee, Khean, Nariddh, Madden, David, Fabbri, Alessandra, Gardner, Nicole, Haeusler, M. Hank and Zavoleas, Yannis",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Optimising Image Classification - Implementation of Convolutional Neural Network Algorithms to Distinguish Between Plans and Sections within the Architectural, Engineering and Construction (AEC) Industry",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"M. Haeusler, M. A. Schnabel, T. Fukuda (eds.), Intelligent & Informed - Proceedings of the 24th CAADRIA Conference - Volume 2, Victoria University of Wellington, Wellington, New Zealand, 15-18 April 2019, pp. 795-804",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Modern communication between built environment professionals are governed by the effective exchange of digital models, blueprints and technical drawings. However, the increasing quantity of such digital files, in conjunction with inconsistent filing systems, increases the potential for human-error upon their look-up and retrieval. Further, current methods are manual, thus slow and resource intensive. Evidently, the architectural, engineering and construction (AEC) industry lacks an automated classification system capable of systematically identifying and categorising different drawings. To intercede, we aim to investigate artificially intelligent solutions capable of automatically identifying and retrieving a wide set of AEC files from a company's resource library. We present a convolutional neural network (CNN) model capable of processing large sets of technical drawings - such as sections, plans and elevations - and recognise their individual patterns and features, ultimately minimising laboriousness.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Convolutional Neural Network; Artificial Intelligence; Machine Learning; Classification; Filing architectural drawings.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,m.haeusler@unsw.edu.au,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,565,042 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Basheer, I and Hajmeer, M (2000) 
+ Artificial neural networks: fundamentals, computing, design, and application
+, Journal of Microbiological Methods, 43(1), pp. 3-31
+
+
+
+
+
+
+
+Broussard, M (2018) 
+ Artificial Unintelligence: How Computers Misunderstand the World
+, The MIT Press, United States of America
+
+
+
+
+
+
+
+Fukushima, K (1980) 
+ Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position
+, Biological Cybernetics, 36, pp. 193 - 202
+
+
+
+
+
+
+
+Gatys, L A, Ecker, A S and Bethge, M (2015) 
+ A Neural Algorithm of Artistic Style
+, CoRR, 1, pp. 1 - 16
+
+
+
+
+
+
+
+He, K, Zhang, X, Ren, S and Sun, J (2016) 
+ Deep Residual Learning for Image Recognition
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Las Vegas, pp. 770-778
+
+
+
+
+
+
+
+Huang, G, Liu, Z, van der Maaten, L and Weinberger, KQ (2017) 
+ Densely Connected Convolutional Networks
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Las Vegas, pp. 4700-4708
+
+
+
+
+
+
+
+Khean, N, Kim, L, Martinez, J, Doherty, B, Fabbri, A, Gardner, N and Haeusler, M. H. (2018) 
+ The Introspection of Deep Neural Networks - Towards Illuminating the Black Box
+, Proceedings of CAADRIA 2018, Beijing, pp. 237 - 246
+
+
+
+
+
+
+
+Srivastava, RK, Greff, K and Schmidhuber, J (2015) 
+ Training Very Deep Networks
+, Proceedings of Advances in Neural Information Processing Systems, Montréal, pp. 2377-2385
+
+
+
+
+
+
+
+Wirz, F (2016) 
+ Introduction
+, Tedeschi, A (eds), AAD Algorithms-Aided Design. Parametric strategies using Grasshopper., Le Penseur, Brienza, pp. 10 - 11",,"Basheer, I and Hajmeer, M (2000) 
+ Artificial neural networks: fundamentals, computing, design, and application
+, Journal of Microbiological Methods, 43(1), pp. 3-31",,,,"Broussard, M (2018) 
+ Artificial Unintelligence: How Computers Misunderstand the World
+, The MIT Press, United States of America",,,,"Fukushima, K (1980) 
+ Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position
+, Biological Cybernetics, 36, pp. 193 - 202",,,,"Gatys, L A, Ecker, A S and Bethge, M (2015) 
+ A Neural Algorithm of Artistic Style
+, CoRR, 1, pp. 1 - 16",,,,"He, K, Zhang, X, Ren, S and Sun, J (2016) 
+ Deep Residual Learning for Image Recognition
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Las Vegas, pp. 770-778",,,,"Huang, G, Liu, Z, van der Maaten, L and Weinberger, KQ (2017) 
+ Densely Connected Convolutional Networks
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Las Vegas, pp. 4700-4708",,,,"Khean, N, Kim, L, Martinez, J, Doherty, B, Fabbri, A, Gardner, N and Haeusler, M. H. (2018) 
+ The Introspection of Deep Neural Networks - Towards Illuminating the Black Box
+, Proceedings of CAADRIA 2018, Beijing, pp. 237 - 246",,,,"Srivastava, RK, Greff, K and Schmidhuber, J (2015) 
+ Training Very Deep Networks
+, Proceedings of Advances in Neural Information Processing Systems, Montréal, pp. 2377-2385",,,,"Wirz, F (2016) 
+ Introduction
+, Tedeschi, A (eds), AAD Algorithms-Aided Design. Parametric strategies using Grasshopper., Le Penseur, Brienza, pp. 10 - 11",,
+11,2019/04/16 08:21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

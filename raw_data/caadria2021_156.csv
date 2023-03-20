@@ -1,0 +1,150 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+0,caadria2021_156,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Yao, Jiawei, Huang, Chenyu, Peng, Xi and Yuan, Philip F.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Generative design method of building group - Based on generative adversarial network and genetic algorithm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"A. Globa, J. van Ameijde, A. Fingrut, N. Kim, T.T.S. Lo (eds.), PROJECTIONS - Proceedings of the 26th CAADRIA Conference - Volume 1, The Chinese University of Hong Kong and Online, Hong Kong, 29 March - 1 April 2021, pp. 61-70",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"From parametric shape finding to digital shape generation, the discussion of generative design has never stopped in recent years. As an important watershed of building intelligence, generative design method has dual significance of scheme selection and building performance optimization in digital architectural design workflow. In this paper, the generative design method for the layout of residential buildings is studied. The pix2pix network, a kind of generative adversarial network, is used to learn the layout method of residential buildings in Shanghai. The generated layout uses Octopus, a genetic algorithm tool of Grasshopper, to generate the volume and optimize the sunshine hours and other performance parameters. In the generation process, different training sample sets and Pareto genetic algorithm optimization are used to realize the control of building density, plot ratio and height limit. This method can meet the real application scenarios in the early stage of architectural design to a certain extent, and has more expansibility, providing ideas for the generative design method of building group.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,generative design method; generative adversarial network; genetic algorithm; sunshine optimization,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,philipyuan007@tongji.edu.cn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (6,825,960 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Duering, S, Chronis, A and Koenig, R (2020) 
+ Optimizing Urban Systems: Integrated Optimization of Spatial Configurations
+, Proceedings of SimAUD 2020
+
+
+
+
+
+
+
+HE, W.Y. and YANG, X.D. (2018) 
+ Artifictial Intelligence Design, from Research to Practice
+, Time+Architecture, 01, pp. 38-43
+
+
+
+
+
+
+
+Holland, J.H. (1992) 
+ Adaptation in natural and artificial systems: an introductory analysis with applications to biology, control, and artificial intelligence
+, MIT Press
+
+
+
+
+
+
+
+HUANG, W.X. and ZHENG, H. (2018) 
+ Architectural drawings recognition and generation through machine learning
+, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture, Mexico City, Mexico
+
+
+
+
+
+
+
+Isola, P., ZHU, J.Y., ZHOU, T.H. and Efros, A.A. (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition
+
+
+
+
+
+
+
+LI, B., GUO, Z.F. and JI, Y.Z. (2015) 
+ Modeling and Realizing Generative Design--A Case Study of the Assignment of Ji Village
+, Architectural Journal, 05, pp. 94-98
+
+
+
+
+
+
+
+LUI, H.J. and JI, G.H. (2009) 
+ Automatic Planning of Residential Quarter Under Isolation Condition Based on Multi-agent Simulation
+, Architectural Journal, 1, pp. 12-16
+
+
+
+
+
+
+
+Mohammad, A.S. (2019) 
+ Hybrid Elevations Using GAN Networks
+, Ph.D. Thesis, The University of North Carolina at Charlotte
+
+
+
+
+
+
+
+Mokhtar, S., Sojka, A. and Davila, C.C. (2020) 
+ Conditional generative adversarial networks for pedestrian wind flow approximation
+, Proceedings of SimAUD 2020
+
+
+
+
+
+
+
+SUN, C.Y., LUO, Q.M., XIE, J.M. and RAO, J. (2017) 
+ A Practical Approach to Generating 3D City Models--A Case Study of the Density Zoning Project in Beihai
+, Architectural Journal, 08, pp. 77-81
+
+
+
+
+
+
+
+YUAN, F. and LIN, Y.Q. (2019) 
+ Research on High-Rise Building Group Morphology Generative Design Method Based on Physical Wind Tunnel and Neural Network Algorithm
+, Journal of Human Settlements in West China, 01, pp. 22-30",,"Duering, S, Chronis, A and Koenig, R (2020) 
+ Optimizing Urban Systems: Integrated Optimization of Spatial Configurations
+, Proceedings of SimAUD 2020",,,,"HE, W.Y. and YANG, X.D. (2018) 
+ Artifictial Intelligence Design, from Research to Practice
+, Time+Architecture, 01, pp. 38-43",,,,"Holland, J.H. (1992) 
+ Adaptation in natural and artificial systems: an introductory analysis with applications to biology, control, and artificial intelligence
+, MIT Press",,,,"HUANG, W.X. and ZHENG, H. (2018) 
+ Architectural drawings recognition and generation through machine learning
+, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture, Mexico City, Mexico",,,,"Isola, P., ZHU, J.Y., ZHOU, T.H. and Efros, A.A. (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition",,,,"LI, B., GUO, Z.F. and JI, Y.Z. (2015) 
+ Modeling and Realizing Generative Design--A Case Study of the Assignment of Ji Village
+, Architectural Journal, 05, pp. 94-98",,,,"LUI, H.J. and JI, G.H. (2009) 
+ Automatic Planning of Residential Quarter Under Isolation Condition Based on Multi-agent Simulation
+, Architectural Journal, 1, pp. 12-16",,,,"Mohammad, A.S. (2019) 
+ Hybrid Elevations Using GAN Networks
+, Ph.D. Thesis, The University of North Carolina at Charlotte",,,,"Mokhtar, S., Sojka, A. and Davila, C.C. (2020) 
+ Conditional generative adversarial networks for pedestrian wind flow approximation
+, Proceedings of SimAUD 2020",,,,"SUN, C.Y., LUO, Q.M., XIE, J.M. and RAO, J. (2017) 
+ A Practical Approach to Generating 3D City Models--A Case Study of the Density Zoning Project in Beihai
+, Architectural Journal, 08, pp. 77-81",,,,"YUAN, F. and LIN, Y.Q. (2019) 
+ Research on High-Rise Building Group Morphology Generative Design Method Based on Physical Wind Tunnel and Neural Network Algorithm
+, Journal of Human Settlements in West China, 01, pp. 22-30",,
+11,2021/03/29 07:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

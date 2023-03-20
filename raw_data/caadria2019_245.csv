@@ -1,0 +1,138 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40
+0,caadria2019_245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Jiaxin, Zhang, Yunqin, Li, Haiqing, Li and Xueqiang, Wang",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Sensitivity Analysis of Thermal Performance of Granary Building based on Machine Learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"M. Haeusler, M. A. Schnabel, T. Fukuda (eds.), Intelligent & Informed - Proceedings of the 24th CAADRIA Conference - Volume 1, Victoria University of Wellington, Wellington, New Zealand, 15-18 April 2019, pp. 665-674",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The granary building form has significant effects on thermal performance, especially in hot climate regions. This research is focused on exploring the influences of parameters relevant to building form design on thermal performance for granary buildings in Jiangsu and Anhui, China(both provinces belong to the hot summer region). The usual method is to use simulation software to perform a sensitivity analysis of thermal performance to assess the impacts of granary design parameters and identify the essential characteristics. However, many factors are affecting the thermal performance of granary buildings. The use of traditional energy simulation software requires calculation and analysis of a large number of models. In this study, we build a machine learning model to predict the thermal performance of granary buildings and identify the most influential design parameters of thermal performance in granary building. The input parameters include outdoor temperature, building height, aspect ratio, orientation, heat transmission coefficient of the wall and roof, and overall scale. The results show that the overall building scale is the most influential variable to the annual electricity consumption for cooling, whereas the heat transmission coefficient of the roof is the most influential to the change of the indoor temperature.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Sensitivity analysis; Artificial Neural Networks (ANNs); Thermal performance; Granary building,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,220160132@seu.edu.cn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (4,684,870 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Beale, M, Hagan, M and Demuth, H (2013) 
+ Neural network toolbox:User's guide
+, Mathworks
+
+
+
+
+
+
+
+Gao Song, GS and Song Hui, SH (2015) 
+ Prediction of the temperature field of high & large warehouse based on BP neural network
+, Grain,oil and food technology, vol.01,issue 04, pp. 1007-7561
+
+
+
+
+
+
+
+Gramacy, R.B and Taddy, M (2012) 
+ Categorical inputs, sensitivity analysis, optimization and importance tempering with tgp version 2, an R package for treed Gaussian process models
+, Journal of Statistical Software, vol.33, pp. 1-48
+
+
+
+
+
+
+
+Loeppky, J.L, Sacks, J and Welch, W.J (2009) 
+ Choosing the Sample Size of a Computer Experiment: A Practical Guide
+, Technometricsc, vol.51, pp. 366-376
+
+
+
+
+
+
+
+Lu Shuzeng, LS (2012) 
+ renovation and discussion of granary warehouse roof insulation
+, grain circulation and warehousing, vol.10, pp. 12-18
+
+
+
+
+
+
+
+Lusong, LS (2008) 
+ Granary Thermal Insulation Structure Analysis and Transformation
+, Grain and Oil Storage Technology Newsletter, vol.4, pp. 45-50
+
+
+
+
+
+
+
+Shrikant Pandey, SP, Hindoliya, DH and Ritu Mod, RM (2012) 
+ Artificial neural networks for predicting indoor temperature using roof passive cooling techniques in buildings in different climatic conditions
+, Applied Soft Computing, vol.12,issue 3, pp. 1214-1226
+
+
+
+
+
+
+
+W.Tian, WT (2013) 
+ A review of sensitivity analysis methods in building energy analysis
+, Renewable and Sustainable Energy Reviews, vol.20, pp. 411-419
+
+
+
+
+
+
+
+Wei Tian, WT, Pieter de Wilde, PW and Zhanyong Li, ZL (2018) 
+ Uncertainty and sensitivity analysis of energy assessment for office buildings based on Dempster-Shafer theory
+, Energy Conversion and Management, vol.174, pp. 705-718
+
+
+
+
+
+
+
+Wu Cunrong, WC and Zhao Suqiao, ZS (2007) 
+ Discussion on the design improvement of thermal insulation performance of food safe storage and room warehouse
+, Grain storage, vol.6, pp. 40-43",,"Beale, M, Hagan, M and Demuth, H (2013) 
+ Neural network toolbox:User's guide
+, Mathworks",,,,"Gao Song, GS and Song Hui, SH (2015) 
+ Prediction of the temperature field of high & large warehouse based on BP neural network
+, Grain,oil and food technology, vol.01,issue 04, pp. 1007-7561",,,,"Gramacy, R.B and Taddy, M (2012) 
+ Categorical inputs, sensitivity analysis, optimization and importance tempering with tgp version 2, an R package for treed Gaussian process models
+, Journal of Statistical Software, vol.33, pp. 1-48",,,,"Loeppky, J.L, Sacks, J and Welch, W.J (2009) 
+ Choosing the Sample Size of a Computer Experiment: A Practical Guide
+, Technometricsc, vol.51, pp. 366-376",,,,"Lu Shuzeng, LS (2012) 
+ renovation and discussion of granary warehouse roof insulation
+, grain circulation and warehousing, vol.10, pp. 12-18",,,,"Lusong, LS (2008) 
+ Granary Thermal Insulation Structure Analysis and Transformation
+, Grain and Oil Storage Technology Newsletter, vol.4, pp. 45-50",,,,"Shrikant Pandey, SP, Hindoliya, DH and Ritu Mod, RM (2012) 
+ Artificial neural networks for predicting indoor temperature using roof passive cooling techniques in buildings in different climatic conditions
+, Applied Soft Computing, vol.12,issue 3, pp. 1214-1226",,,,"W.Tian, WT (2013) 
+ A review of sensitivity analysis methods in building energy analysis
+, Renewable and Sustainable Energy Reviews, vol.20, pp. 411-419",,,,"Wei Tian, WT, Pieter de Wilde, PW and Zhanyong Li, ZL (2018) 
+ Uncertainty and sensitivity analysis of energy assessment for office buildings based on Dempster-Shafer theory
+, Energy Conversion and Management, vol.174, pp. 705-718",,,,"Wu Cunrong, WC and Zhao Suqiao, ZS (2007) 
+ Discussion on the design improvement of thermal insulation performance of food safe storage and room warehouse
+, Grain storage, vol.6, pp. 40-43",,
+11,2019/04/16 08:22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,caadria2020_028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Xia, Yixi, Yabuki, Nobuyoshi and Fukuda, Tomohiro",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Development of an Urban Greenery Evaluation System Based on Deep Learning and Google Street View,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 1, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 783-792",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Street greenery has long played a vital role in the quality of urban landscapes and is closely related to people's physical and mental health. In the current research on the urban environment, researchers use various methods to simulate and measure urban greenery. With the development of computer technology, the way to obtain data is more diverse. For the assessment of urban greenery quality, there are many methods, such as using remote sensing satellite images captured from above (antenna, space) sensors, to assess urban green coverage. However, this method is not suitable for the evaluation of street greenery. Unlike most remote sensing images, from a pedestrian perspective, urban street images are the most common view of green plants. The street view image presented by Google Street View image is similar to the captured by the pedestrian perspective. Thus it is more suitable for studying urban street greening. With the development of artificial intelligence, based on deep learning, we can abandon the heavy manual statistical work and obtain more accurate semantic information from street images. Furthermore, we can also measure green landscapes in larger areas of the city, as well as extract more details from street view images for urban research.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Green View Index; Deep Learning; Google Street View; Segmentation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,yixi11900@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (20,804,410 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Aoki, Y (1987) 
+ Relationship between perceived greenery and width of visual fields
+, J. Jpn. Inst. of Landscape Architects, 51, pp. 1-10
+
+
+
+
+
+
+
+Aoki, Y (2006) 
+ Trends of researches on visual greenery since 1974 in Japan
+, Environmental Information Science, 34, pp. 46-49
+
+
+
+
+
+
+
+Bernhard, F (1910) 
+ The care of trees in lawn, street and park
+, H. Holt and company
+
+
+
+
+
+
+
+Blum, J (2017) 
+ Contribution of ecosystem services to air quality and climate change mitigation policies: the case of urban forests in Barcelona, Spain
+, Apple Academic Press
+
+
+
+
+
+
+
+Bowler, DE, Buyung-Ali, LM, Knight, TM and Pullin, AS (2010) 
+ Urban greening to cool towns and cities: A systematic review of the empirical evidence
+, Landscape and urban planning, 97, pp. 147-155
+
+
+
+
+
+
+
+Cao, R, Fukuda, T and Yabuki, N (2019) 
+ Quantifying visual environment by semantic segmentation using deep learning:A Prototype for Sky View Factor
+, CAADRIA 2019 24th Annual Conference of the Association for Computer-Aided Architectural Design Research in Asia, Victoria University of Wellington, New Zealand, pp. 623-632
+
+
+
+
+
+
+
+Di, S, Li, Z, Tang, R, Pan, X, Liu, H and Niu, Y (2019) 
+ Urban green space classification and water consumption analysis with remote-sensing technology: a case study in Beijing, China
+, International Journal of Remote Sensing, 40, pp. 1909-1929
+
+
+
+
+
+
+
+Edwards, N, Hooper, P, Trapp, GS, Bull, F, Boruff, B and Giles-Corti, B (2013) 
+ Development of a public open space desktop auditing tool (POSDAT): a remote sensing approach
+, Applied Geography, 38, pp. 22-30
+
+
+
+
+
+
+
+Gong, FY, Zeng, ZC, Zhang, F, Li, X, Ng, E and Norford, LK (2018) 
+ Mapping sky, tree, and building view factors of street canyons in a high-density urban environment
+, Building and Environmental, 134, pp. 155-167
+
+
+
+
+
+
+
+Inoue, K, Fukuda, T, Cao, R and Yabuki, N (2018) 
+ Tracking Robustness and Green View Index Estimation of Augmented and Diminished Reality for Environmental Design
+, Proceedings of CAADRIA 2018, Beijing, pp. 339-348
+
+
+
+
+
+
+
+Kelly, CM, Wilson, JS, Baker, EA, Miller, DK and Schootman, M (2012) 
+ Using Google Street View to audit the built environment: inter-rater reliability results
+, Annals of Behavioral Medicine, 45, pp. S108-S112
+
+
+
+
+
+
+
+Lafortezza, R, Carrus, G, Sanesi, G and Davies, C (2009) 
+ Benefits and well-being perceived by people visiting green spaces in periods of heat stress
+, Urban Forestry & Urban Greening, 8, pp. 97-108
+
+
+
+
+
+
+
+Li, X and Ratti, C (2018) 
+ Mapping the spatial distribution of shade provision of street trees in Boston using Google Street View panoramas
+, Urban Forestry and Urban Greening, 31, pp. 109-119
+
+
+
+
+
+
+
+Li, X, Zhang, C, Li, W, Kuzovkina, YA and Weiner, D (2015) 
+ Who lives in greener neighborhoods? The distribution of street greenery and its association with residents' socioeconomic conditions in Hartford, Connecticut, USA
+, Urban Forestry & Urban Greening, 14, pp. 751-759
+
+
+
+
+
+
+
+Li, X, Zhang, C, Li, W, Ricard, R, Meng, Q and Zhang, W (2015) 
+ Assessing street-level urban greenery using Google Street View and a modified green view index
+, Urban Forestry & Urban Greening, 14, pp. 675-685
+
+
+
+
+
+
+
+Liang, J, Gong, J, Sun, J, Zhou, J, Li, W, Li, Y, Liu, J and Shen, S (2017) 
+ Automatic sky view factor estimation from street view photographs-A big data approach
+, Remote Sensing, 9, p. 411
+
+
+
+
+
+
+
+Rundle, AG, Bader, MD, Richards, CA, Neckerman, KM and Teitler, JO (2011) 
+ Using Google Street View to audit neighborhood environments
+, American journal of preventive medicine, 40, pp. 94-100
+
+
+
+
+
+
+
+Torii, A, Havlena, M and Pajdla, T (2009) 
+ From google street view to 3d city models
+, 2009 IEEE 12th International Conference on Computer Vision Workshops, ICCV Workshops, Dresden, Germany, pp. 2188-2195
+
+
+
+
+
+
+
+Yang, J, Zhao, L, Mcbride, J and Gong, P (2009) 
+ Can you see green? Assessing the visibility of urban forests in cities
+, Landscape and urban planning, 91, pp. 97-104
+
+
+
+
+
+
+
+Zamir, AR, Alexander, D and Mubarak, S (2011) 
+ Street view challenge: Identification of commercial entities in street view imagery
+, 2011 10th International Conference on Machine Learning and Applications and Workshops, Honolulu, HI, USA, pp. 380-383",,"Aoki, Y (1987) 
+ Relationship between perceived greenery and width of visual fields
+, J. Jpn. Inst. of Landscape Architects, 51, pp. 1-10",,,,"Aoki, Y (2006) 
+ Trends of researches on visual greenery since 1974 in Japan
+, Environmental Information Science, 34, pp. 46-49",,,,"Bernhard, F (1910) 
+ The care of trees in lawn, street and park
+, H. Holt and company",,,,"Blum, J (2017) 
+ Contribution of ecosystem services to air quality and climate change mitigation policies: the case of urban forests in Barcelona, Spain
+, Apple Academic Press",,,,"Bowler, DE, Buyung-Ali, LM, Knight, TM and Pullin, AS (2010) 
+ Urban greening to cool towns and cities: A systematic review of the empirical evidence
+, Landscape and urban planning, 97, pp. 147-155",,,,"Cao, R, Fukuda, T and Yabuki, N (2019) 
+ Quantifying visual environment by semantic segmentation using deep learning:A Prototype for Sky View Factor
+, CAADRIA 2019 24th Annual Conference of the Association for Computer-Aided Architectural Design Research in Asia, Victoria University of Wellington, New Zealand, pp. 623-632",,,,"Di, S, Li, Z, Tang, R, Pan, X, Liu, H and Niu, Y (2019) 
+ Urban green space classification and water consumption analysis with remote-sensing technology: a case study in Beijing, China
+, International Journal of Remote Sensing, 40, pp. 1909-1929",,,,"Edwards, N, Hooper, P, Trapp, GS, Bull, F, Boruff, B and Giles-Corti, B (2013) 
+ Development of a public open space desktop auditing tool (POSDAT): a remote sensing approach
+, Applied Geography, 38, pp. 22-30",,,,"Gong, FY, Zeng, ZC, Zhang, F, Li, X, Ng, E and Norford, LK (2018) 
+ Mapping sky, tree, and building view factors of street canyons in a high-density urban environment
+, Building and Environmental, 134, pp. 155-167",,,,"Inoue, K, Fukuda, T, Cao, R and Yabuki, N (2018) 
+ Tracking Robustness and Green View Index Estimation of Augmented and Diminished Reality for Environmental Design
+, Proceedings of CAADRIA 2018, Beijing, pp. 339-348",,,,"Kelly, CM, Wilson, JS, Baker, EA, Miller, DK and Schootman, M (2012) 
+ Using Google Street View to audit the built environment: inter-rater reliability results
+, Annals of Behavioral Medicine, 45, pp. S108-S112",,,,"Lafortezza, R, Carrus, G, Sanesi, G and Davies, C (2009) 
+ Benefits and well-being perceived by people visiting green spaces in periods of heat stress
+, Urban Forestry & Urban Greening, 8, pp. 97-108",,,,"Li, X and Ratti, C (2018) 
+ Mapping the spatial distribution of shade provision of street trees in Boston using Google Street View panoramas
+, Urban Forestry and Urban Greening, 31, pp. 109-119",,,,"Li, X, Zhang, C, Li, W, Kuzovkina, YA and Weiner, D (2015) 
+ Who lives in greener neighborhoods? The distribution of street greenery and its association with residents' socioeconomic conditions in Hartford, Connecticut, USA
+, Urban Forestry & Urban Greening, 14, pp. 751-759",,,,"Li, X, Zhang, C, Li, W, Ricard, R, Meng, Q and Zhang, W (2015) 
+ Assessing street-level urban greenery using Google Street View and a modified green view index
+, Urban Forestry & Urban Greening, 14, pp. 675-685",,,,"Liang, J, Gong, J, Sun, J, Zhou, J, Li, W, Li, Y, Liu, J and Shen, S (2017) 
+ Automatic sky view factor estimation from street view photographs-A big data approach
+, Remote Sensing, 9, p. 411",,,,"Rundle, AG, Bader, MD, Richards, CA, Neckerman, KM and Teitler, JO (2011) 
+ Using Google Street View to audit neighborhood environments
+, American journal of preventive medicine, 40, pp. 94-100",,,,"Torii, A, Havlena, M and Pajdla, T (2009) 
+ From google street view to 3d city models
+, 2009 IEEE 12th International Conference on Computer Vision Workshops, ICCV Workshops, Dresden, Germany, pp. 2188-2195",,,,"Yang, J, Zhao, L, Mcbride, J and Gong, P (2009) 
+ Can you see green? Assessing the visibility of urban forests in cities
+, Landscape and urban planning, 91, pp. 97-104",,,,"Zamir, AR, Alexander, D and Mubarak, S (2011) 
+ Street view challenge: Identification of commercial entities in street view imagery
+, 2011 10th International Conference on Machine Learning and Applications and Workshops, Honolulu, HI, USA, pp. 380-383",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

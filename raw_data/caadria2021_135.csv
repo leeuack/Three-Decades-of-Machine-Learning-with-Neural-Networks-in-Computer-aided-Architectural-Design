@@ -1,0 +1,174 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52
+0,caadria2021_135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Mo, Yichen, Li, Biao, Wu, Jiaqian and Tang, Peng",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Archibase:A City-Scale Spatial Database for Architectural Research,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"A. Globa, J. van Ameijde, A. Fingrut, N. Kim, T.T.S. Lo (eds.), PROJECTIONS - Proceedings of the 26th CAADRIA Conference - Volume 2, The Chinese University of Hong Kong and Online, Hong Kong, 29 March - 1 April 2021, pp. 519-528",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The explosion of geolocation data and data-based algorithms has the potential to analyze sophisticated urban areas and foster a more robust urban model. To better collect and organize the city data, this paper introduces a city-scale spatial database called ArchiBase, built upon Java and web APIs of open source databases. With hierarchical, layered, and regularly-updated spatial data defined by relation table, ArchiBase allows indexing and geometric searching of the entire city and supports applications and extensions for different cities. This research is from a graduate urban design course aiming to renew Prato, an industrial city in Italy. ArchiBase first creates the base version of Prato from multiple data sources, then illustrates the usability and expandability through three simple applications. The use of ArchiBase can better interpret future cities and demonstrate the unparalleled opportunities of collaboration and remote work for urban researchers and designers.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Spatial Database; Data Model; Urban Design; Design Support Tools,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,moyichen@seu.edu.cn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (12,726,422 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Alvarez-Marin, Diana and Moosavi, Vahid (2017) 
+ Inverting normative city theories and computational urban models: Towards a coexistence with urban data streams
+, CoRR, abs/1707.03678, p. http://arxiv.org/abs/1707.03678.
+
+
+
+
+
+
+
+Alvarez-Marin, Diana and Saldana Ochoa, Karla (2020) 
+ Indexical Cities: Articulating Personal Models of Urban Preference with Geotagged Data
+, CoRR, abs/2001.10615, p. https://arxiv.org/abs/2001.10615
+
+
+
+
+
+
+
+Beirão, J, Montenegro, N, Gil, J, Duarte, JP and Stouffs, R (2009) 
+ The city as a street system: A street description for a city ontology
+, Proceedings of the 13th Congress of the Iberoamerican Society of Digital Graphics
+
+
+
+
+
+
+
+Boeing, G (2019) 
+ Urban spatial order: Street network orientation, configuration, and entropy
+, Applied Network Science, 4(1), p. 67
+
+
+
+
+
+
+
+Boyce, RR and Clark, WAV (1964) 
+ The Concept of Shape in Geography
+, Geographical Review, 54(4), pp. 561-572
+
+
+
+
+
+
+
+Gil, J, Almeida, J and Duarte, J (2011) 
+ The backbone of a City Information Model (CIM): Implementing a spatial data model for urban design
+, Proceedings of 29th eCAADe Conference, Ljubljana, Slovenia
+
+
+
+
+
+
+
+Haklay, M (2010) 
+ How Good is Volunteered Geographical Information? A Comparative Study of OpenStreetMap and Ordnance Survey Datasets
+, Environment and Planning B: Planning and Design, 37(4), pp. 682-703
+
+
+
+
+
+
+
+He, Kaiming, Zhang, Xiangyu, Ren, Shaoqing and Sun, Jian (2016) 
+ Deep residual learning for image recognition
+, Proceedings of the IEEE conference on computer vision and pattern recognition
+
+
+
+
+
+
+
+Moosavi, Vahid (2015) 
+ Computational Urban Modeling: From Mainframes to Data Streams
+, Workshops at the Twenty-Ninth AAAI Conference on Artificial Intelligence
+
+
+
+
+
+
+
+Moosavi, Vahid (2017) 
+ Urban morphology meets deep learning: Exploring urban forms in one million cities, town and villages across the planet
+, CoRR, abs/1709.02939, p. http://arxiv.org/abs/1709.02939
+
+
+
+
+
+
+
+Rossi, Aldo and Eisenman, Peter (1982) 
+ The architecture of the city
+, MIT press Cambridge, MA
+
+
+
+
+
+
+
+Salesses, Philip, Schechtner, Katja and Hidalgo, C (2013) 
+ The collaborative image of the city: mapping the inequality of urban perception
+, PloS one, 8, p. 7
+
+
+
+
+
+
+
+Xu, Jianan and Li, Biao (2019) 
+ Application of Case-Based Methods and Information Technology in Urban Design-The Renewal Design of the urban region around Roma Railway Station
+, Intelligent & Informed - Proceedings of the 24th CAADRIA Conference, Wellington, New Zealand, pp. 625-634",,"Alvarez-Marin, Diana and Moosavi, Vahid (2017) 
+ Inverting normative city theories and computational urban models: Towards a coexistence with urban data streams
+, CoRR, abs/1707.03678, p. http://arxiv.org/abs/1707.03678.",,,,"Alvarez-Marin, Diana and Saldana Ochoa, Karla (2020) 
+ Indexical Cities: Articulating Personal Models of Urban Preference with Geotagged Data
+, CoRR, abs/2001.10615, p. https://arxiv.org/abs/2001.10615",,,,"Beirão, J, Montenegro, N, Gil, J, Duarte, JP and Stouffs, R (2009) 
+ The city as a street system: A street description for a city ontology
+, Proceedings of the 13th Congress of the Iberoamerican Society of Digital Graphics",,,,"Boeing, G (2019) 
+ Urban spatial order: Street network orientation, configuration, and entropy
+, Applied Network Science, 4(1), p. 67",,,,"Boyce, RR and Clark, WAV (1964) 
+ The Concept of Shape in Geography
+, Geographical Review, 54(4), pp. 561-572",,,,"Gil, J, Almeida, J and Duarte, J (2011) 
+ The backbone of a City Information Model (CIM): Implementing a spatial data model for urban design
+, Proceedings of 29th eCAADe Conference, Ljubljana, Slovenia",,,,"Haklay, M (2010) 
+ How Good is Volunteered Geographical Information? A Comparative Study of OpenStreetMap and Ordnance Survey Datasets
+, Environment and Planning B: Planning and Design, 37(4), pp. 682-703",,,,"He, Kaiming, Zhang, Xiangyu, Ren, Shaoqing and Sun, Jian (2016) 
+ Deep residual learning for image recognition
+, Proceedings of the IEEE conference on computer vision and pattern recognition",,,,"Moosavi, Vahid (2015) 
+ Computational Urban Modeling: From Mainframes to Data Streams
+, Workshops at the Twenty-Ninth AAAI Conference on Artificial Intelligence",,,,"Moosavi, Vahid (2017) 
+ Urban morphology meets deep learning: Exploring urban forms in one million cities, town and villages across the planet
+, CoRR, abs/1709.02939, p. http://arxiv.org/abs/1709.02939",,,,"Rossi, Aldo and Eisenman, Peter (1982) 
+ The architecture of the city
+, MIT press Cambridge, MA",,,,"Salesses, Philip, Schechtner, Katja and Hidalgo, C (2013) 
+ The collaborative image of the city: mapping the inequality of urban perception
+, PloS one, 8, p. 7",,,,"Xu, Jianan and Li, Biao (2019) 
+ Application of Case-Based Methods and Information Technology in Urban Design-The Renewal Design of the urban region around Roma Railway Station
+, Intelligent & Informed - Proceedings of the 24th CAADRIA Conference, Wellington, New Zealand, pp. 625-634",,
+11,2021/03/29 07:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

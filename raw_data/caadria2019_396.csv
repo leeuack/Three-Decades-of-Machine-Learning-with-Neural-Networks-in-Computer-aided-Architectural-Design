@@ -1,0 +1,150 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+0,caadria2019_396,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Cao, Rui, Fukuda, Tomohiro and Yabuki, Nobuyoshi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Quantifying Visual Environment by Semantic Segmentation Using Deep Learning - A Prototype for Sky View Factor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"M. Haeusler, M. A. Schnabel, T. Fukuda (eds.), Intelligent & Informed - Proceedings of the 24th CAADRIA Conference - Volume 2, Victoria University of Wellington, Wellington, New Zealand, 15-18 April 2019, pp. 623-632",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Sky view factor (SVF) is the ratio of radiation received by a planar surface from the sky to that received from the entire hemispheric radiating environment, in the past 20 years, it was more applied to urban-climatic areas such as urban air temperature analysis. With the urbanization and the development of cities, SVF has been paid more and more attention on as the important parameter in urban construction and city planning area because of increasing building coverage ratio to promote urban forms and help creating a more comfortable and sustainable urban residential building environment to citizens. Therefore, efficient, low cost, high precision, easy to operate, rapid building-wide SVF estimation method is necessary. In the field of image processing, semantic segmentation based on deep learning have attracted considerable research attention. This study presents a new method to estimate the SVF of residential environment by constructing a deep learning network for segmenting the sky areas from 360-degree camera images. As the result of this research, an easy-to-operate estimation system for SVF based on high efficiency sky label mask images database was developed.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Visual environment; Sky view factor; Semantic segmentation; Deep learning; Landscape simulation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,caorui11022@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (9,494,166 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Corripio, J.G (2003) 
+ Vectorial algebra algorithms for calculating terrain parameters from DEMs and solar radiation modelling in mountainous terrain
+, International Journal of Geographical Information Science, 17(1), pp. 1-23
+
+
+
+
+
+
+
+Ha, J, Lee, S and Par, C (2016) 
+ Temporal Effects of Environmental Characteristics on Urban Air Temperature: The Influence of the Sky View Factor
+, Sustainability, 8, p. 895
+
+
+
+
+
+
+
+Honma, Y, Kurita, O and suzuki, A (2009) 
+ An Analysis of Urban Landscapes with Respect to Solid Angles based on Computational Geometry Algorithms
+, Journal of the City Planning Institute of Japan, 74 Issue 643, pp. 2035-2042
+
+
+
+
+
+
+
+Johnson, R.T, Bjorklan, R and Krotee, M.L (1984) 
+ The Effects of Cooperative, Competitive and Individualistic Student Interaction Patterns on the Achievement and Attitudes of Students Learning the Golf Skill of Putting
+, Research Quarterly for Exercise and Sport, 55 issue 2, pp. 129-134
+
+
+
+
+
+
+
+Long, J, Shelhamer, E and Darrell, T (2015) 
+ Fully Convolutional Networks for Semantic Segmentation
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2015
+
+
+
+
+
+
+
+Lukasczyk, J, Maciejewski, R and Garth, C (2015) 
+ Understanding hotspots: A topological visual analytics approach
+, Proceedings of the 23rd SIGSPATIAL International Conference on Advances in Geographic Information Systems, p. 36
+
+
+
+
+
+
+
+Ronneberger, O, Fischer, P and Brox, T (2015) 
+ U-net: Convolutional networks for biomedical image segmentation
+, International Conference on Medical image computing and computer-assisted intervention, Springer, Cham., pp. 234-241
+
+
+
+
+
+
+
+Shen, Y and Wang, Q (2013) 
+ Sky Region Detection in a Single Image for Autonomous Ground Robot Navigation
+, International Journal of Advanced Robotic Systems, 10, p. 362
+
+
+
+
+
+
+
+Svensson, M (2004) 
+ Sky View Factor Analysis-implications for Urban Air Temperature Differences
+, Meteorological Applications, 11 Issue 3, pp. 201-211
+
+
+
+
+
+
+
+Unger, J (2004) 
+ Intra-urban relationship between surface geometry and urban heat island: review and new approach.
+, Climate research, 27(3), pp. 253-264
+
+
+
+
+
+
+
+Watanabe, H, Honma, Y, Honma, K and Imai, K (2009) 
+ Effects of Height Restriction and Relaxation by Sky Factor Focusing on Digestion Floor Area Ratio and Building Height
+, Journal of the City Planning Institute of Japan, 52 Issue 3, pp. 682-688",,"Corripio, J.G (2003) 
+ Vectorial algebra algorithms for calculating terrain parameters from DEMs and solar radiation modelling in mountainous terrain
+, International Journal of Geographical Information Science, 17(1), pp. 1-23",,,,"Ha, J, Lee, S and Par, C (2016) 
+ Temporal Effects of Environmental Characteristics on Urban Air Temperature: The Influence of the Sky View Factor
+, Sustainability, 8, p. 895",,,,"Honma, Y, Kurita, O and suzuki, A (2009) 
+ An Analysis of Urban Landscapes with Respect to Solid Angles based on Computational Geometry Algorithms
+, Journal of the City Planning Institute of Japan, 74 Issue 643, pp. 2035-2042",,,,"Johnson, R.T, Bjorklan, R and Krotee, M.L (1984) 
+ The Effects of Cooperative, Competitive and Individualistic Student Interaction Patterns on the Achievement and Attitudes of Students Learning the Golf Skill of Putting
+, Research Quarterly for Exercise and Sport, 55 issue 2, pp. 129-134",,,,"Long, J, Shelhamer, E and Darrell, T (2015) 
+ Fully Convolutional Networks for Semantic Segmentation
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2015",,,,"Lukasczyk, J, Maciejewski, R and Garth, C (2015) 
+ Understanding hotspots: A topological visual analytics approach
+, Proceedings of the 23rd SIGSPATIAL International Conference on Advances in Geographic Information Systems, p. 36",,,,"Ronneberger, O, Fischer, P and Brox, T (2015) 
+ U-net: Convolutional networks for biomedical image segmentation
+, International Conference on Medical image computing and computer-assisted intervention, Springer, Cham., pp. 234-241",,,,"Shen, Y and Wang, Q (2013) 
+ Sky Region Detection in a Single Image for Autonomous Ground Robot Navigation
+, International Journal of Advanced Robotic Systems, 10, p. 362",,,,"Svensson, M (2004) 
+ Sky View Factor Analysis-implications for Urban Air Temperature Differences
+, Meteorological Applications, 11 Issue 3, pp. 201-211",,,,"Unger, J (2004) 
+ Intra-urban relationship between surface geometry and urban heat island: review and new approach.
+, Climate research, 27(3), pp. 253-264",,,,"Watanabe, H, Honma, Y, Honma, K and Imai, K (2009) 
+ Effects of Height Restriction and Relaxation by Sky Factor Focusing on Digestion Floor Area Ratio and Building Height
+, Journal of the City Planning Institute of Japan, 52 Issue 3, pp. 682-688",,
+11,2019/04/16 08:25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

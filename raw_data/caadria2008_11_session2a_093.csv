@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,caadria2008_11_session2a_093,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Lee, Juhyun and Hyunsoo Lee",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,A Sensor based context-aware inference algorithm for ubiquitous residential environments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"CAADRIA 2008 [Proceedings of the 13th International Conference on Computer Aided Architectural Design Research in Asia] Chiang Mai (Thailand) 9-12 April 2008, pp. 93-102",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"As the development of a computer and the internet have changed social and economic activities related with the human life style. According to these changes, ubiquitous residential environments have been discussed. This paper presents ways of interpreting the situation in association with human interaction with residential environments. This paper deals with various operations of architectural components based on a sensor based context awareness. The methods adopted in this paper for suitable services corresponding to residents requirements are Pattern Driven Inference(PDI), Rule Driven Inference(RDI) and Case Driven Inference(CDI). In summary, this paper describes processes how services are provided. And Context based residential management is main research issue.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Context-Aware: Algorithm; Ubiquitous Residential Environments; Ubiquitous Computing; Case-based Reasoning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"{imkyo, hyunsl}@yonsei.ac.kr",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (86,207 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Brumitt, B. et. al. (2000) 
+ EasyLiving: Technologies for Intelligent Environments
+, Proceedings of International Symposium on Handheld and Ubiquitous Computing
+
+
+
+
+
+
+
+Chen, T. and Hsu, S.C. (2007) 
+ Mining frequent tree-like patterns in large datasets
+, Data & Knowledge Engineering, 62(1), Pp. 65-83
+
+
+
+
+
+
+
+Dey, A. (2000) 
+ Providing Architectural Support for Building Context-Aware Applications
+, Ph. D. Thesis, Department of Computer Science, Georgia Institute of Technology
+
+
+
+
+
+
+
+Essa, I. A. (1999) 
+ Ubiquitous sensing for smart and aware environments: technologies towards the building of an aware home
+, Position Paper for the DARPA/NSF/NIST workshop on Smart Environment
+
+
+
+
+
+
+
+Ferscha, A and Holzmann, C. and Oppl, S. (2004) 
+ Context awareness for group interaction support
+, Proceedings of the second international workshop on Mobility management & wireless access protocols
+
+
+
+
+
+
+
+Gellersen, H.W. and Schmidt, A. and Beigl, M. (2002) 
+ Multi-Sensor Context-Awareness in Mobile Devices and Smart Artifacts
+, Mobile Networks and Applications, Volume 7, Issue 5, Pp. 341 - 351
+
+
+
+
+
+
+
+Golding, A.R. and Rosenbloom, P.S. (1996) 
+ Improving accuracy by combining rule-based and case-based reasoning
+, Artificial Intelligence, Volume 87, Issues 1-2, Pp. 215-254
+
+
+
+
+
+
+
+Ha, T., Jung, J., Oh, S. (2006) 
+ Method to analyze user behavior in home environment
+, Personal and Ubiquitous Computing, Volume 10, Issue 2-3, Pp. 110-121
+
+
+
+
+
+
+
+Hara, K., Omori, T., Ueno, R. (2002) 
+ Detection of unusual human behavior in intelligent house
+, Neural Networks for Signal Processing, Pp. 697  706
+
+
+
+
+
+
+
+Henricksen, K. and Indulska, J. and Rakotonirainy, A. (2002) 
+ Modeling Context Information in Pervasive Computing Systems
+, Proceedings of the First International Conference on Pervasive Computing
+
+
+
+
+
+
+
+Hohl, F and Mehrmann, L. and Hamdan, A. (2002) 
+ A Context System for a Mobile Service Platform
+, Trends in Network and Pervasive Computing ARCS 2002
+
+
+
+
+
+
+
+Lee, J. and Ando, N. and Hashimoto, H. (1999) 
+ Design Policy for Intelligent Space
+, IEEE Systems, Man, and Cybemetics Conference
+
+
+
+
+
+
+
+Liberman, H. and Selker T. (2000) 
+ Out of context: Computer systems that adapts to, and learn from, context
+, IBM Systems Journal, 39(3&4), Pp. 617-632
+
+
+
+
+
+
+
+MacDorman, K., Nobuta, H., Minato, T., Ishiguro, H. (2004) 
+ Memory-based recognition of human behavior based on sensory data of high dimensionality
+, Intelligent Robots and Systems, Volume 1, Pp. 571 - 576
+
+
+
+
+
+
+
+Madhusudan, T., Zhao, J.L. and Marshall, B. (2004) 
+ A case-based reasoning framework for workflow model management
+, Data & Knowledge Engineering, 50(1), Pp. 87-115
+
+
+
+
+
+
+
+Mchserry, D. (2001) 
+ Interactive case-based reasoning in equential diagnosis
+, Applied Intelligence, 14(1), Pp. 65 76
+
+
+
+
+
+
+
+Meyer, S. and Rakotonirainy, A. (2003) 
+ A survey of research on context-aware homes
+, Proceedings of the Australasian information security workshop conference on ACSW frontiers 2003, 21, p.158
+
+
+
+
+
+
+
+Mozer, M.C. (1998) 
+ The neural network house: An environment that adapts to its inhabitants
+, Proceedings of the American Association for Artificial Intelligence Spring Symposium on Intelligent Environments. Menlo, Park, CA: AAAI Press
+
+
+
+
+
+
+
+Nakauchi, Y., Noguchi, K., Somwong, P., Matsubara, T., Namatame, A. (2003) 
+ Vivid room: human intention detection and activity support environment for ubiquitous autonomy
+, Intelligent Robots and Systems, Volume 1, Pp. 773  778
+
+
+
+
+
+
+
+Nishida, Y. et al. (2000) 
+ Sensorized environment for self-communication based on observation of daily human behavior
+, Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems, Pp.1364-1372",,"Brumitt, B. et. al. (2000) 
+ EasyLiving: Technologies for Intelligent Environments
+, Proceedings of International Symposium on Handheld and Ubiquitous Computing",,,,"Chen, T. and Hsu, S.C. (2007) 
+ Mining frequent tree-like patterns in large datasets
+, Data & Knowledge Engineering, 62(1), Pp. 65-83",,,,"Dey, A. (2000) 
+ Providing Architectural Support for Building Context-Aware Applications
+, Ph. D. Thesis, Department of Computer Science, Georgia Institute of Technology",,,,"Essa, I. A. (1999) 
+ Ubiquitous sensing for smart and aware environments: technologies towards the building of an aware home
+, Position Paper for the DARPA/NSF/NIST workshop on Smart Environment",,,,"Ferscha, A and Holzmann, C. and Oppl, S. (2004) 
+ Context awareness for group interaction support
+, Proceedings of the second international workshop on Mobility management & wireless access protocols",,,,"Gellersen, H.W. and Schmidt, A. and Beigl, M. (2002) 
+ Multi-Sensor Context-Awareness in Mobile Devices and Smart Artifacts
+, Mobile Networks and Applications, Volume 7, Issue 5, Pp. 341 - 351",,,,"Golding, A.R. and Rosenbloom, P.S. (1996) 
+ Improving accuracy by combining rule-based and case-based reasoning
+, Artificial Intelligence, Volume 87, Issues 1-2, Pp. 215-254",,,,"Ha, T., Jung, J., Oh, S. (2006) 
+ Method to analyze user behavior in home environment
+, Personal and Ubiquitous Computing, Volume 10, Issue 2-3, Pp. 110-121",,,,"Hara, K., Omori, T., Ueno, R. (2002) 
+ Detection of unusual human behavior in intelligent house
+, Neural Networks for Signal Processing, Pp. 697  706",,,,"Henricksen, K. and Indulska, J. and Rakotonirainy, A. (2002) 
+ Modeling Context Information in Pervasive Computing Systems
+, Proceedings of the First International Conference on Pervasive Computing",,,,"Hohl, F and Mehrmann, L. and Hamdan, A. (2002) 
+ A Context System for a Mobile Service Platform
+, Trends in Network and Pervasive Computing ARCS 2002",,,,"Lee, J. and Ando, N. and Hashimoto, H. (1999) 
+ Design Policy for Intelligent Space
+, IEEE Systems, Man, and Cybemetics Conference",,,,"Liberman, H. and Selker T. (2000) 
+ Out of context: Computer systems that adapts to, and learn from, context
+, IBM Systems Journal, 39(3&4), Pp. 617-632",,,,"MacDorman, K., Nobuta, H., Minato, T., Ishiguro, H. (2004) 
+ Memory-based recognition of human behavior based on sensory data of high dimensionality
+, Intelligent Robots and Systems, Volume 1, Pp. 571 - 576",,,,"Madhusudan, T., Zhao, J.L. and Marshall, B. (2004) 
+ A case-based reasoning framework for workflow model management
+, Data & Knowledge Engineering, 50(1), Pp. 87-115",,,,"Mchserry, D. (2001) 
+ Interactive case-based reasoning in equential diagnosis
+, Applied Intelligence, 14(1), Pp. 65 76",,,,"Meyer, S. and Rakotonirainy, A. (2003) 
+ A survey of research on context-aware homes
+, Proceedings of the Australasian information security workshop conference on ACSW frontiers 2003, 21, p.158",,,,"Mozer, M.C. (1998) 
+ The neural network house: An environment that adapts to its inhabitants
+, Proceedings of the American Association for Artificial Intelligence Spring Symposium on Intelligent Environments. Menlo, Park, CA: AAAI Press",,,,"Nakauchi, Y., Noguchi, K., Somwong, P., Matsubara, T., Namatame, A. (2003) 
+ Vivid room: human intention detection and activity support environment for ubiquitous autonomy
+, Intelligent Robots and Systems, Volume 1, Pp. 773  778",,,,"Nishida, Y. et al. (2000) 
+ Sensorized environment for self-communication based on observation of daily human behavior
+, Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems, Pp.1364-1372",,
+11,2012/05/30 19:29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

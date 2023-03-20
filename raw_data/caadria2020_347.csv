@@ -1,0 +1,210 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64
+0,caadria2020_347,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Budig, Michael, Heckmann, Oliver, Ng Qi Boon, Amanda, Hudert, Markus, Lork, Clement and Cheah, Lynette",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Data-driven Embodied Carbon Evaluation of Early Building Design Iterations,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 2, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 303-312",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In the early design phases, Life Cycle Assessment can assist project stakeholders in making informed decisions on choosing structural systems and materials with an awareness of environmental sustainability through their embodied carbon content; yet embodied carbon is difficult to quantify without detailed design information in the early design stages. In response, this paper proposes a novel data-driven tool, prior to the definition of floor plan layouts to perform embodied carbon evaluation of existing building designs based on a Bayesian Neural Network (BNN) regression. The BNN is built from data drawn from existing floor plans of residential buildings, and predicts material volume and embodied carbon from generic design parameters typical in the early design stage. Users will be able to interact with the tool in Grasshopper or as an online resource, input generic design parameters, and obtain comparative visualizations based on the choice of a construction system and its environmental sustainability in a 'shoebox' interface - a simplified three-dimensional representation of a building's primary spatial units generated with the tool.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Regression; Bayesian Neural Network; High-Rise Residential Buildings,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,michael_budig@sutd.edu.sg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (3,432,461 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Basic, S, Hollberg, A, Galimshina, A and Habert, G (2019) 
+ A design integrated parametric tool for real-time Life Cycle Assessment--Bombyx project
+, IOP Conference Series: Earth and Environmental Science
+
+
+
+
+
+
+
+Dean, B, Dulac, J, Petrichenko, K and Graham, P (2017) 
+ Towards zero-emission efficient and resilient buildings.: Global Status Report
+, Global Alliance for Buildings and Construction (GABC), -, p. -
+
+
+
+
+
+
+
+Ferlito, S, Atrigna, M, Graditi, G, De Vito, S, Salvato, M, Buonanno, A and Di Francia, G (2015) 
+ Predictive models for building's energy consumption: An Artificial Neural Network (ANN) approach
+, 2015 xviii aisem annual conference, pp. 1-4
+
+
+
+
+
+
+
+Friedman, J, Hastie, T and Tibshirani, R (2001) 
+ The elements of statistical learning
+, Springer series in statistics New York
+
+
+
+
+
+
+
+Gadezi, SSS, Shafiq, N, Zawawi, NAWA, Khamidi, MF and Farhan, SA (2016) 
+ A multivariable regression tool for embodied carbon footprint prediction in housing habitat
+, Habitat International, 53, pp. 292-300
+
+
+
+
+
+
+
+Gal, Y and Ghahramani, Z (2016) 
+ Dropout as a bayesian approximation: Representing model uncertainty in deep learning
+, international conference on machine learning, pp. 1050-1059
+
+
+
+
+
+
+
+Heckmann, O and Schneider, F (2017) 
+ Floor plan manual housing
+, Birkhäuser
+
+
+
+
+
+
+
+Kaufmann, H, Krötsch, S and Winter, S (2018) 
+ Manual of Multi-Storey Timber Construction
+, Detail
+
+
+
+
+
+
+
+Liu, H, Yang, YL, Alhalawani, S and Mitra, NJ (2013) 
+ Constraint-aware interior layout exploration for pre-cast concrete-based buildings
+, The Visual Computer, 29(6-8), pp. 663-673
+
+
+
+
+
+
+
+MacLeamy, P (2004) 
+ Collaboration, integrated information and the project lifecycle in building design, construction and operation
+, The Construction Users Roundtable, 12, p. 12
+
+
+
+
+
+
+
+Meex, E, Hollberg, A, Knapen, E, Hildebrand, L and Verbeeck, G (2018) 
+ Requirements for applying LCA-based environmental impact assessment tools in the early stages of building design
+, Building and Environment, 133, pp. 228-236
+
+
+
+
+
+
+
+Otovic, A, Jensen, LB and Negendahl, K (2016) 
+ Expansion in Number of Parameters-Simulation of Energy and Indoor Climate in Combination with LCA
+, 2016 ASHRAE Annual Conference
+
+
+
+
+
+
+
+Sinclair, D (2013) 
+ RIBA Plan of Work 2013 overview
+, London: Royal Institute of British Architects, -, p. -
+
+
+
+
+
+
+
+Treloar, G, Love, P, Faniran, O and Iyer-Raniga, U (2000) 
+ A hybrid life cycle assessment method for construction
+, Construction Management & Economics, 18(1), pp. 5-9
+
+
+
+
+
+
+
+Tu, J.V. (1996) 
+ Advantages and disadvantages of using artificial neural networks versus logistic regression for predicting medical outcomes.
+, Journal of clinical epidemiology,, 49(11), pp. 1225-1231.
+
+
+
+
+
+
+
+Victoria, MF and Perera, S (2018) 
+ Parametric embodied carbon prediction model for early stage estimating
+, Energy and Buildings, 168, pp. 106-119",,"Basic, S, Hollberg, A, Galimshina, A and Habert, G (2019) 
+ A design integrated parametric tool for real-time Life Cycle Assessment--Bombyx project
+, IOP Conference Series: Earth and Environmental Science",,,,"Dean, B, Dulac, J, Petrichenko, K and Graham, P (2017) 
+ Towards zero-emission efficient and resilient buildings.: Global Status Report
+, Global Alliance for Buildings and Construction (GABC), -, p. -",,,,"Ferlito, S, Atrigna, M, Graditi, G, De Vito, S, Salvato, M, Buonanno, A and Di Francia, G (2015) 
+ Predictive models for building's energy consumption: An Artificial Neural Network (ANN) approach
+, 2015 xviii aisem annual conference, pp. 1-4",,,,"Friedman, J, Hastie, T and Tibshirani, R (2001) 
+ The elements of statistical learning
+, Springer series in statistics New York",,,,"Gadezi, SSS, Shafiq, N, Zawawi, NAWA, Khamidi, MF and Farhan, SA (2016) 
+ A multivariable regression tool for embodied carbon footprint prediction in housing habitat
+, Habitat International, 53, pp. 292-300",,,,"Gal, Y and Ghahramani, Z (2016) 
+ Dropout as a bayesian approximation: Representing model uncertainty in deep learning
+, international conference on machine learning, pp. 1050-1059",,,,"Heckmann, O and Schneider, F (2017) 
+ Floor plan manual housing
+, Birkhäuser",,,,"Kaufmann, H, Krötsch, S and Winter, S (2018) 
+ Manual of Multi-Storey Timber Construction
+, Detail",,,,"Liu, H, Yang, YL, Alhalawani, S and Mitra, NJ (2013) 
+ Constraint-aware interior layout exploration for pre-cast concrete-based buildings
+, The Visual Computer, 29(6-8), pp. 663-673",,,,"MacLeamy, P (2004) 
+ Collaboration, integrated information and the project lifecycle in building design, construction and operation
+, The Construction Users Roundtable, 12, p. 12",,,,"Meex, E, Hollberg, A, Knapen, E, Hildebrand, L and Verbeeck, G (2018) 
+ Requirements for applying LCA-based environmental impact assessment tools in the early stages of building design
+, Building and Environment, 133, pp. 228-236",,,,"Otovic, A, Jensen, LB and Negendahl, K (2016) 
+ Expansion in Number of Parameters-Simulation of Energy and Indoor Climate in Combination with LCA
+, 2016 ASHRAE Annual Conference",,,,"Sinclair, D (2013) 
+ RIBA Plan of Work 2013 overview
+, London: Royal Institute of British Architects, -, p. -",,,,"Treloar, G, Love, P, Faniran, O and Iyer-Raniga, U (2000) 
+ A hybrid life cycle assessment method for construction
+, Construction Management & Economics, 18(1), pp. 5-9",,,,"Tu, J.V. (1996) 
+ Advantages and disadvantages of using artificial neural networks versus logistic regression for predicting medical outcomes.
+, Journal of clinical epidemiology,, 49(11), pp. 1225-1231.",,,,"Victoria, MF and Perera, S (2018) 
+ Parametric embodied carbon prediction model for early stage estimating
+, Energy and Buildings, 168, pp. 106-119",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

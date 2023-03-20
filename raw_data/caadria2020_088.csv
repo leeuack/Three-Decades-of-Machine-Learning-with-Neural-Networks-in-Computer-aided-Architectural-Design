@@ -1,0 +1,102 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+0,caadria2020_088,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Kado, Keita, Furusho, Genki, Nakamura, Yusuke and Hirasawa, Gakuhito",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,rocess Path Derivation Method for Multi-Tool Processing Machines Using Deep-Learning-Based Three Dimensional Shape Recognition,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 2, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 609-618",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"When multi-axis processing machines are employed for high-mix, low-volume production, they are operated using a dedicated computer-aided design/ computer-aided manufacturing (CAD/CAM) process that derives an operating path concurrently with detailed modeling. This type of work requires dedicated software that occasionally results in complicated front-loading and data management issues. We proposed a three-dimensional (3D) shape recognition method based on deep learning that creates an operational path from 3D part geometry entered by a CAM application to derive a path for processing machinery such as a circular saw, drill, or end mill. The methodology was tested using 11 joint types and five processing patterns. The results show that the proposed method has several practical applications, as it addresses wooden object creation and may also have other applications.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Three-dimensional Shape Recognition; Deep Learning; Digital Fabrication; Multi-axis Processing Machine,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,kado@chiba-u.jp,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (4,499,895 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Chai, H and Yuan, PF (2019) 
+ Investigations on Potentials od Robotic Band-Saw Cutting in Complex Wood Structures
+, Robotic Fabrication in Architecture, Art and Design 2018, pp. 256-268
+
+
+
+
+
+
+
+Nakamura, Y, Furusho, G, Kado, K and Hirasawa, G (2018) 
+ Development of Automatic Path Deriving System for Circular Saw and Production of Wooden Dome with Miter Joints, New Building System with Multi-Axis Machining 2
+, AIJ journal of technology and design, 24, 58, pp. 1299-1302
+
+
+
+
+
+
+
+Nia, KR and Mori, G (2017) 
+ Building damage assessment using deep learning and ground-level image data
+, 14th Conference on Computer and Robot Vision (CRV), pp. 95-102
+
+
+
+
+
+
+
+Nishimura, N, Yabuki, N and Fukuda, T (2019) 
+ Automatic Detection of Positions and Shapes of Various Objects at Construction Sites from Digital Images Using Deep Learning
+, Wu, P and Wang, X (eds), Innovative Production and Construction, World Scientific Pub Co Inc
+
+
+
+
+
+
+
+Qi, CR, Su, H, Mo, K and Guibas, LJ (2017) 
+ PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
+, Conference on Computer Vision and Pattern Recognition (CVPR) 2017
+
+
+
+
+
+
+
+Qi, CR, Yi, L, Su, H and Guibas, LJ (2017) 
+ PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space
+, Conference on Neural Information Processing Systems (NIPS) 2017
+
+
+
+
+
+
+
+Xiu, H, Vinayaraj, P, Kim, K and Nakamura, R (2018) 
+ 3D Semantic Segmentation for High-resolution Aerial Survey Derived Point Clouds using Deep Learning
+, 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL '18)",,"Chai, H and Yuan, PF (2019) 
+ Investigations on Potentials od Robotic Band-Saw Cutting in Complex Wood Structures
+, Robotic Fabrication in Architecture, Art and Design 2018, pp. 256-268",,,,"Nakamura, Y, Furusho, G, Kado, K and Hirasawa, G (2018) 
+ Development of Automatic Path Deriving System for Circular Saw and Production of Wooden Dome with Miter Joints, New Building System with Multi-Axis Machining 2
+, AIJ journal of technology and design, 24, 58, pp. 1299-1302",,,,"Nia, KR and Mori, G (2017) 
+ Building damage assessment using deep learning and ground-level image data
+, 14th Conference on Computer and Robot Vision (CRV), pp. 95-102",,,,"Nishimura, N, Yabuki, N and Fukuda, T (2019) 
+ Automatic Detection of Positions and Shapes of Various Objects at Construction Sites from Digital Images Using Deep Learning
+, Wu, P and Wang, X (eds), Innovative Production and Construction, World Scientific Pub Co Inc",,,,"Qi, CR, Su, H, Mo, K and Guibas, LJ (2017) 
+ PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
+, Conference on Computer Vision and Pattern Recognition (CVPR) 2017",,,,"Qi, CR, Yi, L, Su, H and Guibas, LJ (2017) 
+ PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space
+, Conference on Neural Information Processing Systems (NIPS) 2017",,,,"Xiu, H, Vinayaraj, P, Kim, K and Nakamura, R (2018) 
+ 3D Semantic Segmentation for High-resolution Aerial Survey Derived Point Clouds using Deep Learning
+, 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL '18)",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,

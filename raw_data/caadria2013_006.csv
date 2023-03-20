@@ -1,0 +1,259 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,caadria2013_006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Gerber, David J. and Shih-Hsin (Eve) Lin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Geometric Complexity and Energy Simulation  Evolving Performance Driven Architectural Form,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Open Systems: Proceedings of the 18th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2013) / Singapore 15-18 May 2013, pp. 87-96",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,WOS:000351496100009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"The research presents the custom development of a software tool and design process for integrating three design domains, their respective objectives, and geometric parameterizations. It then describes a set of experimental projects and analyses in the context of informing form and geometric complexity. Preliminary results of the multidisciplinary design optimization prototype, which, implements a genetic algorithm, are then presented. The findings include discussion of the value for architects for designing-in performance e.g. the bringing of the energy simulation and financial pro-forma upstream in the design process and of the value for trade off design decision making the system provides. The summary discussion includes the benefit of breeding architecturally complex geometries and the kinds of optimisations or search for improvements on designs that can be achieved.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"Parametric, Generative, Optimisation, Design decision support",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,dgerber@usc.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (1,836,296 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Augenbroe, G. (2002) 
+ Trends in building simulation
+, Building and Environment, 37(8-9), 891902 
+
+
+
+
+
+
+
+Coello Coello, C. A., Lamont, G. B. and Van Veldhuisen, D. A. (2007) 
+ Evolutionary algorithms for solving multi-objective problems, Genetic and evolutionary computation series, 2nd ed.
+, Springer, New York
+
+
+
+
+
+
+
+Crawley, D. B., Hand, J. W., Kummert, M. and Griffith, B. T. (2008) 
+ Contrasting the capabilities of building energy performance simulation programs
+, Building and Environment, 43(4), 661673
+
+
+
+
+
+
+
+Eastman, C. M. (1970) 
+ On the analysis of intuitive design processes, in G. T. Moore (ed.)
+, Emerging Methods in Environmental Design and Planning, MIT Press, Cambridge, MA
+
+
+
+
+
+
+
+Frazer, J. (1995) 
+ An evolutionary architecture
+, Architectural Association, London
+
+
+
+
+
+
+
+Gerber, D. J. and Lin, S.-H. E. (2012) 
+ Designing-in performance through parameterization, automation, and evolutionary algorithms: H.D.S. BEAGLE 1.0, in T. Fischer, K. De Biswas, J. J. Ham, R. Naka and W. X. Huang (eds.)
+, CAADRIA 2012: Beyond Codes and Pixels, Chennai, India, 141150
+
+
+
+
+
+
+
+Gero, J. S., DCruz, N. and Radford, A. D. (1983) 
+ Energy in context: Amulticriteria model for building design
+, Building and Environment, 18(3), 99107
+
+
+
+
+
+
+
+Gero, J. S. (1990) 
+ Design prototypes: A knowledge representation schema for design
+, AI Magazine, 11(4), 2636
+
+
+
+
+
+
+
+Geyer, P. (2009) 
+ Component-oriented decomposition for multidisciplinary design optimization in building design
+, Advanced Engineering Informatics, 23(1), 1231
+
+
+
+
+
+
+
+Glymph, J., Shelden, D., Ceccato, C., Mussel, J. and Schober, H. (2004) 
+ A parametric strategy for free-form glass structures using quadrilateral planar facets
+, Automation in Construction, 13(2), 187202
+
+
+
+
+
+
+
+Goldberg, D. E. (1989) 
+ Genetic algorithms in search, optimization, and machine learning
+, Addison- Wesley, Reading, MA
+
+
+
+
+
+
+
+Holland, J. H. (1992) 
+ Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence
+, A Bradford Book, Ann Arbor
+
+
+
+
+
+
+
+Huang, H., Kato, S. and Hu, R. (2012) 
+ Optimum design for indoor humidity by coupling Genetic Algorithm with transient simulation based on contribution ratio of indoor humidity and climate analysis
+, Energy and Buildings, 47, 208216
+
+
+
+
+
+
+
+Keough, I. and Benjamin, D. (2010) 
+ Multi-objective optimization in architectural design, in A. Khan (ed.)
+, SimAUD 2010, Orlando, FL, 512
+
+
+
+
+
+
+
+Krish, S. (2011) 
+ A practical generative design method
+, Computer-Aided Design, 43(1), 88100
+
+
+
+
+
+
+
+Magnier, L. and Haghighat, F. (2010) 
+ Multiobjective optimization of building design using TRNSYS simulations, genetic algorithm, and artificial neural network
+, Building and Environment, 45(3), 739746
+
+
+
+
+
+
+
+Malkawi, A. (2005) 
+ Performance simulation: research and tools, in B. Kolarevic and A. Malkawi (eds.)
+, Performative architecture: beyond instrumentality, Spon Press, New York, 8596
+
+
+
+
+
+
+
+Menges, A. (2011) 
+ Integrative design computation: Integrating material behaviour and robotic manufacturing processes in computational design for performative wood constructions
+, ACADIA 2011  Integration through Computation, Banff, Alberta, 7281
+
+
+
+
+
+
+
+Poloni , C. and Pediroda, V. (1997) 
+ GA coupled with computationally expensive simulations: tools to improve efficiency, in D. Quagliarella, J. Périaux, C. Poloni and G. Winter (eds.)
+, Genetic algorithms and evolution strategy in engineering and computer science: recent advances and industrial applications, John Wiley & Sons, West Sussex, England, 225243
+
+
+
+
+
+
+
+Ren, Z., Yang, F., Bouchlaghem, N. M. and Anumba, C. J. (2011) 
+ Multi-disciplinary collaborative building design  A comparative study between multi-agent systems and multi-disciplinary optimization approaches
+, Automation in Construction, 20(5), 537549",,"Augenbroe, G. (2002) 
+ Trends in building simulation
+, Building and Environment, 37(8-9), 891902",,,,"Coello Coello, C. A., Lamont, G. B. and Van Veldhuisen, D. A. (2007) 
+ Evolutionary algorithms for solving multi-objective problems, Genetic and evolutionary computation series, 2nd ed.
+, Springer, New York",,,,"Crawley, D. B., Hand, J. W., Kummert, M. and Griffith, B. T. (2008) 
+ Contrasting the capabilities of building energy performance simulation programs
+, Building and Environment, 43(4), 661673",,,,"Eastman, C. M. (1970) 
+ On the analysis of intuitive design processes, in G. T. Moore (ed.)
+, Emerging Methods in Environmental Design and Planning, MIT Press, Cambridge, MA",,,,"Frazer, J. (1995) 
+ An evolutionary architecture
+, Architectural Association, London",,,,"Gerber, D. J. and Lin, S.-H. E. (2012) 
+ Designing-in performance through parameterization, automation, and evolutionary algorithms: H.D.S. BEAGLE 1.0, in T. Fischer, K. De Biswas, J. J. Ham, R. Naka and W. X. Huang (eds.)
+, CAADRIA 2012: Beyond Codes and Pixels, Chennai, India, 141150",,,,"Gero, J. S., DCruz, N. and Radford, A. D. (1983) 
+ Energy in context: Amulticriteria model for building design
+, Building and Environment, 18(3), 99107",,,,"Gero, J. S. (1990) 
+ Design prototypes: A knowledge representation schema for design
+, AI Magazine, 11(4), 2636",,,,"Geyer, P. (2009) 
+ Component-oriented decomposition for multidisciplinary design optimization in building design
+, Advanced Engineering Informatics, 23(1), 1231",,,,"Glymph, J., Shelden, D., Ceccato, C., Mussel, J. and Schober, H. (2004) 
+ A parametric strategy for free-form glass structures using quadrilateral planar facets
+, Automation in Construction, 13(2), 187202",,,,"Goldberg, D. E. (1989) 
+ Genetic algorithms in search, optimization, and machine learning
+, Addison- Wesley, Reading, MA",,,,"Holland, J. H. (1992) 
+ Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence
+, A Bradford Book, Ann Arbor",,,,"Huang, H., Kato, S. and Hu, R. (2012) 
+ Optimum design for indoor humidity by coupling Genetic Algorithm with transient simulation based on contribution ratio of indoor humidity and climate analysis
+, Energy and Buildings, 47, 208216",,,,"Keough, I. and Benjamin, D. (2010) 
+ Multi-objective optimization in architectural design, in A. Khan (ed.)
+, SimAUD 2010, Orlando, FL, 512",,,,"Krish, S. (2011) 
+ A practical generative design method
+, Computer-Aided Design, 43(1), 88100",,,,"Magnier, L. and Haghighat, F. (2010) 
+ Multiobjective optimization of building design using TRNSYS simulations, genetic algorithm, and artificial neural network
+, Building and Environment, 45(3), 739746",,,,"Malkawi, A. (2005) 
+ Performance simulation: research and tools, in B. Kolarevic and A. Malkawi (eds.)
+, Performative architecture: beyond instrumentality, Spon Press, New York, 8596",,,,"Menges, A. (2011) 
+ Integrative design computation: Integrating material behaviour and robotic manufacturing processes in computational design for performative wood constructions
+, ACADIA 2011  Integration through Computation, Banff, Alberta, 7281",,,,"Poloni , C. and Pediroda, V. (1997) 
+ GA coupled with computationally expensive simulations: tools to improve efficiency, in D. Quagliarella, J. Périaux, C. Poloni and G. Winter (eds.)
+, Genetic algorithms and evolution strategy in engineering and computer science: recent advances and industrial applications, John Wiley & Sons, West Sussex, England, 225243",,,,"Ren, Z., Yang, F., Bouchlaghem, N. M. and Anumba, C. J. (2011) 
+ Multi-disciplinary collaborative building design  A comparative study between multi-agent systems and multi-disciplinary optimization approaches
+, Automation in Construction, 20(5), 537549",,
+12,2016/05/16 09:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,126 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+0,caadria2020_172,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Xia, Xinyu and Tong, Ziyu",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,A Machine Learning-Based Method for Predicting Urban Land Use,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 2, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 21-30",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Land use is one of the most basic elements of urban management. In urban planning and design, land use is often determined by experience and case studies. However, the development of urbanization has led to a combinatory trend for land use, and the land use of a plot is always impacted by the surrounding environment. In such a complex situation, it is difficult to find hidden relationships among types of land use by humans alone. Within artificial intelligence, machine learning can help find correlations among data. This paper presents a new method for learning the rules relating the known land use data and predicting the land use of a target plot by constructing an artificial neural network. We take Nanjing as a specific case and study the logic of its land use. The results not only demonstrate associations between the surroundings and the target but also show the feasibility of a combinatory land use index in urban planning and design.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Land use; Urban planning and design; Machine learning; Artificial neural network,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,mf1836036@smail.nju.edu.cn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (10,552,130 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Al-sharif, A. A. and Pradhan, B. (2014) 
+ Monitoring and predicting land use change in Tripoli Metropolitan City using an integrated Markov chain and cellular automata models in GIS
+, Arabian Journal of Geosciences, 7(10), pp. 4291-4301
+
+
+
+
+
+
+
+Basheer, I. A. and Hajmeer, M. (2000) 
+ Artificial neural networks: fundamentals, computing, design, and application
+, Journal of microbiological methods, 43(1), pp. 3-31
+
+
+
+
+
+
+
+Guan, Q., Wang, L. and Clarke, K. C. (2005) 
+ An artificial-neural-network-based, constrained CA model for simulating urban growth
+, Cartography and Geographic Information Science, 32(4), pp. 369-380
+
+
+
+
+
+
+
+Jordan, M. I. and Mitchell, T. M. (2015) 
+ Machine learning: Trends, perspectives, and prospects
+, Science, 349(6245), pp. 255-260
+
+
+
+
+
+
+
+Luus, F. P., Salmon, B. P., Van den Bergh, F. and Maharaj, B. T. J. (2015) 
+ Multiview deep learning for land-use classification
+, IEEE Geoscience and Remote Sensing Letters, 12(12), pp. 2448-2452
+
+
+
+
+
+
+
+Nagy, D., Villaggi, L. and Benjamin, D. (2018) 
+ Generative urban design: integrating financial and energy goals for automated neighborhood layout
+, Proceedings of SimAUD 2018
+
+
+
+
+
+
+
+Wear, D. N. and Greis, J. G. (2013) 
+ The Southern Forest Futures Project: technical report
+, USDA-Forest Service, Southern Research Station
+
+
+
+
+
+
+
+Wilson, L., Danforth, J., Davila, C. C. and Harvey, D. (2019) 
+ How to Generate a Thousand Master Plans: A Framework for Computational Urban Design
+, SimAUD 2019
+
+
+
+
+
+
+
+Wu, N. and Silva, E. A. (2010) 
+ Artificial intelligence solutions for urban land dynamics: a review
+, Journal of Planning Literature, 24(3), pp. 246-265",,"Al-sharif, A. A. and Pradhan, B. (2014) 
+ Monitoring and predicting land use change in Tripoli Metropolitan City using an integrated Markov chain and cellular automata models in GIS
+, Arabian Journal of Geosciences, 7(10), pp. 4291-4301",,,,"Basheer, I. A. and Hajmeer, M. (2000) 
+ Artificial neural networks: fundamentals, computing, design, and application
+, Journal of microbiological methods, 43(1), pp. 3-31",,,,"Guan, Q., Wang, L. and Clarke, K. C. (2005) 
+ An artificial-neural-network-based, constrained CA model for simulating urban growth
+, Cartography and Geographic Information Science, 32(4), pp. 369-380",,,,"Jordan, M. I. and Mitchell, T. M. (2015) 
+ Machine learning: Trends, perspectives, and prospects
+, Science, 349(6245), pp. 255-260",,,,"Luus, F. P., Salmon, B. P., Van den Bergh, F. and Maharaj, B. T. J. (2015) 
+ Multiview deep learning for land-use classification
+, IEEE Geoscience and Remote Sensing Letters, 12(12), pp. 2448-2452",,,,"Nagy, D., Villaggi, L. and Benjamin, D. (2018) 
+ Generative urban design: integrating financial and energy goals for automated neighborhood layout
+, Proceedings of SimAUD 2018",,,,"Wear, D. N. and Greis, J. G. (2013) 
+ The Southern Forest Futures Project: technical report
+, USDA-Forest Service, Southern Research Station",,,,"Wilson, L., Danforth, J., Davila, C. C. and Harvey, D. (2019) 
+ How to Generate a Thousand Master Plans: A Framework for Computational Urban Design
+, SimAUD 2019",,,,"Wu, N. and Silva, E. A. (2010) 
+ Artificial intelligence solutions for urban land dynamics: a review
+, Journal of Planning Literature, 24(3), pp. 246-265",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

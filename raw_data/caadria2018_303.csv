@@ -1,0 +1,174 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52
+0,caadria2018_303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Song, Jae Yeol, Kim, Jin Sung, Kim, Hayan, Choi, Jungsik and Lee, Jin Kook",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Approach to Capturing Design Requirements from the Existing Architectural Documents Using Natural Language Processing Technique,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"T. Fukuda, W. Huang, P. Janssen, K. Crolla, S. Alhadidi (eds.), Learning, Adapting and Prototyping - Proceedings of the 23rd CAADRIA Conference - Volume 2, Tsinghua University, Beijing, China, 17-19 May 2018, pp. 247-254",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper describes an approach to utilizing natural language processing (NLP) to capture design requirements from the natural language-based architectural documents. In various design stage of the architectural process, there are several different kinds of documents describing requirements for buildings. Capturing the design requirements from those documents is based on extracting information of objects, their properties, and relations. Until recently, interpreting and extracting that information from documents are almost done by a manual process. To intelligently automate the conventional process, the computer has to understand the semantics of natural languages. In this regards, this paper suggests an approach to utilizing NLP for semantic analysis which enables the computer to understand the semantics of the given text data. The proposed approach has following steps: 1) extract noun words which mostly represent objects and property data in Korean Building Act; 2) analyze the semantic relations between words, using NLP and deep learning; 3) Based on domain database, translate the noun words in objects and properties data and find out their relations.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,NLP (Natural Language Processing); Deep learning; Design requirements; Korean Building Act; Semantic analysis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,leejinkook@yonsei.ac.kr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (440,750 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Collobert, R. and Weston, J. (2008) 
+ A unified architecture for natural language processing: Deep neural networks with multitask learning
+, Proceedings of the 25th international conference on Machine learnin, pp. 160-167
+
+
+
+
+
+
+
+Eastman, C.M., Lee, J.M., Jeong, Y.S. and Lee, J.K. (2009) 
+ Automatic rule-based checking of building design
+, Automation in construction, 18, pp. 1011-1033
+
+
+
+
+
+
+
+LeCun, Y., Bengio, Y, and Hinton, G, (2015) 
+ Deep learning
+, Nature, 521, pp. 436-444
+
+
+
+
+
+
+
+Lee, H.S, Lee, J.K., Park, S.K and Kim, I.H (2016) 
+ Translating building legislation into a computer-executable format for evaluating building permit requirements
+, Automation in Construction, 71, pp. 49-61
+
+
+
+
+
+
+
+Mikolov, T, Sutskever, I, Chen, K, Corrado, G.S. and Dean, J (2013) 
+ Distributed representations of words and phrases and their compositionality
+, Advances in Neural Information Processing Systems, 26, pp. 3111-3119
+
+
+
+
+
+
+
+Miller, G.A. (1995) 
+ WordNet: a lexical database for English
+, Communications of the ACM, 38, pp. 39-41
+
+
+
+
+
+
+
+Nawari, O.N. (2012) 
+ Automated Code Checking in BIM Environment
+, 14th International Conference on Computing in Civil and Building Engineering
+
+
+
+
+
+
+
+Park, E.L. and Cho, S. (2014) 
+ KoNLPy: Korean natural language processing in Python
+, Proceedings of the 26th Annual Conference on Human & Cognitive Language Technology, pp. 133-136
+
+
+
+
+
+
+
+Pauwles, P. and Zhang, S. (2015) 
+ Semantic rule-checking for regulation compliance checking: An overview of strategies and approaches
+, 32rd International CIB W78 conference
+
+
+
+
+
+
+
+Rumelhart, D.E., Hinton, G. and Williams, R.J. (1986) 
+ Learnin representations by back-propagating errors
+, Nature, 323, p. 533
+
+
+
+
+
+
+
+Solihin, W. and Eastman, C.M. (2015) 
+ Classification of rules for automated BIM rule checking development
+, Automation in construction, 53, pp. 69-82
+
+
+
+
+
+
+
+Zhang, J and El-Gohary, N.M. (2013) 
+ Semantic NLP-based infomation extraction from construction regulatory documents for automated compliance checking
+, Journal of Computing in Civil Engineering, 30, p. 04015014
+
+
+
+
+
+
+
+Zhang, J and El-Gohary, N.M. (2017) 
+ Intergrating semantic NLP and logical reasoning into a unified system for fully-automated code checking
+, Automation in construction, 73, pp. 45-57",,"Collobert, R. and Weston, J. (2008) 
+ A unified architecture for natural language processing: Deep neural networks with multitask learning
+, Proceedings of the 25th international conference on Machine learnin, pp. 160-167",,,,"Eastman, C.M., Lee, J.M., Jeong, Y.S. and Lee, J.K. (2009) 
+ Automatic rule-based checking of building design
+, Automation in construction, 18, pp. 1011-1033",,,,"LeCun, Y., Bengio, Y, and Hinton, G, (2015) 
+ Deep learning
+, Nature, 521, pp. 436-444",,,,"Lee, H.S, Lee, J.K., Park, S.K and Kim, I.H (2016) 
+ Translating building legislation into a computer-executable format for evaluating building permit requirements
+, Automation in Construction, 71, pp. 49-61",,,,"Mikolov, T, Sutskever, I, Chen, K, Corrado, G.S. and Dean, J (2013) 
+ Distributed representations of words and phrases and their compositionality
+, Advances in Neural Information Processing Systems, 26, pp. 3111-3119",,,,"Miller, G.A. (1995) 
+ WordNet: a lexical database for English
+, Communications of the ACM, 38, pp. 39-41",,,,"Nawari, O.N. (2012) 
+ Automated Code Checking in BIM Environment
+, 14th International Conference on Computing in Civil and Building Engineering",,,,"Park, E.L. and Cho, S. (2014) 
+ KoNLPy: Korean natural language processing in Python
+, Proceedings of the 26th Annual Conference on Human & Cognitive Language Technology, pp. 133-136",,,,"Pauwles, P. and Zhang, S. (2015) 
+ Semantic rule-checking for regulation compliance checking: An overview of strategies and approaches
+, 32rd International CIB W78 conference",,,,"Rumelhart, D.E., Hinton, G. and Williams, R.J. (1986) 
+ Learnin representations by back-propagating errors
+, Nature, 323, p. 533",,,,"Solihin, W. and Eastman, C.M. (2015) 
+ Classification of rules for automated BIM rule checking development
+, Automation in construction, 53, pp. 69-82",,,,"Zhang, J and El-Gohary, N.M. (2013) 
+ Semantic NLP-based infomation extraction from construction regulatory documents for automated compliance checking
+, Journal of Computing in Civil Engineering, 30, p. 04015014",,,,"Zhang, J and El-Gohary, N.M. (2017) 
+ Intergrating semantic NLP and logical reasoning into a unified system for fully-automated code checking
+, Automation in construction, 73, pp. 45-57",,
+11,2018/05/17 07:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,138 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40
+0,caadria2021_161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Zhao, Xin, Han, Yunsong and Shen, Linhai",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Multi-objective Optimisation of a Free-form Building Shape to improve the Solar Energy Utilisation Potential using Artificial Neural Networks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"A. Globa, J. van Ameijde, A. Fingrut, N. Kim, T.T.S. Lo (eds.), PROJECTIONS - Proceedings of the 26th CAADRIA Conference - Volume 1, The Chinese University of Hong Kong and Online, Hong Kong, 29 March - 1 April 2021, pp. 221-230",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Optimisation of free-form building design is more challenging in terms of building information modelling and performance evaluation compared to conventional buildings. The paper provides a Photogrammetry-based BIM Modelling - Machine Learning Modelling - Multi-objective Optimisation framework to improve the solar energy utilisation potential of free-form buildings. Low altitude photogrammetry is used to collect the building and site environmental information. An ANN prediction model is developed using the control point coordinates and simulation data. Through parametric programming, the multi-objective algorithm is coupled with the ANN model to obtain the trade-off optimal building form. The results show that the maximum solar radiation value in winter can increase by 30.60% and the minimum solar radiation in summer can decrease by 13.99%. It is also shown that the integration of ANN modelling and photogrammetry-based BIM modelling into the multi-objective optimisation method can accelerate the optimisation process.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Multi-objective optimisation; Artificial neural network; Free-form shape building ; Solar energy utilisation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,hanyunsong@hit.edu.cn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (10,328,925 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Asadi, E., Silva, M., Antunes, C., Dias, L. and Glicksman, L. (2014) 
+ Multi-objective optimization for building retrofit: A model using genetic algorithm and artificial neural network and an application.
+, Energy and Buildings, 81, pp. 444-456
+
+
+
+
+
+
+
+Bagheri-Esfeh, H., Safikhani, H. and Motahar, S. (2020) 
+ Multi-objective optimization of cooling and heating loads in residential buildings integrated with phase change materials using the artificial neural network and genetic algorithm
+, Journal of Energy Storage, 32, pp. 1-11
+
+
+
+
+
+
+
+Camporeale, P.E. and Mercader-Moyano, P. (2019) 
+ Towards nearly Zero Energy Buildings: Shape optimization of typical housing typologies in Ibero-American temperate climate cities from a holistic perspective
+, Solar Energy, 193, pp. 738-765
+
+
+
+
+
+
+
+Ciardiello, A., Rosso, F., Dell'Olmo, J., Ciancio, V., Ferrero, M. and Salata, F. (2020) 
+ Multi-objective approach to the optimization of shape and envelope in building energy design Adriana
+, Applied Energy, 280, p. 115984
+
+
+
+
+
+
+
+Jin, J. and Jeong, J. (2014) 
+ Optimization of a free-form building shape to minimize external thermal load using genetic algorithm.
+, Energy and Buildings, 85, pp. 473-482
+
+
+
+
+
+
+
+Seyedzadeh, S., Rahimian, F.P., Oliver, S., Glesk, I. and Kumar, B. (2020) 
+ Data driven model improved by multi-objective optimisation for prediction of building energy loads
+, Automation in Construction, 116, p. 103188
+
+
+
+
+
+
+
+Si, B., Wang, J., Yao, X., Shi, X., Jing, X. and Zhou, X. (2019) 
+ Multi-objective optimization design of a complex building based on an artificial neural network and performance evaluation of algorithms
+, Advanced Engineering Informatics, 40, pp. 93-109
+
+
+
+
+
+
+
+Sun, C., Liu, Q. and Han, Y. (2020) 
+ Many-Objective Optimization Design of a Public Building for Energy, Daylighting and Cost Performance Improvement
+, Applied Sciences, 10, p. 2435
+
+
+
+
+
+
+
+Wong, S., Wan, K. and Lam, T. (2010) 
+ Artificial neural networks for energy analysis of office buildings with daylighting.
+, Applied Energy, 87(2), pp. 551-557
+
+
+
+
+
+
+
+Zhang, L., Zhang, L. and Wang, Y. (2016) 
+ Shape optimization of free-form buildings based on solar radiation gain and space efficiency using a multi-objective genetic algorithm in the severe cold zones of China
+, Solar Energy, 132, pp. 38-50",,"Asadi, E., Silva, M., Antunes, C., Dias, L. and Glicksman, L. (2014) 
+ Multi-objective optimization for building retrofit: A model using genetic algorithm and artificial neural network and an application.
+, Energy and Buildings, 81, pp. 444-456",,,,"Bagheri-Esfeh, H., Safikhani, H. and Motahar, S. (2020) 
+ Multi-objective optimization of cooling and heating loads in residential buildings integrated with phase change materials using the artificial neural network and genetic algorithm
+, Journal of Energy Storage, 32, pp. 1-11",,,,"Camporeale, P.E. and Mercader-Moyano, P. (2019) 
+ Towards nearly Zero Energy Buildings: Shape optimization of typical housing typologies in Ibero-American temperate climate cities from a holistic perspective
+, Solar Energy, 193, pp. 738-765",,,,"Ciardiello, A., Rosso, F., Dell'Olmo, J., Ciancio, V., Ferrero, M. and Salata, F. (2020) 
+ Multi-objective approach to the optimization of shape and envelope in building energy design Adriana
+, Applied Energy, 280, p. 115984",,,,"Jin, J. and Jeong, J. (2014) 
+ Optimization of a free-form building shape to minimize external thermal load using genetic algorithm.
+, Energy and Buildings, 85, pp. 473-482",,,,"Seyedzadeh, S., Rahimian, F.P., Oliver, S., Glesk, I. and Kumar, B. (2020) 
+ Data driven model improved by multi-objective optimisation for prediction of building energy loads
+, Automation in Construction, 116, p. 103188",,,,"Si, B., Wang, J., Yao, X., Shi, X., Jing, X. and Zhou, X. (2019) 
+ Multi-objective optimization design of a complex building based on an artificial neural network and performance evaluation of algorithms
+, Advanced Engineering Informatics, 40, pp. 93-109",,,,"Sun, C., Liu, Q. and Han, Y. (2020) 
+ Many-Objective Optimization Design of a Public Building for Energy, Daylighting and Cost Performance Improvement
+, Applied Sciences, 10, p. 2435",,,,"Wong, S., Wan, K. and Lam, T. (2010) 
+ Artificial neural networks for energy analysis of office buildings with daylighting.
+, Applied Energy, 87(2), pp. 551-557",,,,"Zhang, L., Zhang, L. and Wang, Y. (2016) 
+ Shape optimization of free-form buildings based on solar radiation gain and space efficiency using a multi-objective genetic algorithm in the severe cold zones of China
+, Solar Energy, 132, pp. 38-50",,
+11,2021/03/29 07:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

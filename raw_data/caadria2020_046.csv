@@ -1,0 +1,186 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56
+0,caadria2020_046,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Alva, Pradeep, Lee, Han Jie, Lin, Zhuoli, Mehta, Palak, Chen, Jielin and Janssen, Patrick",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Geo-computation for District Planning - An Agile Automated Modelling Approach,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 1, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 793-802",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper focuses on developing a novel geo-computational methodology for automating the generation of design options for district planning. The knowledge contribution focuses on the ability of the planners and designers to interact with and override the automated process. This approach is referred to as ""agile automated modelling"". The approach is demonstrated through a case study in which three adjacent districts are generated with a total area of approximately 1300 hectares. An automated modelling process is implemented based on a set of core planning principles established by the planners. The automated process generates street networks, land parcels, and 3-dimensional urban models. The process is broken down into three steps and users are then able to intervene at the end of every step to override and modify the outputs. This aims to help planners and designers to iteratively generate and assess various planning outcomes.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Geo-computation; procedural modelling; GIS; planning automation; neural network,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,akipaa@nus.edu.sg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (15,875,347 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Alva, P., Janssen, P. and Stouffs, R. (2019) 
+ Geospatial tool-chains: Planning support systems for organisational teams
+, International Journal of Architectural Computing, 17(4), pp. 336-356
+
+
+
+
+
+
+
+Alva, P., Janssen, P. and Stouffs, R. (2019) 
+ A spatial decision support framework for planning: Creating tool-chains for organisational teams
+, Intelligent & Informed - Proceedings of the 24th CAADRIA Conference, 2019, Victoria University of Wellington, NewZealand, pp. 11-20
+
+
+
+
+
+
+
+Atkinson, P. M. and Martin, D. (2000) 
+ GIS and GeoComputation
+, Taylor & Francis, London;New York
+
+
+
+
+
+
+
+Cheng, T., Haworth, J. and Manley, E. (2012) 
+ Advances in geocomputation (1996-2011)
+, Computers, Environment and Urban Systems, 36(6), pp. 481-7
+
+
+
+
+
+
+
+Fischer, M.M. and Nijkamp, P. (2019) 
+ Handbook of regional science
+, Springer Berlin Heidelberg, Berlin, Heidelberg
+
+
+
+
+
+
+
+Fischer, M.M. (1998) 
+ Computational Neural Networks: A New Paradigm for Spatial Analysis
+, Environment and Planning A: Economy and Space, 30(10), p. 1873-1891
+
+
+
+
+
+
+
+Heumann, A. and Davis, D. (2020) 
+ Humanizing Architectural Automation: A Case Study in Office Layouts
+, Gengnagel, C., Baverel, O., Burry, J., Ramsgaard Thomsen, M. and Weinzierl, S. (eds), Impact: Design With All Senses, DMSB 2019. Springer, Cham, Cham
+
+
+
+
+
+
+
+Li, S., Dragicevic, S., Castro, F.A., Sester, M., Coltekin, A., Pettit, C., Jiang, B., Haworth, J. and Stein, A. (2016) 
+ Geospatial big data handling theory and methods: A review and research challenges
+, ISPRS journal of photogrammetry and remote sensing, 115, pp. 119-133
+
+
+
+
+
+
+
+Marshall, S., Hudson-Smith, A. and Farndon, D. (2019) 
+ Digital participation - taking
+, Town and Country Planning, 88(1), pp. 11-14
+
+
+
+
+
+
+
+Martin, R.C. (2003) 
+ Agile software development: Principles, patterns, and practices
+, Pearson Education., Upper Saddle River, N.J
+
+
+
+
+
+
+
+Openshaw, S. and Abrahart, R.J. (2000) 
+ Geocomputation
+, New York: Taylor & Francis, London
+
+
+
+
+
+
+
+Openshaw, S. (1998) 
+ Towards a more computationally minded scientific human geography
+, Environment and Planning A: Economy and Space, 30(2), pp. 317-32
+
+
+
+
+
+
+
+Stouffs, R. and Janssen, P. (2017) 
+ A Rule-Based Generative Analysis Approach for Urban Planning
+, Lee, J.H. (eds), Morphological Analysis of Cultural DNA, KAIST Research Series, Springer, Singapore, pp. 125-136
+
+
+
+
+
+
+
+Thill, J. and Dragicevic, S. (2018) 
+ GeoComputational analysis and modeling of regional systems
+, Springer International Publishing, Cham",,"Alva, P., Janssen, P. and Stouffs, R. (2019) 
+ Geospatial tool-chains: Planning support systems for organisational teams
+, International Journal of Architectural Computing, 17(4), pp. 336-356",,,,"Alva, P., Janssen, P. and Stouffs, R. (2019) 
+ A spatial decision support framework for planning: Creating tool-chains for organisational teams
+, Intelligent & Informed - Proceedings of the 24th CAADRIA Conference, 2019, Victoria University of Wellington, NewZealand, pp. 11-20",,,,"Atkinson, P. M. and Martin, D. (2000) 
+ GIS and GeoComputation
+, Taylor & Francis, London;New York",,,,"Cheng, T., Haworth, J. and Manley, E. (2012) 
+ Advances in geocomputation (1996-2011)
+, Computers, Environment and Urban Systems, 36(6), pp. 481-7",,,,"Fischer, M.M. and Nijkamp, P. (2019) 
+ Handbook of regional science
+, Springer Berlin Heidelberg, Berlin, Heidelberg",,,,"Fischer, M.M. (1998) 
+ Computational Neural Networks: A New Paradigm for Spatial Analysis
+, Environment and Planning A: Economy and Space, 30(10), p. 1873-1891",,,,"Heumann, A. and Davis, D. (2020) 
+ Humanizing Architectural Automation: A Case Study in Office Layouts
+, Gengnagel, C., Baverel, O., Burry, J., Ramsgaard Thomsen, M. and Weinzierl, S. (eds), Impact: Design With All Senses, DMSB 2019. Springer, Cham, Cham",,,,"Li, S., Dragicevic, S., Castro, F.A., Sester, M., Coltekin, A., Pettit, C., Jiang, B., Haworth, J. and Stein, A. (2016) 
+ Geospatial big data handling theory and methods: A review and research challenges
+, ISPRS journal of photogrammetry and remote sensing, 115, pp. 119-133",,,,"Marshall, S., Hudson-Smith, A. and Farndon, D. (2019) 
+ Digital participation - taking
+, Town and Country Planning, 88(1), pp. 11-14",,,,"Martin, R.C. (2003) 
+ Agile software development: Principles, patterns, and practices
+, Pearson Education., Upper Saddle River, N.J",,,,"Openshaw, S. and Abrahart, R.J. (2000) 
+ Geocomputation
+, New York: Taylor & Francis, London",,,,"Openshaw, S. (1998) 
+ Towards a more computationally minded scientific human geography
+, Environment and Planning A: Economy and Space, 30(2), pp. 317-32",,,,"Stouffs, R. and Janssen, P. (2017) 
+ A Rule-Based Generative Analysis Approach for Urban Planning
+, Lee, J.H. (eds), Morphological Analysis of Cultural DNA, KAIST Research Series, Springer, Singapore, pp. 125-136",,,,"Thill, J. and Dragicevic, S. (2018) 
+ GeoComputational analysis and modeling of regional systems
+, Springer International Publishing, Cham",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

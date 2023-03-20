@@ -1,0 +1,162 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48
+0,caadria2020_054,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Shen, Jiaqi, Liu, Chuan, Ren, Yue and Zheng, Hao",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Machine Learning Assisted Urban Filling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 2, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 679-688",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"When drawing urban scale plans, designers should always define the position and the shape of each building. This process usually costs much time in the early design stage when the condition of a city has not been finally determined. Thus the designers spend a lot of time working forward and backward drawing sketches for different characteristics of cities. Meanwhile, machine learning, as a decision-making tool, has been widely used in many fields. Generative Adversarial Network (GAN) is a model frame in machine learning, specially designed to learn and generate image data. Therefore, this research aims to apply GAN in creating urban design plans, helping designers automatically generate the predicted details of buildings configuration with a given condition of cities. Through the machine learning of image pairs, the result shows the relationship between the site conditions (roads, green lands, and rivers) and the configuration of buildings. This automatic design tool can help release the heavy load of urban designers in the early design stage, quickly providing a preview of design solutions for urban design tasks. The analysis of different machine learning models trained by the data from different cities inspires urban designers with design strategies and features in distinct conditions.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Artificial Intelligence; Urban Design; Generative Adversarial Networks; Machine Learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,zhhao@design.upenn.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (6,391,378 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Agarwal, S, Dave, R and Bassett, BA (2018) 
+ Painting galaxies into dark matter haloes using machine learning
+, Monthly Notices of the Royal Astronomical Society, 478(3), pp. 3410-3422
+
+
+
+
+
+
+
+Cheng, CI and Liu, DSM (2008) 
+ An intelligent clothes search system based on fashion styles
+, 2008 International Conference on Machine Learning and Cybernetics, pp. 1592-1597
+
+
+
+
+
+
+
+Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative adversarial nets
+, Advances in neural information processing systems, pp. 2672-2680
+
+
+
+
+
+
+
+Huang, W and Zheng, H (2018) 
+ Architectural drawings recognition and generation through machine learning
+, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture, Mexico City, Mexico, pp. 18-20
+
+
+
+
+
+
+
+Kim, HS and Cho, SB (2000) 
+ Application of interactive genetic algorithm to fashion design
+, Engineering applications of artificial intelligence, 13(6), pp. 635-644
+
+
+
+
+
+
+
+Kvochick, T (2018) 
+ Sneaky Spatial Segmentation. Reading architectural drawings with Deep neural networks and without labeling data
+, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture, Mexico City, Mexico
+
+
+
+
+
+
+
+Mirabal, N, Charles, E, Ferrara, E, Gonthier, P, Harding, A, Sanchez-Conde, MA and Thompson, D (2016) 
+ 3FGL demographics outside the galactic plane using supervised machine learning: Pulsar and dark matter subhalo interpretations
+, The Astrophysical Journal, 825(1), p. 69
+
+
+
+
+
+
+
+Paganini, M, de Oliveira, L and Nachman, B (2018) 
+ CaloGAN: Simulating 3D high energy particle showers in multilayer electromagnetic calorimeters with generative adversarial networks
+, Physical Review D, 97(1), p. 014021
+
+
+
+
+
+
+
+Steinfeld, K, Park, K, Menges, A and Walker, S (2019) 
+ Fresh Eyes A framework for the application of machine learning to generative architectural design, and a report of activities at Smartgeometry 2018
+, Proceedings of CAAD Futures 2019
+
+
+
+
+
+
+
+Wang, TC, Liu, MY, Zhu, JY, Tao, A, Kautz, J and Catanzaro, B (2018) 
+ High-resolution image synthesis and semantic manipulation with conditional gans
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 8798-8807
+
+
+
+
+
+
+
+Zheng, H and Huang, W (2018) 
+ Understanding and Visualizing Generative Adversarial Network in Architectural Drawings
+, Proceedings of the 23rd International Conference on Computer-Aided Architectural Design Research in Asia, Beijing, China
+
+
+
+
+
+
+
+Zheng, H (2018) 
+ Drawing with Bots Human-computer Collaborative Drawing Experiments
+, Proceedings of the 23rd International Conference on Computer-Aided Architectural Design Research in Asia, Beijing, China",,"Agarwal, S, Dave, R and Bassett, BA (2018) 
+ Painting galaxies into dark matter haloes using machine learning
+, Monthly Notices of the Royal Astronomical Society, 478(3), pp. 3410-3422",,,,"Cheng, CI and Liu, DSM (2008) 
+ An intelligent clothes search system based on fashion styles
+, 2008 International Conference on Machine Learning and Cybernetics, pp. 1592-1597",,,,"Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative adversarial nets
+, Advances in neural information processing systems, pp. 2672-2680",,,,"Huang, W and Zheng, H (2018) 
+ Architectural drawings recognition and generation through machine learning
+, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture, Mexico City, Mexico, pp. 18-20",,,,"Kim, HS and Cho, SB (2000) 
+ Application of interactive genetic algorithm to fashion design
+, Engineering applications of artificial intelligence, 13(6), pp. 635-644",,,,"Kvochick, T (2018) 
+ Sneaky Spatial Segmentation. Reading architectural drawings with Deep neural networks and without labeling data
+, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture, Mexico City, Mexico",,,,"Mirabal, N, Charles, E, Ferrara, E, Gonthier, P, Harding, A, Sanchez-Conde, MA and Thompson, D (2016) 
+ 3FGL demographics outside the galactic plane using supervised machine learning: Pulsar and dark matter subhalo interpretations
+, The Astrophysical Journal, 825(1), p. 69",,,,"Paganini, M, de Oliveira, L and Nachman, B (2018) 
+ CaloGAN: Simulating 3D high energy particle showers in multilayer electromagnetic calorimeters with generative adversarial networks
+, Physical Review D, 97(1), p. 014021",,,,"Steinfeld, K, Park, K, Menges, A and Walker, S (2019) 
+ Fresh Eyes A framework for the application of machine learning to generative architectural design, and a report of activities at Smartgeometry 2018
+, Proceedings of CAAD Futures 2019",,,,"Wang, TC, Liu, MY, Zhu, JY, Tao, A, Kautz, J and Catanzaro, B (2018) 
+ High-resolution image synthesis and semantic manipulation with conditional gans
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 8798-8807",,,,"Zheng, H and Huang, W (2018) 
+ Understanding and Visualizing Generative Adversarial Network in Architectural Drawings
+, Proceedings of the 23rd International Conference on Computer-Aided Architectural Design Research in Asia, Beijing, China",,,,"Zheng, H (2018) 
+ Drawing with Bots Human-computer Collaborative Drawing Experiments
+, Proceedings of the 23rd International Conference on Computer-Aided Architectural Design Research in Asia, Beijing, China",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

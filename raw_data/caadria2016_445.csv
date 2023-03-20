@@ -1,0 +1,102 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+0,caadria2016_445,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Silvestre, Joaquim; Franc?ois Gue?na and Yasushi Ikeda",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2016,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Edition-Oriented 3D Model Rebuilt from Photography,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Living Systems and Micro-Utopias: Towards Continuous Designing, Proceedings of the 21st International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2016) / Melbourne 30 March2 April 2016, pp. 445-454",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The topic of this paper is about a technique to turn pictures into an intuitively modifiable 3D model. The research employs an analytical method using algorithms to conceptualise and digital- ise architectural spaces in order to highlight parametric shapes. Usual- ly, from one group of digital photos, photogrammetry techniques pro- duce a 3D-model mesh through a high-density 3D point cloud. This discordance between our intuitive partitioning of the mesh and its bare polygonal structure makes it interact poorly compared to the af- fordance of shape and component in our daily experience. Through a capture device, a visualisation of architecture in a digital data form is produced. They are processed by computer vision algorithms and ma- chine learning systems in order to be refined into a parametric model. Parametric elements can be described as a compound of formulas and parameters. By keeping the formula and changing the parameters, the- se elements can be easily modified in a range of likenesses. After be- ing detected during scans, these shapes can be adapted to fit the inten- tion of the designer during the design phase.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Photogrammetry; convolutional neural network; 3D model; design tool,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,j.silvestre82@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (25,234,811 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Farabet,C.; Courpie, C.; Najman, L.; LeCun, Y. (2013) 
+ Learning Hierarchical Features for Scene Labeling
+, IEEE Trans
+
+
+
+
+
+
+
+Flynn, J.; Neulander, I.; Philbin,J.; Snavely, N. (2015) 
+ DeepStereo: Learning to Predict New views from the Worlds Imagery
+, arXiv
+
+
+
+
+
+
+
+Martinoviæ,A. (2015) 
+ Inverse Procedural Modeling of Buildings (Thesis)
+, Arenberg doctoral school
+
+
+
+
+
+
+
+Nielsen, N. M. (2015) 
+ Neural Networks and Deep Learning
+, Detremination Press
+
+
+
+
+
+
+
+Shen, C-H.; Fu, H.; Chen, K.; Hu, S-M. (2012) 
+ Structure recovery by part assembly
+, Proceedings of ACM SIGGRAPH Asia 2012
+
+
+
+
+
+
+
+Tang, P.; Huber, D.; Akinci, B.; Lipman, R.; Lytle, A. (2010) 
+ Automatic reconstruction of asbuilt building information models from laser-scanned point clouds: a review techniques
+, Automation in construction
+
+
+
+
+
+
+
+Wood, J. (2007) 
+ Design for Micro-Utopias: Making the Unthinkable Possible
+, Gower",,"Farabet,C.; Courpie, C.; Najman, L.; LeCun, Y. (2013) 
+ Learning Hierarchical Features for Scene Labeling
+, IEEE Trans",,,,"Flynn, J.; Neulander, I.; Philbin,J.; Snavely, N. (2015) 
+ DeepStereo: Learning to Predict New views from the Worlds Imagery
+, arXiv",,,,"Martinoviæ,A. (2015) 
+ Inverse Procedural Modeling of Buildings (Thesis)
+, Arenberg doctoral school",,,,"Nielsen, N. M. (2015) 
+ Neural Networks and Deep Learning
+, Detremination Press",,,,"Shen, C-H.; Fu, H.; Chen, K.; Hu, S-M. (2012) 
+ Structure recovery by part assembly
+, Proceedings of ACM SIGGRAPH Asia 2012",,,,"Tang, P.; Huber, D.; Akinci, B.; Lipman, R.; Lytle, A. (2010) 
+ Automatic reconstruction of asbuilt building information models from laser-scanned point clouds: a review techniques
+, Automation in construction",,,,"Wood, J. (2007) 
+ Design for Micro-Utopias: Making the Unthinkable Possible
+, Gower",,
+11,2016/03/11 09:21,,,,,,,,,,,,,,,,,,,,,,,,,,,,

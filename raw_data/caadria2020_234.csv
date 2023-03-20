@@ -1,0 +1,138 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40
+0,caadria2020_234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Zhang, Hang and Blasetti, Ezio",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,3D Architectural Form Style Transfer through Machine Learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"D. Holzer, W. Nakapan, A. Globa, I. Koh (eds.), RE: Anthropocene, Design in the Age of Humans - Proceedings of the 25th CAADRIA Conference - Volume 2, Chulalongkorn University, Bangkok, Thailand, 5-6 August 2020, pp. 659-668",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In recent years, a tremendous amount of progress is being made in the field of machine learning, but it is still very hard to directly apply 3D Machine Learning on the architectural design due to the practical constraints on model resolution and training time. Based on the past several years' development of GAN (Generative Adversarial Network), also the method of spatial sequence rules, the authors mainly introduces 3D architectural form style transfer on 2 levels of scale (overall and detailed) through multiple methods of machine learning algorithms which are trained with 2 types of 2D training data set (serial stack and multi-view) at a relatively decent resolution. By exploring how styles interact and influence the original content in neural networks on the 2D level, it is possible for designers to manually control the expected output of 2D images, result in creating the new style 3D architectural model with a clear designing approach.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,3D; Form Finding; Style Transfer; Machine Learning; Architectural Design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,kv333q@upenn.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (7,240,848 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Del, DCM, Manninger, MS, Sanche, SM and Wang, WL (2019) 
+ The Church of AI-Anexamination of architecture in a posthuman design ecology.
+, Proceedings of CAADRIA 2019
+
+
+
+
+
+
+
+Gatys, GLA, Ecker, EAS and Bethge, BM (2016) 
+ Image style transfer using convolutional neural networks.
+, Proceedings of the IEEE conference on computer vision andpattern recognition
+
+
+
+
+
+
+
+Goodfellow, GI, Pouget-Abadie, PAJ and Mirza, MM (2014) 
+ Generative adversarial nets.
+, Advances in neural information processing systems., 2014, pp. 2672-2680
+
+
+
+
+
+
+
+Huang, HWX and Zheng, ZH (2018) 
+ Architectural drawings recognition and generation through ma-chine learning
+, Proceedings of ACADIA 2018
+
+
+
+
+
+
+
+Isola, IP, Zhu, ZJ, Zhou, ZT and Efros, EAA (2017) 
+ image-to-image translation with condi-tional adversarial networks
+, Proceedings of the IEEE Conference on Computer Visionand Pattern Recognition
+
+
+
+
+
+
+
+Ruder, RM, Dosovitskiy, DA and Brox, BT (2016) 
+ Artistic style transfer for videos
+, German Conference on Pattern Recognition 2016
+
+
+
+
+
+
+
+Sousa, SJP, Xavier, XJP and Castro, CH (2019) 
+ Deep Form Finding - UsingVariational Autoencoders for deep form finding of structural typologies.
+, Proceedings of eCAADe 2019
+
+
+
+
+
+
+
+Zhang, ZH (2019) 
+ 3D Model Generation on Architectural Plan and Section Training through Machine Learning.
+, MDPI Technologies, 7(4), p. 82
+
+
+
+
+
+
+
+Zheng, ZH (2019) 
+ Form Finding and Evaluating Through Machine Learning: ThePrediction of Personal Design Preference in Polyhedral Structures
+, Proceedings of the 2019 DigitalFUTURES
+
+
+
+
+
+
+
+Zhu, ZJY, Park, PT, Isola, IP and Efros, EAA (2017) 
+ Unpaired image-to-image trans-lation using cycle-consistent adversarial networks.
+, Proceedings of the IEEE internationalconference on computer vision",,"Del, DCM, Manninger, MS, Sanche, SM and Wang, WL (2019) 
+ The Church of AI-Anexamination of architecture in a posthuman design ecology.
+, Proceedings of CAADRIA 2019",,,,"Gatys, GLA, Ecker, EAS and Bethge, BM (2016) 
+ Image style transfer using convolutional neural networks.
+, Proceedings of the IEEE conference on computer vision andpattern recognition",,,,"Goodfellow, GI, Pouget-Abadie, PAJ and Mirza, MM (2014) 
+ Generative adversarial nets.
+, Advances in neural information processing systems., 2014, pp. 2672-2680",,,,"Huang, HWX and Zheng, ZH (2018) 
+ Architectural drawings recognition and generation through ma-chine learning
+, Proceedings of ACADIA 2018",,,,"Isola, IP, Zhu, ZJ, Zhou, ZT and Efros, EAA (2017) 
+ image-to-image translation with condi-tional adversarial networks
+, Proceedings of the IEEE Conference on Computer Visionand Pattern Recognition",,,,"Ruder, RM, Dosovitskiy, DA and Brox, BT (2016) 
+ Artistic style transfer for videos
+, German Conference on Pattern Recognition 2016",,,,"Sousa, SJP, Xavier, XJP and Castro, CH (2019) 
+ Deep Form Finding - UsingVariational Autoencoders for deep form finding of structural typologies.
+, Proceedings of eCAADe 2019",,,,"Zhang, ZH (2019) 
+ 3D Model Generation on Architectural Plan and Section Training through Machine Learning.
+, MDPI Technologies, 7(4), p. 82",,,,"Zheng, ZH (2019) 
+ Form Finding and Evaluating Through Machine Learning: ThePrediction of Personal Design Preference in Polyhedral Structures
+, Proceedings of the 2019 DigitalFUTURES",,,,"Zhu, ZJY, Park, PT, Isola, IP and Efros, EAA (2017) 
+ Unpaired image-to-image trans-lation using cycle-consistent adversarial networks.
+, Proceedings of the IEEE internationalconference on computer vision",,
+11,2020/08/14 18:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

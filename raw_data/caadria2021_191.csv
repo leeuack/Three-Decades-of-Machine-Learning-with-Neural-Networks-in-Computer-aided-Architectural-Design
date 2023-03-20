@@ -1,0 +1,210 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64
+0,caadria2021_191,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Shou, Xinyue, Chen, Pinyang and Zheng, Hao",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Predicting the Heat Map of Street Vendors from Pedestrian Flow through Machine Learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"A. Globa, J. van Ameijde, A. Fingrut, N. Kim, T.T.S. Lo (eds.), PROJECTIONS - Proceedings of the 26th CAADRIA Conference - Volume 2, The Chinese University of Hong Kong and Online, Hong Kong, 29 March - 1 April 2021, pp. 569-578",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Street vending is a recent policy advocated by city governments to support small and intermediate businesses in the post-pandemic period in China. Street vendors select their locations primarily based on their intuitions about the surrounding environment; they temporarily occupy popular locations that benefit their business. Taking the city of Chengdu as an example, this study aims to formulate the rules governing vendors location selection using machine learning and big data analysis techniques, thus identifying streets likely to become vital street markets. We propose a semantic segmentation method to construct heat maps that visualize and quantify the distribution of street vendors and pedestrians on public urban streets. The image-based generative adversarial network (GAN) is then trained to predict the vendors heat maps from the pedestrians heat map, finding the relationship between the locations of the vendors and the pedestrians. Our successful prediction of the vendors locations highlights machine learning techniques ability to quantify experience-based decision strategies. Moreover, suggesting potential marketing locations to vendors could help increase cities vitality.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Machine Learning; Big Data Analysis; Semantic Segmentation; Generative Adversarial Networks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,zhhao@design.upenn.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (14,090,662 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Elser, J. (2011) 
+ System and methods for comparing real properties for purchase and for generating heat maps to aid in identifying price anomalies of such real properties
+, Google Patents
+
+
+
+
+
+
+
+Gehl, J. (2013) 
+ Cities for people
+, Island press
+
+
+
+
+
+
+
+Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A. and Bengio, Y. (2014) 
+ Generative adversarial nets
+, Advances in neural information processing systems, 2014, pp. 2672-2680
+
+
+
+
+
+
+
+Hilton, B. N., Horan, T. A., Burkhard, R. and Schooley, B. (2011) 
+ SafeRoadMaps: Communication of location and density of traffic fatalities through spatial visualization and heat map analysis
+, Information Visualization, 10(1), pp. 82-96
+
+
+
+
+
+
+
+Huang, W. and Zheng, H. (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, ACADIA 2018, Mexico City, Mexico, pp. 156-165
+
+
+
+
+
+
+
+Isola, P., Zhu, J. Y., Zhou, T. and Efros, A. A. (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1125-1134
+
+
+
+
+
+
+
+Jacobs, J. (2016) 
+ The death and life of great American cities
+, Vintage
+
+
+
+
+
+
+
+Kuntsler, J. H. (1996) 
+ Home from nowhere: remaking our everyday world for the twenty-first century
+, Nova York: Touchstone
+
+
+
+
+
+
+
+Oswalt, P., Overmeyer, K. and Misselwitz, P. (2011) 
+ Urban catalyst: Strategies for temporary use
+, Birkhauser Basel
+
+
+
+
+
+
+
+Reades, J., De Souza, J. and Hubbard, P. (2019) 
+ Understanding urban gentrification through machine learning
+, Urban Studies, 56(5), pp. 922-942
+
+
+
+
+
+
+
+Sandig, J. D. E., Somoba, R. M., Concepcion, M. B. and Gerardo, B. D. (2013) 
+ Mining online gis for crime rate and models based on frequent pattern analysis
+, Proceedings of the World Congress on Engineering and Computer Science
+
+
+
+
+
+
+
+Sassen, S. (1991) 
+ The global city
+, New York
+
+
+
+
+
+
+
+Schmidhuber, J. (2015) 
+ Deep learning in neural networks: An overview
+, Neural networks, 61, pp. 85-117
+
+
+
+
+
+
+
+Shen, J., Liu, C., Ren, Y. and Zheng, H. (2020) 
+ Machine Learning Assisted Urban Filling
+, CAADRIA 2020, Bangkok, Thailand, pp. 2:681-690
+
+
+
+
+
+
+
+Yu, C. and He, Z. C. (2017) 
+ Analysing the spatial-temporal characteristics of bus travel demand using the heat map
+, Journal of Transport Geography, 58, pp. 247-255
+
+
+
+
+
+
+
+Zhao, H., Shi, J., Qi, X., Wang, X. and Jia, J. (2017) 
+ Pyramid scene parsing network
+, Proceedings of the IEEE conference on computer vision and pattern recognition",,"Elser, J. (2011) 
+ System and methods for comparing real properties for purchase and for generating heat maps to aid in identifying price anomalies of such real properties
+, Google Patents",,,,"Gehl, J. (2013) 
+ Cities for people
+, Island press",,,,"Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A. and Bengio, Y. (2014) 
+ Generative adversarial nets
+, Advances in neural information processing systems, 2014, pp. 2672-2680",,,,"Hilton, B. N., Horan, T. A., Burkhard, R. and Schooley, B. (2011) 
+ SafeRoadMaps: Communication of location and density of traffic fatalities through spatial visualization and heat map analysis
+, Information Visualization, 10(1), pp. 82-96",,,,"Huang, W. and Zheng, H. (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, ACADIA 2018, Mexico City, Mexico, pp. 156-165",,,,"Isola, P., Zhu, J. Y., Zhou, T. and Efros, A. A. (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1125-1134",,,,"Jacobs, J. (2016) 
+ The death and life of great American cities
+, Vintage",,,,"Kuntsler, J. H. (1996) 
+ Home from nowhere: remaking our everyday world for the twenty-first century
+, Nova York: Touchstone",,,,"Oswalt, P., Overmeyer, K. and Misselwitz, P. (2011) 
+ Urban catalyst: Strategies for temporary use
+, Birkhauser Basel",,,,"Reades, J., De Souza, J. and Hubbard, P. (2019) 
+ Understanding urban gentrification through machine learning
+, Urban Studies, 56(5), pp. 922-942",,,,"Sandig, J. D. E., Somoba, R. M., Concepcion, M. B. and Gerardo, B. D. (2013) 
+ Mining online gis for crime rate and models based on frequent pattern analysis
+, Proceedings of the World Congress on Engineering and Computer Science",,,,"Sassen, S. (1991) 
+ The global city
+, New York",,,,"Schmidhuber, J. (2015) 
+ Deep learning in neural networks: An overview
+, Neural networks, 61, pp. 85-117",,,,"Shen, J., Liu, C., Ren, Y. and Zheng, H. (2020) 
+ Machine Learning Assisted Urban Filling
+, CAADRIA 2020, Bangkok, Thailand, pp. 2:681-690",,,,"Yu, C. and He, Z. C. (2017) 
+ Analysing the spatial-temporal characteristics of bus travel demand using the heat map
+, Journal of Transport Geography, 58, pp. 247-255",,,,"Zhao, H., Shi, J., Qi, X., Wang, X. and Jia, J. (2017) 
+ Pyramid scene parsing network
+, Proceedings of the IEEE conference on computer vision and pattern recognition",,
+11,2021/03/29 07:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
