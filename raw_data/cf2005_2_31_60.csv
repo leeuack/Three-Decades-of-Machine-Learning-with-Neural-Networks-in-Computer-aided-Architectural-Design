@@ -1,0 +1,198 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60
+0,cf2005_2_31_60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,TALBOTT Kyle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Integrating Generative Modelling and Design Process,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Learning from the Past a Foundation for the Future [Special publication of papers presented at the CAAD futures 2005 conference held at the Vienna University of Technology / ISBN 3-85437-276-0], Vienna (Austria) 20-22 June 2005, pp. 77-88",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"While researchers learn to generate design options with a computer, the question of how a designer interacts with these options remains largely unexcavated. This paper explores how a generative system should interact with a designer. It argues that limitations in human cognition require a designer to manage the complexity of his task with a creative thinking strategy called Perception-Imagination Overlay. To support this, a generative system should present a progression of contextual design moves rather than a collection of finished solutions. After validating a set of interface requirements, the paper presents an example interface. The paper concludes that the development of computational methods cannot be legitimately isolated from the development of an appropriate designer-system interaction, and that integrating these concerns might transform our conception of generative systems.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"human-computer interaction, generative design, creativity, design process, 3D modelling",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,ktalbott@uwm.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (479,388 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Arlati, E., V. Bottelli, and C. Fogh (1996) 
+ Applying CBR to the Teaching of Architectural Design
+, Education for Practice  14th eCAADe Conference Proceedings, Lund, Sweden, 41-50
+
+
+
+
+
+
+
+Elezkurtaj, T., and G. Franck (2000) 
+ Geometry and Topology: A User-Interface to Artificial Evolution in Architectural Design
+, Promise and Reality: State of the Art versus State of Practice in Computing for the Design and Planning Process  18th eCAADe Conference Proceedings 309-312
+
+
+
+
+
+
+
+Garza, A.G.S., and M.U. Maher (2001) 
+ Using Evolutionary Methods for Design Case Adaptation
+, Reinventing the Discourse: Proceedings of the Twenty First Annual Conference of the Association for Computer-Aided Design in Architecture, 180-191. Buffalo, New York
+
+
+
+
+
+
+
+Goldschmidt, G. (1994) 
+ On Visual Design Thinking: The Vis Kids of Architecture
+, Design Studies 15(2): 158-174
+
+
+
+
+
+
+
+Goldschmidt, G. (1997) 
+ Capturing Indeterminism: Representation in the Design Problem Space
+, Design Studies 18(4): 441-455
+
+
+
+
+
+
+
+Heylighen, A., and H. Neuckermans (2003) 
+ Learning from Experience? Promises, Problems and Side-effects of Case-Based Reasoning in Architectural Design
+, International Journal of Architectural Computing 1(1): 60-70
+
+
+
+
+
+
+
+Janssen, P., J. Frazer, and M. Tang (2000) 
+ Evolutionary Design Systems: A Conceptual Framework for the Creation of Generative Processes
+, Proceedings of the 5th International Conference on Design Decision Support Systems in Architecture and Urban Planning, 190-200. Nijkerk, The Netherlands
+
+
+
+
+
+
+
+Lund, A. (2000) 
+ Evolving the Shape of Things to Come  A Comparison of Interactive Evolution and Direct Manipulation for Creative Tasks
+, International Conference on Generative Art, 1-13
+
+
+
+
+
+
+
+Moloney, J., and R. Issa (2003) 
+ Materials in Architectural Design Education Software: A Case Study
+, International Journal of Architectural Computing 1(1): 46-58
+
+
+
+
+
+
+
+Oxman, R., and A. Heylighen (2001) 
+ A Case with a View: Towards an Integration of Visual and Case-Based Reasoning in Design
+, Architectural Information Management  19th eCAADe Conference Proceedings, 336-341. Helsinki, Finland
+
+
+
+
+
+
+
+Schmidt-Belz, B., and L. Hovestadt (1996) 
+ Scenario of an Integrated Design Support for Architects
+, Design Studies 17: 489-509
+
+
+
+
+
+
+
+Schon, D.A., and G. Wiggins (1992) 
+ Kinds of Seeing and Their Functions in Designing
+, Design Studies 13: 135-156
+
+
+
+
+
+
+
+Silva, N.F., and A.H. Bridges (1997) 
+ Human-Computer Interaction and Neural Networks in Architectural Design: A Tool for Design Exploration
+, CAAD Futures 1997 Conference Proceedings, 267-284
+
+
+
+
+
+
+
+Soufi, B., and E. Edmonds (1996) 
+ The Cognitive Basis of Emergence: Implications for Design Support
+, Design Studies 17: 451-463
+
+
+
+
+
+
+
+Talbott, K. (2004) 
+ Divergent Thinking in the Construction of Architectural Models
+, International Journal of Architectural Computing 2(2): 263-286",,"Arlati, E., V. Bottelli, and C. Fogh (1996) 
+ Applying CBR to the Teaching of Architectural Design
+, Education for Practice  14th eCAADe Conference Proceedings, Lund, Sweden, 41-50",,,,"Elezkurtaj, T., and G. Franck (2000) 
+ Geometry and Topology: A User-Interface to Artificial Evolution in Architectural Design
+, Promise and Reality: State of the Art versus State of Practice in Computing for the Design and Planning Process  18th eCAADe Conference Proceedings 309-312",,,,"Garza, A.G.S., and M.U. Maher (2001) 
+ Using Evolutionary Methods for Design Case Adaptation
+, Reinventing the Discourse: Proceedings of the Twenty First Annual Conference of the Association for Computer-Aided Design in Architecture, 180-191. Buffalo, New York",,,,"Goldschmidt, G. (1994) 
+ On Visual Design Thinking: The Vis Kids of Architecture
+, Design Studies 15(2): 158-174",,,,"Goldschmidt, G. (1997) 
+ Capturing Indeterminism: Representation in the Design Problem Space
+, Design Studies 18(4): 441-455",,,,"Heylighen, A., and H. Neuckermans (2003) 
+ Learning from Experience? Promises, Problems and Side-effects of Case-Based Reasoning in Architectural Design
+, International Journal of Architectural Computing 1(1): 60-70",,,,"Janssen, P., J. Frazer, and M. Tang (2000) 
+ Evolutionary Design Systems: A Conceptual Framework for the Creation of Generative Processes
+, Proceedings of the 5th International Conference on Design Decision Support Systems in Architecture and Urban Planning, 190-200. Nijkerk, The Netherlands",,,,"Lund, A. (2000) 
+ Evolving the Shape of Things to Come  A Comparison of Interactive Evolution and Direct Manipulation for Creative Tasks
+, International Conference on Generative Art, 1-13",,,,"Moloney, J., and R. Issa (2003) 
+ Materials in Architectural Design Education Software: A Case Study
+, International Journal of Architectural Computing 1(1): 46-58",,,,"Oxman, R., and A. Heylighen (2001) 
+ A Case with a View: Towards an Integration of Visual and Case-Based Reasoning in Design
+, Architectural Information Management  19th eCAADe Conference Proceedings, 336-341. Helsinki, Finland",,,,"Schmidt-Belz, B., and L. Hovestadt (1996) 
+ Scenario of an Integrated Design Support for Architects
+, Design Studies 17: 489-509",,,,"Schon, D.A., and G. Wiggins (1992) 
+ Kinds of Seeing and Their Functions in Designing
+, Design Studies 13: 135-156",,,,"Silva, N.F., and A.H. Bridges (1997) 
+ Human-Computer Interaction and Neural Networks in Architectural Design: A Tool for Design Exploration
+, CAAD Futures 1997 Conference Proceedings, 267-284",,,,"Soufi, B., and E. Edmonds (1996) 
+ The Cognitive Basis of Emergence: Implications for Design Support
+, Design Studies 17: 451-463",,,,"Talbott, K. (2004) 
+ Divergent Thinking in the Construction of Architectural Models
+, International Journal of Architectural Computing 2(2): 263-286",,
+11,2005/05/05 05:06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

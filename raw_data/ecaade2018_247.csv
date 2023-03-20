@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2018_247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Ilunga, Guilherme and Leit?o, António",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Derivative-free Methods for Structural Optimization,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Kepczynska-Walczak, A, Bialkowski, S (eds.), Computing for a better tomorrow - Proceedings of the 36th eCAADe Conference - Volume 1, Lodz University of Technology, Lodz, Poland, 19-21 September 2018, pp. 179-186",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The focus on efficiency has grown over recent years, and nowadays it is critical that buildings have a good performance regarding different criteria. This need prompts the usage of algorithmic approaches, analysis tools, and optimization algorithms, to find the best performing variation of a design. There are many optimization algorithms and not all of them are adequate for a specific problem. However, Genetic Algorithms are frequently the first and only option, despite being considered last resort algorithms in the mathematical field. This paper discusses methods for structural optimization and applies them on a structural problem. Our tests show that Genetic Algorithms perform poorly, while other algorithms achieve better results. However, they also show that no algorithm is consistently better than the others, which suggests that for structural optimization, several algorithms should be used, instead of simply using Genetic Algorithms.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Derivative-free Optimization; Black-box Optimization; Structural Optimization; Algorithmic Design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,guilherme.ilunga@tecnico.ulisboa.pt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (2,081,147 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Aguiar, R, Cardoso, C and Leit?o, A (2017) 
+ Algorithmic Design and Analysis Fusing Disciplines
+, Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)
+
+
+
+
+
+
+
+Brent, RP (1973) 
+ Algorithms for Minimization Without Derivatives
+, Dover Publications
+
+
+
+
+
+
+
+Cichocka, J, Browne, W and Rodriguez, E (2017) 
+ Optimization in the Architectural Practice
+, Proceedings of the 22nd International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA)
+
+
+
+
+
+
+
+Cichocka, J, Migalska, A, Browne, WN and Rodriguez, E (2017) 
+ SILVEREYE - The Implementation of Particle Swarm Optimization Algorithm in a Design Optimization Tool
+, Proceedings of the 17th Computer-Aided Architectural Design Futures Conference
+
+
+
+
+
+
+
+Conn, AR, Scheinberg, K and Vicente, LN (2009) 
+ Introduction to Derivative-Free Optimization
+, Society for Industrial and Applied Mathematics
+
+
+
+
+
+
+
+Costa, A and Nannicini, G (2014) 
+ RBFOpt : an open-source library for black-box optimization with costly function evaluations
+, Optimization online 4538
+
+
+
+
+
+
+
+Fortin, FA, De Rainvile, FM, Gardner, MA, Parizeau, M and Gagné, C (2012) 
+ DEAP: Evolutionary Algorithms Made Easy
+, Journal of Machine Learning Research, 13, pp. 2171-2175
+
+
+
+
+
+
+
+Gablonsky, JM and Kelley, CT (2001) 
+ A Locally-Biased form of the DIRECT Algorithm
+, Journal of Global Optimization, 21(1), pp. 27-37
+
+
+
+
+
+
+
+Goldberg, DE (1989) 
+ Genetic Algorithms in Search, Optimization and Machine Learning
+, Addison-Wesley Longman
+
+
+
+
+
+
+
+Hare, W, Nutini, J and Tesfamariam, S (2013) 
+ A survey of non-gradient optimization methods in structural engineering
+, Advances in Engineering Software, 59, pp. 19-28
+
+
+
+
+
+
+
+Jones, DR, Perttunen, CD and Stuckman, BE (1993) 
+ Lipschitzian Optimization without the Lipschitz Constant
+, Journal of Optimization Theory and Applications, 79(1), pp. 157-181
+
+
+
+
+
+
+
+Kennedy, J and Eberhart, R (1995) 
+ Particle Swarm Optimization
+, Proceedings of the 1995 IEEE International Conference on Neural Networks
+
+
+
+
+
+
+
+Kirkpatrick, S, Gelatt, CD and Vecchi, MP (1983) 
+ Optimization by Simulated Annealing
+, Science, 220(4598), pp. 671-680
+
+
+
+
+
+
+
+Koziel, S and Yang, XS (2011) 
+ Computational Optimization, Methods and Algorithms
+, Springer, Berlin, Heidelberg
+
+
+
+
+
+
+
+Lopes, J and Leit?o, A (2011) 
+ Portable Generative Design for CAD Applications
+, Proceedings of the 31st Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)
+
+
+
+
+
+
+
+Murphy, KP (2012) 
+ Machine Learning: a Probabilistic Perspective
+, The MIT Press, Cambridge, MA
+
+
+
+
+
+
+
+Nelder, JA and Mead, R (1965) 
+ A Simplex Method for Function Minimization
+, The Computer Journal, 7(4), pp. 308-313
+
+
+
+
+
+
+
+Oxman, R (2006) 
+ Theory and design in the first digital age
+, Design Studies, 27(3), pp. 229-265
+
+
+
+
+
+
+
+Powell, MJD (1994) 
+ A direct search optimization method that models the objective and constraint functions by linear interpolation
+, Advances in Optimization and Numerical Analysis, 275(1), pp. 51-67
+
+
+
+
+
+
+
+Powell, MJD (2009) 
+ The BOBYQA algorithm for bound constrained optimization without derivatives
+, Department of Applied Mathematics and Theoretical Physics, University of Cambridge",,"Aguiar, R, Cardoso, C and Leit?o, A (2017) 
+ Algorithmic Design and Analysis Fusing Disciplines
+, Proceedings of the 37th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)",,,,"Brent, RP (1973) 
+ Algorithms for Minimization Without Derivatives
+, Dover Publications",,,,"Cichocka, J, Browne, W and Rodriguez, E (2017) 
+ Optimization in the Architectural Practice
+, Proceedings of the 22nd International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA)",,,,"Cichocka, J, Migalska, A, Browne, WN and Rodriguez, E (2017) 
+ SILVEREYE - The Implementation of Particle Swarm Optimization Algorithm in a Design Optimization Tool
+, Proceedings of the 17th Computer-Aided Architectural Design Futures Conference",,,,"Conn, AR, Scheinberg, K and Vicente, LN (2009) 
+ Introduction to Derivative-Free Optimization
+, Society for Industrial and Applied Mathematics",,,,"Costa, A and Nannicini, G (2014) 
+ RBFOpt : an open-source library for black-box optimization with costly function evaluations
+, Optimization online 4538",,,,"Fortin, FA, De Rainvile, FM, Gardner, MA, Parizeau, M and Gagné, C (2012) 
+ DEAP: Evolutionary Algorithms Made Easy
+, Journal of Machine Learning Research, 13, pp. 2171-2175",,,,"Gablonsky, JM and Kelley, CT (2001) 
+ A Locally-Biased form of the DIRECT Algorithm
+, Journal of Global Optimization, 21(1), pp. 27-37",,,,"Goldberg, DE (1989) 
+ Genetic Algorithms in Search, Optimization and Machine Learning
+, Addison-Wesley Longman",,,,"Hare, W, Nutini, J and Tesfamariam, S (2013) 
+ A survey of non-gradient optimization methods in structural engineering
+, Advances in Engineering Software, 59, pp. 19-28",,,,"Jones, DR, Perttunen, CD and Stuckman, BE (1993) 
+ Lipschitzian Optimization without the Lipschitz Constant
+, Journal of Optimization Theory and Applications, 79(1), pp. 157-181",,,,"Kennedy, J and Eberhart, R (1995) 
+ Particle Swarm Optimization
+, Proceedings of the 1995 IEEE International Conference on Neural Networks",,,,"Kirkpatrick, S, Gelatt, CD and Vecchi, MP (1983) 
+ Optimization by Simulated Annealing
+, Science, 220(4598), pp. 671-680",,,,"Koziel, S and Yang, XS (2011) 
+ Computational Optimization, Methods and Algorithms
+, Springer, Berlin, Heidelberg",,,,"Lopes, J and Leit?o, A (2011) 
+ Portable Generative Design for CAD Applications
+, Proceedings of the 31st Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)",,,,"Murphy, KP (2012) 
+ Machine Learning: a Probabilistic Perspective
+, The MIT Press, Cambridge, MA",,,,"Nelder, JA and Mead, R (1965) 
+ A Simplex Method for Function Minimization
+, The Computer Journal, 7(4), pp. 308-313",,,,"Oxman, R (2006) 
+ Theory and design in the first digital age
+, Design Studies, 27(3), pp. 229-265",,,,"Powell, MJD (1994) 
+ A direct search optimization method that models the objective and constraint functions by linear interpolation
+, Advances in Optimization and Numerical Analysis, 275(1), pp. 51-67",,,,"Powell, MJD (2009) 
+ The BOBYQA algorithm for bound constrained optimization without derivatives
+, Department of Applied Mathematics and Theoretical Physics, University of Cambridge",,
+11,2018/07/24 10:22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+﻿,0
+0,cf2019_004
+1,"Kim, Jinsung; Jaeyeol Song and Jin-Kook Lee"
+2,2019
+3,Recognizing and Classifying Unknown Object in BIM using 2D CNN
+4,"Ji-Hyun Lee (Eds.) ""Hello, Culture!""  [18th International Conference, CAAD Futures 2019, Proceedings / ISBN 978-89-89453-05-5] Daejeon, Korea, p. 23"
+5,"This paper aims to propose an approach to automated classifying building element instance in BIM using deep learning-based 3D object classification algorithm. Recently, studies related to checking or validating engine of BIM object for ensuring data integrity of BIM instances are getting attention. As a part of this research, this paper train recognition models that are targeted at basic building element and interior element using 3D object recognition technique that uses images of objects as inputs. Object recognition is executed in two stages; 1) class of object (e.g. wall, window, seating furniture, toilet fixture and etc.), 2) sub-type of specific classes (e.g. Toilet or Urinal). Using the trained models, BIM plug-in prototype is developed and the performance of this AI-based approach with test BIM model is checked. We expect this recognition approach to help ensure the integrity of BIM data and contribute to the practical use of BIM."
+6,"3D object classification, Building element, Building information modeling, Data integrity, Interior element"
+7,CAAD Futures
+8,wlstjd1320@gmail.com
+9,"file.pdf (64,068 bytes)"
+10,Content-type: text/plain
+11,2019/07/29 12:08

@@ -1,0 +1,199 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60
+0,ecaade2014_163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Ioannis Chatzikonstantinou,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,A 3-Dimensional Architectural Layout Generation Procedure for Optimization Applications : DC-RVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Thompson, Emine Mine (ed.), Fusion - Proceedings of the 32nd eCAADe Conference - Volume 1, Department of Architecture and Built Environment, Faculty of Engineering and Environment, Newcastle upon Tyne, England, UK, 10-12 September 2014, pp. 287-296",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"A procedure for generating 3-dimensional spatial configurations for optimization applications, termed Dimension Constrained Rectangular Voronoi Diagram (DC-RVD), is presented in this paper. The procedure is able to generate a non-overlapping configuration of spatial units in 3-dimensional space, given a string of real values. It constitutes an extension and adaptation of the Rectangular Voronoi Diagram generating procedure, found in the work of Choi and Young (1991). An extensive description of the procedure, with the relevant pseudocode is included in the paper. The procedure is tested in a stochastic optimisation-based decision support environment. Testing is done using a case study of a medium-sized family house. The result indicate promising performance.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,WOS:000361384700028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Optimization;  layout;  representation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,i.chatzikonstantinou@yasar.edu.tr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (307,750 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bittermann, MS (2009) 
+ Intelligent Design Objects (IDO): a cognitive approach for performance-based design
+, Ph.D. Thesis, TU Delft
+
+
+
+
+
+
+
+Cagan, J, Shimada, K and Yin, S (2002) 
+ A survey of computational approaches to three-dimensional layout problems
+, Computer-Aided Design, 34, pp. 597-611
+
+
+
+
+
+
+
+Cha, MY and Gero, J (1998) 
+ Shape pattern representation for design computation
+, Working Paper
+
+
+
+
+
+
+
+Chatzikonstantinou, I (2011) 
+ Evolutionary Computation and Parametric Pattern Generation for Airport Terminal Design
+, Master's Thesis, TU Delft
+
+
+
+
+
+
+
+Choi, SG and Kyung, CM (1991) 
+ A floorplanning algorithm using rectangular Voronoi diagram and force-directed block shaping
+, IEEE International Conference on Computer-Aided Design Digest of Technical Papers
+
+
+
+
+
+
+
+Deb, K, Pratap, A, Agarwal, S and Meyarivan, T (2002) 
+ A fast and elitist multiobjective genetic algorithm: NSGA-II
+, IEEE Transactions on Evolutionary Computation, 6 (2), pp. 182-197
+
+
+
+
+
+
+
+Elezkurtaj, T and Franck, G (1999) 
+ Genetic algorithms in support of creative architectural design
+, eCAADe 1999 Conference Proceedings, pp. 645-651
+
+
+
+
+
+
+
+Jo, J and Gero, J (1998) 
+ Space layout planning using an evolutionary approach
+, Artificial Intelligence in Engineering, 12 (3), p. 149162
+
+
+
+
+
+
+
+Kamol, K and Krung, S (2005) 
+ Optimizing Architectural Layout Design via Mixed Integer Programming
+, Proceedings of the 11th International CAAD Futures Conference, pp. 175-184
+
+
+
+
+
+
+
+Liggett, RS (1985) 
+ Optimal spatial arrangement as a quadratic assignment problem
+, Design Optimization, 2, pp. 1-40
+
+
+
+
+
+
+
+Lobos, D and Donath, D (2010) 
+ The problem of space layout in architecture: A survey and reflections
+, Arquitetura Revista, 6, pp. 136-161
+
+
+
+
+
+
+
+Loemker, TM (2006) 
+ Designing with Machines: solving architectural layout planning problems by the use of a constraint programming language and scheduling algorithms
+, Proceeding of The Second International Conference of the Arab Society for Computer Aided Architectural Design, pp. 88-106
+
+
+
+
+
+
+
+Merrel, P, Schkufza, E and Koltun, V (2010) 
+ Computer-generated residential building layouts
+, ACM Transactions on Graphics, 29 (6), p. 1
+
+
+
+
+
+
+
+Michalek, J, Choudary, R and Papalambros, P (2002) 
+ Architectural layout design optimization
+, Engineering optimization, 34 (5), pp. 37-41
+
+
+
+
+
+
+
+Yeh, I (2006) 
+ Architectural layout optimization using annealed neural network
+, Automation in construction, 15, pp. 531-539",,"Bittermann, MS (2009) 
+ Intelligent Design Objects (IDO): a cognitive approach for performance-based design
+, Ph.D. Thesis, TU Delft",,,,"Cagan, J, Shimada, K and Yin, S (2002) 
+ A survey of computational approaches to three-dimensional layout problems
+, Computer-Aided Design, 34, pp. 597-611",,,,"Cha, MY and Gero, J (1998) 
+ Shape pattern representation for design computation
+, Working Paper",,,,"Chatzikonstantinou, I (2011) 
+ Evolutionary Computation and Parametric Pattern Generation for Airport Terminal Design
+, Master's Thesis, TU Delft",,,,"Choi, SG and Kyung, CM (1991) 
+ A floorplanning algorithm using rectangular Voronoi diagram and force-directed block shaping
+, IEEE International Conference on Computer-Aided Design Digest of Technical Papers",,,,"Deb, K, Pratap, A, Agarwal, S and Meyarivan, T (2002) 
+ A fast and elitist multiobjective genetic algorithm: NSGA-II
+, IEEE Transactions on Evolutionary Computation, 6 (2), pp. 182-197",,,,"Elezkurtaj, T and Franck, G (1999) 
+ Genetic algorithms in support of creative architectural design
+, eCAADe 1999 Conference Proceedings, pp. 645-651",,,,"Jo, J and Gero, J (1998) 
+ Space layout planning using an evolutionary approach
+, Artificial Intelligence in Engineering, 12 (3), p. 149162",,,,"Kamol, K and Krung, S (2005) 
+ Optimizing Architectural Layout Design via Mixed Integer Programming
+, Proceedings of the 11th International CAAD Futures Conference, pp. 175-184",,,,"Liggett, RS (1985) 
+ Optimal spatial arrangement as a quadratic assignment problem
+, Design Optimization, 2, pp. 1-40",,,,"Lobos, D and Donath, D (2010) 
+ The problem of space layout in architecture: A survey and reflections
+, Arquitetura Revista, 6, pp. 136-161",,,,"Loemker, TM (2006) 
+ Designing with Machines: solving architectural layout planning problems by the use of a constraint programming language and scheduling algorithms
+, Proceeding of The Second International Conference of the Arab Society for Computer Aided Architectural Design, pp. 88-106",,,,"Merrel, P, Schkufza, E and Koltun, V (2010) 
+ Computer-generated residential building layouts
+, ACM Transactions on Graphics, 29 (6), p. 1",,,,"Michalek, J, Choudary, R and Papalambros, P (2002) 
+ Architectural layout design optimization
+, Engineering optimization, 34 (5), pp. 37-41",,,,"Yeh, I (2006) 
+ Architectural layout optimization using annealed neural network
+, Automation in construction, 15, pp. 531-539",,
+12,2016/05/16 09:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

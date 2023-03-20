@@ -1,0 +1,257 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,DDSS2006-HB-69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Toshihiro Osaragi and Yoshitsugu Aoki,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"A Method for Estimating Land Use Transition Probability Using Raster Data - Considerations about apatial unit of transition, fixed state of locations, and time-varying probability",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Van Leeuwen, J.P. and H.J.P. Timmermans (eds.) 2006, Innovations in Design & Decision Support Systems in Architecture and Urban Planning, Dordrecht: Springer, ISBN-10: 1-4020-5059-3, ISBN-13: 978-1-4020-5059-6, p. 69-84",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In the field of urban and regional planning, several Markov chain models for land use conversion have been proposed. However, some problems have been encountered when estimating land use transition probabilities. In this paper, a new estimation method to determine land use transition probability is proposed by taking into account spatial units of land use transition, fixed state of locations, and varying transition probabilities. The effectiveness of the proposed methods and some new findings on land use conversion are presented using numerical examples.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Markov chain, Land use, Transition probability, Building lot, Fixed state, Time-varying probability",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,DDSS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (268,002 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Aoki, Y., A. Nagai, and T. Osaragi (1993) 
+ Area dividing method by neural network
+, R. E. Klosterman and S. French (eds.) Proceedings of Third International Conference on Computers in Urban Planning and Urban Management,Georgia Institute of Technology, 2, p. 379-392
+
+
+
+
+
+
+
+Aoki, Y., T. Osaragi, and A. Nagai (1996) 
+ Using of the area-dividing method to minimize expected error in land use forecasts
+, Environment and Planning B: Planning and Design, 23: 655-666
+
+
+
+
+
+
+
+Arentze, T. and H. Timmermans (2003) 
+ A multiagent model of negotiation processes between multiple actors in urban developments: a framework for and results of numerical experiments
+, Environment & Planning B: Planning & Design, 30(3): 391-410
+
+
+
+
+
+
+
+Balzter, H., P. W. Braun, and W. Kohler (1998) 
+ Cellular automata models for vegetation dynamics
+, Ecological Modelling, 107(2/3): 113-25
+
+
+
+
+
+
+
+Bell, E. J. and R. C. Hinojosa (1977) 
+ Markov analysis of landuse change: continuous time and stationary processes
+, Socio-Economic Planning Sciences, 11: 13-17
+
+
+
+
+
+
+
+Bell, E. J. (1974) 
+ Markov analysis of land use change: an application of stochastic processes to remotely sensed data
+, Socio-Economic Planning Sciences,8: 311-316
+
+
+
+
+
+
+
+Bourne, L. S. (1971) 
+ Physical adjustment processes and land use succession: a review and central city example
+, Economic Geography, 47: 1-15
+
+
+
+
+
+
+
+Drewett, J. R. (1969) 
+ A Stochastic Model of the Land Conversion Process
+, Regional Studies, 3: 269-280
+
+
+
+
+
+
+
+Ishizaka, K. (1992) 
+ A consideration on analyzing method of land use transition matrix
+, Transaction of Architectural Institute of Japan, 436: 59-69 (in Japanese)
+
+
+
+
+
+
+
+Jahan, S. (1986) 
+ The determination of stability and similarity of Markovian land use change processes: a theoretical and empirical analysis
+, Socio-Economic Planning Sciences, 20
+
+
+
+
+
+
+
+Li, H. and J. F. Reynolds (1997) 
+ Modeling effects of spatial pattern, drought, and grazing on rates of range land degradation: A combined Markov and cellular automaton approach
+, D. A. Quattrochi and M. F. Goodchild (eds.) Scale in remote sensing and GIS, NewYork, Lewis Publishers, p. 211-230
+
+
+
+
+
+
+
+McClean, C. J. and P. M. Watson (1995) 
+ Land use planning: A decision support system
+, Journal of Environmental Planning & Management, 38(1): 77-92
+
+
+
+
+
+
+
+Muller, R. M. and J. Middleton (1994) 
+ A Markov model of land-use change dynamics in the Niagara region, Ontario, Canada
+, Landscape Ecology,9: 151-157
+
+
+
+
+
+
+
+Osaragi, T. and K. Masuda (1996) 
+ Land use forecasts considering the existence of steady state places
+, Theory and Applications of GIS,4(2): 1-6
+
+
+
+
+
+
+
+Osaragi, T. and N. Kurisaki (2000) 
+ Modeling of Land use Transition and Its Application
+, Geographical and Environmental Modelling,4(2): 203-218
+
+
+
+
+
+
+
+Osaragi, T. (2005) 
+ Land-use transition model based on building lots considering steady state of locations and inconstancy of transition
+, C. A. Brebbia et al. (eds.) Sustainable Planning 2005, p. 77-86
+
+
+
+
+
+
+
+Parker, D., S. Manson, M. Janssen, M. Hoffmann, and P. Deadman (2003) 
+ Multi-agent systems for the simulation of land-use and land-cover change: A review
+, Annals of the Association of American Geographers, 93(2): 314-337
+
+
+
+
+
+
+
+Qihao, W. (2002) 
+ Land use change analysis in the Zhujiang Delta of China using satellite remote sensing, GIS and stochastic modelling
+, Journal of Environmental Management, 64(3): 273-284
+
+
+
+
+
+
+
+Robinson, V. B. (1978) 
+ Information theory and sequences of land use: an application
+, The Professional Geographer, 30: 174-179
+
+
+
+
+
+
+
+Saarloos, D., T. Arentze, A. Borgers, and H. Timmermans (2005) 
+ A multiagent model for alternative plan generation
+, Environment & Planning B: Planning & Design, 32(4): 505-522",,"Aoki, Y., A. Nagai, and T. Osaragi (1993) 
+ Area dividing method by neural network
+, R. E. Klosterman and S. French (eds.) Proceedings of Third International Conference on Computers in Urban Planning and Urban Management,Georgia Institute of Technology, 2, p. 379-392",,,,"Aoki, Y., T. Osaragi, and A. Nagai (1996) 
+ Using of the area-dividing method to minimize expected error in land use forecasts
+, Environment and Planning B: Planning and Design, 23: 655-666",,,,"Arentze, T. and H. Timmermans (2003) 
+ A multiagent model of negotiation processes between multiple actors in urban developments: a framework for and results of numerical experiments
+, Environment & Planning B: Planning & Design, 30(3): 391-410",,,,"Balzter, H., P. W. Braun, and W. Kohler (1998) 
+ Cellular automata models for vegetation dynamics
+, Ecological Modelling, 107(2/3): 113-25",,,,"Bell, E. J. and R. C. Hinojosa (1977) 
+ Markov analysis of landuse change: continuous time and stationary processes
+, Socio-Economic Planning Sciences, 11: 13-17",,,,"Bell, E. J. (1974) 
+ Markov analysis of land use change: an application of stochastic processes to remotely sensed data
+, Socio-Economic Planning Sciences,8: 311-316",,,,"Bourne, L. S. (1971) 
+ Physical adjustment processes and land use succession: a review and central city example
+, Economic Geography, 47: 1-15",,,,"Drewett, J. R. (1969) 
+ A Stochastic Model of the Land Conversion Process
+, Regional Studies, 3: 269-280",,,,"Ishizaka, K. (1992) 
+ A consideration on analyzing method of land use transition matrix
+, Transaction of Architectural Institute of Japan, 436: 59-69 (in Japanese)",,,,"Jahan, S. (1986) 
+ The determination of stability and similarity of Markovian land use change processes: a theoretical and empirical analysis
+, Socio-Economic Planning Sciences, 20",,,,"Li, H. and J. F. Reynolds (1997) 
+ Modeling effects of spatial pattern, drought, and grazing on rates of range land degradation: A combined Markov and cellular automaton approach
+, D. A. Quattrochi and M. F. Goodchild (eds.) Scale in remote sensing and GIS, NewYork, Lewis Publishers, p. 211-230",,,,"McClean, C. J. and P. M. Watson (1995) 
+ Land use planning: A decision support system
+, Journal of Environmental Planning & Management, 38(1): 77-92",,,,"Muller, R. M. and J. Middleton (1994) 
+ A Markov model of land-use change dynamics in the Niagara region, Ontario, Canada
+, Landscape Ecology,9: 151-157",,,,"Osaragi, T. and K. Masuda (1996) 
+ Land use forecasts considering the existence of steady state places
+, Theory and Applications of GIS,4(2): 1-6",,,,"Osaragi, T. and N. Kurisaki (2000) 
+ Modeling of Land use Transition and Its Application
+, Geographical and Environmental Modelling,4(2): 203-218",,,,"Osaragi, T. (2005) 
+ Land-use transition model based on building lots considering steady state of locations and inconstancy of transition
+, C. A. Brebbia et al. (eds.) Sustainable Planning 2005, p. 77-86",,,,"Parker, D., S. Manson, M. Janssen, M. Hoffmann, and P. Deadman (2003) 
+ Multi-agent systems for the simulation of land-use and land-cover change: A review
+, Annals of the Association of American Geographers, 93(2): 314-337",,,,"Qihao, W. (2002) 
+ Land use change analysis in the Zhujiang Delta of China using satellite remote sensing, GIS and stochastic modelling
+, Journal of Environmental Management, 64(3): 273-284",,,,"Robinson, V. B. (1978) 
+ Information theory and sequences of land use: an application
+, The Professional Geographer, 30: 174-179",,,,"Saarloos, D., T. Arentze, A. Borgers, and H. Timmermans (2005) 
+ A multiagent model for alternative plan generation
+, Environment & Planning B: Planning & Design, 32(4): 505-522",,
+10,2006/08/29 10:55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

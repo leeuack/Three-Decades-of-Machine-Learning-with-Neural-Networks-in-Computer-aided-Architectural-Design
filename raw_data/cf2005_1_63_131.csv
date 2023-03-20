@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,cf2005_1_63_131,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,YAN Wei and KALAY Yehuda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Simulating Human Behaviour in Built Environments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Computer Aided Architectural Design Futures 2005 [Proceedings of the 11th International Conference on Computer Aided Architectural Design Futures / ISBN 1-4020-3460-1] Vienna (Austria) 2022 June 2005, pp. 301-310",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper addresses the problem of predicting and evaluating the impacts of the built environment on its human inhabitants. It presents a simulation system comprising a usability-based building model and an agent-based virtual user model. The building model represents both geometric information and usability properties of design elements, and is generated automatically from a standard CAD model. Virtual users are modelled as autonomous agents that emulate the appearance, perception, social traits and physical behaviour of real users (walking, sitting, meeting other virtual users, etc.). Their behaviour model is based upon theoretical and practical environment-behaviour studies, real world data from a field study, and Artificial Life research. By inserting the virtual users in the usability-enabled building model, and letting them explore it on their own volition, the system reveals the interrelationship between the environment and its users. The environment can then be modified, to see how different arrangements affect user behaviours.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"behaviour simulation, behaviour study, human modelling, building modelling",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"weiyan@berkeley.edu, kalay@socrates.Berkeley.EDU",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (268,511 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Archea, J. (1977) 
+ The Place of Architectural Factors in Behavioural Theories of Privacy
+, Journal of Social Issues 33: 3
+
+
+
+
+
+
+
+Gehl, J. (1987) 
+ Life between buildings: using public space [English translation]
+, New York: Van Nostrand Reinhold
+
+
+
+
+
+
+
+Haklay, M. (et al.) (2001) 
+ So go downtown: Simulating Pedestrian Movement in Town Centres
+, Environment and Planning B 28(3): 343-359
+
+
+
+
+
+
+
+Hall, E.T. (1966) 
+ Hidden Dimension
+, New York, Doubleday
+
+
+
+
+
+
+
+Hearn, D., and Baker, M.P. (1997) 
+ Computer Graphics
+, New Jersey: Prentice Hall
+
+
+
+
+
+
+
+Helbing, D., Farkas, I., and Vicsek, T. (2000) 
+ Simulating dynamical features of escape panic
+, Nature 407(6803):  487-490
+
+
+
+
+
+
+
+Kalay, Y.E., and Irazábal, C. E. (1995) 
+ Virtual Users (VUsers): Auto-Animated Human-forms for Representation and Evaluation of Behaviour in Designed Environments
+, Technical Report, Berkeley: University of California
+
+
+
+
+
+
+
+Kaplan, S. and Kaplan, R. (1982) 
+ Cognition and Environment: Functioning in an Uncertain World
+, New York: Prager
+
+
+
+
+
+
+
+Lewin, K. (1936) 
+ Principles of topological psychology
+, McGraw-Hill
+
+
+
+
+
+
+
+Moore, G.T. (1987) 
+ Environment and behaviour research in North America: history, developments, and unresolved issues
+, Handbook of environmental psychology. eds. D. Stokols and I. Altman: 1371-1410. New York, John Wiley & Sons
+
+
+
+
+
+
+
+O'Neill, M.J. (1992) 
+ A Neural Network Simulation as a Computer-Aided Design Tool for Evaluating Building Legibility
+, Evaluating and Predicting Design Performance, ed. Y.E. Kalay: 347-366. New York: John Wiley & Sons
+
+
+
+
+
+
+
+Ozel, F. (1993) 
+ Computer Simulation of Behavior in Spaces
+, Environmental Simulation - Research and Policy Issues, 191-212. New York, Plenum Press
+
+
+
+
+
+
+
+Reynolds, C.W. (1987) 
+ Flocks, Herds, and Schools: A Distributed Behavioural Model
+, Computer Graphics, 21(4) 25-34
+
+
+
+
+
+
+
+Stahl, F. (1982) 
+ Computer Simulation Modeling for Informed Design Decision Making
+, 13th Annual Conference of the Environmental Design Research Association, eds. P. Bart, A. Chen, and G. Francescato: 105-111. Washington, DC: EDRA
+
+
+
+
+
+
+
+Steinfeld, E. (1992) 
+ Toward artificial users
+, Evaluating and predicting design performance. ed. Y. E. Kalay: 329-346. New York: John Wiley & Sons
+
+
+
+
+
+
+
+Stokols, D. (1977) 
+ Origins and directions of environment-behavioural research
+, Perspectives on environment and behaviour, 5-36 New York, Plenum Press
+
+
+
+
+
+
+
+Tu, X. (1996) 
+ Artificial Animals for Computer Animation: Biomechanics, Locomotion, Perception, and Behaviour
+, Dissertation, University of Toronto
+
+
+
+
+
+
+
+Watt, A. et al. (2003) 
+ SVG Unleashed
+, Sams Publishing
+
+
+
+
+
+
+
+Whyte, W. (1980) 
+ The Social Life of Small Urban Spaces
+, New York: Project for Public Spaces
+
+
+
+
+
+
+
+Yan, W., and Forsyth, D. (2005) 
+ Learning the Behavior of Users in a Public Space through Video Tracking [forthcoming]
+, Proceedings of IEEE WACV",,"Archea, J. (1977) 
+ The Place of Architectural Factors in Behavioural Theories of Privacy
+, Journal of Social Issues 33: 3",,,,"Gehl, J. (1987) 
+ Life between buildings: using public space [English translation]
+, New York: Van Nostrand Reinhold",,,,"Haklay, M. (et al.) (2001) 
+ So go downtown: Simulating Pedestrian Movement in Town Centres
+, Environment and Planning B 28(3): 343-359",,,,"Hall, E.T. (1966) 
+ Hidden Dimension
+, New York, Doubleday",,,,"Hearn, D., and Baker, M.P. (1997) 
+ Computer Graphics
+, New Jersey: Prentice Hall",,,,"Helbing, D., Farkas, I., and Vicsek, T. (2000) 
+ Simulating dynamical features of escape panic
+, Nature 407(6803):  487-490",,,,"Kalay, Y.E., and Irazábal, C. E. (1995) 
+ Virtual Users (VUsers): Auto-Animated Human-forms for Representation and Evaluation of Behaviour in Designed Environments
+, Technical Report, Berkeley: University of California",,,,"Kaplan, S. and Kaplan, R. (1982) 
+ Cognition and Environment: Functioning in an Uncertain World
+, New York: Prager",,,,"Lewin, K. (1936) 
+ Principles of topological psychology
+, McGraw-Hill",,,,"Moore, G.T. (1987) 
+ Environment and behaviour research in North America: history, developments, and unresolved issues
+, Handbook of environmental psychology. eds. D. Stokols and I. Altman: 1371-1410. New York, John Wiley & Sons",,,,"O'Neill, M.J. (1992) 
+ A Neural Network Simulation as a Computer-Aided Design Tool for Evaluating Building Legibility
+, Evaluating and Predicting Design Performance, ed. Y.E. Kalay: 347-366. New York: John Wiley & Sons",,,,"Ozel, F. (1993) 
+ Computer Simulation of Behavior in Spaces
+, Environmental Simulation - Research and Policy Issues, 191-212. New York, Plenum Press",,,,"Reynolds, C.W. (1987) 
+ Flocks, Herds, and Schools: A Distributed Behavioural Model
+, Computer Graphics, 21(4) 25-34",,,,"Stahl, F. (1982) 
+ Computer Simulation Modeling for Informed Design Decision Making
+, 13th Annual Conference of the Environmental Design Research Association, eds. P. Bart, A. Chen, and G. Francescato: 105-111. Washington, DC: EDRA",,,,"Steinfeld, E. (1992) 
+ Toward artificial users
+, Evaluating and predicting design performance. ed. Y. E. Kalay: 329-346. New York: John Wiley & Sons",,,,"Stokols, D. (1977) 
+ Origins and directions of environment-behavioural research
+, Perspectives on environment and behaviour, 5-36 New York, Plenum Press",,,,"Tu, X. (1996) 
+ Artificial Animals for Computer Animation: Biomechanics, Locomotion, Perception, and Behaviour
+, Dissertation, University of Toronto",,,,"Watt, A. et al. (2003) 
+ SVG Unleashed
+, Sams Publishing",,,,"Whyte, W. (1980) 
+ The Social Life of Small Urban Spaces
+, New York: Project for Public Spaces",,,,"Yan, W., and Forsyth, D. (2005) 
+ Learning the Behavior of Users in a Public Space through Video Tracking [forthcoming]
+, Proceedings of IEEE WACV",,
+11,2006/11/07 06:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

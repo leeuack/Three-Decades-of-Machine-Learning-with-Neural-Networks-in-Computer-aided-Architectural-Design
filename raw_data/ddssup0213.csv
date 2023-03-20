@@ -1,0 +1,196 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60
+0,ddssup0213,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Osaragi, Toshihiro",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Classification Methods for Spatial Data Representation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Timmermans, Harry (Ed.), Sixth Design and Decision Support Systems in Architecture and Urban Planning - Part two: Urban Planning Proceedings Avegoor, the Netherlands), 2002",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In the process of representing quantitative spatial data on a map, it is necessary to classify attribute values into some class divisions. When a number of classes are employed, the characteristics of spatial distribution of original data can be expressed faithfully. However, its legends might become rather complicated and the delicate color differences in the represented map would be difficult to distinguish. On the other hand, when employing a few classes, the information such as small vibrating factors or local peaks might be ignored; namely, much information of original data will be lost. Hence, we should discuss how many classes are necessary to represent spatial data. Furthermore, even if the same spatial data are represented using the same number of classes, we might obtain the quite different maps according to the choice of classification methods incorporated in existing geographic information systems. Namely, the characteristics of the original data might be overlooked, or there might be a risk of mistaking judgment, if we do not have enough knowledge about classification methods as well as the nature of original data. Hence, we should also discuss how the boundary value between each class should be set. In this paper, a new classification method using an evaluation function based on Akaikes Information Criterion is proposed, and is applied to actual spatial data. Next, based on the consideration about its result, another classification method minimizing information loss of original data is proposed. Furthermore, numerical examples of its applications are achieved through the comparison with existing classification methods.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,DDSS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"file.pdf (724,758 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Akaike, H.  (1972) 
+ Information theory and an extension of the maximum likelihood principle 
+, Proceedings of the 2nd International Symposium on Information Theory, Akademiai kaido, Budapest (Eds B N Petron, F Csak) pp.267-281
+
+
+
+
+
+
+
+Akaike, H.  (1974) 
+ A new look at the statistical model identification 
+, IEEE Transactions on Automatic Control 19, pp.716-723
+
+
+
+
+
+
+
+Civco, D L.  (1993) 
+ Artificial Neural networks for Land-cover Classification and Mapping 
+, International Journal of Geographical Information Systems 7, pp.173-186
+
+
+
+
+
+
+
+Erol, H. and Akdeniz, F.  (1998) 
+ A new supervised classification method for quantitative analysis of remotely-sensed multi- spectral data 
+, International Journal of Remote Sensing 19, pp.775-782
+
+
+
+
+
+
+
+ESRI (1996) 
+ ArcView GIS  The Geographic Information System for Everyone
+, Environmental Systems Research Institute, USA
+
+
+
+
+
+
+
+Flygare, A M.  (1997) 
+ A Comparison of Contextual Classification Methods Using Landsat TM
+, International Journal of Remote Sensing 18, pp.3835-3842
+
+
+
+
+
+
+
+Goodchild, M F., Guoqing, S. and Shiren, Y.  (1992) 
+ Development and test of error model for categorical data 
+, International Journal of Geographical Information Systems 6, pp.87-104
+
+
+
+
+
+
+
+Higuchi, T., Tamagawa, H. and Ishak, A B P.  (1988) 
+ A study on the optimum mesh size for continuous variables: An example by using a mental map 
+, Papers on City Planning 23, pp.37-42. (in Japanese)
+
+
+
+
+
+
+
+Jenks, G F.  (1967) 
+ The Data Model Concept in Statistical Mapping 
+, International Yearbook of Cartography 7, pp.186-190
+
+
+
+
+
+
+
+Osaragi, T.  (2001) 
+ Classification Methods for Spatial Data Representation 
+, Working Paper 40, the Centre for Advanced Spatial Analysis, University College London, London
+
+
+
+
+
+
+
+Osaragi, T. and Nakayama, H.  (2000) 
+ Classification of Spatial Data in Visualization
+, Papers and Proceedings of the Geographic Information Systems Association 9, pp.361-366. (in Japanese)
+
+
+
+
+
+
+
+Roy, J R., Batten, D F. and Lesse, P F.  (1982) 
+ Minimizing information loss in simple aggregation 
+, Environment and Planning A 14, pp.973-980
+
+
+
+
+
+
+
+Shannon, C.E.  (1948) 
+ A Mathematical Theory of Communication 
+, Bell System Technical Journal 27, pp.379-423 and pp.623-656
+
+
+
+
+
+
+
+Tamagawa, H.  (1987) 
+ A study on the optimum mesh size in view of the homogeneity of land use ratio 
+, Papers on City Planning 22, pp.229-234. (in Japanese)
+
+
+
+
+
+
+
+Umesh, R M.  (1988) 
+ A technique for cluster formation 
+, Pattern Recognition 21, pp.393-400",,"Akaike, H.  (1972) 
+ Information theory and an extension of the maximum likelihood principle 
+, Proceedings of the 2nd International Symposium on Information Theory, Akademiai kaido, Budapest (Eds B N Petron, F Csak) pp.267-281",,,,"Akaike, H.  (1974) 
+ A new look at the statistical model identification 
+, IEEE Transactions on Automatic Control 19, pp.716-723",,,,"Civco, D L.  (1993) 
+ Artificial Neural networks for Land-cover Classification and Mapping 
+, International Journal of Geographical Information Systems 7, pp.173-186",,,,"Erol, H. and Akdeniz, F.  (1998) 
+ A new supervised classification method for quantitative analysis of remotely-sensed multi- spectral data 
+, International Journal of Remote Sensing 19, pp.775-782",,,,"ESRI (1996) 
+ ArcView GIS  The Geographic Information System for Everyone
+, Environmental Systems Research Institute, USA",,,,"Flygare, A M.  (1997) 
+ A Comparison of Contextual Classification Methods Using Landsat TM
+, International Journal of Remote Sensing 18, pp.3835-3842",,,,"Goodchild, M F., Guoqing, S. and Shiren, Y.  (1992) 
+ Development and test of error model for categorical data 
+, International Journal of Geographical Information Systems 6, pp.87-104",,,,"Higuchi, T., Tamagawa, H. and Ishak, A B P.  (1988) 
+ A study on the optimum mesh size for continuous variables: An example by using a mental map 
+, Papers on City Planning 23, pp.37-42. (in Japanese)",,,,"Jenks, G F.  (1967) 
+ The Data Model Concept in Statistical Mapping 
+, International Yearbook of Cartography 7, pp.186-190",,,,"Osaragi, T.  (2001) 
+ Classification Methods for Spatial Data Representation 
+, Working Paper 40, the Centre for Advanced Spatial Analysis, University College London, London",,,,"Osaragi, T. and Nakayama, H.  (2000) 
+ Classification of Spatial Data in Visualization
+, Papers and Proceedings of the Geographic Information Systems Association 9, pp.361-366. (in Japanese)",,,,"Roy, J R., Batten, D F. and Lesse, P F.  (1982) 
+ Minimizing information loss in simple aggregation 
+, Environment and Planning A 14, pp.973-980",,,,"Shannon, C.E.  (1948) 
+ A Mathematical Theory of Communication 
+, Bell System Technical Journal 27, pp.379-423 and pp.623-656",,,,"Tamagawa, H.  (1987) 
+ A study on the optimum mesh size in view of the homogeneity of land use ratio 
+, Papers on City Planning 22, pp.229-234. (in Japanese)",,,,"Umesh, R M.  (1988) 
+ A technique for cluster formation 
+, Pattern Recognition 21, pp.393-400",,
+9,2003/08/07 14:36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

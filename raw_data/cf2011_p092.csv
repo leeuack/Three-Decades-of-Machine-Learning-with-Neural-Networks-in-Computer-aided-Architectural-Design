@@ -1,0 +1,150 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+0,cf2011_p092,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Bittermann, Michael S.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Sustainable Conceptual Building Design using a Cognitive System,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Computer Aided Architectural Design Futures 2011 [Proceedings of the 14th International Conference on Computer Aided Architectural Design Futures / ISBN 9782874561429] Liege (Belgium) 4-8 July 2011, pp. 297-314.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"A cognitive system for conceptual building design is presented. It is based on an adaptive multi-objective evolutionary algorithm. The adaptive approach is novel and, in contrast with conventional multi-objective evolutionary algorithms, it explores the solution space effectively, while maintaining diversity among the solutions. The suitability of the approach for conceptual design of a multi-purpose building complex is demonstrated in an application. In the application, the goal of maximizing sustainability is treated by means of a model, which is established using neural computations. The approach is found to be suitable for treating the soft nature of the sustainability concept. Also, the capability of the approach to compare the performance of alternative solutions from an unbiased viewpoint, i.e. without committing a-priori to a relative importance among the performance aspects, is demonstrated.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"computational design, sustainable design, adaptive evolutionary algorithm, Pareto optimality, neural computation",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,m.s.bittermann@tudelft.nl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (7,565,052 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bittermann, M.S. & Ciftcioglu, O. (2009) 
+ A cognitive system based on fuzzy information processing and multi-objective evolutionary algorithm
+, IEEE Conference on Evolutionary Computation - CEC 2009. Trondheim, Norway, IEEE
+
+
+
+
+
+
+
+Branke, J., Kaussler, T. & Schmeck, H. (2000) 
+ Guiding multi-objective evolutionary algorithms towards interesting regions
+, Technical Report TR No. 399, AIFB University of Karlsruhe, Germany
+
+
+
+
+
+
+
+Brans, J.-P. & Vincke, P. (1985) 
+ A preference ranking organisation method: The PROMETHEE method for MCDM
+, Management Science 31(6) : 647-656
+
+
+
+
+
+
+
+Ciftcioglu, Ö., Bittermann, M.S. & Sariyildiz, I.S. (2007) 
+ A neural fuzzy system for soft computing
+, NAFIPS 2007, San Diego, USA, IEEE
+
+
+
+
+
+
+
+Deb, K., Sundar, J., Bhaskara, U, et al. (2006) 
+ Reference point based multi-objective optimization using evolutionary algorithm
+, Int. J. Comp. Intelligence Research 2(3) : 273-286
+
+
+
+
+
+
+
+Deb, K. (2001) 
+ Multiobjective Optimization using Evolutionary Algorithms
+, John Wiley & Sons
+
+
+
+
+
+
+
+Engelbrecht, A.P. (2005) 
+ Computational Swarm Intelligence
+, Chichester, GB, Wiley
+
+
+
+
+
+
+
+Hopper, E. & Turton, B.C.H. (2001) 
+ An empirical investigation of metaheuristic and heuristic algorithms for a 2D packing problem
+, Eur. J. Oper. Res. 128 : 34-57
+
+
+
+
+
+
+
+Hunt, K.J., Haas, R. & Murray-Smith, R. (1996) 
+ Extending the functional equivalence of radial basis function networks and fuzzy inference systems
+, IEEE Trans. Neural Networks 7(3)
+
+
+
+
+
+
+
+Takagi, T. & Sugeno, M. (1985) 
+ Fuzzy identification of systems and its applications to modeling and control
+, IEEE Transactions on Systems, Man, and Cybernetics 15 : 116-132
+
+
+
+
+
+
+
+Zitzler, E. & Thiele, L. (1999) 
+ Multiobjective evolutionary algorithms: A comparative case study and the strength Pareto approach
+, IEEE Trans. Evolutionary Computation 3(4) : 257-271",,"Bittermann, M.S. & Ciftcioglu, O. (2009) 
+ A cognitive system based on fuzzy information processing and multi-objective evolutionary algorithm
+, IEEE Conference on Evolutionary Computation - CEC 2009. Trondheim, Norway, IEEE",,,,"Branke, J., Kaussler, T. & Schmeck, H. (2000) 
+ Guiding multi-objective evolutionary algorithms towards interesting regions
+, Technical Report TR No. 399, AIFB University of Karlsruhe, Germany",,,,"Brans, J.-P. & Vincke, P. (1985) 
+ A preference ranking organisation method: The PROMETHEE method for MCDM
+, Management Science 31(6) : 647-656",,,,"Ciftcioglu, Ö., Bittermann, M.S. & Sariyildiz, I.S. (2007) 
+ A neural fuzzy system for soft computing
+, NAFIPS 2007, San Diego, USA, IEEE",,,,"Deb, K., Sundar, J., Bhaskara, U, et al. (2006) 
+ Reference point based multi-objective optimization using evolutionary algorithm
+, Int. J. Comp. Intelligence Research 2(3) : 273-286",,,,"Deb, K. (2001) 
+ Multiobjective Optimization using Evolutionary Algorithms
+, John Wiley & Sons",,,,"Engelbrecht, A.P. (2005) 
+ Computational Swarm Intelligence
+, Chichester, GB, Wiley",,,,"Hopper, E. & Turton, B.C.H. (2001) 
+ An empirical investigation of metaheuristic and heuristic algorithms for a 2D packing problem
+, Eur. J. Oper. Res. 128 : 34-57",,,,"Hunt, K.J., Haas, R. & Murray-Smith, R. (1996) 
+ Extending the functional equivalence of radial basis function networks and fuzzy inference systems
+, IEEE Trans. Neural Networks 7(3)",,,,"Takagi, T. & Sugeno, M. (1985) 
+ Fuzzy identification of systems and its applications to modeling and control
+, IEEE Transactions on Systems, Man, and Cybernetics 15 : 116-132",,,,"Zitzler, E. & Thiele, L. (1999) 
+ Multiobjective evolutionary algorithms: A comparative case study and the strength Pareto approach
+, IEEE Trans. Evolutionary Computation 3(4) : 257-271",,
+11,2012/02/11 18:21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

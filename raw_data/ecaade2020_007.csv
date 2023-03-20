@@ -1,0 +1,174 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52
+0,ecaade2020_007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Yu, De",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Reprogramming Urban Block by Machine Creativity - How to use neural networks as generative tools to design space,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Werner, L and Koering, D (eds.), Anthropologic: Architecture and Fabrication in the cognitive age - Proceedings of the 38th eCAADe Conference - Volume 1, TU Berlin, Berlin, Germany, 16-18 September 2020, pp. 249-258",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The democratization of design requires balancing all sorts of factors in space design. However, the traditional way to organize spatial relationships cannot deal with such complex design objectives. Can one find another form of creativity rather the human brain to design space? As Margaret Boden mentioned, ""computers and creativity make interesting partners with respect to two different projects."" This paper addresses whether machine creativity in the form of neural networks could be considered as a powerful generative tool to reprogram urban block in order to meet multi-users' needs. It tested this theory in a specific block model called Agri-tecture, a new architectural form combing farming with the urban built environment. Specifically, the machine empowered by Generative Adversarial Network designed spatial layouts based on learning the existing cases. Nevertheless, since the machine can hardly avoid errors, architects need to intervene and verify the machine's work. Thus, a synergy between human creativity and machine creativity is called for.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,machine creativity; Generative Adversarial Network; spatial layout; creativity combination; Agri-tecture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,ucbqdyu@ucl.ac.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (3,531,601 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Boden, MAB (2003) 
+ The Creative Mind: Myths and Mechanisms
+, Routledge, United Kingdom
+
+
+
+
+
+
+
+Bottazzi, RB (2018) 
+ Digital Architecture Beyond Computers
+, Bloomsbury Academic, United Kingdom
+
+
+
+
+
+
+
+Despommier, DDD (2009) 
+ The rise of vertical farms
+, Scientific American, 301(5), p. 80-87
+
+
+
+
+
+
+
+Di Carlo, IDC (2016) 
+ The aesthetics of sustainability. Systemic thinking and selforganization in the evolution of cities
+, Ph.D. Thesis, University of Trento
+
+
+
+
+
+
+
+Doherty, GD (eds) (2016) 
+ Ecological Urbanism
+, Lars Muller Publishers, Switzerland
+
+
+
+
+
+
+
+Gallese, VG (2009) 
+ Mirror Neurons, Embodied Simulation, and the Neural Basis of Social Identification
+, Psychoanalytic Dialogues, 19:5, pp. 519-536
+
+
+
+
+
+
+
+Harari, YNH (2016) 
+ Homo Deus: A Brief History of Tomorrow
+, Harvill Secker, United Kingdom
+
+
+
+
+
+
+
+Hilberseimer, LKH (1949) 
+ New Regional Pattern: Industries and Gardens, Workshops and Farms.
+, Paul Theobald, United States
+
+
+
+
+
+
+
+Mario, CP (2016) 
+ The second digital turn: Design beyond intelligence
+, The MIT Press, United States
+
+
+
+
+
+
+
+Pallasmaa, JUP, Mallgrave, HFM, Arbib, MAA and Tidwell, PT (eds) (2013) 
+ Architecture and Neuroscience
+, Tapio Wirkkala-Rut Bryk Foundation, Finland
+
+
+
+
+
+
+
+Ratti Carlo, CR and Claudel, MC (2016) 
+ The City of Tomorrow
+, Yale University Press, United States
+
+
+
+
+
+
+
+Sewak, MS, Karim, RK and Pujari, PP (2018) 
+ Practical Convolutional Neural Networks
+, Packt Publishing Ltd, United Kingdom
+
+
+
+
+
+
+
+Zeki, SM (1999) 
+ Art and the brain
+, J Conscious Stud: Controvers Sci Humanit, 1999-6, pp. 76-96",,"Boden, MAB (2003) 
+ The Creative Mind: Myths and Mechanisms
+, Routledge, United Kingdom",,,,"Bottazzi, RB (2018) 
+ Digital Architecture Beyond Computers
+, Bloomsbury Academic, United Kingdom",,,,"Despommier, DDD (2009) 
+ The rise of vertical farms
+, Scientific American, 301(5), p. 80-87",,,,"Di Carlo, IDC (2016) 
+ The aesthetics of sustainability. Systemic thinking and selforganization in the evolution of cities
+, Ph.D. Thesis, University of Trento",,,,"Doherty, GD (eds) (2016) 
+ Ecological Urbanism
+, Lars Muller Publishers, Switzerland",,,,"Gallese, VG (2009) 
+ Mirror Neurons, Embodied Simulation, and the Neural Basis of Social Identification
+, Psychoanalytic Dialogues, 19:5, pp. 519-536",,,,"Harari, YNH (2016) 
+ Homo Deus: A Brief History of Tomorrow
+, Harvill Secker, United Kingdom",,,,"Hilberseimer, LKH (1949) 
+ New Regional Pattern: Industries and Gardens, Workshops and Farms.
+, Paul Theobald, United States",,,,"Mario, CP (2016) 
+ The second digital turn: Design beyond intelligence
+, The MIT Press, United States",,,,"Pallasmaa, JUP, Mallgrave, HFM, Arbib, MAA and Tidwell, PT (eds) (2013) 
+ Architecture and Neuroscience
+, Tapio Wirkkala-Rut Bryk Foundation, Finland",,,,"Ratti Carlo, CR and Claudel, MC (2016) 
+ The City of Tomorrow
+, Yale University Press, United States",,,,"Sewak, MS, Karim, RK and Pujari, PP (2018) 
+ Practical Convolutional Neural Networks
+, Packt Publishing Ltd, United Kingdom",,,,"Zeki, SM (1999) 
+ Art and the brain
+, J Conscious Stud: Controvers Sci Humanit, 1999-6, pp. 76-96",,
+11,2020/09/09 09:50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,235 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72
+0,ecaade2010_139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Sokmenoglu, Ahu; Cagdas, Gulen; Sar_y_ld_z, Sevil",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Exploring the Patterns and Relationships of Urban Attributes by Data Mining,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"FUTURE CITIES [28th eCAADe Conference Proceedings / ISBN 978-0-9541183-9-6] ETH Zurich (Switzerland) 15-18 September 2010, pp.873-881",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,WOS:000340629400093,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,This paper introduce an ongoing research project aiming to research data mining as a methodology of knowledge discovery in urban feature analysis. A methodology is developed for formulation and analysis of an urban database by applying data mining methodologies in order to identify the patterns and relationships among multiple urban attributes. The urban database is built upon real and official data of a historical neighborhood of Istanbul.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Urban feature analysis; Data mining; Urban database; Urban context; Urban attributes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,sokmenoglu@itu.edu.tr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (2,401,082 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Behnisch, M and Ultsch, A (2008) 
+ Urban Data Mining Using Emergent SOM
+, Preisach, C Burkhardt, H Schmidt-Thieme L and Decker, R. (eds), Data Analysis, Machine Learning and Applications, Springer, Berlin/Heidelberg, Germany
+
+
+
+
+
+
+
+Behnisch, M and Ultsch, A (2009) 
+ Urban data-mining: spatiotemporal exploration of multidimensional data
+, Building Research & Information, 37(5), pp. 520-532
+
+
+
+
+
+
+
+Christopoulou, K (2009) 
+ A Geographic Knowledge Discovery Approach to Property Valuation
+, PhD thesis, UCL, London, UK
+
+
+
+
+
+
+
+Demsar, U (2006) 
+ Data Mining of Geospatial Data: Combining Visual and Automatic Methods
+, PhD thesis, KTH, Stockholm, Sweden
+
+
+
+
+
+
+
+Fayyad, UM, Piatetsky-Shapiro, G and Smyth, P (1996) 
+ From Data Mining to Knowledge Discovery: An Overview
+, AI Magazine, 17(2), pp. 37-54
+
+
+
+
+
+
+
+Gil, J, Montenegro, N, Beirao, JN and Duarte, JP (2009) 
+ On the Discovery of Urban Typologies: Data Mining the Multi dimensional Character of Neighbourhoods
+, Proceedings of the 27th eCAADe Conference, Istanbul, Turkey, pp.269-278
+
+
+
+
+
+
+
+Goodchild, MF (2006) 
+ Afterword: From Systems to Science
+, M. Kennedy, Introducing Geographic Information Systems with ArcGIS, Wiley, Chichester, UK. 
+
+
+
+
+
+
+
+Han, J and Kamber, M (2001) 
+ Data Mining: Concepts and Techniques
+, Morgan Kaufmann Publishers, San Francisco, USA
+
+
+
+
+
+
+
+Harvey, D (1973) 
+ Social Justice and The City
+, University of Georgia Press, USA
+
+
+
+
+
+
+
+Hastie, T, Tibshirani, R and Friedman, J (2009) 
+ The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition
+, Springer, Berlin/Heidelberg, Germany
+
+
+
+
+
+
+
+Hsu, W, Lee, M and Wang, J (ed.) (2008) 
+ Temporal and Spatio-Temporal Data Mining: Association Patterns and Applications
+, IGI Publishing, London, UK
+
+
+
+
+
+
+
+Jacobs, J (1961) 
+ The Death and Life of Great American Cities
+, Random House INC, New York, NY, USA
+
+
+
+
+
+
+
+Lefebvre, H (1970) 
+ The Urban Revolution
+, University of Minnesota Press, Minneapolis, USA
+
+
+
+
+
+
+
+Liu, W and Seto, KC (2008) 
+ Using the ART-MMAP neural network to model and predict urban growth: a spatiotemporal data mining approach
+, Environment and Planning B, Planning and Design, 35(2), pp. 296-317
+
+
+
+
+
+
+
+Marshall, S (2004) 
+ Streets and Patterns: The Structure of Urban Geometry, 1st Edition
+, Routledge, New York, NY, USA
+
+
+
+
+
+
+
+Miller HJ and Han J (2001) 
+ Geographic data mining and knowledge discovery, An overview
+,  H. J. Miller, J. Han (eds), Geographic data mining and knowledge discovery, Taylor & Francis, Florence, USA
+
+
+
+
+
+
+
+Reffat, R (2008) 
+ Investigating Patterns of Contemporary Architecture using Data Mining Techniques
+, Proceedings of the 26th eCAADe Conference, Antwerp, Belgium, pp. 601-608
+
+
+
+
+
+
+
+Witten, IH and Frank E (2005) 
+ Data Mining: Practical Machine Learning Tools and Techniques, Second Edition
+, Morgan Kaufmann Publishers, San Francisco, USA",,"Behnisch, M and Ultsch, A (2008) 
+ Urban Data Mining Using Emergent SOM
+, Preisach, C Burkhardt, H Schmidt-Thieme L and Decker, R. (eds), Data Analysis, Machine Learning and Applications, Springer, Berlin/Heidelberg, Germany",,,,"Behnisch, M and Ultsch, A (2009) 
+ Urban data-mining: spatiotemporal exploration of multidimensional data
+, Building Research & Information, 37(5), pp. 520-532",,,,"Christopoulou, K (2009) 
+ A Geographic Knowledge Discovery Approach to Property Valuation
+, PhD thesis, UCL, London, UK",,,,"Demsar, U (2006) 
+ Data Mining of Geospatial Data: Combining Visual and Automatic Methods
+, PhD thesis, KTH, Stockholm, Sweden",,,,"Fayyad, UM, Piatetsky-Shapiro, G and Smyth, P (1996) 
+ From Data Mining to Knowledge Discovery: An Overview
+, AI Magazine, 17(2), pp. 37-54",,,,"Gil, J, Montenegro, N, Beirao, JN and Duarte, JP (2009) 
+ On the Discovery of Urban Typologies: Data Mining the Multi dimensional Character of Neighbourhoods
+, Proceedings of the 27th eCAADe Conference, Istanbul, Turkey, pp.269-278",,,,"Goodchild, MF (2006) 
+ Afterword: From Systems to Science
+, M. Kennedy, Introducing Geographic Information Systems with ArcGIS, Wiley, Chichester, UK.",,,,"Han, J and Kamber, M (2001) 
+ Data Mining: Concepts and Techniques
+, Morgan Kaufmann Publishers, San Francisco, USA",,,,"Harvey, D (1973) 
+ Social Justice and The City
+, University of Georgia Press, USA",,,,"Hastie, T, Tibshirani, R and Friedman, J (2009) 
+ The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition
+, Springer, Berlin/Heidelberg, Germany",,,,"Hsu, W, Lee, M and Wang, J (ed.) (2008) 
+ Temporal and Spatio-Temporal Data Mining: Association Patterns and Applications
+, IGI Publishing, London, UK",,,,"Jacobs, J (1961) 
+ The Death and Life of Great American Cities
+, Random House INC, New York, NY, USA",,,,"Lefebvre, H (1970) 
+ The Urban Revolution
+, University of Minnesota Press, Minneapolis, USA",,,,"Liu, W and Seto, KC (2008) 
+ Using the ART-MMAP neural network to model and predict urban growth: a spatiotemporal data mining approach
+, Environment and Planning B, Planning and Design, 35(2), pp. 296-317",,,,"Marshall, S (2004) 
+ Streets and Patterns: The Structure of Urban Geometry, 1st Edition
+, Routledge, New York, NY, USA",,,,"Miller HJ and Han J (2001) 
+ Geographic data mining and knowledge discovery, An overview
+,  H. J. Miller, J. Han (eds), Geographic data mining and knowledge discovery, Taylor & Francis, Florence, USA",,,,"Reffat, R (2008) 
+ Investigating Patterns of Contemporary Architecture using Data Mining Techniques
+, Proceedings of the 26th eCAADe Conference, Antwerp, Belgium, pp. 601-608",,,,"Witten, IH and Frank E (2005) 
+ Data Mining: Practical Machine Learning Tools and Techniques, Second Edition
+, Morgan Kaufmann Publishers, San Francisco, USA",,
+12,2016/05/16 09:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

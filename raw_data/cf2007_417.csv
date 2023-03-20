@@ -1,0 +1,257 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,cf2007_417,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Peng, Wei; John S Gero",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Computer-Aided Design Tools That Adapt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Computer Aided Architectural Design Futures / 978-1-4020-6527-9 2007 [Proceedings of the 12th International Conference on Computer Aided Architectural Design Futures / 978-1-4020-6527-9] Sydney (Australia) 1113 July 2007, pp. 417-430",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper describes an approach that enables a computer-aided design tool to learn conceptual knowledge as it is being used, and as a consequence adapts its behaviours to the changing environment. This allows the tool to improve the effectiveness of designers in their design tasks over time. Design experiments evaluate the effectiveness of this prototype system in recognizing optimization problems in heterogeneous design scenarios.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,wei.peng@csiro.au,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (224,849 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Balachandran, MB (1988) 
+ A Model for Knowledge-Based Design Optimization
+, PhD Thesis, University of Sydney, Sydney
+
+
+
+
+
+
+
+Beer, RD (1997) 
+ The dynamics of adaptive behaviour: A research program
+, Robotics and Autonomous Systems 20: 257-289
+
+
+
+
+
+
+
+Boer, B and Canamero, D (1999) 
+ Situated learning in autonomous agents
+, J Joan Bliss, R Saljo and P Light (eds), Learning Sites: Social and Technological Resources for Learning, Pergamon, Amsterdam, pp. 236-248
+
+
+
+
+
+
+
+Bradshaw, J (ed.) (1996) 
+ Software Agents
+, MIT Press, Cambridge
+
+
+
+
+
+
+
+Clancey, W (1997) 
+ Situated Cognition: On Human Knowledge and Computer Representations
+, Cambridge University Press, Cambridge
+
+
+
+
+
+
+
+Gero, JS and Fujii, H (2000) 
+ A computational framework for concept formation in a situated design agent
+, Knowledge-Based Systems 13(6): 361-368
+
+
+
+
+
+
+
+Gero, JS and Kannengiesser, U (2006) 
+ A framework for situated design optimization
+, Design & Decision Support Systems 2006, Springer-Verlag, Berlin, in press
+
+
+
+
+
+
+
+Gero, JS and Peng, W (2004) 
+ A situated agent-based design assistant
+, CAADRIA 2004, Yonsei University Press, Korea, pp. 145-157
+
+
+
+
+
+
+
+Gero, JS (1998) 
+ Conceptual designing as a sequence of situated acts
+, I Smith (eds), Artificial Intelligence in Structural Engineering, Springer, Berlin, pp. 165-177
+
+
+
+
+
+
+
+Gero, JS (1999) 
+ Constructive memory in design thinking
+, Design Thinking Research Symposium: Design Representation, MIT, Cambridge, pp. 29-35
+
+
+
+
+
+
+
+Gero, JS (2003) 
+ Design tools as situated agents that adapt to their use
+, W Dokonal and U Hirschberg (eds), eCAADe21, eCAADe, Graz University of Technology, pp. 177-180
+
+
+
+
+
+
+
+Lieberman, H (2001) 
+ Introduction
+, H Lieberman (eds), Your Wish is My Command: Programming by Example, Morgan Kaufmann, San Francisco, pp. 1-7
+
+
+
+
+
+
+
+Liew, P-S (2004) 
+ A Constructive Memory System for Situated Design Agents
+, University of Sydney, Sydney
+
+
+
+
+
+
+
+Maes, P (1994) 
+ Agents that reduce work and information overload
+, Communications of the ACM 37: 31-40
+
+
+
+
+
+
+
+Maher, ML and Gero, JS (2002) 
+ Agent models of 3D virtual worlds
+, ACADIA 2002: Thresholds, California State Polytechnic University, Pomona, California State Polytechnic University, Pomona, pp. 127-138
+
+
+
+
+
+
+
+McClelland, JL (1981) 
+ Retrieving general and specific information from stored knowledge of specifics
+, Proceedings of the Third Annual Meeting of the Cognitive Science Society, Erlbaum, Hillsdale, NJ, pp. 170-172
+
+
+
+
+
+
+
+Peng, W and Gero, J (2006) 
+ Using a constructive interactive activation and competition neural network to construct a situated agent's experience
+, PRICAI 2006: Trends in Artificial Intelligence, Ninth Pacific Rim International Conference on Artificial Intelligence, Springer, Guilin, pp. 21-30
+
+
+
+
+
+
+
+Radford, AD and Gero, JS (1988) 
+ Design by Optimization in Architecture and Building
+, Van Nostrand Reinhold, New York
+
+
+
+
+
+
+
+Reffat, R and Gero, JS (2000) 
+ Computational situated learning in design
+, JS Gero (eds), Artificial Intelligence in Design'00, Kluwer Academic Publishers, Dordrecht, pp. 589-610
+
+
+
+
+
+
+
+Reich, Y and Fenves, S (1991) 
+ The formation and use of abstract concepts in design
+, D Fisher, M Pazzani and P Langley (eds), Concept Formation: Knowledge and Experience in Unsupervised Learning, Morgan Kaufmann, San Mateo, CA, pp. 323-353",,"Balachandran, MB (1988) 
+ A Model for Knowledge-Based Design Optimization
+, PhD Thesis, University of Sydney, Sydney",,,,"Beer, RD (1997) 
+ The dynamics of adaptive behaviour: A research program
+, Robotics and Autonomous Systems 20: 257-289",,,,"Boer, B and Canamero, D (1999) 
+ Situated learning in autonomous agents
+, J Joan Bliss, R Saljo and P Light (eds), Learning Sites: Social and Technological Resources for Learning, Pergamon, Amsterdam, pp. 236-248",,,,"Bradshaw, J (ed.) (1996) 
+ Software Agents
+, MIT Press, Cambridge",,,,"Clancey, W (1997) 
+ Situated Cognition: On Human Knowledge and Computer Representations
+, Cambridge University Press, Cambridge",,,,"Gero, JS and Fujii, H (2000) 
+ A computational framework for concept formation in a situated design agent
+, Knowledge-Based Systems 13(6): 361-368",,,,"Gero, JS and Kannengiesser, U (2006) 
+ A framework for situated design optimization
+, Design & Decision Support Systems 2006, Springer-Verlag, Berlin, in press",,,,"Gero, JS and Peng, W (2004) 
+ A situated agent-based design assistant
+, CAADRIA 2004, Yonsei University Press, Korea, pp. 145-157",,,,"Gero, JS (1998) 
+ Conceptual designing as a sequence of situated acts
+, I Smith (eds), Artificial Intelligence in Structural Engineering, Springer, Berlin, pp. 165-177",,,,"Gero, JS (1999) 
+ Constructive memory in design thinking
+, Design Thinking Research Symposium: Design Representation, MIT, Cambridge, pp. 29-35",,,,"Gero, JS (2003) 
+ Design tools as situated agents that adapt to their use
+, W Dokonal and U Hirschberg (eds), eCAADe21, eCAADe, Graz University of Technology, pp. 177-180",,,,"Lieberman, H (2001) 
+ Introduction
+, H Lieberman (eds), Your Wish is My Command: Programming by Example, Morgan Kaufmann, San Francisco, pp. 1-7",,,,"Liew, P-S (2004) 
+ A Constructive Memory System for Situated Design Agents
+, University of Sydney, Sydney",,,,"Maes, P (1994) 
+ Agents that reduce work and information overload
+, Communications of the ACM 37: 31-40",,,,"Maher, ML and Gero, JS (2002) 
+ Agent models of 3D virtual worlds
+, ACADIA 2002: Thresholds, California State Polytechnic University, Pomona, California State Polytechnic University, Pomona, pp. 127-138",,,,"McClelland, JL (1981) 
+ Retrieving general and specific information from stored knowledge of specifics
+, Proceedings of the Third Annual Meeting of the Cognitive Science Society, Erlbaum, Hillsdale, NJ, pp. 170-172",,,,"Peng, W and Gero, J (2006) 
+ Using a constructive interactive activation and competition neural network to construct a situated agent's experience
+, PRICAI 2006: Trends in Artificial Intelligence, Ninth Pacific Rim International Conference on Artificial Intelligence, Springer, Guilin, pp. 21-30",,,,"Radford, AD and Gero, JS (1988) 
+ Design by Optimization in Architecture and Building
+, Van Nostrand Reinhold, New York",,,,"Reffat, R and Gero, JS (2000) 
+ Computational situated learning in design
+, JS Gero (eds), Artificial Intelligence in Design'00, Kluwer Academic Publishers, Dordrecht, pp. 589-610",,,,"Reich, Y and Fenves, S (1991) 
+ The formation and use of abstract concepts in design
+, D Fisher, M Pazzani and P Langley (eds), Concept Formation: Knowledge and Experience in Unsupervised Learning, Morgan Kaufmann, San Mateo, CA, pp. 323-353",,
+10,2007/07/06 10:47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

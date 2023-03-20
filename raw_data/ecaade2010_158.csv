@@ -1,0 +1,103 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+0,ecaade2010_158,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Kuo, Jeannette; Zausinger, Dominik",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2010,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Scale and Complexity: Multi-layered, multi-scalar agent networks in time-based urban design",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"FUTURE CITIES [28th eCAADe Conference Proceedings / ISBN 978-0-9541183-9-6] ETH Zurich (Switzerland) 15-18 September 2010, pp.651-657",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,WOS:000340629400070,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Urban design, perhaps even more than architecture, is a timedependent discipline. With its multi-layered complexities, from individual buildings to entire regions, decisions made at one level, that may not show effect immediately, may prove to have disastrous consequences further down the line. The need to incorporate time-based simulations in urban modeling, and the demand for a means of evaluating the changes have led to explorations with multi-agent systems in computation that allow for decisions to be decentralized. From the first basic rule-based system of Conways Game of Life [1] to recent urban simulations developed at institutions like the ETH Zurich [2], or UCL CASA [3], these programs synthesize the various exigencies into complex simulations so that the designer may make informed decisions. It is however not enough to simply use parametrics in urban design. Rules or desires implemented at one scale may not apply to another, while isolating each scalar layer for independent study reverts to the disjunctive and shortsighted practices of past planning decisions. Central to current parametric research in urban design is the need to deal with multiple scales of urbanism with specific intelligence that can then feed back into the collective system: a networked parametric environment. This paper will present the results from a city-generator, developed in Processing by Dino Rossi, Dominik Zausinger and Jeannette Kuo, using multiagent systems that operate interactively at various scales.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Agent-based modeling; Cellular automata; Parametric urbanism; Neural network; Complexity; Genetic algorithm; Urban dynamics,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,kuo@karamukkuo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (1,578,086 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Alexander, C, Ishikawa, S and Silverstein, M (1977) 
+ A Pattern Language: Towns, Buildings, Construction
+, Oxford University Press, New York, USA
+
+
+
+
+
+
+
+Batty, M (2009) 
+ Urban Modeling
+, International Encyclopedia of Human Geography, 12, pp. 51-58
+
+
+
+
+
+
+
+DeLanda, M and Leach, N  (2009) 
+ The Limits of Urban Simulation: An Interview with Manuel De Landa 
+, Architectural Design, 79 (4), pp. 50-56
+
+
+
+
+
+
+
+Marshall, S (2008) 
+ Cities Design and Evolution
+, Routledge, New York, NY, USA
+
+
+
+
+
+
+
+Reffat, RM  (2003) 
+ Architectural Exploration and Creativity Using Intelligent Design Agents
+, Proceedings of the 21th eCAADe Conference, Graz, Austria, pp. 181-187
+
+
+
+
+
+
+
+Schumacher, P  (2009) 
+ Parametricism: A New Global Style for Architecture and Urban Design 
+, Architectural Design, 79(4), pp. 14-23. 
+
+
+
+
+
+
+
+Wolfram, S  (2002) 
+ A New Kind of Science
+, Wolfram Media, Champaign, USA",,"Alexander, C, Ishikawa, S and Silverstein, M (1977) 
+ A Pattern Language: Towns, Buildings, Construction
+, Oxford University Press, New York, USA",,,,"Batty, M (2009) 
+ Urban Modeling
+, International Encyclopedia of Human Geography, 12, pp. 51-58",,,,"DeLanda, M and Leach, N  (2009) 
+ The Limits of Urban Simulation: An Interview with Manuel De Landa 
+, Architectural Design, 79 (4), pp. 50-56",,,,"Marshall, S (2008) 
+ Cities Design and Evolution
+, Routledge, New York, NY, USA",,,,"Reffat, RM  (2003) 
+ Architectural Exploration and Creativity Using Intelligent Design Agents
+, Proceedings of the 21th eCAADe Conference, Graz, Austria, pp. 181-187",,,,"Schumacher, P  (2009) 
+ Parametricism: A New Global Style for Architecture and Urban Design 
+, Architectural Design, 79(4), pp. 14-23.",,,,"Wolfram, S  (2002) 
+ A New Kind of Science
+, Wolfram Media, Champaign, USA",,
+12,2016/05/16 09:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,

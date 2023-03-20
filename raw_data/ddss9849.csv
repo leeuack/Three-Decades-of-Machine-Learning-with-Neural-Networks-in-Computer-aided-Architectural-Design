@@ -1,0 +1,76 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+0,ddss9849,,,,,,,,,,,,,,,,,,,,
+1,"Sariyildiz, S. Ciftcioglu, Ö. and Veer, Peter van der",,,,,,,,,,,,,,,,,,,,
+2,1998,,,,,,,,,,,,,,,,,,,,
+3,Information Ordering for decision support in building design,,,,,,,,,,,,,,,,,,,,
+4,"Timmermans, Harry (Ed.), Fourth Design and Decision Support Systems in Architecture and Urban Planning  Maastricht, the Netherlands), ISBN 90-6814-081-7, July 26-29, 1998",,,,,,,,,,,,,,,,,,,,
+5,"A systematic approach for the application of AI-based information processing for information ordering in architectural building design is described. For this purpose fuzzy associative memory (FAM) method is considered. In this system FAM is used for knowledge representation in building design concerning the functional & technical requirements information and its graded relevance to individuals concerned in the same context. A set of FAM rules having been established as a knowledge base for use, a pattern of information in the form of a fuzzy vector is fed to each FAM rule. Here, a decision support system is aimed to convey the information to the respective individuals and/or bodies involved, in a graded form, according to their capacity of involvement in the building design. By exploiting the binary logic, each FAM rule is fired in parallel but to a different degree so that each rule generates an m-dimensional output fuzzy vector Pi. The union of these vectors creates m-dimensional fuzzy decision vector D that provides the ordered information addressed to respective individuals and/or bodies mentioned. Using simulated data, a verification procedure for the performance of the approach is investigated and by means of the work, the role that artificial intelligence in architecture and building design might play, is pointed out.",,,,,,,,,,,,,,,,,,,,
+6,DDSS,,,,,,,,,,,,,,,,,,,,
+7,"file.pdf (77,977 bytes)",,,,,,,,,,,,,,,,,,,,
+8,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Haykin, S. (1994) 
+ Neural Networks- A Comprehensive Foundation
+, Macmillan College Publishing Company, Newyork
+
+
+
+
+
+
+
+Klir, G.J. and Foger, T.A. (1988) 
+ Fuzzy Sets, Uncertainty and Information
+, Prentice Hall, Englewood Cliffs, NJ
+
+
+
+
+
+
+
+Kosko, B. (1992) 
+ Neural Networks and Fuzzy Systems
+, Prentice Hall, Englewood Cliffs, New Jersey
+
+
+
+
+
+
+
+Sariyildiz S. and Schwenck, M. (1996) 
+ Integrated Support Systems for Architectural Design
+, Proceedings, 3rd International Conference on Design and Decision Support Systems in Architecture and Urban Planning, Spa, Belgium, 1996
+
+
+
+
+
+
+
+Zadeh, L.A. (1965) 
+ Fuzzy sets
+, Information and Control 8, pp.338-353",,"Haykin, S. (1994) 
+ Neural Networks- A Comprehensive Foundation
+, Macmillan College Publishing Company, Newyork",,,,"Klir, G.J. and Foger, T.A. (1988) 
+ Fuzzy Sets, Uncertainty and Information
+, Prentice Hall, Englewood Cliffs, NJ",,,,"Kosko, B. (1992) 
+ Neural Networks and Fuzzy Systems
+, Prentice Hall, Englewood Cliffs, New Jersey",,,,"Sariyildiz S. and Schwenck, M. (1996) 
+ Integrated Support Systems for Architectural Design
+, Proceedings, 3rd International Conference on Design and Decision Support Systems in Architecture and Urban Planning, Spa, Belgium, 1996",,,,"Zadeh, L.A. (1965) 
+ Fuzzy sets
+, Information and Control 8, pp.338-353",,
+9,2003/08/07 14:36,,,,,,,,,,,,,,,,,,,,

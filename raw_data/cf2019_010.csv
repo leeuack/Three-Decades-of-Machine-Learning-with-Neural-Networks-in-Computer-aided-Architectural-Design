@@ -1,0 +1,246 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76
+0,cf2019_010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Lorenz, Clara-Larissa; Bleil De Souza, Spaeth and Packianather",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Machine Learning in Design Exploration: An Investigation of the Sensitivities of ANN-based Daylight Predictions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Ji-Hyun Lee (Eds.) ""Hello, Culture!""  [18th International Conference, CAAD Futures 2019, Proceedings / ISBN 978-89-89453-05-5] Daejeon, Korea, pp. 75-87",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The use of Artificial Neural Networks (ANNs) promises greater efficiency in the assessment of daylight situations than simulations. With the daylight factor under scrutiny and the recent adaptation of climate-based daylight metrics in British and European buildings standards, ANNs provide a possibility for instantaneous feedback on otherwise time-consuming performance metrices. This study demonstrates the application of ANNs as prediction systems in design exploration. A specific focus of the research is the flexibility of ANNs, their reliability and sensitivity to changes.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Artificial neural networks, atria, climate-based daylight modeling, daylight autonomy, daylight performance, parametric design",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,lorenzc4@cardiff.ac.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (962,686 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+C. F. Reinhart and O. Walkenhorst (2001) 
+ Validation of dynamic RADIANCE-based daylight simulations for a test office with external blinds
+, Energy Build., vol. 33, no. 7, pp. 683697
+
+
+
+
+
+
+
+C.-L. Lorenz and W. Jabi (2017) 
+ Predicting Daylight Autonomy Metrics Using Machine Learning
+, International Conference for Sustainable Design of the Built Environment
+
+
+
+
+
+
+
+C.-L. Lorenz, M. Packianather, A. B. Spaeth, and C. Bleil de Souza (2018) 
+ Artificial Neural Network-Based Modelling for Daylight Evaluations
+, Symposium on Simulation for Architecture + Urban Design
+
+
+
+
+
+
+
+D. Gossard, B. Lartigue, and F. Thellier (2013) 
+ Multi-objective optimization of a building envelope for thermal performance using genetic algorithms and artificial neural network
+, Energy Build., vol. 67, pp. 253260
+
+
+
+
+
+
+
+D. Marquardt (1963) 
+ An Algorithm for Least-Squares Estimation of Nonlinear Parameters
+, SIAM J. Appl. Math., vol. 11, no. 2, pp. 431441
+
+
+
+
+
+
+
+G. Lopez and C. A. Gueymard (2007) 
+ Clear-sky solar luminous efficacy determination using artificial neural networks
+, Sol. Energy, vol. 81, no. 7, pp. 929939
+
+
+
+
+
+
+
+J. Hu and S. Olbina (2011) 
+ Illuminance-based slat angle selection model for automated control of split blinds
+, Build. Environ., vol. 46, no. 3, pp. 786796
+
+
+
+
+
+
+
+J. M. Twomey and A. E. Smith (1995) 
+ Performance measures, consistency, and power for artificial neural network models
+, Math. Comput. Model., vol. 21, no. 1/2, pp. 243258
+
+
+
+
+
+
+
+M. Ehrgott, C. M. Fonseca, X. Gandibleux, J.-K. Hao, and M. Sevaux, Eds. (2009) 
+ Evolutionary Multi-Criterion Optimization
+, vol. 5467. Berlin, Heidelberg: Springer Berlin Heidelberg
+
+
+
+
+
+
+
+M. G. Figueiro et al. (2017) 
+ The impact of daytime light exposures on sleep and mood in office workers
+, Sleep Heal., vol. 3, no. 3, pp. 204215
+
+
+
+
+
+
+
+O. Aschehoug (1992) 
+ Daylight in glazed spaces
+, Build. Res. Inf., vol. 20, no. 4, pp. 242245
+
+
+
+
+
+
+
+P. Sajda (2002) 
+ Neural Networks
+, Encyclopedia of the Human Brain Volume 3, V. S. Ramachandran, Ed. Columbia University, USA: Academic Press, 2002, pp. 373383
+
+
+
+
+
+
+
+R. J. Cole (1990) 
+ The effect of the surfaces adjoining atria on the daylight in adjacent spaces
+, Build. Environ., vol. 25, no. 1, pp. 3742
+
+
+
+
+
+
+
+S. Janjai and P. Plaon (2011) 
+ Estimation of sky luminance in the tropics using artificial neural networks: Modeling and performance comparison with the CIE model
+, Appl. Energy, vol. 88, no. 3, pp. 840847
+
+
+
+
+
+
+
+S. Pattanasethanon, C. Lertsatitthanakorn, and S. Atthajariyakul (2008) 
+ An accuracy assessment of an empirical sine model , a novel sine model and an artificial neural network model for forecasting illuminance / irradiance on horizontal plane of all sky types at Mahasarakham , Thailand
+, vol. 49, pp. 19992005
+
+
+
+
+
+
+
+S. Samant (2017) 
+ Atrium and its adjoining spaces: a study of the influence of atrium façade design Swinal Samant Atrium and its adjoining spaces: a study of the influence of atrium façade design
+, Archit. Sci. Rev., vol. 54, no. 4
+
+
+
+
+
+
+
+S. Zhou and D. Liu (2015) 
+ Prediction of Daylighting and Energy Performance Using Artificial Neural Network and Support Vector Machine
+, Am. J. Civ. Eng. Archit. Vol. 3, 2015, Pages 1-8, vol. 3, no. 3A, pp. 18
+
+
+
+
+
+
+
+T. Kazanasmaz, M. Gunaydin, and S. Binol (2009) 
+ Artificial neural networks to predict daylight illuminance in office buildings
+, Build. Environ., vol. 44, pp. 17511757
+
+
+
+
+
+
+
+Y. LeCun, L. Bottou, G. B. Orr, and K.-R. Müller (1998) 
+ Efficient BackProp
+, Neural Networks: Tricks of the trade, Berlin, Germany: Springer",,"C. F. Reinhart and O. Walkenhorst (2001) 
+ Validation of dynamic RADIANCE-based daylight simulations for a test office with external blinds
+, Energy Build., vol. 33, no. 7, pp. 683697",,,,"C.-L. Lorenz and W. Jabi (2017) 
+ Predicting Daylight Autonomy Metrics Using Machine Learning
+, International Conference for Sustainable Design of the Built Environment",,,,"C.-L. Lorenz, M. Packianather, A. B. Spaeth, and C. Bleil de Souza (2018) 
+ Artificial Neural Network-Based Modelling for Daylight Evaluations
+, Symposium on Simulation for Architecture + Urban Design",,,,"D. Gossard, B. Lartigue, and F. Thellier (2013) 
+ Multi-objective optimization of a building envelope for thermal performance using genetic algorithms and artificial neural network
+, Energy Build., vol. 67, pp. 253260",,,,"D. Marquardt (1963) 
+ An Algorithm for Least-Squares Estimation of Nonlinear Parameters
+, SIAM J. Appl. Math., vol. 11, no. 2, pp. 431441",,,,"G. Lopez and C. A. Gueymard (2007) 
+ Clear-sky solar luminous efficacy determination using artificial neural networks
+, Sol. Energy, vol. 81, no. 7, pp. 929939",,,,"J. Hu and S. Olbina (2011) 
+ Illuminance-based slat angle selection model for automated control of split blinds
+, Build. Environ., vol. 46, no. 3, pp. 786796",,,,"J. M. Twomey and A. E. Smith (1995) 
+ Performance measures, consistency, and power for artificial neural network models
+, Math. Comput. Model., vol. 21, no. 1/2, pp. 243258",,,,"M. Ehrgott, C. M. Fonseca, X. Gandibleux, J.-K. Hao, and M. Sevaux, Eds. (2009) 
+ Evolutionary Multi-Criterion Optimization
+, vol. 5467. Berlin, Heidelberg: Springer Berlin Heidelberg",,,,"M. G. Figueiro et al. (2017) 
+ The impact of daytime light exposures on sleep and mood in office workers
+, Sleep Heal., vol. 3, no. 3, pp. 204215",,,,"O. Aschehoug (1992) 
+ Daylight in glazed spaces
+, Build. Res. Inf., vol. 20, no. 4, pp. 242245",,,,"P. Sajda (2002) 
+ Neural Networks
+, Encyclopedia of the Human Brain Volume 3, V. S. Ramachandran, Ed. Columbia University, USA: Academic Press, 2002, pp. 373383",,,,"R. J. Cole (1990) 
+ The effect of the surfaces adjoining atria on the daylight in adjacent spaces
+, Build. Environ., vol. 25, no. 1, pp. 3742",,,,"S. Janjai and P. Plaon (2011) 
+ Estimation of sky luminance in the tropics using artificial neural networks: Modeling and performance comparison with the CIE model
+, Appl. Energy, vol. 88, no. 3, pp. 840847",,,,"S. Pattanasethanon, C. Lertsatitthanakorn, and S. Atthajariyakul (2008) 
+ An accuracy assessment of an empirical sine model , a novel sine model and an artificial neural network model for forecasting illuminance / irradiance on horizontal plane of all sky types at Mahasarakham , Thailand
+, vol. 49, pp. 19992005",,,,"S. Samant (2017) 
+ Atrium and its adjoining spaces: a study of the influence of atrium façade design Swinal Samant Atrium and its adjoining spaces: a study of the influence of atrium façade design
+, Archit. Sci. Rev., vol. 54, no. 4",,,,"S. Zhou and D. Liu (2015) 
+ Prediction of Daylighting and Energy Performance Using Artificial Neural Network and Support Vector Machine
+, Am. J. Civ. Eng. Archit. Vol. 3, 2015, Pages 1-8, vol. 3, no. 3A, pp. 18",,,,"T. Kazanasmaz, M. Gunaydin, and S. Binol (2009) 
+ Artificial neural networks to predict daylight illuminance in office buildings
+, Build. Environ., vol. 44, pp. 17511757",,,,"Y. LeCun, L. Bottou, G. B. Orr, and K.-R. Müller (1998) 
+ Efficient BackProp
+, Neural Networks: Tricks of the trade, Berlin, Germany: Springer",,
+11,2019/07/29 12:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

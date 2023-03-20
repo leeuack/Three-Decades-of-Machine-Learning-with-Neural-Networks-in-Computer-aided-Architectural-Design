@@ -1,0 +1,222 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68
+0,cf2019_014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Ferrando, Cecilia; Niccolo Dalmasso, Jiawei Mai, Daniel Cardoso Llach",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Architectural Distant Reading Using Machine Learning to Identify Typological Traits Across Multiple Buildings,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Ji-Hyun Lee (Eds.) ""Hello, Culture!""  [18th International Conference, CAAD Futures 2019, Proceedings / ISBN 978-89-89453-05-5] Daejeon, Korea, pp. 114-127",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper introduces an approach to architectural distant reading: the use of computational methods to analyze architectural data in order to derive spatial insights fromand explore new questions concerninglarge collections of architectural work. Through a case study comprising a dataset of religious buildings, we show how we may use machine learning techniques to identify typological and functional traits from building plans. We find that spatial structure, rather than local features, is particularly effective in supporting this type of analysis. Further, we speculate on the potential of this computational method to enrich architectural design, research, and criticism by, for example, enabling new ways of thinking about architectural concepts such as typology in ways that reflect gradual variations, rather than sharp distinctions.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Architectural Analytics, Machine Learning, Classification, Religious buildings, Space Syntax",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,cferrand@alumni.cmu.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,523,385 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Alexander, C. (1964) 
+ Notes on the Synthesis of Form
+, Harvard University Press
+
+
+
+
+
+
+
+Alexander, C. (1977) 
+ A pattern language: towns, buildings, construction
+, Oxford university press
+
+
+
+
+
+
+
+Batty, M. (2001) 
+ Exploring isovist fields: space and shape in architectural and urban morphology
+, Environment and Planning B Planning and Design 28(1):123-150.
+
+
+
+
+
+
+
+Benedikt, M. (1979) 
+ To Take Hold of Space: Isovists and Isovist Fields
+, Environment and Planning B Planning and Design 6(1):47-65
+
+
+
+
+
+
+
+Cardoso Llach, Daniel. (2019) 
+ Tracing Design Ecologies: Collecting and Visualizing Ephemeral Data as a Method in Design and Technology Studies
+, DigitalSTS Handbook, edited by Janet Vertesi and David Ribes. Princeton University Press
+
+
+
+
+
+
+
+Du, S. S., Wang, Y., Zhai X., Balakrishnan S., Salakhutdinov R.R., and Singh A. (2018) 
+ How Many Samples are Needed to Estimate a Convolutional Neural Network?
+, Advances in Neural Information Processing Systems 31
+
+
+
+
+
+
+
+Efron, B. (1982) 
+ The Jackknife, the Bootstrap and other resampling plans
+, CBMS-NSF regional conference series in applied mathematics
+
+
+
+
+
+
+
+Ferrando, C. (2018) 
+ Towards a Machine Learning Framework in Spatial Analysis
+, Carnegie Mellon University, MS Thesis
+
+
+
+
+
+
+
+Hillier, B. and Hanson, J. (1989) 
+ The social logic of space
+, Cambridge university press
+
+
+
+
+
+
+
+Jockers, M. L., and Witten, D. M. (2010) 
+ A comparative study of machine learning methods
+, Literary and Linguistic Computing, Volume 25, Issue 2, 1
+
+
+
+
+
+
+
+Kearns, M. (1997) 
+ A Bound on the Error of Cross Validation Using the Approximation and Estimation Rates, with Consequences for the Training-test Split
+, Neural Computation
+
+
+
+
+
+
+
+Manovich, L. (2016) 
+ The science of culture? Social computing, digital humanities and cultural analytics
+, Journal of Cultural Analytics, volume 1
+
+
+
+
+
+
+
+Moretti, F. (2013) 
+ Distant Reading
+, Verso Books
+
+
+
+
+
+
+
+Psarra, S. (2009) 
+ Architecture and Narrative: The formation of space and cultural meaning
+, Routledge
+
+
+
+
+
+
+
+Schölkopf, B., and Smola, A. (2002) 
+ Learning with kernels: Support vector machines, regularization, optimization, and beyond
+, The MIT Press
+
+
+
+
+
+
+
+Stiny, G. and Gips, J. (1978) 
+ An evaluation of palladian plans
+, Environment and planning B: Planning and design, 5(2):199206
+
+
+
+
+
+
+
+Underwood, T. (2017) 
+ A Genealogy of Distant Reading, Digital Humanities Quarterly
+, Volume 11, no.2",,"Alexander, C. (1964) 
+ Notes on the Synthesis of Form
+, Harvard University Press",,,,"Alexander, C. (1977) 
+ A pattern language: towns, buildings, construction
+, Oxford university press",,,,"Batty, M. (2001) 
+ Exploring isovist fields: space and shape in architectural and urban morphology
+, Environment and Planning B Planning and Design 28(1):123-150.",,,,"Benedikt, M. (1979) 
+ To Take Hold of Space: Isovists and Isovist Fields
+, Environment and Planning B Planning and Design 6(1):47-65",,,,"Cardoso Llach, Daniel. (2019) 
+ Tracing Design Ecologies: Collecting and Visualizing Ephemeral Data as a Method in Design and Technology Studies
+, DigitalSTS Handbook, edited by Janet Vertesi and David Ribes. Princeton University Press",,,,"Du, S. S., Wang, Y., Zhai X., Balakrishnan S., Salakhutdinov R.R., and Singh A. (2018) 
+ How Many Samples are Needed to Estimate a Convolutional Neural Network?
+, Advances in Neural Information Processing Systems 31",,,,"Efron, B. (1982) 
+ The Jackknife, the Bootstrap and other resampling plans
+, CBMS-NSF regional conference series in applied mathematics",,,,"Ferrando, C. (2018) 
+ Towards a Machine Learning Framework in Spatial Analysis
+, Carnegie Mellon University, MS Thesis",,,,"Hillier, B. and Hanson, J. (1989) 
+ The social logic of space
+, Cambridge university press",,,,"Jockers, M. L., and Witten, D. M. (2010) 
+ A comparative study of machine learning methods
+, Literary and Linguistic Computing, Volume 25, Issue 2, 1",,,,"Kearns, M. (1997) 
+ A Bound on the Error of Cross Validation Using the Approximation and Estimation Rates, with Consequences for the Training-test Split
+, Neural Computation",,,,"Manovich, L. (2016) 
+ The science of culture? Social computing, digital humanities and cultural analytics
+, Journal of Cultural Analytics, volume 1",,,,"Moretti, F. (2013) 
+ Distant Reading
+, Verso Books",,,,"Psarra, S. (2009) 
+ Architecture and Narrative: The formation of space and cultural meaning
+, Routledge",,,,"Schölkopf, B., and Smola, A. (2002) 
+ Learning with kernels: Support vector machines, regularization, optimization, and beyond
+, The MIT Press",,,,"Stiny, G. and Gips, J. (1978) 
+ An evaluation of palladian plans
+, Environment and planning B: Planning and design, 5(2):199206",,,,"Underwood, T. (2017) 
+ A Genealogy of Distant Reading, Digital Humanities Quarterly
+, Volume 11, no.2",,
+11,2019/07/29 12:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

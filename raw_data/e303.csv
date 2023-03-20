@@ -1,0 +1,11 @@
+﻿,0
+0,"Coyne, Richard D. and Newton, S."
+1,1989
+2,A Tutorial on Neural Networks and Expert Systems for Design
+3,"University of Sydney, 1989. pp. 321-337. CADLINE has abstract only"
+4,"This paper presents an overview of neural network (connectionist) systems and their potential contribution to computer-aided design. The authors discuss the appeal of neural networks and some of the problems. The major contribution to design is in the representation and manipulation of schemas. A neural network system can be 'taught' various examples (such as room descriptions). The system then apparently recognizes schemas (room types) and can produce novel but sensible combinations of descriptions constituting new types. A simple handworked example is presented, and the learning and reasoning mechanism is explained"
+5,"representation, CAD, expert systems, design, neural networks"
+6,CADline
+7,Richard.Coyne@ed.ac.uk
+8,Content-type: text/plain
+9,2003/05/17 08:13

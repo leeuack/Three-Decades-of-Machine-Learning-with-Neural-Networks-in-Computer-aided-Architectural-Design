@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2017_269,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Rahmani Asl, Mohammad, Das, Subhajit, Tsai, Barry, Molloy, Ian and Hauck, Anthony",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Energy Model Machine (EMM) - Instant Building Energy Prediction using Machine Learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Fioravanti, A, Cursi, S, Elahmar, S, Gargaro, S, Loffreda, G, Novembri, G, Trento, A (eds.), ShoCK! - Sharing Computational Knowledge! - Proceedings of the 35th eCAADe Conference - Volume 2, Sapienza University of Rome, Rome, Italy, 20-22 September 2017, pp. 277-286",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In the process of building design, energy performance is often simulated using physical principles of thermodynamics and energy behaviour using elaborate simulation tools. However, energy simulation is computationally expensive and time consuming process. These drawbacks limit opportunities for design space exploration and prevent interactive design which results in environmentally inefficient buildings. In this paper we propose Energy Model Machine (EMM) as a general and flexible approximation model for instant energy performance prediction using machine learning (ML) algorithms to facilitate design space exploration in building design process. EMM can easily be added to design tools and provide instant feedback for real-time design iterations. To demonstrate its applicability, EMM is used to estimate energy performance of a medium size office building during the design space exploration in widely used parametrically design tool as a case study. The results of this study support the feasibility of using machine learning approaches to estimate energy performance for design exploration and optimization workflows to achieve high performance buildings.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Machine Learning; Artificial Neural Networks; Boosted Decision Tree; Building Energy Performance; Parametric Modeling and Design; Building Performance Optimization,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,mohammad.asl@autodesk.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,358,011 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Ansari, F, Mokhtar, A, Abbas, K and Adam, N (2005) 
+ A simple approach for building cooling load estimation
+, Am. J. Environ. Sci, 1(3), pp. 209-212
+
+
+
+
+
+
+
+Asl, MR, Zarrinmehr, S, Bergin, M and Yan, W (2015) 
+ BPOpt: A framework for BIM-based performance optimization
+, Energy and Buildings, 108, pp. 401-412
+
+
+
+
+
+
+
+Bauer, M and Scartezzini, JL (1998) 
+ A simplified correlation method accounting for heating and cooling loads in energy-efficient buildings
+, Energy and Buildings, 27(2), pp. 147-154
+
+
+
+
+
+
+
+Catalina, T, Virgone, J and Blanco, E (2008) 
+ Development and validation of regression models to predict monthly heating demand for residential buildings
+, Energy and buildings, 40(10), pp. 1825-1832
+
+
+
+
+
+
+
+DOE, US (2012) 
+ Building energy software tools directory
+, Department of Energy
+
+
+
+
+
+
+
+Dong, B, Cao, C and Lee, SE (2005) 
+ Applying support vector machines to predict building energy consumption in tropical region
+, Energy and Buildings, 37(5), pp. 545-553
+
+
+
+
+
+
+
+Dounis, AI (2010) 
+ Artificial intelligence for energy conservation in buildings
+, Advances in Building Energy Research, 4(1), pp. 267-299
+
+
+
+
+
+
+
+Guo, X, Li, W and Iorio, F (2016) 
+ Convolutional neural networks for steady flow approximation
+, Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 481-490
+
+
+
+
+
+
+
+Hopfield, JJ (1982) 
+ Neural networks and physical systems with emergent collective computational abilities
+, Proceedings of the national academy of sciences, 79(8), pp. 2554-2558
+
+
+
+
+
+
+
+Hunter, JD (2007) 
+ Matplotlib: A 2D graphics environment
+, Computing In Science & Engineering, 9(3), pp. 90-95
+
+
+
+
+
+
+
+Krarti, M (2003) 
+ An overview of artificial intelligence-based methods for building energy systems
+, TRANSACTIONS-AMERICAN SOCIETY OF MECHANICAL ENGINEERS JOURNAL OF SOLAR ENERGY ENGINEERING, 125(3), pp. 331-342
+
+
+
+
+
+
+
+Li, Q, Meng, Q, Cai, J, Yoshino, H and Mochida, A (2009) 
+ Applying support vector machine to predict hourly cooling load in the building
+, Applied Energy, 86(10), pp. 2249-2256
+
+
+
+
+
+
+
+Pedregosa, F, Varoquaux, G, Gramfort, A, Michel, V, Thirion, B, Grisel, O, Blondel, M, Prettenhofer, P, Weiss, R and Dubourg, V (2011) 
+ Scikit-learn: Machine learning in Python
+, Journal of Machine Learning Research, 12(Oct), pp. 2825-2830
+
+
+
+
+
+
+
+Pour, ZA and Ayat, S (2014) 
+ Comparison between artificial neural network learning algorithms for prediction of student average considering effective factors in Learning and educational progress
+, Journal of Mathematics and Computer Science, 8, pp. 215-225
+
+
+
+
+
+
+
+Roe, BP, Yang, HJ, Zhu, J, Liu, Y, Stancu, I and McGregor, G (2005) 
+ Boosted decision trees as an alternative to artificial neural networks for particle identification
+, Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 543(2), pp. 577-584
+
+
+
+
+
+
+
+Tsanas, A and Xifara, A (2012) 
+ Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools
+, Energy and Buildings, 49, pp. 560-567
+
+
+
+
+
+
+
+Walt, Svd, Colbert, SC and Varoquaux, G (2011) 
+ The NumPy array: a structure for efficient numerical computation
+, Computing in Science & Engineering, 13(2), pp. 22-30
+
+
+
+
+
+
+
+Yu, Z, Haghighat, F, Fung, BC and Yoshino, H (2010) 
+ A decision tree method for building energy demand modeling
+, Energy and Buildings, 42(10), pp. 1637-1646
+
+
+
+
+
+
+
+Zhang, J and Haghighat, F (2010) 
+ Development of Artificial Neural Network based heat convection algorithm for thermal simulation of large rectangular cross-sectional area Earth-to-Air Heat Exchangers
+, Energy and Buildings, 42(4), pp. 435-440
+
+
+
+
+
+
+
+Zhao, Hx and Magoul?s, F (2012) 
+ A review on the prediction of building energy consumption
+, Renewable and Sustainable Energy Reviews, 16(6), pp. 3586-3592",,"Ansari, F, Mokhtar, A, Abbas, K and Adam, N (2005) 
+ A simple approach for building cooling load estimation
+, Am. J. Environ. Sci, 1(3), pp. 209-212",,,,"Asl, MR, Zarrinmehr, S, Bergin, M and Yan, W (2015) 
+ BPOpt: A framework for BIM-based performance optimization
+, Energy and Buildings, 108, pp. 401-412",,,,"Bauer, M and Scartezzini, JL (1998) 
+ A simplified correlation method accounting for heating and cooling loads in energy-efficient buildings
+, Energy and Buildings, 27(2), pp. 147-154",,,,"Catalina, T, Virgone, J and Blanco, E (2008) 
+ Development and validation of regression models to predict monthly heating demand for residential buildings
+, Energy and buildings, 40(10), pp. 1825-1832",,,,"DOE, US (2012) 
+ Building energy software tools directory
+, Department of Energy",,,,"Dong, B, Cao, C and Lee, SE (2005) 
+ Applying support vector machines to predict building energy consumption in tropical region
+, Energy and Buildings, 37(5), pp. 545-553",,,,"Dounis, AI (2010) 
+ Artificial intelligence for energy conservation in buildings
+, Advances in Building Energy Research, 4(1), pp. 267-299",,,,"Guo, X, Li, W and Iorio, F (2016) 
+ Convolutional neural networks for steady flow approximation
+, Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 481-490",,,,"Hopfield, JJ (1982) 
+ Neural networks and physical systems with emergent collective computational abilities
+, Proceedings of the national academy of sciences, 79(8), pp. 2554-2558",,,,"Hunter, JD (2007) 
+ Matplotlib: A 2D graphics environment
+, Computing In Science & Engineering, 9(3), pp. 90-95",,,,"Krarti, M (2003) 
+ An overview of artificial intelligence-based methods for building energy systems
+, TRANSACTIONS-AMERICAN SOCIETY OF MECHANICAL ENGINEERS JOURNAL OF SOLAR ENERGY ENGINEERING, 125(3), pp. 331-342",,,,"Li, Q, Meng, Q, Cai, J, Yoshino, H and Mochida, A (2009) 
+ Applying support vector machine to predict hourly cooling load in the building
+, Applied Energy, 86(10), pp. 2249-2256",,,,"Pedregosa, F, Varoquaux, G, Gramfort, A, Michel, V, Thirion, B, Grisel, O, Blondel, M, Prettenhofer, P, Weiss, R and Dubourg, V (2011) 
+ Scikit-learn: Machine learning in Python
+, Journal of Machine Learning Research, 12(Oct), pp. 2825-2830",,,,"Pour, ZA and Ayat, S (2014) 
+ Comparison between artificial neural network learning algorithms for prediction of student average considering effective factors in Learning and educational progress
+, Journal of Mathematics and Computer Science, 8, pp. 215-225",,,,"Roe, BP, Yang, HJ, Zhu, J, Liu, Y, Stancu, I and McGregor, G (2005) 
+ Boosted decision trees as an alternative to artificial neural networks for particle identification
+, Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 543(2), pp. 577-584",,,,"Tsanas, A and Xifara, A (2012) 
+ Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools
+, Energy and Buildings, 49, pp. 560-567",,,,"Walt, Svd, Colbert, SC and Varoquaux, G (2011) 
+ The NumPy array: a structure for efficient numerical computation
+, Computing in Science & Engineering, 13(2), pp. 22-30",,,,"Yu, Z, Haghighat, F, Fung, BC and Yoshino, H (2010) 
+ A decision tree method for building energy demand modeling
+, Energy and Buildings, 42(10), pp. 1637-1646",,,,"Zhang, J and Haghighat, F (2010) 
+ Development of Artificial Neural Network based heat convection algorithm for thermal simulation of large rectangular cross-sectional area Earth-to-Air Heat Exchangers
+, Energy and Buildings, 42(4), pp. 435-440",,,,"Zhao, Hx and Magoul?s, F (2012) 
+ A review on the prediction of building energy consumption
+, Renewable and Sustainable Energy Reviews, 16(6), pp. 3586-3592",,
+11,2017/09/13 13:31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

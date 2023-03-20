@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2018_139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Cudzik, Jan and Radziszewski, Kacper",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Artificial Intelligence Aided Architectural Design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Kepczynska-Walczak, A, Bialkowski, S (eds.), Computing for a better tomorrow - Proceedings of the 36th eCAADe Conference - Volume 1, Lodz University of Technology, Lodz, Poland, 19-21 September 2018, pp. 77-84",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Tools and methods used by architects always had an impact on the way building were designed. With the change in design methods and new approaches towards creation process, they became more than ever before crucial elements of the creation process. The automation of architects work has started with computational functions that were introduced to traditional computer-aided design tools. Nowadays architects tend to use specified tools that suit their specific needs. In some cases, they use artificial intelligence. Despite many similarities, they have different advantages and disadvantages. Therefore the change in the design process is more visible and unseen before solution are brought in the discipline. The article presents methods of applying the selected artificial intelligence algorithms: swarm intelligence, neural networks and evolutionary algorithms in the architectural practice by authors. Additionally research shows the methods of analogue data input and output approaches, based on vision and robotics, which in future combined with intelligence based algorithms, might simplify architects everyday practice. Presented techniques allow new spatial solutions to emerge with relatively simple intelligent based algorithms, from which many could be only accomplished with dedicated software. Popularization of the following methods among architects, will result in more intuitive, general use design tools.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"computer aideed design; artificial intelligence,; evolutionary algorithms; swarm behaviour; optimization; parametric design",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,jan.cudzik@pg.edu.pl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (2,380,190 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Augugliaro, F et al (2014) 
+ The Flight Assembled Architecture installation: Cooperative construction with flying machines.
+, IEEE Control Systems, 34, pp. 46-64
+
+
+
+
+
+
+
+Bonabeau, E., DORIGO, M and THERAULAZ, G (1999) 
+ Swarm Intelligence: From Natural to Artificial Systems.
+, Oxford University Press, New York
+
+
+
+
+
+
+
+Bunyus, J (2002) 
+ Biomimicry: Innovation Inspired by Nature
+, Perennial, New York
+
+
+
+
+
+
+
+Chazelle, B (2014) 
+ The convergence of bird flocking
+, Journal of the ACM, 61(4), pp. 21:1-23:35
+
+
+
+
+
+
+
+Fogler, L, Walsh, M and Owens, MJ (1966) 
+ Artificial Intelligence through Simulated Evolution
+, John Wiley & Sons, New York
+
+
+
+
+
+
+
+Frazer, J (1995) 
+ An Evolutionary Architecture
+, Architectural Association, London
+
+
+
+
+
+
+
+Giddings, FH (1908) 
+ Sociology
+, Columbia University Press, New York
+
+
+
+
+
+
+
+Goertzel, B (2006) 
+ The Hidden Pattern
+, Brown Walker Press, Florida
+
+
+
+
+
+
+
+Hirst, T (1997) 
+ On the structure and transformation of landscape
+, Evolutionary Computing. AISB International Workshop, Heidelberg, pp. 91-107
+
+
+
+
+
+
+
+Horst, J (2002) 
+ A native intelligence metric for artificial systems
+, Performance Metrics for Intelligent Systems Workshop, Gaithersburg
+
+
+
+
+
+
+
+Kasaboc, NK (1996) 
+ Foundations of Neural Networks, Fuzzy Systems, and Knowledge Engineering (Computational Intelligence).
+, MIT Press, Cambridge
+
+
+
+
+
+
+
+Lehmann, EL and Casella, G (1998) 
+ Theory of Point Estimation
+, Springer, Berlin
+
+
+
+
+
+
+
+Michael, T and McClelland, JL (2008) 
+ Connectionist models of cognition
+, The Cambridge Handbook of Computational Psychology, 1, pp. 23-58
+
+
+
+
+
+
+
+Mitchell, M (1996) 
+ An Introduction to Genetic Algorithms
+, MIT Press, Cambridge
+
+
+
+
+
+
+
+Mohri, M, Rostamizadeh, A and Talwalkar, A (2012) 
+ Foundations of Machine Learning
+, MIT Press, New York
+
+
+
+
+
+
+
+Moore, GE (2006) 
+ Cramming more components onto integrated circuits
+, IEEE Solid-State Circuits Society Newsletter, 11(3), pp. 33-35
+
+
+
+
+
+
+
+Nof, SY (1999) 
+ Electronics Magazine
+, John Wiley & Sons, New York
+
+
+
+
+
+
+
+Reynolds, CW (1987) 
+ Flocks, Herds, and Schools: A Distributed Behaviour Model.
+, Proceedings of the 14th annual conference on Computer graphics and interactive techniques, pp. 25-34
+
+
+
+
+
+
+
+Rummelhart, DE, Hinton, GE and Williams, RJ (1986) 
+ Learning representations by back-propagating errors
+, Nature, 323, pp. 533-536
+
+
+
+
+
+
+
+Samuel, AL (1959) 
+ Some studies in machine learning using the game of checkers
+, IBM Jurnal, 3(3), pp. 210-229",,"Augugliaro, F et al (2014) 
+ The Flight Assembled Architecture installation: Cooperative construction with flying machines.
+, IEEE Control Systems, 34, pp. 46-64",,,,"Bonabeau, E., DORIGO, M and THERAULAZ, G (1999) 
+ Swarm Intelligence: From Natural to Artificial Systems.
+, Oxford University Press, New York",,,,"Bunyus, J (2002) 
+ Biomimicry: Innovation Inspired by Nature
+, Perennial, New York",,,,"Chazelle, B (2014) 
+ The convergence of bird flocking
+, Journal of the ACM, 61(4), pp. 21:1-23:35",,,,"Fogler, L, Walsh, M and Owens, MJ (1966) 
+ Artificial Intelligence through Simulated Evolution
+, John Wiley & Sons, New York",,,,"Frazer, J (1995) 
+ An Evolutionary Architecture
+, Architectural Association, London",,,,"Giddings, FH (1908) 
+ Sociology
+, Columbia University Press, New York",,,,"Goertzel, B (2006) 
+ The Hidden Pattern
+, Brown Walker Press, Florida",,,,"Hirst, T (1997) 
+ On the structure and transformation of landscape
+, Evolutionary Computing. AISB International Workshop, Heidelberg, pp. 91-107",,,,"Horst, J (2002) 
+ A native intelligence metric for artificial systems
+, Performance Metrics for Intelligent Systems Workshop, Gaithersburg",,,,"Kasaboc, NK (1996) 
+ Foundations of Neural Networks, Fuzzy Systems, and Knowledge Engineering (Computational Intelligence).
+, MIT Press, Cambridge",,,,"Lehmann, EL and Casella, G (1998) 
+ Theory of Point Estimation
+, Springer, Berlin",,,,"Michael, T and McClelland, JL (2008) 
+ Connectionist models of cognition
+, The Cambridge Handbook of Computational Psychology, 1, pp. 23-58",,,,"Mitchell, M (1996) 
+ An Introduction to Genetic Algorithms
+, MIT Press, Cambridge",,,,"Mohri, M, Rostamizadeh, A and Talwalkar, A (2012) 
+ Foundations of Machine Learning
+, MIT Press, New York",,,,"Moore, GE (2006) 
+ Cramming more components onto integrated circuits
+, IEEE Solid-State Circuits Society Newsletter, 11(3), pp. 33-35",,,,"Nof, SY (1999) 
+ Electronics Magazine
+, John Wiley & Sons, New York",,,,"Reynolds, CW (1987) 
+ Flocks, Herds, and Schools: A Distributed Behaviour Model.
+, Proceedings of the 14th annual conference on Computer graphics and interactive techniques, pp. 25-34",,,,"Rummelhart, DE, Hinton, GE and Williams, RJ (1986) 
+ Learning representations by back-propagating errors
+, Nature, 323, pp. 533-536",,,,"Samuel, AL (1959) 
+ Some studies in machine learning using the game of checkers
+, IBM Jurnal, 3(3), pp. 210-229",,
+11,2018/07/24 10:22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

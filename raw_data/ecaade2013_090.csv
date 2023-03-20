@@ -1,0 +1,259 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2013_090,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Wilkinson, Samuel; Hanna, Sean; Hesselgren, Lars and Mueller, Volker",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Inductive Aerodynamics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stouffs, Rudi and Sariyildiz, Sevil (eds.), Computation and Performance  Proceedings of the 31st eCAADe Conference  Volume 2, Faculty of Architecture, Delft University of Technology, Delft, The Netherlands, 18-20 September 2013, pp. 39-48",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,WOS:000340643600003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"A novel approach is presented to predict wind pressure on tall buildings for early-stage generative design exploration and optimisation. The method provides instantaneous surface pressure data, reducing performance feedback time whilst maintaining accuracy. This is achieved through the use of a machine learning algorithm trained on procedurally generated towers and steady-state CFD simulation to evaluate the training set of models. Local shape features are then calculated for every vertex in each model, and a regression function is generated as a mapping between this shape description and wind pressure. We present a background literature review, general approach, and results for a number of cases of increasing complexity.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Machine learning; CFD; tall buildings; wind loads; procedural modelling.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,smlwilkinson@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (1,337,508 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bitsuamlak, G. (2006) 
+ Application of computational wind engineering: A practical perspective
+, Third National Conference in Wind Engineering. pp. 119
+
+
+
+
+
+
+
+Burns, J.G. (2005) 
+ Impulsive bees forage better: the advantage of quick, sometimes inaccurate foraging decisions
+, Animal Behaviour, 70(6), pp.15
+
+
+
+
+
+
+
+Chittka, L., Skorupski, P. & Raine, N.E. (2009) 
+ Speed-accuracy tradeoffs in animal decision making
+, Trends in ecology & evolution, 24(7), pp.4007
+
+
+
+
+
+
+
+Chronis, A. et al. (2012) 
+ Design Systems, Ecology and Time
+, ACADIA
+
+
+
+
+
+
+
+CTBUH (2012) 
+ Tall Buildings in Numbers : A Tall Building Review
+, 2012(1)
+
+
+
+
+
+
+
+Dagnew, A.K., Bitsuamlak, G. & Merrick, R. (2009) 
+ Computational evaluation of wind pressures on tall buildings
+, 11th Americas Conference on Wind Engineering
+
+
+
+
+
+
+
+Duffy, A.H.B. (1997) 
+ The what and how of learning in design
+, IEEE Expert, 12(3), pp.7176
+
+
+
+
+
+
+
+Graening, L. et al. (2008) 
+ Knowledge Extraction from Aerodynamic Design Data and its Application to 3D Turbine Blade Geometries
+, JMMA, 7(4), pp.329350
+
+
+
+
+
+
+
+Irwin, P.A. (2009) 
+ Wind engineering challenges of the new generation of super-tall buildings
+, JWEIA, 97(7-8), pp.328334
+
+
+
+
+
+
+
+Lomax, H., Pulliam, T.H. & Zingg, D.W. (2001) 
+ Fundamentals of computational fluid dynamics
+, Berlin: Springer
+
+
+
+
+
+
+
+Lu, S.C.-Y., Tcheng, D.K. & Yerramareddy, S. (1991) 
+ Integration of Simulation, Learning and Optimization to Support Engineering Design
+, Annals of the CIRP, 40(1), pp.143146
+
+
+
+
+
+
+
+Malkawi, A.M. et al. (2005) 
+ Decision support and design evolution: integrating genetic algorithms, CFD and visualization
+, AIC, 14(1), pp.3344
+
+
+
+
+
+
+
+Mitchell, T.M. (1997) 
+ Machine Learning
+, McGraw-Hill
+
+
+
+
+
+
+
+Park, S.M. et al. (2004) 
+ Tall Building Form Generation by Parametric Design Process
+, CTBUH. Seoul Conference, pp. 17
+
+
+
+
+
+
+
+Samarasinghe, S. (2007) 
+ Neural Networks for Applied Sciences and Engineering: From Fundamentals to Complex Pattern Recognition
+, Auerbach Publications, NY
+
+
+
+
+
+
+
+Samareh, J.A. (1999) 
+ A Survey of Shape Parameterisation Techniques
+, CEAS/AIAA/ICASE/NASA Langley International Forum on Aeroelasticity and Structural Dynamics. pp. 333343
+
+
+
+
+
+
+
+Samuel, A.L. (1959) 
+ Some Studies in Machine Learning Using the Game of Checkers
+, IBM JRD, 3(3)
+
+
+
+
+
+
+
+Stathopoulos, T. (1997) 
+ Computational wind engineering: Past achievements and future challenges
+, JWEIA, 67-68, pp.509532
+
+
+
+
+
+
+
+Tamura, Y. et al. (2010) 
+ Aerodynamic Characteristics of Tall Building Models with Various Unconventional Configurations
+, Structures Congress 2010, pp.278278
+
+
+
+
+
+
+
+Tamura, Y. (2009) 
+ Wind and tall buildings
+, EACWE 5",,"Bitsuamlak, G. (2006) 
+ Application of computational wind engineering: A practical perspective
+, Third National Conference in Wind Engineering. pp. 119",,,,"Burns, J.G. (2005) 
+ Impulsive bees forage better: the advantage of quick, sometimes inaccurate foraging decisions
+, Animal Behaviour, 70(6), pp.15",,,,"Chittka, L., Skorupski, P. & Raine, N.E. (2009) 
+ Speed-accuracy tradeoffs in animal decision making
+, Trends in ecology & evolution, 24(7), pp.4007",,,,"Chronis, A. et al. (2012) 
+ Design Systems, Ecology and Time
+, ACADIA",,,,"CTBUH (2012) 
+ Tall Buildings in Numbers : A Tall Building Review
+, 2012(1)",,,,"Dagnew, A.K., Bitsuamlak, G. & Merrick, R. (2009) 
+ Computational evaluation of wind pressures on tall buildings
+, 11th Americas Conference on Wind Engineering",,,,"Duffy, A.H.B. (1997) 
+ The what and how of learning in design
+, IEEE Expert, 12(3), pp.7176",,,,"Graening, L. et al. (2008) 
+ Knowledge Extraction from Aerodynamic Design Data and its Application to 3D Turbine Blade Geometries
+, JMMA, 7(4), pp.329350",,,,"Irwin, P.A. (2009) 
+ Wind engineering challenges of the new generation of super-tall buildings
+, JWEIA, 97(7-8), pp.328334",,,,"Lomax, H., Pulliam, T.H. & Zingg, D.W. (2001) 
+ Fundamentals of computational fluid dynamics
+, Berlin: Springer",,,,"Lu, S.C.-Y., Tcheng, D.K. & Yerramareddy, S. (1991) 
+ Integration of Simulation, Learning and Optimization to Support Engineering Design
+, Annals of the CIRP, 40(1), pp.143146",,,,"Malkawi, A.M. et al. (2005) 
+ Decision support and design evolution: integrating genetic algorithms, CFD and visualization
+, AIC, 14(1), pp.3344",,,,"Mitchell, T.M. (1997) 
+ Machine Learning
+, McGraw-Hill",,,,"Park, S.M. et al. (2004) 
+ Tall Building Form Generation by Parametric Design Process
+, CTBUH. Seoul Conference, pp. 17",,,,"Samarasinghe, S. (2007) 
+ Neural Networks for Applied Sciences and Engineering: From Fundamentals to Complex Pattern Recognition
+, Auerbach Publications, NY",,,,"Samareh, J.A. (1999) 
+ A Survey of Shape Parameterisation Techniques
+, CEAS/AIAA/ICASE/NASA Langley International Forum on Aeroelasticity and Structural Dynamics. pp. 333343",,,,"Samuel, A.L. (1959) 
+ Some Studies in Machine Learning Using the Game of Checkers
+, IBM JRD, 3(3)",,,,"Stathopoulos, T. (1997) 
+ Computational wind engineering: Past achievements and future challenges
+, JWEIA, 67-68, pp.509532",,,,"Tamura, Y. et al. (2010) 
+ Aerodynamic Characteristics of Tall Building Models with Various Unconventional Configurations
+, Structures Congress 2010, pp.278278",,,,"Tamura, Y. (2009) 
+ Wind and tall buildings
+, EACWE 5",,
+12,2016/05/16 09:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

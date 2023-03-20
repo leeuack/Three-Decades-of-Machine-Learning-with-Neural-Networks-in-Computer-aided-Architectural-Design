@@ -1,0 +1,163 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48
+0,ecaade2013_261,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Paterson, Greig; Hong, Sung Min; Mumovic, Dejan and Kimpian, Judit",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Real-time Environmental Feedback at the Early Design Stages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stouffs, Rudi and Sariyildiz, Sevil (eds.), Computation and Performance  Proceedings of the 31st eCAADe Conference  Volume 2, Faculty of Architecture, Delft University of Technology, Delft, The Netherlands, 18-20 September 2013, pp. 79-86",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"It has been argued that traditional building simulation methods can be a slow process, which often fails to integrate into the decision making process of non-technical designers, such as architects, at the early design stages. Furthermore, studies have shown that predicted energy consumption of buildings during design is often lower than monitored energy consumption during operation.In view of this, this paper outlines research to create a user friendly design tool that predicts energy consumption in real-time as early design and briefing parameters are altered interactively. As a test case, the research focuses on school design in England. Artificial neural networks (ANNs) were trained to predict the energy consumption of school designs by linking actual heating and electrical energy consumption data from the existing building stock to a range of design and briefing parameters.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,WOS:000340643600007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Environmental design tool; energy prediction; artificial neural networks; building operational performance; schools.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,greig.paterson.10@ucl.ac.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (801,948 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+CIBSE (2008) 
+ TM46 Energy Benchmarks
+, Chartered Institution of Building Services Engineers Publications, London, UK
+
+
+
+
+
+
+
+CIBSE (2009) 
+ CIBSE TM47 Operational Ratings and Display Energy Certificates
+, Chartered Institution of Building Services Engineers Publications, London, UK
+
+
+
+
+
+
+
+Demuth, H, Beale, M, Hagan, M (2009) 
+ Neural Network Toolbox: Users Guide
+, Mathworks, MA, USA
+
+
+
+
+
+
+
+Hawkins, D, Hong, SM, Raslan, R, Mumovic, D, Hanna, S (2012) 
+ Determinants of Energy Use in UK Higher Education Buildings Using Statistical and Artificial Neural Network Methods
+, International Journal of Sustainable Built Environment, 1(1), pp. 50-63
+
+
+
+
+
+
+
+Haykin, S (1999) 
+ Neural Networks: A Comprehensive Foundation
+, Prentice Hall, NJ, USA
+
+
+
+
+
+
+
+Lawson, B (2004) 
+ What Designers Know
+, Architectural Press, Oxford, UK
+
+
+
+
+
+
+
+Lawson, B (2006) 
+ How Designers Think: The Design Process Demystified
+, 4th Edition, Architectural Press, Oxford, UK
+
+
+
+
+
+
+
+Morbitzer, C (2003) 
+ Towards the Integration of Simulation into the Design Process
+, PhD Thesis, University of Strathclyde, Glasgow, UK
+
+
+
+
+
+
+
+Pratt, KB, Bosworth, DE (2011) 
+ A Method for the Design and Analysis of Parametric Building Energy Models
+, Proceedings of Building Simulation 2011: 12th Conference of International Building Performance Simulation Association, Sydney, Australia, pp. 2499-2506
+
+
+
+
+
+
+
+Rittel, HW, Webber, MM (1973) 
+ Dilemmas in a General Theory of Planning
+, Policy Sciences, 4, pp. 155-69
+
+
+
+
+
+
+
+Samarasinghe, S (2007) 
+ Neural Networks for Applied Sciences and Engineering: From Fundamentals to Complex Pattern Recognition
+, Auerbach Publications, NY, USA
+
+
+
+
+
+
+
+Steadman, P, Bruhns, HR, Rickaby, PA (2000) 
+ An Introduction to the national Non-Domestic Building Stock Database
+, Environment and Planning B: Planning and Design, 27(1), pp. 3-10",,"CIBSE (2008) 
+ TM46 Energy Benchmarks
+, Chartered Institution of Building Services Engineers Publications, London, UK",,,,"CIBSE (2009) 
+ CIBSE TM47 Operational Ratings and Display Energy Certificates
+, Chartered Institution of Building Services Engineers Publications, London, UK",,,,"Demuth, H, Beale, M, Hagan, M (2009) 
+ Neural Network Toolbox: Users Guide
+, Mathworks, MA, USA",,,,"Hawkins, D, Hong, SM, Raslan, R, Mumovic, D, Hanna, S (2012) 
+ Determinants of Energy Use in UK Higher Education Buildings Using Statistical and Artificial Neural Network Methods
+, International Journal of Sustainable Built Environment, 1(1), pp. 50-63",,,,"Haykin, S (1999) 
+ Neural Networks: A Comprehensive Foundation
+, Prentice Hall, NJ, USA",,,,"Lawson, B (2004) 
+ What Designers Know
+, Architectural Press, Oxford, UK",,,,"Lawson, B (2006) 
+ How Designers Think: The Design Process Demystified
+, 4th Edition, Architectural Press, Oxford, UK",,,,"Morbitzer, C (2003) 
+ Towards the Integration of Simulation into the Design Process
+, PhD Thesis, University of Strathclyde, Glasgow, UK",,,,"Pratt, KB, Bosworth, DE (2011) 
+ A Method for the Design and Analysis of Parametric Building Energy Models
+, Proceedings of Building Simulation 2011: 12th Conference of International Building Performance Simulation Association, Sydney, Australia, pp. 2499-2506",,,,"Rittel, HW, Webber, MM (1973) 
+ Dilemmas in a General Theory of Planning
+, Policy Sciences, 4, pp. 155-69",,,,"Samarasinghe, S (2007) 
+ Neural Networks for Applied Sciences and Engineering: From Fundamentals to Complex Pattern Recognition
+, Auerbach Publications, NY, USA",,,,"Steadman, P, Bruhns, HR, Rickaby, PA (2000) 
+ An Introduction to the national Non-Domestic Building Stock Database
+, Environment and Planning B: Planning and Design, 27(1), pp. 3-10",,
+12,2016/05/16 09:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

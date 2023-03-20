@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,cf2019_009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Veloso, Pedro; Jinmo Rhee and Ramesh Krishnamurti",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Multi-agent space planning: a literature review (2008-2017),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Ji-Hyun Lee (Eds.) ""Hello, Culture!""  [18th International Conference, CAAD Futures 2019, Proceedings / ISBN 978-89-89453-05-5] Daejeon, Korea, pp. 52-74",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In this paper we review the research on multi-agent space planning (MASP) during the period of 2008-2017. By MASP, we refer to space planning (SP) methods based on online mobile agents that map local perceptions to actions in the environment, generating spatial representation. We group two precedents and sixteen recent MASP prototypes into three categories: (1) agents as moving spatial units, (2) agents that occupy a space, and (3) agents that partition a space. In order to compare the prototypes, we identify the occurrence of features in terms of representation, objectives, and control procedures. Upon analysis of occurrences and correlations of features in the types, we present gaps and challenges for future MASP research. We point to the limits of current systems to solve spatial conflicts and to incorporate architectural knowledge. Finally, we suggest that behavioral learning offers a promising path for robust and autonomous MASP systems in the architectural domain.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Space planning; Agent-based modeling; Multi-agent systems; Generative systems,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,pveloso@andrew.cmu.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (2,492,240 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bayraktar, M.E., Ça?daº, G. (2013) 
+ Fuzzy Layout Planner: A simple layout planning tool for early stages of design
+, Rudi, S. and Sevil, S. (eds.) Computation and Performance: Proceedings of the 31st eCAADe Conference. pp. 375381. TUDelft, Delft
+
+
+
+
+
+
+
+Bazalo, F., Moleta, T.J. (2015) 
+ Responsive Algorithms
+, Ikeda, Y., Herr, C.M., Holzer, D., Kaijima, S., Kim, M.J., and Schnabel, M.A. (eds.) Emerging Experience Past, Present and Future of Digital Architecture: Proceedings of the 20th CAADRIA Conference. pp. 209218. CAADRIA, Hong Kong
+
+
+
+
+
+
+
+Bronstein, M.M., Bruna, J., LeCun, Y., Szlam, A., Vandergheynst, P. (2017) 
+ Geometric Deep Learning: going beyond Euclidean data
+, IEEE Signal Processing Magazine. 34, 1842
+
+
+
+
+
+
+
+Calixto, V., Celani, G. (2015) 
+ A literature review for space planning optimization using an evolutionary algorithm approach: 1992-2014
+, Project Information for Interaction: Proceedings of 19th SIGraDi conference. pp. 662671. Blucher, S?o Paulo
+
+
+
+
+
+
+
+Chen, L. (2012) 
+ Agent-based modeling in urban and architectural research: A brief literature review
+, Frontiers of Architectural Research. 1, 166177
+
+
+
+
+
+
+
+Christensen, J.T. (2014) 
+ The generation of possible space layouts
+, Thompson, E.M. (ed.) Fusion: Data integration at its best.: Proceedings of the 32nd eCAADe conference. pp. 239246. eCAADe, Newcastle upon Tyne
+
+
+
+
+
+
+
+Derix, C., Izaki, A. (2013) 
+ Spatial computing for the new organic
+, AD. 83, 4247
+
+
+
+
+
+
+
+Fernando, R. (2014) 
+ Space Planning and Preliminary Design Using Artificial Life
+, Gu, N., Watanabe, S., Erhan, H., Haeusler, M.H., Huang, W., and Sosa, R. (eds.) Rethinking Comprehensive Design: Speculative Counterculture: Proceedings of the 19th CAADRIA conference. pp. 657666. CAADRIA, Hong Kong
+
+
+
+
+
+
+
+Guo, Z., Li, B. (2017) 
+ Evolutionary approach for spatial architecture layout design enhanced by an agent-based topology finding system
+, Frontiers of Architectural Research. 6, 5362
+
+
+
+
+
+
+
+Hao, H., Ting-Li, J. (2010) 
+ Floating bubbles
+, Dave, B., Li, A.I., Gu, N., and Park, H.-J. (eds.) New frontiers: proceedings of the 15th CAADRIA conference. pp. 175183. CAADRIA, Hong Kong
+
+
+
+
+
+
+
+Harding, J., Derix, C. (2011) 
+ Associative spatial networks in architectural design: Artificial cognition of space using neural networks with spectral graph theory
+, Gero, J.S. (ed.) Design Computing and Cognition10. pp. 305323. Springer, Dordrecht
+
+
+
+
+
+
+
+Herr, C.M., Ford, R.C. (2015) 
+ Adapting Cellular Automata as Architectural Design Tools
+, Emerging Experience in Past, Present and Future of Digital Architecture, Proceedings of the 20th CAADRIA conference. pp. 169178. Kyungpook National University, Daegu
+
+
+
+
+
+
+
+Homayouni, H. (2000) 
+ A Survey of Computational Approaches to Space Layout Planning (1965-2000)
+, Department of Architecture and Urban Planning University of Washington.
+
+
+
+
+
+
+
+Hsu, Y.-C., Krawczyk, R.J. (2003) 
+ New generation of computer aided design in space planning methods: A survey and a proposal
+, Keatruangkamala, K. and Nakapan, W. (eds.), Proceedings of the 8th CAADRIA conference. pp. 101116. Rangsit University, Bangkok
+
+
+
+
+
+
+
+Ireland, T. (2009) 
+ Emergent Space Diagrams: The application of swarm intelligence to the problem of automatic plan generation
+, Tidafi, T. and Dorta, T. (eds.) Joining Languages, Cultures and Visions: Proceedings of the 13th CAAD Futures conference. pp. 245258. Les Presses de lUniversité de Montréal, Montréal
+
+
+
+
+
+
+
+Ireland, T. (2009) 
+ Sniffing Space II: The use of artificial ant colonies to generate circulation patterns in buildings
+, Tidafi, T. and Dorta, T. (eds.) Joining Languages, Cultures and Visions: Proceedings of the 13th CAAD Futures conference. pp. 214227. Les Presses de lUniversité de Montréal, Montréal
+
+
+
+
+
+
+
+Ireland, T. (2010) 
+ Stigmergic planning 
+, Sprecher, A., Yeshayahu, S., and Lorenzo-Eiroa, P. (eds.) LIFE in:formation, On Responsive Information and Variations Architecture, Proceedings of the 30th ACADIA conference. pp. 183189. ACADIA, New York
+
+
+
+
+
+
+
+Ireland, T. (2015) 
+ An Artificial Life Approach to Configuring Architectural Space
+, Martens, B., Wurzer, G., Grasi, T., Lorenz, W.E., and Schaffranek, R. (eds.) Real Time, Proceedings of 33rd eCAADe conference. pp. 581590. eCAADe, Wien
+
+
+
+
+
+
+
+Ireland, T. (2015) 
+ A cell inspired model of configuration
+, Combs, L. and Perry, C. (eds.) Computational Ecologies: Design the Anthropocene, Proceedings of 35th ACADIA conference. pp. 136147. ACADIA, New York
+
+
+
+
+
+
+
+Liggett, R.S. (2000) 
+ Automated facilities layout: past, present and future
+, Automation in construction. 9, 197215",,"Bayraktar, M.E., Ça?daº, G. (2013) 
+ Fuzzy Layout Planner: A simple layout planning tool for early stages of design
+, Rudi, S. and Sevil, S. (eds.) Computation and Performance: Proceedings of the 31st eCAADe Conference. pp. 375381. TUDelft, Delft",,,,"Bazalo, F., Moleta, T.J. (2015) 
+ Responsive Algorithms
+, Ikeda, Y., Herr, C.M., Holzer, D., Kaijima, S., Kim, M.J., and Schnabel, M.A. (eds.) Emerging Experience Past, Present and Future of Digital Architecture: Proceedings of the 20th CAADRIA Conference. pp. 209218. CAADRIA, Hong Kong",,,,"Bronstein, M.M., Bruna, J., LeCun, Y., Szlam, A., Vandergheynst, P. (2017) 
+ Geometric Deep Learning: going beyond Euclidean data
+, IEEE Signal Processing Magazine. 34, 1842",,,,"Calixto, V., Celani, G. (2015) 
+ A literature review for space planning optimization using an evolutionary algorithm approach: 1992-2014
+, Project Information for Interaction: Proceedings of 19th SIGraDi conference. pp. 662671. Blucher, S?o Paulo",,,,"Chen, L. (2012) 
+ Agent-based modeling in urban and architectural research: A brief literature review
+, Frontiers of Architectural Research. 1, 166177",,,,"Christensen, J.T. (2014) 
+ The generation of possible space layouts
+, Thompson, E.M. (ed.) Fusion: Data integration at its best.: Proceedings of the 32nd eCAADe conference. pp. 239246. eCAADe, Newcastle upon Tyne",,,,"Derix, C., Izaki, A. (2013) 
+ Spatial computing for the new organic
+, AD. 83, 4247",,,,"Fernando, R. (2014) 
+ Space Planning and Preliminary Design Using Artificial Life
+, Gu, N., Watanabe, S., Erhan, H., Haeusler, M.H., Huang, W., and Sosa, R. (eds.) Rethinking Comprehensive Design: Speculative Counterculture: Proceedings of the 19th CAADRIA conference. pp. 657666. CAADRIA, Hong Kong",,,,"Guo, Z., Li, B. (2017) 
+ Evolutionary approach for spatial architecture layout design enhanced by an agent-based topology finding system
+, Frontiers of Architectural Research. 6, 5362",,,,"Hao, H., Ting-Li, J. (2010) 
+ Floating bubbles
+, Dave, B., Li, A.I., Gu, N., and Park, H.-J. (eds.) New frontiers: proceedings of the 15th CAADRIA conference. pp. 175183. CAADRIA, Hong Kong",,,,"Harding, J., Derix, C. (2011) 
+ Associative spatial networks in architectural design: Artificial cognition of space using neural networks with spectral graph theory
+, Gero, J.S. (ed.) Design Computing and Cognition10. pp. 305323. Springer, Dordrecht",,,,"Herr, C.M., Ford, R.C. (2015) 
+ Adapting Cellular Automata as Architectural Design Tools
+, Emerging Experience in Past, Present and Future of Digital Architecture, Proceedings of the 20th CAADRIA conference. pp. 169178. Kyungpook National University, Daegu",,,,"Homayouni, H. (2000) 
+ A Survey of Computational Approaches to Space Layout Planning (1965-2000)
+, Department of Architecture and Urban Planning University of Washington.",,,,"Hsu, Y.-C., Krawczyk, R.J. (2003) 
+ New generation of computer aided design in space planning methods: A survey and a proposal
+, Keatruangkamala, K. and Nakapan, W. (eds.), Proceedings of the 8th CAADRIA conference. pp. 101116. Rangsit University, Bangkok",,,,"Ireland, T. (2009) 
+ Emergent Space Diagrams: The application of swarm intelligence to the problem of automatic plan generation
+, Tidafi, T. and Dorta, T. (eds.) Joining Languages, Cultures and Visions: Proceedings of the 13th CAAD Futures conference. pp. 245258. Les Presses de lUniversité de Montréal, Montréal",,,,"Ireland, T. (2009) 
+ Sniffing Space II: The use of artificial ant colonies to generate circulation patterns in buildings
+, Tidafi, T. and Dorta, T. (eds.) Joining Languages, Cultures and Visions: Proceedings of the 13th CAAD Futures conference. pp. 214227. Les Presses de lUniversité de Montréal, Montréal",,,,"Ireland, T. (2010) 
+ Stigmergic planning 
+, Sprecher, A., Yeshayahu, S., and Lorenzo-Eiroa, P. (eds.) LIFE in:formation, On Responsive Information and Variations Architecture, Proceedings of the 30th ACADIA conference. pp. 183189. ACADIA, New York",,,,"Ireland, T. (2015) 
+ An Artificial Life Approach to Configuring Architectural Space
+, Martens, B., Wurzer, G., Grasi, T., Lorenz, W.E., and Schaffranek, R. (eds.) Real Time, Proceedings of 33rd eCAADe conference. pp. 581590. eCAADe, Wien",,,,"Ireland, T. (2015) 
+ A cell inspired model of configuration
+, Combs, L. and Perry, C. (eds.) Computational Ecologies: Design the Anthropocene, Proceedings of 35th ACADIA conference. pp. 136147. ACADIA, New York",,,,"Liggett, R.S. (2000) 
+ Automated facilities layout: past, present and future
+, Automation in construction. 9, 197215",,
+11,2019/07/29 12:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

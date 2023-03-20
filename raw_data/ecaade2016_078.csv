@@ -1,0 +1,199 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60
+0,ecaade2016_078,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Das, Subhajit, Zolfagharian, Samaneh, Nourbakhsh, Mehdi and Haymaker, John",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Integrated Spatial-Structural Optimization in the Conceptual Design Stage of Project - A tool to generate and optimize design solutions aiding informed decision making for Architects, Engineers and Stakeholders",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Herneoja, Aulikki; Toni Österlund and Piia Markkanen (eds.), Complexity & Simplicity - Proceedings of the 34th eCAADe Conference - Volume 2, University of Oulu, Oulu, Finland, 22-26 August 2016, pp. 117-126",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,WOS:000402064400011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Healthcare design projects require the careful integration of spatial and structural requirements. Today, design teams typically resolve these requirements in two separate, largely sequential steps. In the first step, architects leverage their experience and vision to develop space plans that address program and goals. Next, based on the architect's recommended design, engineers generate and refine a structural design to address structural requirements. This manual process produces a very limited number of non optimal spatial and structural design solutions with unclear decision rationale. This paper presents the Integrated Spatial-Structural Optimization (ISSO) decision making methodology. ISSO supports design teams by helping them generate, analyze, and manage a vast number of integrated spatial and structural solutions. ISSO features a bi-level optimization workflow that has been customized for spatial and structural design of healthcare facilities. The paper describes implementation in the Dynamo parametric modeling platform, and retrospective validation of the algorithm and workflow on an industry case study to demonstrate how ISSO can help design teams generate, analyze, and manage more conceptual design options.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Spatial Design; Generative Design; Design Optimization; Facility Planning; Design Tools; Design Automation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,das@gatech.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (2,072,649 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Asl, MR, Stoupine, A, Zarrinmehr, S and Yan, W (2015) 
+ Optimo: A BIM-based Multi-Objective Optimization Tool Utilizing Visual Programming for High Performance Building Design
+, Proceedings of the Conference of Education and Research in Computer Aided Architectural Design in Europe (eCAADe), pp. 673-682
+
+
+
+
+
+
+
+Clevenger, CM, Haymaker, JR and Ehrich, A (2013) 
+ Design exploration assessment methodology: Testing the guidance of design processes
+, Journal of Engineering Design, 24(3), pp. 165-184
+
+
+
+
+
+
+
+Delgado, JD and Hofmeyer, H (2013) 
+ Automated generation of structural solutions based on spatial designs
+, Automation in Construction, 35, pp. 528-541
+
+
+
+
+
+
+
+Drira, A, Pierreval, H and Hajri-Gabouj, S (2007) 
+ Facility layout problems: A survey
+, Annual Reviews in Control, 31(2), pp. 255-267
+
+
+
+
+
+
+
+Elshafei, AN (1977) 
+ Hospital layout as a quadratic assignment problem
+, Operational Research Quarterly, pp. 167-179
+
+
+
+
+
+
+
+Hahn, P, Smith, JM and Zhu, YR (2010) 
+ The multi-story space assignment problem
+, Annals of Operations Research, 179(1), pp. 77-103
+
+
+
+
+
+
+
+Hassan, FH, Swift, S and Tucker, A (2014) 
+ Using Heuristic Search with Pedestrian Simulation Statistics to Find Feasible Spatial Layout Design Elements
+, Journal of Algorithms, 2(4), pp. 86-104
+
+
+
+
+
+
+
+Helber, S, Böhme, D, Oucherif, F, Lagershausen, S and Kasper, S (2014) 
+ A hierarchical facility layout planning approach for large and complex hospitals
+, Flexible Services and Manufacturing Journal, pp. 1-25
+
+
+
+
+
+
+
+Holst, MK, Kirkegaard, PH and Christoffersen, L (2013) 
+ Parametric Optimization of Hospital Design
+, Proceedings of World Academy of Science, Engineering and Technology, p. 200
+
+
+
+
+
+
+
+Lorenz, WE, Bicher, M and Wurzer, GX (2015) 
+ Adjacency in hospital planning
+, IFAC-PapersOnLine, 48(1), pp. 862-867
+
+
+
+
+
+
+
+Mora, R, Rivard, H and Bédard, C (2006) 
+ Computer representation to support conceptual structural design within a building architectural context
+, Journal of Computing in Civil Engineering, 20(2), pp. 76-87
+
+
+
+
+
+
+
+Nimtawat, A and Nanakorn, P (2009) 
+ Automated layout design of beam-slab floors using a genetic algorithm
+, Computers & Structures, 87(21), pp. 1308-1330
+
+
+
+
+
+
+
+Singh, SP and Sharma, RR (2006) 
+ A review of different approaches to the facility layout problems
+, The International Journal of Advanced Manufacturing Technology, 30(5-6), pp. 425-433
+
+
+
+
+
+
+
+Vos, L, Groothuis, S and van Merode, GG (2007) 
+ Evaluating hospital design from an operations management perspective
+, Health care management science, 10(4), pp. 357-364
+
+
+
+
+
+
+
+Yeh, IC (2006) 
+ Architectural layout optimization using annealed neural network
+, Automation in Construction, 15(4), pp. 531-539",,"Asl, MR, Stoupine, A, Zarrinmehr, S and Yan, W (2015) 
+ Optimo: A BIM-based Multi-Objective Optimization Tool Utilizing Visual Programming for High Performance Building Design
+, Proceedings of the Conference of Education and Research in Computer Aided Architectural Design in Europe (eCAADe), pp. 673-682",,,,"Clevenger, CM, Haymaker, JR and Ehrich, A (2013) 
+ Design exploration assessment methodology: Testing the guidance of design processes
+, Journal of Engineering Design, 24(3), pp. 165-184",,,,"Delgado, JD and Hofmeyer, H (2013) 
+ Automated generation of structural solutions based on spatial designs
+, Automation in Construction, 35, pp. 528-541",,,,"Drira, A, Pierreval, H and Hajri-Gabouj, S (2007) 
+ Facility layout problems: A survey
+, Annual Reviews in Control, 31(2), pp. 255-267",,,,"Elshafei, AN (1977) 
+ Hospital layout as a quadratic assignment problem
+, Operational Research Quarterly, pp. 167-179",,,,"Hahn, P, Smith, JM and Zhu, YR (2010) 
+ The multi-story space assignment problem
+, Annals of Operations Research, 179(1), pp. 77-103",,,,"Hassan, FH, Swift, S and Tucker, A (2014) 
+ Using Heuristic Search with Pedestrian Simulation Statistics to Find Feasible Spatial Layout Design Elements
+, Journal of Algorithms, 2(4), pp. 86-104",,,,"Helber, S, Böhme, D, Oucherif, F, Lagershausen, S and Kasper, S (2014) 
+ A hierarchical facility layout planning approach for large and complex hospitals
+, Flexible Services and Manufacturing Journal, pp. 1-25",,,,"Holst, MK, Kirkegaard, PH and Christoffersen, L (2013) 
+ Parametric Optimization of Hospital Design
+, Proceedings of World Academy of Science, Engineering and Technology, p. 200",,,,"Lorenz, WE, Bicher, M and Wurzer, GX (2015) 
+ Adjacency in hospital planning
+, IFAC-PapersOnLine, 48(1), pp. 862-867",,,,"Mora, R, Rivard, H and Bédard, C (2006) 
+ Computer representation to support conceptual structural design within a building architectural context
+, Journal of Computing in Civil Engineering, 20(2), pp. 76-87",,,,"Nimtawat, A and Nanakorn, P (2009) 
+ Automated layout design of beam-slab floors using a genetic algorithm
+, Computers & Structures, 87(21), pp. 1308-1330",,,,"Singh, SP and Sharma, RR (2006) 
+ A review of different approaches to the facility layout problems
+, The International Journal of Advanced Manufacturing Technology, 30(5-6), pp. 425-433",,,,"Vos, L, Groothuis, S and van Merode, GG (2007) 
+ Evaluating hospital design from an operations management perspective
+, Health care management science, 10(4), pp. 357-364",,,,"Yeh, IC (2006) 
+ Architectural layout optimization using annealed neural network
+, Automation in Construction, 15(4), pp. 531-539",,
+12,2017/06/28 08:46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

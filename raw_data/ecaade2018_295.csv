@@ -1,0 +1,251 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77
+0,ecaade2018_295,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Dezen-Kempter, Eloisa, Cogima, Camila Kimi, Vieira de Paiva, Pedro Victor and Garcia de Carvalho, Marco Antonio",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,BIM for Heritage Documentation - An ontology-based approach,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Kepczynska-Walczak, A, Bialkowski, S (eds.), Computing for a better tomorrow - Proceedings of the 36th eCAADe Conference - Volume 1, Lodz University of Technology, Lodz, Poland, 19-21 September 2018, pp. 213-222",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In the recent decades, the high-resolution remote sensing, through 3D laser scanning and photogrammetry benefited historic buildings maintenance, conservation, and restoration works. However, the dense surface models (DSM) generated from the data capture have nonstructured features as lack of topology and semantic discretization. The process to create a semantically oriented 3D model from the DSM, using the of Building Information Model technology, is a possibility to integrate historical information about the life cycle of the building to maintain and improving architectural valued building stock to its functional level and safeguarding its outstanding historical value. Our approach relies on an ontology-based system to represent the knowledge related to the building. Our work outlines a model-driven approach based on the hybrid data acquisition, its post-processing, the identification of the building' main features for the parametric modeling, and the development of an ontological map integrated with the BIM model. The methodology proposed was applied to a large-scale industrial historical building, located in Brazil. The DSM were compared, providing a qualitative assessment of the proposed method.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Reality-based Surveying; Ontology-based System; BIM; Built heritage management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,elo@ft.unicamp.br,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (8,724,438 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Aalberg, T., Vennesland, A. and Farrokhnia, M. (2015) 
+ A pattern-based framework for best practice implementation of CRM/FRBRoo
+, East European Conference on Advances Databases and Information Systems, Springer, Cham, pp. 438-447
+
+
+
+
+
+
+
+Acierno, M., Cursi, S., Simeone, D. and Fiorani, D. (2017) 
+ Architectural heritage knowledge modelling: An ontology-based framework for conservation process
+, Journal of Cultural Heritage, 24, pp. 124-133
+
+
+
+
+
+
+
+Becerik-Gerber, B., Jazizadeh, F., Li, N. and Calis, G. (2012) 
+ Application areas and data requirements for BIM-enabled facilities management
+, Journal of Construction Engineering and Management, 138, pp. 431-442
+
+
+
+
+
+
+
+Campagnol, G. (2017) 
+ The Place of the Industrial Past: The Adaptive Reuse of the Industrial Heritage in the Engenho Central de Piracicaba, Brazil
+, Built Environment, 43(1), pp. 107-129
+
+
+
+
+
+
+
+Di Giorgio, S., Felicetti, A., Martini, P. and Masci, E. (2015) 
+ Dati. CulturaItalia: a Use Case of Publishing Linked Open Data Based on CIDOC-CRM
+, EMF-CRM@ TPDL, pp. 44-54
+
+
+
+
+
+
+
+Doerr, M., FORTH-ICS, C., de Jong, G. and Delving, B. V. (2014) 
+ Realizing lessons of the last 20 years: A manifesto for data provisioning & aggregation services for the digital humanities (a position paper)
+, D-lib magazine, 20(7/8), pp. 1-6
+
+
+
+
+
+
+
+Dore, C. and Murphy, M. (2012) 
+ Integration of Historic Building Information Modeling (HBIM) and 3D GIS for recording and managing cultural heritage sites
+, Virtual Systems and Multimedia (VSMM), 2012 18th International Conference on, pp. 369-376
+
+
+
+
+
+
+
+Fiorani, D. and Acierno, M. (2017) 
+ CONSERVATION PROCESS MODEL (CPM): A TWOFOLD SCIENTIFIC RESEARCH SCOPE IN THE INFORMATION MODELLING FOR CULTURAL HERITAGE
+, International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences, Florence, Italy, p. 42
+
+
+
+
+
+
+
+Garagnani, S. and Manferdini, A. M. (2013) 
+ Parametric accuracy: Building Information Modeling process applied to the cultural heritage preservation
+, Conference Proceedings of The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Trento, Italy, pp. 87-92
+
+
+
+
+
+
+
+Garwood, T. L., Hughes, B R., O'Connor, D., Calautit, J. K., Oates, M. R. and Hodgson, T. (2017) 
+ Geometry Extraction for High Resolution Building Energy Modelling Applications from Point Cloud Data: A Case Study of a Factory Facility
+, Energy Procedia, 142, pp. 1805-1810
+
+
+
+
+
+
+
+Guillem, A., Bruseker, G. and Ronzino, P. (2017) 
+ Process, concept or thing? Some initial considerations in the ontological modelling of architecture
+, International Journal on Digital Libraries, 18(4), pp. 289-299
+
+
+
+
+
+
+
+Hichiri, N., Stefani, C., De Luca, L. and Veron, P. (2013) 
+ Review of the ""as-buit BIM"" approaches
+, Proceedings of the 3D-ARCH International Conference
+
+
+
+
+
+
+
+Huiyun, L., Yangyang, Y., Xitong, Z. and Zhenzhen, W. (2016) 
+ 3D scene reconstruction based on 3D laser point cloud combining UAV images
+, 2nd ISPRS International Conference on Computer Vision in Remote Sensing (CVRS 2015)
+
+
+
+
+
+
+
+Nurmikko-Fuller, T., Jett, J., Cole, T., Maden, C., Page, K. R. and Downie, J. S. (2016) 
+ A comparative analysis of bibliographic ontologies: implications for digital humanities
+, Digital Humanities, 1, pp. 639-642
+
+
+
+
+
+
+
+Orts-Escolano, S., Morell, V., Garcia-Rodriguez, J. and Cazorla, M. (2013) 
+ Point cloud data filtering and downsampling using growing neural gas
+, Neural Networks (IJCNN), The 2013 International Joint Conference on, pp. 1-8
+
+
+
+
+
+
+
+Penttilä, H., Rajala, M. and Freese, S. (2007) 
+ Building Information Modelling of Modern Historic Buildings
+, 25th eCAADe Predicting the Future Conference Proceedings, pp. 607-613
+
+
+
+
+
+
+
+Randall, T. (2011) 
+ Construction engineering requirements for integrating laser scanning technology and building information modeling
+, Journal of construction engineering and management, 137(10), pp. 797-805
+
+
+
+
+
+
+
+Remondino, F. and El?Hakim, S. (2006) 
+ Image?based 3D modelling: a review
+, The Photogrammetric Record, 21(115), pp. 269-291
+
+
+
+
+
+
+
+last changed
+2018/07/24 10:23
+
+
+
+
+
+
+
+CUMINCAD Papers",,"Aalberg, T., Vennesland, A. and Farrokhnia, M. (2015) 
+ A pattern-based framework for best practice implementation of CRM/FRBRoo
+, East European Conference on Advances Databases and Information Systems, Springer, Cham, pp. 438-447",,,,"Acierno, M., Cursi, S., Simeone, D. and Fiorani, D. (2017) 
+ Architectural heritage knowledge modelling: An ontology-based framework for conservation process
+, Journal of Cultural Heritage, 24, pp. 124-133",,,,"Becerik-Gerber, B., Jazizadeh, F., Li, N. and Calis, G. (2012) 
+ Application areas and data requirements for BIM-enabled facilities management
+, Journal of Construction Engineering and Management, 138, pp. 431-442",,,,"Campagnol, G. (2017) 
+ The Place of the Industrial Past: The Adaptive Reuse of the Industrial Heritage in the Engenho Central de Piracicaba, Brazil
+, Built Environment, 43(1), pp. 107-129",,,,"Di Giorgio, S., Felicetti, A., Martini, P. and Masci, E. (2015) 
+ Dati. CulturaItalia: a Use Case of Publishing Linked Open Data Based on CIDOC-CRM
+, EMF-CRM@ TPDL, pp. 44-54",,,,"Doerr, M., FORTH-ICS, C., de Jong, G. and Delving, B. V. (2014) 
+ Realizing lessons of the last 20 years: A manifesto for data provisioning & aggregation services for the digital humanities (a position paper)
+, D-lib magazine, 20(7/8), pp. 1-6",,,,"Dore, C. and Murphy, M. (2012) 
+ Integration of Historic Building Information Modeling (HBIM) and 3D GIS for recording and managing cultural heritage sites
+, Virtual Systems and Multimedia (VSMM), 2012 18th International Conference on, pp. 369-376",,,,"Fiorani, D. and Acierno, M. (2017) 
+ CONSERVATION PROCESS MODEL (CPM): A TWOFOLD SCIENTIFIC RESEARCH SCOPE IN THE INFORMATION MODELLING FOR CULTURAL HERITAGE
+, International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences, Florence, Italy, p. 42",,,,"Garagnani, S. and Manferdini, A. M. (2013) 
+ Parametric accuracy: Building Information Modeling process applied to the cultural heritage preservation
+, Conference Proceedings of The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Trento, Italy, pp. 87-92",,,,"Garwood, T. L., Hughes, B R., O'Connor, D., Calautit, J. K., Oates, M. R. and Hodgson, T. (2017) 
+ Geometry Extraction for High Resolution Building Energy Modelling Applications from Point Cloud Data: A Case Study of a Factory Facility
+, Energy Procedia, 142, pp. 1805-1810",,,,"Guillem, A., Bruseker, G. and Ronzino, P. (2017) 
+ Process, concept or thing? Some initial considerations in the ontological modelling of architecture
+, International Journal on Digital Libraries, 18(4), pp. 289-299",,,,"Hichiri, N., Stefani, C., De Luca, L. and Veron, P. (2013) 
+ Review of the ""as-buit BIM"" approaches
+, Proceedings of the 3D-ARCH International Conference",,,,"Huiyun, L., Yangyang, Y., Xitong, Z. and Zhenzhen, W. (2016) 
+ 3D scene reconstruction based on 3D laser point cloud combining UAV images
+, 2nd ISPRS International Conference on Computer Vision in Remote Sensing (CVRS 2015)",,,,"Nurmikko-Fuller, T., Jett, J., Cole, T., Maden, C., Page, K. R. and Downie, J. S. (2016) 
+ A comparative analysis of bibliographic ontologies: implications for digital humanities
+, Digital Humanities, 1, pp. 639-642",,,,"Orts-Escolano, S., Morell, V., Garcia-Rodriguez, J. and Cazorla, M. (2013) 
+ Point cloud data filtering and downsampling using growing neural gas
+, Neural Networks (IJCNN), The 2013 International Joint Conference on, pp. 1-8",,,,"Penttilä, H., Rajala, M. and Freese, S. (2007) 
+ Building Information Modelling of Modern Historic Buildings
+, 25th eCAADe Predicting the Future Conference Proceedings, pp. 607-613",,,,"Randall, T. (2011) 
+ Construction engineering requirements for integrating laser scanning technology and building information modeling
+, Journal of construction engineering and management, 137(10), pp. 797-805",,,,"Remondino, F. and El?Hakim, S. (2006) 
+ Image?based 3D modelling: a review
+, The Photogrammetric Record, 21(115), pp. 269-291",,,,2018/07/24 10:23,,CUMINCAD Papers,
+11,2018/07/24 10:23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

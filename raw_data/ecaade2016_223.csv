@@ -1,0 +1,259 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2016_223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Khallaf, Mohamed and Jupp, Julie",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Designing for Urban Microclimates: Towards A Generative Performance-based Approach to Wind Flow Optimization,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Herneoja, Aulikki; Toni Österlund and Piia Markkanen (eds.), Complexity & Simplicity - Proceedings of the 34th eCAADe Conference - Volume 2, University of Oulu, Oulu, Finland, 22-26 August 2016, pp. 95-106",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,WOS:000402064400009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"This paper presents the foundations of a multidisciplinary design optimisation method that addresses the problem of competing wind flow profiles within urban microclimates. The simultaneous integration of architectural and urban design parameters and their aerodynamic constraints are investigated. Differences in the height of tall buildings, which define the urban canopy layer are accounted for. The formulation that supports the simulation of aerodynamic forces at the architectural and urban scales includes multidisciplinary parameter specification of 2D and 3D building geometry, spatial morphology, spatial topology, wind flow settings, and wind flow compliance. The MDO framework and its development are discussed relative to their generative performance-based capacity and innovative approach to multidisciplinary wind flow optimization",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Urban microclimate;  Multidisciplinary design optimisation;  Generative performance-based design;  Systems level perspective,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Mohamed.I.Khallaf@student.uts.edu.au,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (612,934 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Assimakopoulos, V.D and Ap Simon, H.M (2003) 
+ A numerical study of atmospheric pollutant dispersion in different two-dimensional street canyon configurations
+, Atmospheric Environment, 37, p. 4037-49
+
+
+
+
+
+
+
+Capeluto, I. G, Yezioro, A and Shaviv, E (2003) 
+ Climatic aspects in urban design-a case study
+, Building and Environment, 38(6), pp. 827-835
+
+
+
+
+
+
+
+Chan, AT and Au, WTW (2003) 
+ Strategic guideline for street canyon geometry to achieve sustainable street air quality
+, Atmospheric Environment, 37, p. 2761-72
+
+
+
+
+
+
+
+Chan, AT and Ellen, SPS (2001) 
+ Strategic guideline for street canyon geometry to achieve sustainable street air quality
+, Atmospheric Environment, 35, p. 4089-98
+
+
+
+
+
+
+
+Chan, TL and Dong, G (2002) 
+ Validation of a two-dimensional pollutant dispersion model in an isolated street canyon
+, Atmospheric environment, 36, p. 861-72
+
+
+
+
+
+
+
+Chen, H.C and Patel, V.C (1998) 
+ Near-wall turbulence models for complex flows including separation
+, AIAA Journal, 26(6), pp. 641-648.
+
+
+
+
+
+
+
+Coello, C. A. C, Van Veldhuizen, D.A and Lamont, G.B (2002) 
+ Evolutionary algorithms for solving multi-objective problems
+, Kluwer Academic, New York
+
+
+
+
+
+
+
+Davenport, A.G (1971) 
+ The response of six building shapes to turbulent wind. Phil. Trans
+, R. Soc. A, 269, p. 385 - 394
+
+
+
+
+
+
+
+Dutton, R and Isyumov, N (1990) 
+ Reduction of tall building motion by aerodynamic treatments
+, J. Wind Eng. Ind. Aerodyn, 36, p. 739-747
+
+
+
+
+
+
+
+Erell, E, Pearlmutter, D and Williamson, T (eds) (2011) 
+ Urban Microclimate: Designing the Spaces Between Buildings
+, Earthscan
+
+
+
+
+
+
+
+Flager, F, Welle, B, Bansal, P, Soremekun, G and Haymaker, J (2009) 
+ Multidisciplinary process integration and design optimization of a classroom building
+, Journal of Information Technology in Construction, 14, pp. 595-612
+
+
+
+
+
+
+
+Gerber, D.J and Lin, S. H. E (2014) 
+ Designing in complexity: Simulation, integration, and multidisciplinary design optimization for architecture
+, Simulation, 90(8), pp. 936-959
+
+
+
+
+
+
+
+Isyumov, N, Dutton, R and Davenport, A.G (1989) 
+ Davenport, Aerodynamic methods for mitigating wind-induced building motion
+, Proceedings of the ASCE Structures Congress
+
+
+
+
+
+
+
+Kastner-Klein, P and Fedorovich, E. A (2001) 
+ Wind tunnel study of organized and turbulent air motions in street canyons
+, Journal of Wind Engineering and Industrial Aerodynamic, 89, p. 849-61
+
+
+
+
+
+
+
+Keough, I and Benjamin, D (2010) 
+ Multi-objective optimization in architectural design.
+, Proceedings of the 2010 Spring Simulation Multiconference, p. 191
+
+
+
+
+
+
+
+Kim, Y,C and Kanda, J (2010) 
+ Characteristics of aerodynamic forces and pressures on square plan buildings with height variations
+, J. Wind Eng. Ind. Aerodyn, 98, p. 98,449-465
+
+
+
+
+
+
+
+Kim, Y.C and Kanda, j (2010) 
+ Effects of taper and set-back on wind force and wind-induced response of tall buildings
+, J. Wind Struct(98)6, p. 499-517 (13)
+
+
+
+
+
+
+
+Kroo, I.M (1997) 
+ MDO for large-scale design
+, Multidisciplinary Design Optimization, State-of-the-Art, pp. 22-44
+
+
+
+
+
+
+
+Lall, S.V and Deichmann, U (2012) 
+ Density and disasters: economics of urban hazard risk
+, The World Bank Research Observer, 27(1), pp. 74-105
+
+
+
+
+
+
+
+Magnier, L and Haghighat, F (2010) 
+ Multiobjective optimization of building design using TRNSYS simulations, genetic algorithm, and Artificial Neural Network
+, Building and Environment, 45(3), pp. 739-746",,"Assimakopoulos, V.D and Ap Simon, H.M (2003) 
+ A numerical study of atmospheric pollutant dispersion in different two-dimensional street canyon configurations
+, Atmospheric Environment, 37, p. 4037-49",,,,"Capeluto, I. G, Yezioro, A and Shaviv, E (2003) 
+ Climatic aspects in urban design-a case study
+, Building and Environment, 38(6), pp. 827-835",,,,"Chan, AT and Au, WTW (2003) 
+ Strategic guideline for street canyon geometry to achieve sustainable street air quality
+, Atmospheric Environment, 37, p. 2761-72",,,,"Chan, AT and Ellen, SPS (2001) 
+ Strategic guideline for street canyon geometry to achieve sustainable street air quality
+, Atmospheric Environment, 35, p. 4089-98",,,,"Chan, TL and Dong, G (2002) 
+ Validation of a two-dimensional pollutant dispersion model in an isolated street canyon
+, Atmospheric environment, 36, p. 861-72",,,,"Chen, H.C and Patel, V.C (1998) 
+ Near-wall turbulence models for complex flows including separation
+, AIAA Journal, 26(6), pp. 641-648.",,,,"Coello, C. A. C, Van Veldhuizen, D.A and Lamont, G.B (2002) 
+ Evolutionary algorithms for solving multi-objective problems
+, Kluwer Academic, New York",,,,"Davenport, A.G (1971) 
+ The response of six building shapes to turbulent wind. Phil. Trans
+, R. Soc. A, 269, p. 385 - 394",,,,"Dutton, R and Isyumov, N (1990) 
+ Reduction of tall building motion by aerodynamic treatments
+, J. Wind Eng. Ind. Aerodyn, 36, p. 739-747",,,,"Erell, E, Pearlmutter, D and Williamson, T (eds) (2011) 
+ Urban Microclimate: Designing the Spaces Between Buildings
+, Earthscan",,,,"Flager, F, Welle, B, Bansal, P, Soremekun, G and Haymaker, J (2009) 
+ Multidisciplinary process integration and design optimization of a classroom building
+, Journal of Information Technology in Construction, 14, pp. 595-612",,,,"Gerber, D.J and Lin, S. H. E (2014) 
+ Designing in complexity: Simulation, integration, and multidisciplinary design optimization for architecture
+, Simulation, 90(8), pp. 936-959",,,,"Isyumov, N, Dutton, R and Davenport, A.G (1989) 
+ Davenport, Aerodynamic methods for mitigating wind-induced building motion
+, Proceedings of the ASCE Structures Congress",,,,"Kastner-Klein, P and Fedorovich, E. A (2001) 
+ Wind tunnel study of organized and turbulent air motions in street canyons
+, Journal of Wind Engineering and Industrial Aerodynamic, 89, p. 849-61",,,,"Keough, I and Benjamin, D (2010) 
+ Multi-objective optimization in architectural design.
+, Proceedings of the 2010 Spring Simulation Multiconference, p. 191",,,,"Kim, Y,C and Kanda, J (2010) 
+ Characteristics of aerodynamic forces and pressures on square plan buildings with height variations
+, J. Wind Eng. Ind. Aerodyn, 98, p. 98,449-465",,,,"Kim, Y.C and Kanda, j (2010) 
+ Effects of taper and set-back on wind force and wind-induced response of tall buildings
+, J. Wind Struct(98)6, p. 499-517 (13)",,,,"Kroo, I.M (1997) 
+ MDO for large-scale design
+, Multidisciplinary Design Optimization, State-of-the-Art, pp. 22-44",,,,"Lall, S.V and Deichmann, U (2012) 
+ Density and disasters: economics of urban hazard risk
+, The World Bank Research Observer, 27(1), pp. 74-105",,,,"Magnier, L and Haghighat, F (2010) 
+ Multiobjective optimization of building design using TRNSYS simulations, genetic algorithm, and Artificial Neural Network
+, Building and Environment, 45(3), pp. 739-746",,
+12,2017/06/28 08:46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

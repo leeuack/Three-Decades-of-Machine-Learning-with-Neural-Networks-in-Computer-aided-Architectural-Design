@@ -1,0 +1,187 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56
+0,ecaade2014_192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,David Stasiuk and Mette Ramsgaard Thomsen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Learning to be a Vault - Implementing learning strategies for design exploration in inter-scalar systems,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Thompson, Emine Mine (ed.), Fusion - Proceedings of the 32nd eCAADe Conference - Volume 1, Department of Architecture and Built Environment, Faculty of Engineering and Environment, Newcastle upon Tyne, England, UK, 10-12 September 2014, pp. 381-390",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,WOS:000361384700038,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Parametric design models enable the production of dynamic form, responsive material assemblies, and numerically and geometrically analytical feedback. The value potential for design produced through the procedural transformation of input parameters (or features) through algorithmic models has been repeatedly demonstrated and epistemically refined. However, despite their capacity to improve productivity and iteration, parametric models are nonetheless prone to inflexibility and reduction, both of which obscure processes of invention and discovery that are central to an effective design practice. This paper presents an experimental approach for the application of multiple, parallel computational design modelling strategies which are tested in the production of an inter-scalar model array that synthesises design intent, the simulation of material behaviours, performance-driven adaptation, and open-ended processes of discovery and categorical description. It is particularly focused on the computational potentials embedded in interdependent applications of simulation and machine learning algorithms as generative and descriptive drivers of form, performance, and architectural quality. It ultimately speculates towards an architectural design modelling method that privileges open model topologies and emergent feature production as critical operators in the generation of flexible and adaptive design solutions.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Parametric design; computational modelling; machine learning; multi-objective optimisation; k-means clustering,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,david.stasiuk@kadk.dk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (656,715 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Caldas, L.G. (2003) 
+ Shape Generation Using Pareto Genetic Algorithms Integrating Conflicting Design Objectives in Low-Energy Architecture
+, Proceedings of CAADRIA 2003
+
+
+
+
+
+
+
+Carbonell, J.G., Michalski, R.S. and Mitchell, T.M. (1983) 
+ Machine learning: a historical and methodological analysis
+, AI Magazine, 4.3, pp. 69-79
+
+
+
+
+
+
+
+Cariani, P. (2008) 
+ Design Strategies for Open-Ended Evolution
+, Artificial Life, XI, pp. 94-101
+
+
+
+
+
+
+
+Davis, D. (2013) 
+ Modelled on Software Engineering: Flexible Parametric Models in the Practice of Architecture
+, Ph.D. Thesis, RMIT
+
+
+
+
+
+
+
+de Leon, A.P. (2012) 
+ Two Case-Studies of Freeform-Facade Rationalization
+, Proceedings of eCAADe 2012
+
+
+
+
+
+
+
+Flach, P. (2012) 
+ Machine Learning: the Art and Science of Algorithms that Make Sense of Data
+, Cambridge University Press
+
+
+
+
+
+
+
+Frazer, J. (1995) 
+ An Evolutionary Architecture
+, Architectural Association Publications
+
+
+
+
+
+
+
+Janssen, P., Frazer, J. and Tang, M.X. (2000) 
+ Evolutionary design systems: A conceptual framework for the creation of generative processes
+, Proceedings of Design Decision Support Systems in Architecture and Urban Planning 2000
+
+
+
+
+
+
+
+Langley, P., Derix, C. and Coates, P.S. (2007) 
+ Meta-Cognitive Mappings: Growing Neural Networks for Generative Urbanism
+, Proceedings of th 10th Generative Art Conference 2007
+
+
+
+
+
+
+
+Mehanna, R. (2013) 
+ Resilient Structures through Machine Learning and Evolution
+, Proceedings of ACADIA 2013
+
+
+
+
+
+
+
+Mitchell, T.M. (1997) 
+ Machine Learning
+, McGraw-Hill Science/Engineering/Math
+
+
+
+
+
+
+
+Tamke, M., Burry, M., Ayres, P. and Thomsen, M.R. (2011) 
+ Design Environments for Material Performance
+, Proceedings of Design Modelling Symposium Berlin 2011
+
+
+
+
+
+
+
+Thomsen, M.R., Tamke, M. and Riiber, J. (2010) 
+ Sea Unsea - Lamella Flock
+, Leach, N. and Snooks, R. (eds), Swarm Intelligence: Architectures of multi-agent Systems, LATP
+
+
+
+
+
+
+
+Winslow, P., Pellegrino, S. and Sharma, S.B. (2010) 
+ Multi-objective optimization of free-form grid structures
+, Structural and Multidisciplinary Optimization, 40, pp. 257-269",,"Caldas, L.G. (2003) 
+ Shape Generation Using Pareto Genetic Algorithms Integrating Conflicting Design Objectives in Low-Energy Architecture
+, Proceedings of CAADRIA 2003",,,,"Carbonell, J.G., Michalski, R.S. and Mitchell, T.M. (1983) 
+ Machine learning: a historical and methodological analysis
+, AI Magazine, 4.3, pp. 69-79",,,,"Cariani, P. (2008) 
+ Design Strategies for Open-Ended Evolution
+, Artificial Life, XI, pp. 94-101",,,,"Davis, D. (2013) 
+ Modelled on Software Engineering: Flexible Parametric Models in the Practice of Architecture
+, Ph.D. Thesis, RMIT",,,,"de Leon, A.P. (2012) 
+ Two Case-Studies of Freeform-Facade Rationalization
+, Proceedings of eCAADe 2012",,,,"Flach, P. (2012) 
+ Machine Learning: the Art and Science of Algorithms that Make Sense of Data
+, Cambridge University Press",,,,"Frazer, J. (1995) 
+ An Evolutionary Architecture
+, Architectural Association Publications",,,,"Janssen, P., Frazer, J. and Tang, M.X. (2000) 
+ Evolutionary design systems: A conceptual framework for the creation of generative processes
+, Proceedings of Design Decision Support Systems in Architecture and Urban Planning 2000",,,,"Langley, P., Derix, C. and Coates, P.S. (2007) 
+ Meta-Cognitive Mappings: Growing Neural Networks for Generative Urbanism
+, Proceedings of th 10th Generative Art Conference 2007",,,,"Mehanna, R. (2013) 
+ Resilient Structures through Machine Learning and Evolution
+, Proceedings of ACADIA 2013",,,,"Mitchell, T.M. (1997) 
+ Machine Learning
+, McGraw-Hill Science/Engineering/Math",,,,"Tamke, M., Burry, M., Ayres, P. and Thomsen, M.R. (2011) 
+ Design Environments for Material Performance
+, Proceedings of Design Modelling Symposium Berlin 2011",,,,"Thomsen, M.R., Tamke, M. and Riiber, J. (2010) 
+ Sea Unsea - Lamella Flock
+, Leach, N. and Snooks, R. (eds), Swarm Intelligence: Architectures of multi-agent Systems, LATP",,,,"Winslow, P., Pellegrino, S. and Sharma, S.B. (2010) 
+ Multi-objective optimization of free-form grid structures
+, Structural and Multidisciplinary Optimization, 40, pp. 257-269",,
+12,2016/05/16 09:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

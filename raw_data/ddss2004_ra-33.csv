@@ -1,0 +1,221 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68
+0,ddss2004_ra-33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Diappi, L., P. Bolchim, and M. Buscema",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Improved Understanding of Urban Sprawl Using Neural  Networks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Van Leeuwen, J.P. and H.J.P. Timmermans (eds.) Recent Advances in Design & Decision  Support Systems in Architecture and Urban Planning, Dordrecht: Kluwer Academic Publishers, ISBN: 14020-2408-8, p. 33-49",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"It is widely accepted that the spatial pattern of settlements is a crucial factor  affecting quality of life and environmental sustainability, but few recent  studies have attempted to examine the phenomenon of sprawl by modelling the  process rather than adopting a descriptive approach. The issue was partly  addressed by models of land use and transportation which were mainly  developed in the UK and US in the 1970s and 1980s, but the major advances  were made in the area of modelling transportation, while very little was  achieved in the area of spatial and temporal land use. Models of land use and  transportation are well-established tools, based on explicit, exogenouslyformulated rules within a theoretical framework. The new approaches of  artificial intelligence, and in particular, systems involving parallel processing,  (Neural Networks, Cellular Automata and Multi-Agent Systems) defined by  the expression Neurocomputing, allow problems to be approached in the  reverse, bottom-up, direction by discovering rules, relationships and scenarios  from a database. In this article we examine the hypothesis that territorial  micro-transformations occur according to a local logic, i.e. according to use,  accessibility, the presence of services and conditions of centrality,  periphericity or isolation of each territorial cell relative to its surroundings.  The prediction capabilities of different architectures of supervised Neural  networks are implemented to the south Metropolitan area of Milan at two  different temporal thresholds and discussed. Starting from data on land use in  1980 and 1994 and by subdividing the area into square cells on an orthogonal  grid, the model produces a spatial and functional map of urbanisation in 2008.  An implementation of the SOM (Self Organizing Map) processing to the Data  Base allows the typologies of transformation to be identified, i.e. the classes of  area which are transformed in the same way and which give rise to territorial  morphologies; this is an interesting by-product of the approach.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Neural Networks, Self-Organizing Maps, Land-Use Dynamics, Supervised  Networks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,DDSS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (579,157 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Batty M., Y. Xie and Z. Sun (1999) 
+ Modelling urban dynamics in through GIS based Cellular  automata
+, Computers, Environment and urban Systems, 23, p. 205-234
+
+
+
+
+
+
+
+Bishop I. (1994) 
+ Comparing regression and NN based approach to Modelling of scenic  beauty
+, WP of Center for GIS and Modelling, University of Melbourne, Melbourne,  Australia
+
+
+
+
+
+
+
+Buscema M. (ed.) (1998) 
+ Artificial Neural Networks and Complex Social Systems. I Theory,  II Models, III Applications
+, Special Issue of Substance Use and Misuse, 33
+
+
+
+
+
+
+
+Clarke K., S. Hoppen and I. Gaydos (1997) 
+ A self modifying cellular automaton model of  historical urbanisation in the San Francisco Bay Area
+, Environment and Planning B, 24,  p. 247-261
+
+
+
+
+
+
+
+Deadman P. and R. Gimblett (1995) 
+ Merging technologies: linking ANN to GIS for  Landscape research and Education
+, WP School of renewable natural resources,  University of Arizona, Tucson, Arizona
+
+
+
+
+
+
+
+Diappi L., M. Buscema and M. Ottanà (1998) 
+ A neural network investigation on the crucial  Assets of urban Sustainability
+, Substance Use and Misuse Special Issue on Artificial  Neural Networks and Social Systems, 33, p. 793-817
+
+
+
+
+
+
+
+Fischer M.M. and Y. Leung (eds.) (2001) 
+ Geocomputational Modelling
+, Springer Verlag,  Berlin- Heidelberg
+
+
+
+
+
+
+
+Hecht-Nielsen R. (1990) 
+ Neurocomputing
+, Addison-Wesley Publishing Company, Reading,  Mass.
+
+
+
+
+
+
+
+Hinton G.E. and J.L. McLelland (1988) 
+ Learning representation by recirculation
+, Proceedings of IEEE Conference on Neural Information Processing Systems, November  1988
+
+
+
+
+
+
+
+Kohonen T. (1995) 
+ Self-Organising Maps
+, Springer Verlag, Berlin
+
+
+
+
+
+
+
+Openshaw S. and R.J. Abrahart (2000) 
+ Geocomputation
+, Taylor & Francis, London and New  York
+
+
+
+
+
+
+
+Portugali J., I. Benenson and I. Omer (1994) 
+ Socio-spatial residential dynamics: stability and  instability within a self-organizing city
+, Geographical Analysis, 26, p. 321-340
+
+
+
+
+
+
+
+Portugali J., I. Benenson and I. Omer (1997) 
+ Spatial cognitive dissonance and socio-spatial  emergence in a self-organizing city
+, Environment and Planning B, 24, p. 263-285
+
+
+
+
+
+
+
+Reggiani A. (2000) 
+ Spatial economic science
+, Springer Verlag, Berlin and Heidelberg
+
+
+
+
+
+
+
+Sui D.Z. (1992) 
+ An initial investigation of integrating NN with GIS for spatial Decision  Making
+, Proceedings of GIS/LIS 92, San Jose, California
+
+
+
+
+
+
+
+White R. and G. Engelen (2000) 
+ High resolution integrated modelling of the spatial dynamics  of urban and regional systems
+, Computers, Environment and urban Systems, 24, p. 383400
+
+
+
+
+
+
+
+Wu F. (1998) 
+ An experiment on the generic polycentricity of urban growth in a cellular  automatic city
+, Environment and Planning B, 25, p. 731-75",,"Batty M., Y. Xie and Z. Sun (1999) 
+ Modelling urban dynamics in through GIS based Cellular  automata
+, Computers, Environment and urban Systems, 23, p. 205-234",,,,"Bishop I. (1994) 
+ Comparing regression and NN based approach to Modelling of scenic  beauty
+, WP of Center for GIS and Modelling, University of Melbourne, Melbourne,  Australia",,,,"Buscema M. (ed.) (1998) 
+ Artificial Neural Networks and Complex Social Systems. I Theory,  II Models, III Applications
+, Special Issue of Substance Use and Misuse, 33",,,,"Clarke K., S. Hoppen and I. Gaydos (1997) 
+ A self modifying cellular automaton model of  historical urbanisation in the San Francisco Bay Area
+, Environment and Planning B, 24,  p. 247-261",,,,"Deadman P. and R. Gimblett (1995) 
+ Merging technologies: linking ANN to GIS for  Landscape research and Education
+, WP School of renewable natural resources,  University of Arizona, Tucson, Arizona",,,,"Diappi L., M. Buscema and M. Ottanà (1998) 
+ A neural network investigation on the crucial  Assets of urban Sustainability
+, Substance Use and Misuse Special Issue on Artificial  Neural Networks and Social Systems, 33, p. 793-817",,,,"Fischer M.M. and Y. Leung (eds.) (2001) 
+ Geocomputational Modelling
+, Springer Verlag,  Berlin- Heidelberg",,,,"Hecht-Nielsen R. (1990) 
+ Neurocomputing
+, Addison-Wesley Publishing Company, Reading,  Mass.",,,,"Hinton G.E. and J.L. McLelland (1988) 
+ Learning representation by recirculation
+, Proceedings of IEEE Conference on Neural Information Processing Systems, November  1988",,,,"Kohonen T. (1995) 
+ Self-Organising Maps
+, Springer Verlag, Berlin",,,,"Openshaw S. and R.J. Abrahart (2000) 
+ Geocomputation
+, Taylor & Francis, London and New  York",,,,"Portugali J., I. Benenson and I. Omer (1994) 
+ Socio-spatial residential dynamics: stability and  instability within a self-organizing city
+, Geographical Analysis, 26, p. 321-340",,,,"Portugali J., I. Benenson and I. Omer (1997) 
+ Spatial cognitive dissonance and socio-spatial  emergence in a self-organizing city
+, Environment and Planning B, 24, p. 263-285",,,,"Reggiani A. (2000) 
+ Spatial economic science
+, Springer Verlag, Berlin and Heidelberg",,,,"Sui D.Z. (1992) 
+ An initial investigation of integrating NN with GIS for spatial Decision  Making
+, Proceedings of GIS/LIS 92, San Jose, California",,,,"White R. and G. Engelen (2000) 
+ High resolution integrated modelling of the spatial dynamics  of urban and regional systems
+, Computers, Environment and urban Systems, 24, p. 383400",,,,"Wu F. (1998) 
+ An experiment on the generic polycentricity of urban growth in a cellular  automatic city
+, Environment and Planning B, 25, p. 731-75",,
+10,2004/07/03 20:13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

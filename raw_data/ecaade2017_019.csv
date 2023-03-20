@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2017_019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Liu, Yuezhong, Stouffs, Rudi and Tablada, Abel",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Rethinking the Urban Design Process from a Data Perspective,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Fioravanti, A, Cursi, S, Elahmar, S, Gargaro, S, Loffreda, G, Novembri, G, Trento, A (eds.), ShoCK! - Sharing Computational Knowledge! - Proceedings of the 35th eCAADe Conference - Volume 1, Sapienza University of Rome, Rome, Italy, 20-22 September 2017, pp. 449-460",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Urban design always requires the processing of large amounts of data from multi-disciplinary sources during the decision-making stages. However, unfamiliar multi-disciplinary data sets can only lead to confusion and uncertainty. This research proposes a data-driven approach for supporting the urban design process. A hybrid data mining method is used to cluster, classify and rank solution-instances according to geometrical properties and energy performance. An urban design case study is used to demonstrate the proposed method with respect to two performance issues: solar heat gains and natural ventilation. The result shows that the method addressing both familiar and unfamiliar data can effectively guide the designer during the design process.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,energy performance; S3VM; decision tree; familiar and unfamiliar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,liuyuezhong@u.nus.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (30,386,146 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Akbari, H and Haider, T (1992) 
+ The Impact of Trees and White Surfaces on Residential Heating and Cooling Energy Use in Four Canadian Cities.
+, Energy, 17(2), pp. 141-49
+
+
+
+
+
+
+
+Alt, H and Godau, M (1995) 
+ Computing the Fréchet Distance between Two Polygonal Curves.
+, International Journal of Computational Geometry & Applications, 5(1 & 2), pp. 75-91
+
+
+
+
+
+
+
+Bennett, KP and Demiriz, A (1999) 
+ Semi-Supervised Support Vector Machines
+, Advances in Neural Information Processing Systems, 11, pp. 368-374
+
+
+
+
+
+
+
+Buchin, K, Buchin, M and Wenk, C (2008) 
+ Computing the Fréchet Distance between Simple Polygons.
+, Computational Geometry: Theory and Applications, 41(1-2), pp. 2-20
+
+
+
+
+
+
+
+Bueno, B, Norford, L, Pigeon, G and Britter, R (2012) 
+ A resistance-capacitance network model for the analysis of the interactions between the energy performance of buildings and the urban climate
+, Building and Environment, 54, pp. 116-125
+
+
+
+
+
+
+
+Cross, N (2006) 
+ Designerly ways of knowing
+, Springer-Verlag, London
+
+
+
+
+
+
+
+D'Oca, S and Hong, T (2014) 
+ A data-mining approach to discover patterns of window opening and closing behavior in offices
+, Building and Environment, 82, pp. 726-739
+
+
+
+
+
+
+
+Eiter, T and Mannila, H (1994) 
+ Computing Discrete Fréchet Distance.
+, Notes, 94, p. 64
+
+
+
+
+
+
+
+Emmanuel, MR (2005) 
+ An urban approach to climate-sensitive design: Strategies for the tropics
+, Taylor & Francis
+
+
+
+
+
+
+
+Gil, J, Montenegro, N, Beir?o, J and Duarte, J (2009) 
+ On the Discovery of Urban Typologies. Data mining the multi-dimensional character of neighbourhoods
+, Proceedings of the 27th eCAADe Conference, pp. 269-278
+
+
+
+
+
+
+
+Givoni, B (1998) 
+ Climate considerations in buildings and urban design
+, John Wiley, New York
+
+
+
+
+
+
+
+Hanna, S (2007) 
+ Automated Representation of Style by Feature Space Archetypes: Distinguishing Spatial Styles from Generative Rules
+, International Journal of Architectural Computing, 5(1), pp. 2-23
+
+
+
+
+
+
+
+Ignatius, M, Wong, NH and Jusuf, SK (2016) 
+ The Significance of Using Local Predicted Temperature for Cooling Load Simulation in the Tropics.
+, Energy and Buildings, 118, pp. 57-69
+
+
+
+
+
+
+
+Joachims, T (1999) 
+ Making large-scale SVM learning practical BT - Advances in Kernel Methods - Support Vector Learning
+, MIT-Press
+
+
+
+
+
+
+
+Jusuf, SK, Wong, NH, Hagen, E, Anggoro, R and Hong, Y (2007) 
+ The influence of land use on the urban heat island in Singapore
+, Habitat International, 31(2), pp. 232-242
+
+
+
+
+
+
+
+Kikegawa, Y, Genchi, Y, Yoshikado, H and Kondo, H (2003) 
+ Development of a numerical simulation system toward comprehensive assessments of urban warming countermeasures including their impacts upon the urban buildings' energy-demands
+, Applied Energy, 76(4), pp. 449-466
+
+
+
+
+
+
+
+Knowles, RL (1981) 
+ Sun rhythm form
+, Cambridge MA: The MIT Press., Boston
+
+
+
+
+
+
+
+Lawson, B (2005) 
+ How designers thinks: the design process demystified
+, Elsevier
+
+
+
+
+
+
+
+Littlefair, P (1998) 
+ Passive solar urban design : ensuring the penetration of solar energy into the city
+, Renewable and Sustainable Energy Reviews, 2(3), pp. 303-326
+
+
+
+
+
+
+
+Liu, Weiguo and Seto, Karen (2008) 
+ Using the ART-MMAP neural network to model and predict urban growth: A spatiotemporal data mining approach
+, Environment and Planning B: Planning and Design, 35(2), pp. 296-317",,"Akbari, H and Haider, T (1992) 
+ The Impact of Trees and White Surfaces on Residential Heating and Cooling Energy Use in Four Canadian Cities.
+, Energy, 17(2), pp. 141-49",,,,"Alt, H and Godau, M (1995) 
+ Computing the Fréchet Distance between Two Polygonal Curves.
+, International Journal of Computational Geometry & Applications, 5(1 & 2), pp. 75-91",,,,"Bennett, KP and Demiriz, A (1999) 
+ Semi-Supervised Support Vector Machines
+, Advances in Neural Information Processing Systems, 11, pp. 368-374",,,,"Buchin, K, Buchin, M and Wenk, C (2008) 
+ Computing the Fréchet Distance between Simple Polygons.
+, Computational Geometry: Theory and Applications, 41(1-2), pp. 2-20",,,,"Bueno, B, Norford, L, Pigeon, G and Britter, R (2012) 
+ A resistance-capacitance network model for the analysis of the interactions between the energy performance of buildings and the urban climate
+, Building and Environment, 54, pp. 116-125",,,,"Cross, N (2006) 
+ Designerly ways of knowing
+, Springer-Verlag, London",,,,"D'Oca, S and Hong, T (2014) 
+ A data-mining approach to discover patterns of window opening and closing behavior in offices
+, Building and Environment, 82, pp. 726-739",,,,"Eiter, T and Mannila, H (1994) 
+ Computing Discrete Fréchet Distance.
+, Notes, 94, p. 64",,,,"Emmanuel, MR (2005) 
+ An urban approach to climate-sensitive design: Strategies for the tropics
+, Taylor & Francis",,,,"Gil, J, Montenegro, N, Beir?o, J and Duarte, J (2009) 
+ On the Discovery of Urban Typologies. Data mining the multi-dimensional character of neighbourhoods
+, Proceedings of the 27th eCAADe Conference, pp. 269-278",,,,"Givoni, B (1998) 
+ Climate considerations in buildings and urban design
+, John Wiley, New York",,,,"Hanna, S (2007) 
+ Automated Representation of Style by Feature Space Archetypes: Distinguishing Spatial Styles from Generative Rules
+, International Journal of Architectural Computing, 5(1), pp. 2-23",,,,"Ignatius, M, Wong, NH and Jusuf, SK (2016) 
+ The Significance of Using Local Predicted Temperature for Cooling Load Simulation in the Tropics.
+, Energy and Buildings, 118, pp. 57-69",,,,"Joachims, T (1999) 
+ Making large-scale SVM learning practical BT - Advances in Kernel Methods - Support Vector Learning
+, MIT-Press",,,,"Jusuf, SK, Wong, NH, Hagen, E, Anggoro, R and Hong, Y (2007) 
+ The influence of land use on the urban heat island in Singapore
+, Habitat International, 31(2), pp. 232-242",,,,"Kikegawa, Y, Genchi, Y, Yoshikado, H and Kondo, H (2003) 
+ Development of a numerical simulation system toward comprehensive assessments of urban warming countermeasures including their impacts upon the urban buildings' energy-demands
+, Applied Energy, 76(4), pp. 449-466",,,,"Knowles, RL (1981) 
+ Sun rhythm form
+, Cambridge MA: The MIT Press., Boston",,,,"Lawson, B (2005) 
+ How designers thinks: the design process demystified
+, Elsevier",,,,"Littlefair, P (1998) 
+ Passive solar urban design : ensuring the penetration of solar energy into the city
+, Renewable and Sustainable Energy Reviews, 2(3), pp. 303-326",,,,"Liu, Weiguo and Seto, Karen (2008) 
+ Using the ART-MMAP neural network to model and predict urban growth: A spatiotemporal data mining approach
+, Environment and Planning B: Planning and Design, 35(2), pp. 296-317",,
+11,2017/09/13 13:13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,102 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+0,ecaade2017_271,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Narahara, Taro",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Collective Construction Modeling and Machine Learning: Potential for Architectural Design,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Fioravanti, A, Cursi, S, Elahmar, S, Gargaro, S, Loffreda, G, Novembri, G, Trento, A (eds.), ShoCK! - Sharing Computational Knowledge! - Proceedings of the 35th eCAADe Conference - Volume 2, Sapienza University of Rome, Rome, Italy, 20-22 September 2017, pp. 341-348",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Recently, there are significant developments in artificial intelligence using advanced machine learning algorithms such as deep neural networks. These new methods can defeat human expert players in strategy-based board games such as Go and video games such as Breakout. This paper suggests a way to incorporate such advanced computing methods into architectural design through introducing a simple conceptual design project inspired by computational interpretations of wasps' collective constructions. At this stage, the paper's intent is not to introduce a practical and fully finished tool directly useful for architectural design. Instead, the paper proposes an example of a program that can potentially become a conceptual framework for incorporating such advanced methods into architectural design.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Design tools; Stigmergy; Machine learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,taronarahara@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (7,805,897 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bonabeau, E, Guérin, S, Snyers, D, Kuntz, P and Theraulaz, G. (2000) 
+ Three-dimensional architectures grown by simple 'stigmergic' agents
+, Biosystems, Elsevier, 56(Issue 1), pp. 13-32
+
+
+
+
+
+
+
+Gatys, L. A., Ecker, A. S., and Bethge, M. (2015) 
+ A neural algorithm of artistic style
+, CoRR, arXiv:1508.06576, p. -
+
+
+
+
+
+
+
+Minh, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., Graves, A., Riedmiller, M., Fidjelan, A. K., Ostrovski, G., Petersen, S., Beattie, C., Sadik, A., Antonoglou, I., King, H., Kumaran, D., Wierstra, D. Legg, S., & Hassabis, D. (2015) 
+ Human-level Control through Deep Reinforcement Learning
+, Nature, 518, pp. 529-533
+
+
+
+
+
+
+
+Narahara, T. (2008) 
+ New Methodologies in Architectural Design inspired by Self-Organization
+, Proceedings of the Association for Computer-Aided Design in Architecture (ACADIA), pp. 324-331
+
+
+
+
+
+
+
+Shimizu, R. (2016) 
+ Deep Learning Programming
+, Technological Review Co., Ltd., Tokyo
+
+
+
+
+
+
+
+Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Driessche, G., Schrittwieser, J., Antonoglou, I., Panneershelvam, V., Lanctot, M., Dieleman, S., Grewe, D., Nham, J., Kalchbrenner, N., Sutskever, I., Lillicrap, T., Leach, M., Kavukcuoglu, K., Graepel, T., & Hassabis, D. (2016) 
+ Mastering the Game of Go with Deep Neural Networks and Tree Search
+, Nature, 529, pp. 484-489
+
+
+
+
+
+
+
+Sutton, R. S. and Barto, A. G. (1998) 
+ Reinforcement Learning: An Introduction
+, MIT Press, Cambridge, MA",,"Bonabeau, E, Guérin, S, Snyers, D, Kuntz, P and Theraulaz, G. (2000) 
+ Three-dimensional architectures grown by simple 'stigmergic' agents
+, Biosystems, Elsevier, 56(Issue 1), pp. 13-32",,,,"Gatys, L. A., Ecker, A. S., and Bethge, M. (2015) 
+ A neural algorithm of artistic style
+, CoRR, arXiv:1508.06576, p. -",,,,"Minh, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., Graves, A., Riedmiller, M., Fidjelan, A. K., Ostrovski, G., Petersen, S., Beattie, C., Sadik, A., Antonoglou, I., King, H., Kumaran, D., Wierstra, D. Legg, S., & Hassabis, D. (2015) 
+ Human-level Control through Deep Reinforcement Learning
+, Nature, 518, pp. 529-533",,,,"Narahara, T. (2008) 
+ New Methodologies in Architectural Design inspired by Self-Organization
+, Proceedings of the Association for Computer-Aided Design in Architecture (ACADIA), pp. 324-331",,,,"Shimizu, R. (2016) 
+ Deep Learning Programming
+, Technological Review Co., Ltd., Tokyo",,,,"Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Driessche, G., Schrittwieser, J., Antonoglou, I., Panneershelvam, V., Lanctot, M., Dieleman, S., Grewe, D., Nham, J., Kalchbrenner, N., Sutskever, I., Lillicrap, T., Leach, M., Kavukcuoglu, K., Graepel, T., & Hassabis, D. (2016) 
+ Mastering the Game of Go with Deep Neural Networks and Tree Search
+, Nature, 529, pp. 484-489",,,,"Sutton, R. S. and Barto, A. G. (1998) 
+ Reinforcement Learning: An Introduction
+, MIT Press, Cambridge, MA",,
+11,2017/09/13 13:31,,,,,,,,,,,,,,,,,,,,,,,,,,,,

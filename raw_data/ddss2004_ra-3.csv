@@ -1,0 +1,257 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ddss2004_ra-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Yesilnacar, E. and G.J. Hunter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Application of Neural Networks for Landslide Susceptibility Mapping  in Turkey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Van Leeuwen, J.P. and H.J.P. Timmermans (eds.) Recent Advances in Design & Decision  Support Systems in Architecture and Urban Planning, Dordrecht: Kluwer Academic Publishers, ISBN: 14020-2408-8, p. 3-18",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Landslides are a major natural hazard in many areas of the world, and globally  they cause hundreds of billions of dollars of damage, and hundreds of  thousands of deaths and injuries each year. Landslides are the second most  common natural hazard in Turkey, and the Black Sea region of that country is  particularly affected. Therefore, landslide susceptibility mapping is one of the  important issues for urban and rural planning in Turkey. The reliability of  these maps depends mostly on the amount and quality of available data used,  as well as the selection of a robust methodology. Although statistical methods  generally have been implemented and used for evaluating landslide  susceptibility and risk in medium scale studies, they are distribution-based and  cannot handle multi-source data that are commonly collected from nature.  These drawbacks are responsible for the on-going investigations into slope  instability. To overcome these weaknesses, the desired technique must be able  to handle multi-type data and its superiority should increase as the  dimensionality and/or non-linearity of the problem increases  which is when  traditional regression often fails to produce accurate approximations. Although  neural networks have some problems with the creation of architectures,  processing time, and the negative black box syndrome, they still have an  advantage over traditional methods in that they can deal with the problem  comprehensively and are insensitive to uncertain data and measurement errors.  Therefore, it is expected that the application of neural networks will bring new  perspectives to the assessment of landslide susceptibility in Turkey. In this  paper, the application of neural networks for landslide susceptibility mapping  will be examined and their performance as a component of spatial decision  support systems will be discussed.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Landslide Susceptibility Mapping, Neural Networks, Spatial Decision Support  Systems",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,DDSS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (3,159,050 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Aleotti, P., P. Baldelli, G. Polloni and F. Puma (1998) 
+ Keynote paper: Different approaches  to landslide hazard assessment
+, Proceedings of the Second Conf Environ Management  (ICEM-2), Wollongong (Australia), 1, p. 3-10
+
+
+
+
+
+
+
+Basheer, I. A. and M. Hajmeer (2000) 
+ Artificial neural networks: fundamentals, computing,  design, and application
+, Journal of Microbiological Methods, Vol. 43, p. 3-31
+
+
+
+
+
+
+
+Benediktsson, J. A., P. H. Swain and O. K.Ersoy (1990) 
+ Neural network approaches versus  statistical methods in classification of multisource remote sensing data
+, IEEE  Transactions on Geoscience and Remote Sensing, Vol. 28, No. 4, p. 540-552
+
+
+
+
+
+
+
+Carrara, A. and L. Meranda (1976) 
+ Landslide inventory in Northern Calabria, Southern  Italy
+, Bulletin of Geological Society Am., Vol. 87 (8), p. 1153-1162
+
+
+
+
+
+
+
+Duman, T.Y., Ö. Emre, T. Çan, S. Ates, M. Keçer, T. Erkal, S. Durmaz, A. Dogan, E.  Çörekçioglu, A. Göktepe, E. Cicioglu and F. Karakay (2001) 
+ Turkish landslide inventory  mapping project: Methodology and results on Zonguldak quadrangle (1/500 000)
+, Fourth  International Turkish Geology Symposium
+
+
+
+
+
+
+
+Einstein, H. H. (1988) 
+ Special lecture: landslide risk assessment procedure
+, Proceedings of  5 th International Symposium on Landslides, Lausanne, 2, p. 1075-1090
+
+
+
+
+
+
+
+Gomez, H. R. (2002) 
+ Modeling landslide potential in the Venezuelan Andes
+, PhD Thesis,  The University of Nottingham, School of Geography, 272 p. (unpublished)
+
+
+
+
+
+
+
+Guzzetti, F., A. Carrara, M. Cardinalli, and P. Reichenbach (1999) 
+ Landslide hazard  evaluation: A review of current techniques and their application in a multi-case study,  central Italy
+, Geomorphology, Vol. 31, p 181-216
+
+
+
+
+
+
+
+Guzzetti, F., M. Cardinalli, P. Reichenbach and A. Carrara (2000) 
+ Comparing Landslide  Maps: A Case Study in the Upper Tiber River Basin
+, Environmental Management, Vol.  25, No. 3, p. 247-263
+
+
+
+
+
+
+
+Hansen, A. (1984) 
+ Landslide hazard analysis
+, Brunsden, D. and Prior, D. B. (Eds), Slope  instability, John Wiley and Sons, New York, p. 523-602
+
+
+
+
+
+
+
+Hecth-Nielsen, R. (1990) 
+ Neurocomputing
+, Addison-Wesley, Reading, MA
+
+
+
+
+
+
+
+Jain, A. K., J. Mao and K. M. Mohiuddin (1996) 
+ Artificial neural networks: a tutorial
+, Comput. IEEE March, p. 31-44
+
+
+
+
+
+
+
+Lee, S., J. H. Ryu and M. J. Lee (2003) 
+ Use of an artificial neural network for analysis of the  susceptibility to landslides at Boun, Korea
+, Environmental Geology, Vol. 44, p. 820-833
+
+
+
+
+
+
+
+Mayoraz, F. and L. Vulliet (2002) 
+ Neural networks for Slope Movement Prediction
+, The  International Journal of Geomechanics, Vol. 2, Num. 2, p. 153-173
+
+
+
+
+
+
+
+Pontius, Jr. R.G. and L. C. Schneider (2001) 
+ Land-cover change model validation by an ROC  method for the Ipswich watershed, Massachusetts, USA
+, Agriculture, Ecosystems and  Environment, Vol. 85, p. 239-248
+
+
+
+
+
+
+
+Schalkoff, R. J. (1997) 
+ Artificial Neural Networks
+, McGraw-Hill, New York
+
+
+
+
+
+
+
+Soeters, R. and C. J. Van Westen (1996) 
+ Slope instability recognition, analysis, and  zonation
+, Turner, A.K. and Shuster, R. L. (Eds), Landslides Investigation and  mitigation, Transp. Res. Board, Special Report 247, Natural Acad. Press, Washington  D.C., p. 129-177
+
+
+
+
+
+
+
+Sui, D. Z. (1993) 
+ Integrating neural network with GIS for spatial decision making
+, The  Operational Geographer, Vol. 11, No. 2, p. 13-20
+
+
+
+
+
+
+
+Suzen, M.L. and V. Doyuran (2004) 
+ Data Driven Bivariate Landslide Susceptibility  Assessment Using Geographical Information Systems: A Method and Application to  Asarsuyu Catchment, Turkey
+, Engineering Geology, Vol 71/3-4, p. 303-321
+
+
+
+
+
+
+
+Swets, J.A. (1988) 
+ Measuring the Accuracy of Diagnostic Systems
+, Science, Vol. 240, p.  1285-1293",,"Aleotti, P., P. Baldelli, G. Polloni and F. Puma (1998) 
+ Keynote paper: Different approaches  to landslide hazard assessment
+, Proceedings of the Second Conf Environ Management  (ICEM-2), Wollongong (Australia), 1, p. 3-10",,,,"Basheer, I. A. and M. Hajmeer (2000) 
+ Artificial neural networks: fundamentals, computing,  design, and application
+, Journal of Microbiological Methods, Vol. 43, p. 3-31",,,,"Benediktsson, J. A., P. H. Swain and O. K.Ersoy (1990) 
+ Neural network approaches versus  statistical methods in classification of multisource remote sensing data
+, IEEE  Transactions on Geoscience and Remote Sensing, Vol. 28, No. 4, p. 540-552",,,,"Carrara, A. and L. Meranda (1976) 
+ Landslide inventory in Northern Calabria, Southern  Italy
+, Bulletin of Geological Society Am., Vol. 87 (8), p. 1153-1162",,,,"Duman, T.Y., Ö. Emre, T. Çan, S. Ates, M. Keçer, T. Erkal, S. Durmaz, A. Dogan, E.  Çörekçioglu, A. Göktepe, E. Cicioglu and F. Karakay (2001) 
+ Turkish landslide inventory  mapping project: Methodology and results on Zonguldak quadrangle (1/500 000)
+, Fourth  International Turkish Geology Symposium",,,,"Einstein, H. H. (1988) 
+ Special lecture: landslide risk assessment procedure
+, Proceedings of  5 th International Symposium on Landslides, Lausanne, 2, p. 1075-1090",,,,"Gomez, H. R. (2002) 
+ Modeling landslide potential in the Venezuelan Andes
+, PhD Thesis,  The University of Nottingham, School of Geography, 272 p. (unpublished)",,,,"Guzzetti, F., A. Carrara, M. Cardinalli, and P. Reichenbach (1999) 
+ Landslide hazard  evaluation: A review of current techniques and their application in a multi-case study,  central Italy
+, Geomorphology, Vol. 31, p 181-216",,,,"Guzzetti, F., M. Cardinalli, P. Reichenbach and A. Carrara (2000) 
+ Comparing Landslide  Maps: A Case Study in the Upper Tiber River Basin
+, Environmental Management, Vol.  25, No. 3, p. 247-263",,,,"Hansen, A. (1984) 
+ Landslide hazard analysis
+, Brunsden, D. and Prior, D. B. (Eds), Slope  instability, John Wiley and Sons, New York, p. 523-602",,,,"Hecth-Nielsen, R. (1990) 
+ Neurocomputing
+, Addison-Wesley, Reading, MA",,,,"Jain, A. K., J. Mao and K. M. Mohiuddin (1996) 
+ Artificial neural networks: a tutorial
+, Comput. IEEE March, p. 31-44",,,,"Lee, S., J. H. Ryu and M. J. Lee (2003) 
+ Use of an artificial neural network for analysis of the  susceptibility to landslides at Boun, Korea
+, Environmental Geology, Vol. 44, p. 820-833",,,,"Mayoraz, F. and L. Vulliet (2002) 
+ Neural networks for Slope Movement Prediction
+, The  International Journal of Geomechanics, Vol. 2, Num. 2, p. 153-173",,,,"Pontius, Jr. R.G. and L. C. Schneider (2001) 
+ Land-cover change model validation by an ROC  method for the Ipswich watershed, Massachusetts, USA
+, Agriculture, Ecosystems and  Environment, Vol. 85, p. 239-248",,,,"Schalkoff, R. J. (1997) 
+ Artificial Neural Networks
+, McGraw-Hill, New York",,,,"Soeters, R. and C. J. Van Westen (1996) 
+ Slope instability recognition, analysis, and  zonation
+, Turner, A.K. and Shuster, R. L. (Eds), Landslides Investigation and  mitigation, Transp. Res. Board, Special Report 247, Natural Acad. Press, Washington  D.C., p. 129-177",,,,"Sui, D. Z. (1993) 
+ Integrating neural network with GIS for spatial decision making
+, The  Operational Geographer, Vol. 11, No. 2, p. 13-20",,,,"Suzen, M.L. and V. Doyuran (2004) 
+ Data Driven Bivariate Landslide Susceptibility  Assessment Using Geographical Information Systems: A Method and Application to  Asarsuyu Catchment, Turkey
+, Engineering Geology, Vol 71/3-4, p. 303-321",,,,"Swets, J.A. (1988) 
+ Measuring the Accuracy of Diagnostic Systems
+, Science, Vol. 240, p.  1285-1293",,
+10,2004/07/03 20:13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

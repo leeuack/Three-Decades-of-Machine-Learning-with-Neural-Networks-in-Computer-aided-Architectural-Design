@@ -1,0 +1,198 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60
+0,ecaade2020_017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Chan, Yick Hin Edwin and Spaeth, A. Benjamin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Architectural Visualisation with Conditional Generative Adversarial Networks (cGAN). - What machines read in architectural sketches.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Werner, L and Koering, D (eds.), Anthropologic: Architecture and Fabrication in the cognitive age - Proceedings of the 38th eCAADe Conference - Volume 2, TU Berlin, Berlin, Germany, 16-18 September 2020, pp. 299-308",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"As a form of visual reasoning, sketching is a human cognitive activity instrumental to architectural design. In the process of sketching, abstract sketches invoke new mental imageries and subsequently lead to new sketches. This iterative transformation is repeated until the final design emerges. Artificial Intelligence and Deep Neural Networks have been developed to imitate human cognitive processes. Amongst these networks, the Conditional Generative Adversarial Network (cGAN) has been developed for image-to-image translation and is able to generate realistic images from abstract sketches. To mimic the cyclic process of abstracting and imaging in architectural concept design, a Cyclic-cGAN that consists of two cGANs is proposed in this paper. The first cGAN transforms sketches to images, while the second from images to sketches. The training of the Cyclic-cGAN is presented and its performance illustrated by using two sketches from well-known architects, and two from architecture students. The results show that the proposed Cyclic-cGAN can emulate architects' mode of visual reasoning through sketching. This novel approach of utilising deep neural networks may open the door for further development of Artificial Intelligence in assisting architects in conceptual design.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,visual cognition;  design computation; machine learning; artificial intelligence,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,spaetha@cardiff.ac.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (7,159,152 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Chan, YHE (2020) 
+ Towards Artificial Discoveries with Cyclic-Conditional Generative Adversarial Network
+, Master's Thesis, University of Cardiff
+
+
+
+
+
+
+
+Deng, L and Yu, D (2014) 
+ Deep learning: methods and applications
+, Foundations and Trends in Signal Processing, 7(3-4), pp. 197-387
+
+
+
+
+
+
+
+Forbus, KD (2012) 
+ Vision and sketching
+, Perception, 41(9), pp. 1031-1039
+
+
+
+
+
+
+
+Goldschmidt, G (1994) 
+ On visual design thinking: the vis kids of architecture
+, Design Studies, 15(2), pp. 158-174
+
+
+
+
+
+
+
+Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde- Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative Adversarial Nets
+, Proceeding of International Conference on Neural Information Processing Systems (NIPS 2014),Neural Information Processing Systems Foundation, Inc., p. 2672-2680
+
+
+
+
+
+
+
+Isola, P, Zhu, JY, Zhou, T and Efros, AA (2017) 
+ Image-To-Image Translation With Conditional Adversarial Networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1125-1134
+
+
+
+
+
+
+
+Kaufmann, G (1980) 
+ Imagery, language and cognition
+, Universitetsforl.
+
+
+
+
+
+
+
+Mirza, M and Osindero, S (2014) 
+ Conditional generative adversarial nets
+, arXiv preprint arXiv:1411.1784, https://arxiv.org/pdf/1411.1784v1.pdf, pp. 1-7
+
+
+
+
+
+
+
+Pallasmaa, J (2009) 
+ The thinking hand: Existential and embodied wisdom in architecture / Juhani Pallasmaa
+, Wiley and Chichester : John Wiley [distributor], Hoboken, N.J.
+
+
+
+
+
+
+
+Schmidhuber, J (2015) 
+ Deep learning in neural networks: An overview
+, Neural networks, 61, pp. 85-117
+
+
+
+
+
+
+
+Schon, DA and Wiggins, G (1992) 
+ Kinds of seeing and their functions in designing
+, Design Studies, 13(2), pp. 135-156
+
+
+
+
+
+
+
+Simon, Herbert A. (1969) 
+ The Science of the Artificial
+, M.I.T. Press, Cambridge
+
+
+
+
+
+
+
+Simon, Herbert A. (1983) 
+ WHY SHOULD MACHINES LEARN?
+, Michalski, RS, Carbonell, JG and Mitchell, TM (eds), Machine Learning, Morgan Kaufmann, pp. 25-37
+
+
+
+
+
+
+
+Suwa, M and Tversky, B (1997) 
+ What do architects and students perceive in their design sketches? A protocol analysis
+, Design Studies, 18(4), pp. 385-403
+
+
+
+
+
+
+
+Suwa, M, Gero, J and Purcell, T (1999) 
+ Unexpected Discoveries: How Designers Discover Hidden Features In Sketches
+, UNIVERSITY OF SYDNEY, SYDNEY, pp. 145-162",,"Chan, YHE (2020) 
+ Towards Artificial Discoveries with Cyclic-Conditional Generative Adversarial Network
+, Master's Thesis, University of Cardiff",,,,"Deng, L and Yu, D (2014) 
+ Deep learning: methods and applications
+, Foundations and Trends in Signal Processing, 7(3-4), pp. 197-387",,,,"Forbus, KD (2012) 
+ Vision and sketching
+, Perception, 41(9), pp. 1031-1039",,,,"Goldschmidt, G (1994) 
+ On visual design thinking: the vis kids of architecture
+, Design Studies, 15(2), pp. 158-174",,,,"Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde- Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative Adversarial Nets
+, Proceeding of International Conference on Neural Information Processing Systems (NIPS 2014),Neural Information Processing Systems Foundation, Inc., p. 2672-2680",,,,"Isola, P, Zhu, JY, Zhou, T and Efros, AA (2017) 
+ Image-To-Image Translation With Conditional Adversarial Networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1125-1134",,,,"Kaufmann, G (1980) 
+ Imagery, language and cognition
+, Universitetsforl.",,,,"Mirza, M and Osindero, S (2014) 
+ Conditional generative adversarial nets
+, arXiv preprint arXiv:1411.1784, https://arxiv.org/pdf/1411.1784v1.pdf, pp. 1-7",,,,"Pallasmaa, J (2009) 
+ The thinking hand: Existential and embodied wisdom in architecture / Juhani Pallasmaa
+, Wiley and Chichester : John Wiley [distributor], Hoboken, N.J.",,,,"Schmidhuber, J (2015) 
+ Deep learning in neural networks: An overview
+, Neural networks, 61, pp. 85-117",,,,"Schon, DA and Wiggins, G (1992) 
+ Kinds of seeing and their functions in designing
+, Design Studies, 13(2), pp. 135-156",,,,"Simon, Herbert A. (1969) 
+ The Science of the Artificial
+, M.I.T. Press, Cambridge",,,,"Simon, Herbert A. (1983) 
+ WHY SHOULD MACHINES LEARN?
+, Michalski, RS, Carbonell, JG and Mitchell, TM (eds), Machine Learning, Morgan Kaufmann, pp. 25-37",,,,"Suwa, M and Tversky, B (1997) 
+ What do architects and students perceive in their design sketches? A protocol analysis
+, Design Studies, 18(4), pp. 385-403",,,,"Suwa, M, Gero, J and Purcell, T (1999) 
+ Unexpected Discoveries: How Designers Discover Hidden Features In Sketches
+, UNIVERSITY OF SYDNEY, SYDNEY, pp. 145-162",,
+11,2020/09/09 09:54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

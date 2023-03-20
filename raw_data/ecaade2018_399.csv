@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2018_399,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Cutellic, Pierre",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,UCHRON - An Event-Based Generative Design Software Implementing Fast Discriminative Cognitive Responses from Visual ERP BCI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Kepczynska-Walczak, A, Bialkowski, S (eds.), Computing for a better tomorrow - Proceedings of the 36th eCAADe Conference - Volume 2, Lodz University of Technology, Lodz, Poland, 19-21 September 2018, pp. 131-138",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This research aims at investigating BCI technologies in the broad scope of CAAD applications exploiting early visual cognition in computational design. More precisely, this paper will describe the investigation of key BCI and ML components for the implementation and development of a software supporting this research : Uchron. It will be organised as follows. Firstly, it will introduce the pursued interest and contribution that visual-ERP EEG based BCI application for Generative Design may provide through a synthetic review of precedents and BCI technology. Secondly, selected BCI components will be described and a methodology will be presented to provide an appropriate framework for a CAAD software approach. This section main focus is on the processing component of the BCI. It distinguishes two key aspects of discrimination and generation in its design and proposes a new model based on GAN for modulated adversarial design. Emphasis will be made on the explicit use of inference loops integrating fast human cognitive responses and its individual capitalisation through time in order to reflect towards the generation of design and architectural features.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Human Computer Interaction; Neurodesign; Generative Design; Design Computing and Cognition; Machine Learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,cutellic@arch.ethz.ch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (335,943 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Barachant, A and Congedo, M (2014) 
+ A Plug&Play P300 BCI Using Information Geometry
+, arXiv:1409.0107 [cs, stat]
+
+
+
+
+
+
+
+Bin, G, Gao, X, Wang, Y, Hong, B and Gao, S (2009) 
+ VEP-based brain-computer interfaces: time, frequency, and code modulations [Research Frontier]
+, IEEE Computational Intelligence Magazine, 4(4), pp. 22-26
+
+
+
+
+
+
+
+Congedo, M, Barachant, A and Bhatia, R (2017) 
+ Riemannian geometry for EEG-based brain-computer interfaces; a primer and a review
+, Brain-Computer Interfaces, 4(3), pp. 155-174
+
+
+
+
+
+
+
+Cutellic, P and Lotte, F (2013) 
+ Augmented Iterations
+, Proceedings of the 31st ECAADe Conference (Vol. 1), pp. 393-401
+
+
+
+
+
+
+
+Cutellic, P (2014) 
+ Le Cube d'Apr?s, Integrated Cognition for Iterative and Generative Designs
+, Proceedings of the 34th Annual Conference of the Association for Computer-Aided Design in Architecture ACADIA, Los Angeles, pp. 473-78
+
+
+
+
+
+
+
+Debener, S, Minow, F, Emkes, R, Gandras, K and de Vos, M (2012) 
+ How about taking a low-cost, small, and wireless EEG for a walk?
+, Psychophysiology, 49(11), pp. 1617-1621
+
+
+
+
+
+
+
+Donchin, E (1981) 
+ Surprise!... Surprise?
+, Psychophysiology, 18(5), pp. 493-513
+
+
+
+
+
+
+
+Duvinage, M, Castermans, T, Petieau, M, Hoellinger, T, Cheron, G and Dutoit, T (2013) 
+ Performance of the Emotiv Epoc headset for P300-based applications
+, Biomedical Engineering Online, 12, p. 56
+
+
+
+
+
+
+
+Farwell, L and Donchin, E (1988) 
+ Talking off the top of your head: toward a mental prosthesis utilizing event-related brain potentials
+, Electroencephalography and Clinical Neurophysiology, 70(6), pp. 510-523
+
+
+
+
+
+
+
+Goodfellow, IJ, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative Adversarial Networks
+, arXiv:1406.2661 [cs, stat]
+
+
+
+
+
+
+
+Lotte, F, Bougrain, L, Cichocki, A, Clerc, M, Congedo, M, Rakotomamonjy, A and Yger, F (2018) 
+ A review of classification algorithms for EEG-based brain-computer interfaces: a 10 year update
+, Journal of Neural Engineering, 15(3), p. 031005
+
+
+
+
+
+
+
+Lotte, F, Congedo, M, Lécuyer, A, Lamarche, F and Arnaldi, B (2007) 
+ A review of classification algorithms for EEG-based brain-computer interfaces
+, Journal of Neural Engineering, 4(2), pp. R1-R13
+
+
+
+
+
+
+
+Lu, S, Guan, C and Zhang, H (2009) 
+ Unsupervised brain computer interface based on intersubject information and online adaptation
+, IEEE transactions on neural systems and rehabilitation engineering: a publication of the IEEE Engineering in Medicine and Biology Society, 17(2), pp. 135-145
+
+
+
+
+
+
+
+Luck, J (2012) 
+ The Oxford handbook of event-related potential components
+, Oxford University Press, New York
+
+
+
+
+
+
+
+Luck, J (2014) 
+ An introduction to the event-related potential technique
+, The MIT Press, Cambridge, Mass
+
+
+
+
+
+
+
+Muller, E, Bednar, JA, Diesmann, M, Gewaltig, MO, Hines, M and Davison, AP (2015) 
+ Python in neuroscience
+, Frontiers in Neuroinformatics, 9
+
+
+
+
+
+
+
+Pan, SJ and Yang, Q (2010) 
+ A Survey on Transfer Learning
+, IEEE Transactions on Knowledge and Data Engineering, 22(10), pp. 1345-1359
+
+
+
+
+
+
+
+Pfau, D and Vinyals, O (2016) 
+ Connecting Generative Adversarial Networks and Actor-Critic Methods
+, arXiv:1610.01945 [cs, stat]
+
+
+
+
+
+
+
+Polich, J (2007) 
+ Updating P300: An Integrative Theory of P3a and P3b
+, Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology, 118(10), pp. 2128-2148
+
+
+
+
+
+
+
+Rakotomamonjy, A, Guigue, V, Mallet, G and Alvarado, V (2005) 
+ Ensemble of SVMs for Improving Brain Computer Interface P300 Speller Performances
+, Artificial Neural Networks: Biological Inspirations - ICANN 2005, pp. 45-50",,"Barachant, A and Congedo, M (2014) 
+ A Plug&Play P300 BCI Using Information Geometry
+, arXiv:1409.0107 [cs, stat]",,,,"Bin, G, Gao, X, Wang, Y, Hong, B and Gao, S (2009) 
+ VEP-based brain-computer interfaces: time, frequency, and code modulations [Research Frontier]
+, IEEE Computational Intelligence Magazine, 4(4), pp. 22-26",,,,"Congedo, M, Barachant, A and Bhatia, R (2017) 
+ Riemannian geometry for EEG-based brain-computer interfaces; a primer and a review
+, Brain-Computer Interfaces, 4(3), pp. 155-174",,,,"Cutellic, P and Lotte, F (2013) 
+ Augmented Iterations
+, Proceedings of the 31st ECAADe Conference (Vol. 1), pp. 393-401",,,,"Cutellic, P (2014) 
+ Le Cube d'Apr?s, Integrated Cognition for Iterative and Generative Designs
+, Proceedings of the 34th Annual Conference of the Association for Computer-Aided Design in Architecture ACADIA, Los Angeles, pp. 473-78",,,,"Debener, S, Minow, F, Emkes, R, Gandras, K and de Vos, M (2012) 
+ How about taking a low-cost, small, and wireless EEG for a walk?
+, Psychophysiology, 49(11), pp. 1617-1621",,,,"Donchin, E (1981) 
+ Surprise!... Surprise?
+, Psychophysiology, 18(5), pp. 493-513",,,,"Duvinage, M, Castermans, T, Petieau, M, Hoellinger, T, Cheron, G and Dutoit, T (2013) 
+ Performance of the Emotiv Epoc headset for P300-based applications
+, Biomedical Engineering Online, 12, p. 56",,,,"Farwell, L and Donchin, E (1988) 
+ Talking off the top of your head: toward a mental prosthesis utilizing event-related brain potentials
+, Electroencephalography and Clinical Neurophysiology, 70(6), pp. 510-523",,,,"Goodfellow, IJ, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative Adversarial Networks
+, arXiv:1406.2661 [cs, stat]",,,,"Lotte, F, Bougrain, L, Cichocki, A, Clerc, M, Congedo, M, Rakotomamonjy, A and Yger, F (2018) 
+ A review of classification algorithms for EEG-based brain-computer interfaces: a 10 year update
+, Journal of Neural Engineering, 15(3), p. 031005",,,,"Lotte, F, Congedo, M, Lécuyer, A, Lamarche, F and Arnaldi, B (2007) 
+ A review of classification algorithms for EEG-based brain-computer interfaces
+, Journal of Neural Engineering, 4(2), pp. R1-R13",,,,"Lu, S, Guan, C and Zhang, H (2009) 
+ Unsupervised brain computer interface based on intersubject information and online adaptation
+, IEEE transactions on neural systems and rehabilitation engineering: a publication of the IEEE Engineering in Medicine and Biology Society, 17(2), pp. 135-145",,,,"Luck, J (2012) 
+ The Oxford handbook of event-related potential components
+, Oxford University Press, New York",,,,"Luck, J (2014) 
+ An introduction to the event-related potential technique
+, The MIT Press, Cambridge, Mass",,,,"Muller, E, Bednar, JA, Diesmann, M, Gewaltig, MO, Hines, M and Davison, AP (2015) 
+ Python in neuroscience
+, Frontiers in Neuroinformatics, 9",,,,"Pan, SJ and Yang, Q (2010) 
+ A Survey on Transfer Learning
+, IEEE Transactions on Knowledge and Data Engineering, 22(10), pp. 1345-1359",,,,"Pfau, D and Vinyals, O (2016) 
+ Connecting Generative Adversarial Networks and Actor-Critic Methods
+, arXiv:1610.01945 [cs, stat]",,,,"Polich, J (2007) 
+ Updating P300: An Integrative Theory of P3a and P3b
+, Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology, 118(10), pp. 2128-2148",,,,"Rakotomamonjy, A, Guigue, V, Mallet, G and Alvarado, V (2005) 
+ Ensemble of SVMs for Improving Brain Computer Interface P300 Speller Performances
+, Artificial Neural Networks: Biological Inspirations - ICANN 2005, pp. 45-50",,
+11,2018/08/22 13:38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

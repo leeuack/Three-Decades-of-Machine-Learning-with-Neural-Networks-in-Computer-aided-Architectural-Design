@@ -1,0 +1,113 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32
+0,ddss2004_ra-19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Akamine, A. and A. Nélson Rodrigues da Silva",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,An Evaluation of Neural Spatial Interaction Models  Based on a Practical Application,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Van Leeuwen, J.P. and H.J.P. Timmermans (eds.) Recent Advances in  Design & Decision Support Systems in Architecture and Urban Planning, Dordrecht: Kluwer Academic  Publishers, ISBN: 1-4020-2408-8, p. 19-32",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"One of the serious problems faced by the Brazilian municipalities is the  scarcity of resources for building education infrastructure. This asks for an  optimal allocation of the available resources that includes, among other things,  a rational spatial arrangement of the supply points (i.e., schools) in order to  increase the demand coverage (i.e., students). If it is possible to foresee the  regions where the demand is going to be concentrated, it is then possible to  plan the location of new facilities and to assess the impact on the future level  of service of the entire system. Considering that one of the consequences of  the location-allocation process is the distribution of trips from demand points  to supply points throughout the city, therefore affecting the overall intraurban  accessibility conditions to essential services such as education, there is a  strong need of models that planners can rely on to predict the future trip  distribution patterns. As a result, the objective of this work was to evaluate the  performance of Artificial Neural Networks (ANN) when applied to spatial  interaction models, the so-called Neural Spatial Interaction Models. This was  done in a practical context, in contrast to the more theoretical works  commonly found in literature. The practical application showed that the neural  spatial interaction model had different performances when compared to the  traditional gravity models. In one case the neural models outperformed the  gravity models, while on the other case it was just the opposite. The  explanation for this may be in the data or in the ANN model formulation, as  discussed in the conclusions.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Artificial Neural Networks, Spatial Interaction Models, Education  Infrastructure",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,DDSS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (238,228 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Almeida, L.M.W. and M.B. Gonçalves (2001) 
+ A methodology to incorporate behavioral  aspects in trip-distribution models with an application to estimate student flow
+, Environment and Planning A. 33, p.1125-1138
+
+
+
+
+
+
+
+Black, W. (1995) 
+ Spatial interection modeling using artificial neural networks
+, Journal of  Transport Geography, 3(3), p. 159-166
+
+
+
+
+
+
+
+Bocanegra, C.W.R. (2002) 
+ Alternative procedures to make more effective the application of  artificial neural networks in transportation planning
+, M.S. Thesis, University of São  Paulo, School of Engineering of São Carlos, São Carlos, SP, Brazil
+
+
+
+
+
+
+
+Fischer, M.M. and M. Reismann (2002) 
+ A Methodology for Neural Spatial Interaction  Modeling
+, Geographical Analysis, 34(3), p. 207-228
+
+
+
+
+
+
+
+Fischer, M.M., M. Reismann, and K. Hlavácková-Schindler (1999) 
+ Parameter estimation in  neural spatial interaction modelling by a derivative free global optimization method
+, International Conference on GeoComputation, 4, Fredericksburg, Virginia, USA
+
+
+
+
+
+
+
+Lima, R.S., A.N.R. Silva, and J.F.G. Mendes (2003) 
+ A SDSS for integrated management of  health and education facilities at the local level: challenges and opportunities in a  developing country
+, International Conference on Computers in Urban Planning and  Urban Management, 8, Sendai, Japan, Proceedings... (CD-ROM). Sendai, Center for  Northeast Asian Studies, Tohoku University
+
+
+
+
+
+
+
+Openshaw, S. (1993) 
+ Modeling spatial interaction using a neural net
+, Fisher and Nijkamp  (eds.), Geographic Information Systems, spatial modeling and policy evaluation, SpringerVerlag, Berlin, p. 147-164
+
+
+
+
+
+
+
+Wolstenholme, S. (2002) 
+ Neural Network Software for Windows
+, EasyNN-plus",,"Almeida, L.M.W. and M.B. Gonçalves (2001) 
+ A methodology to incorporate behavioral  aspects in trip-distribution models with an application to estimate student flow
+, Environment and Planning A. 33, p.1125-1138",,,,"Black, W. (1995) 
+ Spatial interection modeling using artificial neural networks
+, Journal of  Transport Geography, 3(3), p. 159-166",,,,"Bocanegra, C.W.R. (2002) 
+ Alternative procedures to make more effective the application of  artificial neural networks in transportation planning
+, M.S. Thesis, University of São  Paulo, School of Engineering of São Carlos, São Carlos, SP, Brazil",,,,"Fischer, M.M. and M. Reismann (2002) 
+ A Methodology for Neural Spatial Interaction  Modeling
+, Geographical Analysis, 34(3), p. 207-228",,,,"Fischer, M.M., M. Reismann, and K. Hlavácková-Schindler (1999) 
+ Parameter estimation in  neural spatial interaction modelling by a derivative free global optimization method
+, International Conference on GeoComputation, 4, Fredericksburg, Virginia, USA",,,,"Lima, R.S., A.N.R. Silva, and J.F.G. Mendes (2003) 
+ A SDSS for integrated management of  health and education facilities at the local level: challenges and opportunities in a  developing country
+, International Conference on Computers in Urban Planning and  Urban Management, 8, Sendai, Japan, Proceedings... (CD-ROM). Sendai, Center for  Northeast Asian Studies, Tohoku University",,,,"Openshaw, S. (1993) 
+ Modeling spatial interaction using a neural net
+, Fisher and Nijkamp  (eds.), Geographic Information Systems, spatial modeling and policy evaluation, SpringerVerlag, Berlin, p. 147-164",,,,"Wolstenholme, S. (2002) 
+ Neural Network Software for Windows
+, EasyNN-plus",,
+10,2004/07/03 20:13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,197 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60
+0,ddss2004_d-63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Wen, K.-C. and W.-L. Chen",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Applying Genetic Algorithms to Establish Disaster Decision Support  System for Flooding Evacuation Path of Hsichih Area in Taiwan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Van Leeuwen, J.P. and H.J.P.  Timmermans (eds.) Developments in Design & Decision Support Systems in Architecture and Urban  Planning, Eindhoven: Eindhoven University of Technology, ISBN 90-6814-155-4, p. 63-75",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Because of the special geography features and subtropics weather in Taiwan,  we need to provide correct information to help people making decision when  they are in disaster. So the disaster decision support system must offer proper  information of evacuation path to people. This research has shown the  difficulties associated with the GIS and the flooding evacuation path search  through the huge searching space generated during the network analysis  process. This research also presents an approach to these problems by utilizing  a search process whose concept is derived from natural genetics. Genetic  algorithms (GAs) have been introduced in the optimization problem solving  area by Holland (1975) and Goldberg (1989) and have shown their usefulness  through numerous applications. We apply GA and GIS to choice flooding  evacuation path in metropolitan area in this study. We take the region of Shiji  city in Taiwan for case. Firstly, we establish the node relationship of GA  calculation, the level of the weight is the standard of the date that is exported  by Disaster Database. Secondly, we apply GA to calculate different  evacuation path in different time series. Finally, we build the model of  choosing flooding evacuation path.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Genetic Algorithms, Decision Support System, GIS, Evacuation Path",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,DDSS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (1,858,713 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Anderson, M.D. and R.R. Souleyrette (1996) 
+ Geographic Information System-Based  Transportation Forecast Model for Small Urbanized Area
+, Transportation Research  Records, n1551, pp.95-104
+
+
+
+
+
+
+
+Blanco, A., M. Delgado, and M.C. Pegalajar (2000) 
+ A Genetic Algorithm to Obtain the  Optimal Recurrent Neural Network
+, International Journal of Approximate Reasoning,  pp.67-83
+
+
+
+
+
+
+
+Breaden, J.P. (1973) 
+ The Generation of Flood Damage Time Sequences
+, University of  Kentucky Water Resources Institute Paper, NO.32
+
+
+
+
+
+
+
+Bullock, G.N. (1995) 
+ Developments in the use of the genetic algorithm in engineering  design
+, Design Studies, 16(pp.507-524)
+
+
+
+
+
+
+
+Chan, K.C. and H. Tansri (1994) 
+ A Study of Genetic Crossover Operations on the Facilities  Layout Problem
+, Computers Ind. Engr. 26(3): 537-550
+
+
+
+
+
+
+
+Djokie, D. and D.R. Maidment (1996) 
+ Application of GIS Network Rountines for Water  Flow and Transport
+, Journal of Water Resources Planning and Management, ASCE,  119(2): 229-241
+
+
+
+
+
+
+
+Gen, M. and L. Miller (1997) 
+ Foundation of Genetic Algorithms
+, Genetic Algorithms  Engineering Design, pp.1-41
+
+
+
+
+
+
+
+Gero, J.S. and L. Ding (1997) 
+ Exploring Style Emergence in Architectural Designs
+, CAADRIA 97; Proceedings of The Second Conference on Computer Aided Architectural  Design Research in Asia. eds. Y-T Liu, J-Y Tsou, and J-H Hou. (pp.287-296)
+
+
+
+
+
+
+
+Goldberg, D.E. (1989) 
+ Genetic Algorithm in Search
+, Optimization and Machine Learning,  Addison Wesley, New York
+
+
+
+
+
+
+
+Jo, Jun H. and J.S. Gero (1995) 
+ A Genetic Search Approach to Space Layout Planning
+, Architectural Science Review, Vol 38 (pp.37-46)
+
+
+
+
+
+
+
+Li, Wei-Yi. (1997) 
+ The layout of Taipei City planning disaster prevention system
+, R.O.C.  city planning academic association
+
+
+
+
+
+
+
+Tanaboriboon, Y. and J. Guyano (1989) 
+ Level of Services Standards for Pedestrian Facilities  in Bangkok: A Case Study
+, ITE Journal, pp. 39-41
+
+
+
+
+
+
+
+Wen, Kuo-Chung (2001) 
+ A Study of Rules Producing in Layout Design: A Genetic  Algorithm Approach
+, Proceedings of 13th International Conference on Systems  Research, Informatics and Cybernetics Special Focus Symposium on VIRTUAL REALITY  & HI-TECH IN ARCHITECTURE (InterSymp2001), 30 July - 5 August 2001, Baden  Baden, Germany
+
+
+
+
+
+
+
+Woodbury, R.F. (1993) 
+ A Genetic Approach to Creative Design
+, Modeling Creativity  and Knowledge-Based Creative Design, edits J.S. Gero and M.L. Maher ( pp.211-232)
+
+
+
+
+
+
+
+Zhang, Zhe-Hao. (2000) 
+ Application of GIS to discusses flooding decentralization path in  Shiji City
+, The China geography information masters",,"Anderson, M.D. and R.R. Souleyrette (1996) 
+ Geographic Information System-Based  Transportation Forecast Model for Small Urbanized Area
+, Transportation Research  Records, n1551, pp.95-104",,,,"Blanco, A., M. Delgado, and M.C. Pegalajar (2000) 
+ A Genetic Algorithm to Obtain the  Optimal Recurrent Neural Network
+, International Journal of Approximate Reasoning,  pp.67-83",,,,"Breaden, J.P. (1973) 
+ The Generation of Flood Damage Time Sequences
+, University of  Kentucky Water Resources Institute Paper, NO.32",,,,"Bullock, G.N. (1995) 
+ Developments in the use of the genetic algorithm in engineering  design
+, Design Studies, 16(pp.507-524)",,,,"Chan, K.C. and H. Tansri (1994) 
+ A Study of Genetic Crossover Operations on the Facilities  Layout Problem
+, Computers Ind. Engr. 26(3): 537-550",,,,"Djokie, D. and D.R. Maidment (1996) 
+ Application of GIS Network Rountines for Water  Flow and Transport
+, Journal of Water Resources Planning and Management, ASCE,  119(2): 229-241",,,,"Gen, M. and L. Miller (1997) 
+ Foundation of Genetic Algorithms
+, Genetic Algorithms  Engineering Design, pp.1-41",,,,"Gero, J.S. and L. Ding (1997) 
+ Exploring Style Emergence in Architectural Designs
+, CAADRIA 97; Proceedings of The Second Conference on Computer Aided Architectural  Design Research in Asia. eds. Y-T Liu, J-Y Tsou, and J-H Hou. (pp.287-296)",,,,"Goldberg, D.E. (1989) 
+ Genetic Algorithm in Search
+, Optimization and Machine Learning,  Addison Wesley, New York",,,,"Jo, Jun H. and J.S. Gero (1995) 
+ A Genetic Search Approach to Space Layout Planning
+, Architectural Science Review, Vol 38 (pp.37-46)",,,,"Li, Wei-Yi. (1997) 
+ The layout of Taipei City planning disaster prevention system
+, R.O.C.  city planning academic association",,,,"Tanaboriboon, Y. and J. Guyano (1989) 
+ Level of Services Standards for Pedestrian Facilities  in Bangkok: A Case Study
+, ITE Journal, pp. 39-41",,,,"Wen, Kuo-Chung (2001) 
+ A Study of Rules Producing in Layout Design: A Genetic  Algorithm Approach
+, Proceedings of 13th International Conference on Systems  Research, Informatics and Cybernetics Special Focus Symposium on VIRTUAL REALITY  & HI-TECH IN ARCHITECTURE (InterSymp2001), 30 July - 5 August 2001, Baden  Baden, Germany",,,,"Woodbury, R.F. (1993) 
+ A Genetic Approach to Creative Design
+, Modeling Creativity  and Knowledge-Based Creative Design, edits J.S. Gero and M.L. Maher ( pp.211-232)",,,,"Zhang, Zhe-Hao. (2000) 
+ Application of GIS to discusses flooding decentralization path in  Shiji City
+, The China geography information masters",,
+10,2004/07/03 20:13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

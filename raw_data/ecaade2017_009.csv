@@ -1,0 +1,174 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52
+0,ecaade2017_009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Takizawa, Atsushi and Furuta, Airi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,3D Spatial Analysis Method with First-Person Viewpoint by Deep Convolutional Neural Network with Omnidirectional RGB and Depth Images,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Fioravanti, A, Cursi, S, Elahmar, S, Gargaro, S, Loffreda, G, Novembri, G, Trento, A (eds.), ShoCK! - Sharing Computational Knowledge! - Proceedings of the 35th eCAADe Conference - Volume 2, Sapienza University of Rome, Rome, Italy, 20-22 September 2017, pp. 693-702",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The fields of architecture and urban planning widely apply spatial analysis based on images. However, many features can influence the spatial conditions, not all of which can be explicitly defined. In this research, we propose a new deep learning framework for extracting spatial features without explicitly specifying them and use these features for spatial analysis and prediction. As a first step, we establish a deep convolution neural network (DCNN) learning problem with omnidirectional images that include depth images as well as ordinary RGB images. We then use these images as explanatory variables in a game engine to predict a subjects' preference regarding a virtual urban space. DCNNs learn the relationship between the evaluation result and the omnidirectional camera images and we confirm the prediction accuracy of the verification data.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Space evaluation; deep convolutional neural network; omnidirectional image; depth image; Unity; virtual reality,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,takizawa@arch.eng.osaka-cu.ac.jp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (16,176,346 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Abe, H, et al. (2016) 
+ Possibility of applying deep learning to the evaluation of street scape
+, Proceeding of the annual symposium of Japan Society of Graphic Science, pp. 85-90
+
+
+
+
+
+
+
+Batty, M (2001) 
+ Exploring isovist fields: space and shape in architectural and urban morphology
+, Environment and Planning B: Planning and Design, 28(1), pp. 123-150
+
+
+
+
+
+
+
+Benedikt, M (1979) 
+ To take hold of space: isovists and isovist fields
+, Environment and Planning B, 6, pp. 47-65
+
+
+
+
+
+
+
+Derix, C, et al. (2008) 
+ 3d isovists and spatial sensations, two methods and a case study, Evaluating Design Rationale and User Cognition
+, Evaluating Design Rationale and User Cognition, pp. 67-72
+
+
+
+
+
+
+
+Krizhevsky, A, et al. (2012) 
+ ImageNet classification with deep convolutional neural networks
+, Advances in Neural Information Processing Systems 25, pp. 1097-1105
+
+
+
+
+
+
+
+Morello, E and Ratti, C (2009) 
+ A digital image of the city: 3D isovists in Lynch's urban analysis
+, Environment and Planning B: Planning and Design, 36(5), pp. 837-853
+
+
+
+
+
+
+
+Szegedy, C, et al. (2015) 
+ Going deeper with convolutions
+, 2015 IEEE Conference on Computer Vision and Pattern Recognition, pp. 1-9
+
+
+
+
+
+
+
+Takeshi, F, et al. (2013) 
+ Measurement of the ratio of visible green spaces in the omnidirectional field of vision using cg models and their potential applications
+, AIJ Journal of Technology and Design, 19(43), pp. 1067-1072
+
+
+
+
+
+
+
+Takizawa, A (2013) 
+ Emerging Pattern Based Street Crime Analysis: Street Level Spatial Analysis of Crime Location Associated with Built Environment in Fushimi Ward, Kyoto City
+, Journal of Architecture and Planning (Transactions of AIJ), 78(686), pp. 957-967
+
+
+
+
+
+
+
+Varoudis, T and Psarra, S (2014) 
+ Beyond two dimensions: Architecture through three-dimensional visibility graph analysis
+, The Journal of Space Syntax, 5(1), pp. 91-108
+
+
+
+
+
+
+
+Westoby, MJ, et al. (2012) 
+ Structure-from-Motion' photogrammetry: A low-cost, effective tool for geoscience applications
+, Geomorphology, 179, pp. 300-314
+
+
+
+
+
+
+
+Yabuki, K, et al. (2015) 
+ Basic study on the method of landscape evaluation with deep learning
+, Proceeding of the annual symposium of Japan Society of Graphic Science, pp. 23-28
+
+
+
+
+
+
+
+Yakui, D et al. (2016) 
+ Automatic measurement system of visible greenery ratio using augmented reality
+, Proceedings of the 21th International Conference on Computer-Aided Architectural Design Research in Asia, pp. 703-712",,"Abe, H, et al. (2016) 
+ Possibility of applying deep learning to the evaluation of street scape
+, Proceeding of the annual symposium of Japan Society of Graphic Science, pp. 85-90",,,,"Batty, M (2001) 
+ Exploring isovist fields: space and shape in architectural and urban morphology
+, Environment and Planning B: Planning and Design, 28(1), pp. 123-150",,,,"Benedikt, M (1979) 
+ To take hold of space: isovists and isovist fields
+, Environment and Planning B, 6, pp. 47-65",,,,"Derix, C, et al. (2008) 
+ 3d isovists and spatial sensations, two methods and a case study, Evaluating Design Rationale and User Cognition
+, Evaluating Design Rationale and User Cognition, pp. 67-72",,,,"Krizhevsky, A, et al. (2012) 
+ ImageNet classification with deep convolutional neural networks
+, Advances in Neural Information Processing Systems 25, pp. 1097-1105",,,,"Morello, E and Ratti, C (2009) 
+ A digital image of the city: 3D isovists in Lynch's urban analysis
+, Environment and Planning B: Planning and Design, 36(5), pp. 837-853",,,,"Szegedy, C, et al. (2015) 
+ Going deeper with convolutions
+, 2015 IEEE Conference on Computer Vision and Pattern Recognition, pp. 1-9",,,,"Takeshi, F, et al. (2013) 
+ Measurement of the ratio of visible green spaces in the omnidirectional field of vision using cg models and their potential applications
+, AIJ Journal of Technology and Design, 19(43), pp. 1067-1072",,,,"Takizawa, A (2013) 
+ Emerging Pattern Based Street Crime Analysis: Street Level Spatial Analysis of Crime Location Associated with Built Environment in Fushimi Ward, Kyoto City
+, Journal of Architecture and Planning (Transactions of AIJ), 78(686), pp. 957-967",,,,"Varoudis, T and Psarra, S (2014) 
+ Beyond two dimensions: Architecture through three-dimensional visibility graph analysis
+, The Journal of Space Syntax, 5(1), pp. 91-108",,,,"Westoby, MJ, et al. (2012) 
+ Structure-from-Motion' photogrammetry: A low-cost, effective tool for geoscience applications
+, Geomorphology, 179, pp. 300-314",,,,"Yabuki, K, et al. (2015) 
+ Basic study on the method of landscape evaluation with deep learning
+, Proceeding of the annual symposium of Japan Society of Graphic Science, pp. 23-28",,,,"Yakui, D et al. (2016) 
+ Automatic measurement system of visible greenery ratio using augmented reality
+, Proceedings of the 21th International Conference on Computer-Aided Architectural Design Research in Asia, pp. 703-712",,
+11,2017/09/13 13:31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

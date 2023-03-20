@@ -1,0 +1,259 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,cf2019_020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Belém, Catarina; Luís Santos and António Leitão",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,On the Impact of Machine Learning: Architecture without Architects?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Ji-Hyun Lee (Eds.) ""Hello, Culture!""  [18th International Conference, CAAD Futures 2019, Proceedings / ISBN 978-89-89453-05-5] Daejeon, Korea, pp. 148-167",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Architecture has always followed and adopted technological breakthroughs of other areas. As a case in point, in the last decades, the field of computation changed the face of architectural practice. Considering the recent breakthroughs of Machine Learning (ML), it is expectable to see architecture adopting ML-based approaches. However, it is not yet clear how much this adoption will change the architectural practice and in order to forecast this change it is necessary to understand the foundations of ML and its impact in other fields of human activity. This paper discusses important ML techniques and areas where they were successfully applied. Based on those examples, this paper forecast hypothetical uses of ML in the realm of building design. In particular, we examine ML approaches in conceptualization, algorithmization, modeling, and optimization tasks. In the end, we conjecture potential applications of such approaches, suggest future lines of research, and speculate on the future face of the architectural profession.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Machine Learning, Algorithmic Design, AI for Building Design",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,normal paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,luis_sds82@berkeley.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (1,430,128 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Behera, R. N., & Das, K. (2017) 
+ A Survey on Machine Learning: Concept, Algorithm and Applications
+, International Journal of Innovative Research in Computer and Communication Engineering, 5(2)
+
+
+
+
+
+
+
+Bishop, C. M. (1995) 
+ Bayesian methods for neural networks
+, Machine Learning, 7(1), 111
+
+
+
+
+
+
+
+Bishop, C. M. (2006) 
+ Pattern Recognition and Machine Learning (Information Science and Statistics)
+, Springer-Verlag New York, Inc.
+
+
+
+
+
+
+
+Bolton, R. J., & Hand, D. J. (2015) 
+ Statistical Fraud Detection: A review
+, Statistical Science, 17(3), 235255
+
+
+
+
+
+
+
+Brown, G., Wyatt, J.L., Tiòo, P. (2005) 
+ Managing diversity in regression ensembles
+, The Journal of Machine Learning Research 6, 16211650
+
+
+
+
+
+
+
+Castelo-Branco, R., & Leit?o, A. M. (2017) 
+ Integrated Algorithmic Design: A single-script approach for multiple design tasks
+, Proceedings of the 35th ECAADe, 1, 729738
+
+
+
+
+
+
+
+Christakopoulou, K., Radlinski, F., & Hofmann, K. (2016) 
+ Towards Conversational Recommender Systems
+, Proceedings of the 22nd ACM International Conference on Knowledge Discovery and Data Mining, 16(3), 815824
+
+
+
+
+
+
+
+Cichocka, J. M., Browne, W. N., and Rodriguez, E. (2017) 
+ Optimization in the Architectural Practice
+, Proceedings of the 22nd International Conference of the Association for Computer-Aided Architectural Design Research in Asia, 387-397
+
+
+
+
+
+
+
+Claus L. Cramer-Petersen, Bo T. Christensen, Saeema Ahmed-Kristensen (2019) 
+ Empirically analysing design reasoning patterns: Abductive-deductive reasoning patterns dominate design idea generation
+, Design Studies, 60, 39-70
+
+
+
+
+
+
+
+Das, S. (2018) 
+ Interactive Artificial Life Based Systems, Augmenting Design Generation and Evaluation by Embedding Expert A Human Machine dialogue for form finding
+, Proceedings of the 36th ECAADe
+
+
+
+
+
+
+
+Duarte, J. P. (2001) 
+ Customizing mass housing: a discursive grammar for Sizas Malagueira houses
+, Architecture, 14(2)
+
+
+
+
+
+
+
+Díaz-Manríquez, A., Toscano, G., Barron-Zambrano, J., & Tello-Leal, E. (2016) 
+ A review of surrogate-assisted multiobjective evolutionary algorithms
+, Computational Intelligence and Neuroscience
+
+
+
+
+
+
+
+Feng, Y., Martins, R., Van Geffen, J., Dillig, I., & Chaudhuri, S. (2017) 
+ Component-Based Synthesis of Table Consolidation and Transformation Tasks from Examples
+, Programming Language Design and Implementation, 422436
+
+
+
+
+
+
+
+Ferrucci, D. (2012) 
+ Introduction to ""This is Watson""
+, IBM Journal of Research and Development 56(3.4)
+
+
+
+
+
+
+
+Fowler, M. (2010) 
+ Domain-Specific Languages
+, Addison-Wesley Professional
+
+
+
+
+
+
+
+Freitag, D. (2000) 
+ Machine Learning for Information Extraction in Informal Domains
+, Machine Learning, 39, 169-202
+
+
+
+
+
+
+
+Gagne, J. M. L., Andersen, M., & Norford, L. K. (2011) 
+ An interactive expert system for daylighting design exploration
+, Building and Environment, 46(11), 23512364
+
+
+
+
+
+
+
+Goodfellow, I. J., Pouget-abadie, J., Mirza, M., Xu, B., & Warde-farley, D. (2014) 
+ Generative Adversarial Nets
+, Proceedings of the 27th International Conference on Neural Information Processing Systems
+
+
+
+
+
+
+
+Gulwani, S., Korthikanti, V., & Tiwari, A. (2011) 
+ Synthesizing geometry constructions
+, ACM SIGPLAN Notices, 46(6)
+
+
+
+
+
+
+
+Hastie, T., Tibshirani, R., & Friedman, J. (2009) 
+ The Elements of Statistical Learning: Data Mining, Inference, and Prediction
+, York, Springer-Verlag New",,"Behera, R. N., & Das, K. (2017) 
+ A Survey on Machine Learning: Concept, Algorithm and Applications
+, International Journal of Innovative Research in Computer and Communication Engineering, 5(2)",,,,"Bishop, C. M. (1995) 
+ Bayesian methods for neural networks
+, Machine Learning, 7(1), 111",,,,"Bishop, C. M. (2006) 
+ Pattern Recognition and Machine Learning (Information Science and Statistics)
+, Springer-Verlag New York, Inc.",,,,"Bolton, R. J., & Hand, D. J. (2015) 
+ Statistical Fraud Detection: A review
+, Statistical Science, 17(3), 235255",,,,"Brown, G., Wyatt, J.L., Tiòo, P. (2005) 
+ Managing diversity in regression ensembles
+, The Journal of Machine Learning Research 6, 16211650",,,,"Castelo-Branco, R., & Leit?o, A. M. (2017) 
+ Integrated Algorithmic Design: A single-script approach for multiple design tasks
+, Proceedings of the 35th ECAADe, 1, 729738",,,,"Christakopoulou, K., Radlinski, F., & Hofmann, K. (2016) 
+ Towards Conversational Recommender Systems
+, Proceedings of the 22nd ACM International Conference on Knowledge Discovery and Data Mining, 16(3), 815824",,,,"Cichocka, J. M., Browne, W. N., and Rodriguez, E. (2017) 
+ Optimization in the Architectural Practice
+, Proceedings of the 22nd International Conference of the Association for Computer-Aided Architectural Design Research in Asia, 387-397",,,,"Claus L. Cramer-Petersen, Bo T. Christensen, Saeema Ahmed-Kristensen (2019) 
+ Empirically analysing design reasoning patterns: Abductive-deductive reasoning patterns dominate design idea generation
+, Design Studies, 60, 39-70",,,,"Das, S. (2018) 
+ Interactive Artificial Life Based Systems, Augmenting Design Generation and Evaluation by Embedding Expert A Human Machine dialogue for form finding
+, Proceedings of the 36th ECAADe",,,,"Duarte, J. P. (2001) 
+ Customizing mass housing: a discursive grammar for Sizas Malagueira houses
+, Architecture, 14(2)",,,,"Díaz-Manríquez, A., Toscano, G., Barron-Zambrano, J., & Tello-Leal, E. (2016) 
+ A review of surrogate-assisted multiobjective evolutionary algorithms
+, Computational Intelligence and Neuroscience",,,,"Feng, Y., Martins, R., Van Geffen, J., Dillig, I., & Chaudhuri, S. (2017) 
+ Component-Based Synthesis of Table Consolidation and Transformation Tasks from Examples
+, Programming Language Design and Implementation, 422436",,,,"Ferrucci, D. (2012) 
+ Introduction to ""This is Watson""
+, IBM Journal of Research and Development 56(3.4)",,,,"Fowler, M. (2010) 
+ Domain-Specific Languages
+, Addison-Wesley Professional",,,,"Freitag, D. (2000) 
+ Machine Learning for Information Extraction in Informal Domains
+, Machine Learning, 39, 169-202",,,,"Gagne, J. M. L., Andersen, M., & Norford, L. K. (2011) 
+ An interactive expert system for daylighting design exploration
+, Building and Environment, 46(11), 23512364",,,,"Goodfellow, I. J., Pouget-abadie, J., Mirza, M., Xu, B., & Warde-farley, D. (2014) 
+ Generative Adversarial Nets
+, Proceedings of the 27th International Conference on Neural Information Processing Systems",,,,"Gulwani, S., Korthikanti, V., & Tiwari, A. (2011) 
+ Synthesizing geometry constructions
+, ACM SIGPLAN Notices, 46(6)",,,,"Hastie, T., Tibshirani, R., & Friedman, J. (2009) 
+ The Elements of Statistical Learning: Data Mining, Inference, and Prediction
+, York, Springer-Verlag New",,
+12,2019/07/29 12:54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

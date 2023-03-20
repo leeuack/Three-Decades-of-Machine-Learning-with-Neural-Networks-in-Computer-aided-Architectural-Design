@@ -1,0 +1,174 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52
+0,ecaade2017_041,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Fukuda, Tomohiro, Kuwamuro, Yasuyuki and Yabuki, Nobuyoshi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Optical Integrity of Diminished Reality Using Deep Learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Fioravanti, A, Cursi, S, Elahmar, S, Gargaro, S, Loffreda, G, Novembri, G, Trento, A (eds.), ShoCK! - Sharing Computational Knowledge! - Proceedings of the 35th eCAADe Conference - Volume 1, Sapienza University of Rome, Rome, Italy, 20-22 September 2017, pp. 241-250",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"A new method is proposed to improve diminished reality (DR) simulations to allow the demolition and removal of entire buildings in large-scale spaces. Our research goal was to obtain optical integrity by using a scientific and reliable simulation approach. Further, we tackled presumption of the texture of the background sky by applying deep learning. Our approach extracted the background sky using information from the actual sky obtained from a photographed image. This method comprised two steps: (1) detection of the sky area from the image through image segmentation and (2) creation of an image of the sky through image inpainting. The deep convolutional neural networks developed by us to train and predict images were evaluated to be feasible and effective.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Diminished Reality; Optical Integrity; Deep Learning; Augmented Reality; Landscape assessment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,fukuda@see.eng.osaka-u.ac.jp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (16,224,315 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Badrinarayanan, V, Kendall, A and Cipolla, R (2017) 
+ SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
+, IEEE Transactions on Pattern Analysis and Machine Intelligence, PP(99), pp. 1-14
+
+
+
+
+
+
+
+Fujita, R (2006) 
+ A roadscape analysis system of vehicle mounted camera-image
+, Consumer Electronics, 2006. ICCE '06. 2006 Digest of Technical Papers. International Conference on, Las Vegas, pp. 425-426
+
+
+
+
+
+
+
+Fukuda, T, Zhang, T and Yabuki, N (2012) 
+ Availability of Mobile Augmented Reality System for Urban Landscape Simulation
+, 9th International Conference, CDVE 2012 (Cooperative Design, Visualization, and Engineering), Osaka, pp. 231-238
+
+
+
+
+
+
+
+He, K, Zhang, X, Ren, S and Sun, J (2015) 
+ Delving deep into rectifiers: Surpassing human-level performance on imagenet classification
+, Proceedings of the IEEE international conference on computer vision, pp. 1026-1034
+
+
+
+
+
+
+
+Inoue, K, Fukuda, T, Yabuki, N, Motamedi, A and Michikawa, T (2016) 
+ Post-Demolition landscape Assessment Using Photogrammetry-Based Diminished Reality
+, Proceedings of the 16th International Conference on Construction Applications of Virtual Reality, Hong Kong, pp. 689-699
+
+
+
+
+
+
+
+Ioffe, S and Szegedy, C (2015) 
+ Batch normalization: Accelerating deep network training by reducing internal covariate shift
+, Proceedings of the 32nd International Conference on Machine Learning, Lille
+
+
+
+
+
+
+
+Kingma, D and Ba, J (2015) 
+ Adam: A Method for Stochastic Optimization
+, 3rd International Conference for Learning Representations, San Diego
+
+
+
+
+
+
+
+Long, J, Shelhamer, E and Darrell, T (2015) 
+ Fully Convolutional Networks for Semantic Segmentation
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3431-3440
+
+
+
+
+
+
+
+Schubert, G, Schattel, D, Tonnis, M, Klinker, G and Petzold, F (2015) 
+ Tangible Mixed Reality On-Site: Interactive Augmented Visualisations from Architectural Working Models in Urban Design
+, Celani, G, Sperling, DM and Franco, JMS (eds), Computer-Aided Architectural Design Futures. The Next City - New Technologies and the Future of the Built Environment (CAAD Futures 2015), Springer, S?o Paulo, pp. 55-74
+
+
+
+
+
+
+
+Simonyan, K and Zisserman, A (2014) 
+ Very deep convolutional networks for large-scale image recognition
+, ILSVRC Workshop
+
+
+
+
+
+
+
+Telea, A (2004) 
+ An image inpainting technique based on the fast marching method
+, Journal of graphics tools, 9 (1), pp. 25-36
+
+
+
+
+
+
+
+Yabuki, N, Tanemura, T, Fukuda, T and Michikawa, T (2014) 
+ Diminished Reality for AR Simulation of Demolition and Removal of Urban Objects
+, Journal of Japan Society of Civil Engineers, Ser. F3 (Civil Engineering Informatics), 70 (2), pp. I_16-I_25
+
+
+
+
+
+
+
+Zhang, C, Wang, L and Yang, R (2010) 
+ Semantic segmentation of urban scenes using dense depth maps
+, Proceedings of the 11th European conference on Computer vision: part IV, pp. 708-721",,"Badrinarayanan, V, Kendall, A and Cipolla, R (2017) 
+ SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
+, IEEE Transactions on Pattern Analysis and Machine Intelligence, PP(99), pp. 1-14",,,,"Fujita, R (2006) 
+ A roadscape analysis system of vehicle mounted camera-image
+, Consumer Electronics, 2006. ICCE '06. 2006 Digest of Technical Papers. International Conference on, Las Vegas, pp. 425-426",,,,"Fukuda, T, Zhang, T and Yabuki, N (2012) 
+ Availability of Mobile Augmented Reality System for Urban Landscape Simulation
+, 9th International Conference, CDVE 2012 (Cooperative Design, Visualization, and Engineering), Osaka, pp. 231-238",,,,"He, K, Zhang, X, Ren, S and Sun, J (2015) 
+ Delving deep into rectifiers: Surpassing human-level performance on imagenet classification
+, Proceedings of the IEEE international conference on computer vision, pp. 1026-1034",,,,"Inoue, K, Fukuda, T, Yabuki, N, Motamedi, A and Michikawa, T (2016) 
+ Post-Demolition landscape Assessment Using Photogrammetry-Based Diminished Reality
+, Proceedings of the 16th International Conference on Construction Applications of Virtual Reality, Hong Kong, pp. 689-699",,,,"Ioffe, S and Szegedy, C (2015) 
+ Batch normalization: Accelerating deep network training by reducing internal covariate shift
+, Proceedings of the 32nd International Conference on Machine Learning, Lille",,,,"Kingma, D and Ba, J (2015) 
+ Adam: A Method for Stochastic Optimization
+, 3rd International Conference for Learning Representations, San Diego",,,,"Long, J, Shelhamer, E and Darrell, T (2015) 
+ Fully Convolutional Networks for Semantic Segmentation
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3431-3440",,,,"Schubert, G, Schattel, D, Tonnis, M, Klinker, G and Petzold, F (2015) 
+ Tangible Mixed Reality On-Site: Interactive Augmented Visualisations from Architectural Working Models in Urban Design
+, Celani, G, Sperling, DM and Franco, JMS (eds), Computer-Aided Architectural Design Futures. The Next City - New Technologies and the Future of the Built Environment (CAAD Futures 2015), Springer, S?o Paulo, pp. 55-74",,,,"Simonyan, K and Zisserman, A (2014) 
+ Very deep convolutional networks for large-scale image recognition
+, ILSVRC Workshop",,,,"Telea, A (2004) 
+ An image inpainting technique based on the fast marching method
+, Journal of graphics tools, 9 (1), pp. 25-36",,,,"Yabuki, N, Tanemura, T, Fukuda, T and Michikawa, T (2014) 
+ Diminished Reality for AR Simulation of Demolition and Removal of Urban Objects
+, Journal of Japan Society of Civil Engineers, Ser. F3 (Civil Engineering Informatics), 70 (2), pp. I_16-I_25",,,,"Zhang, C, Wang, L and Yang, R (2010) 
+ Semantic segmentation of urban scenes using dense depth maps
+, Proceedings of the 11th European conference on Computer vision: part IV, pp. 708-721",,
+11,2017/09/13 13:21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

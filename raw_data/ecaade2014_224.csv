@@ -1,0 +1,259 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2014_224,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Mohammad Rahmani Asl, Michael Bergin, Adam Menter and Wei Yan",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,BIM-based Parametric Building Energy Performance Multi-Objective Optimization,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Thompson, Emine Mine (ed.), Fusion - Proceedings of the 32nd eCAADe Conference - Volume 2, Department of Architecture and Built Environment, Faculty of Engineering and Environment, Newcastle upon Tyne, England, UK, 10-12 September 2014, pp. 455-464",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,WOS:000361385100048,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Building energy performance assessments are complex multi-criteria problems. Appropriate tools that can help designers explore design alternatives and assess the energy performance for choosing the most appropriate alternative are in high demand. In this paper, we present a newly developed integrated parametric Building Information Modeling (BIM)-based system to interact with cloud-based whole building energy performance simulation and daylighting tools to optimize building energy performance using a Multi-Objective Optimization (MOO) algorithm. This system enables designers to explore design alternatives using a visual programming interface, while assessing the energy performance of the design models to search for the most appropriate design. A case study of minimizing the energy use while maximizing the appropriate daylighting level of a residential building is provided to showcase the utility of the system and its workflow.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Building energy performance analysis; building information model (bim); parametric modelling; parametric energy simulation; multi-objective optimization,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,mrah@tamu.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (297,491 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Aish, R and Woodbury, R (2005) 
+ Multi-level interaction in parametric design
+, Smart Graphics, 3638, p. 151162
+
+
+
+
+
+
+
+Azhar, S and Brown, J (2009) 
+ BIM for Sustainability Analyses
+, International Journal of Construction Education and Research, 5, pp. 276-292
+
+
+
+
+
+
+
+Azhar, S, Brown, J and Farooqui, R (2009) 
+ BIM-based sustainability analysis: An evaluation of building performance analysis software
+, 45th ASC Annual Conference, pp. 1-4
+
+
+
+
+
+
+
+Bazjanac, V (2008) 
+ IFC BIM-based methodology for semi-automated building energy performance simulation
+, Improving  the Management of Construction Projects through IT Adoption, CIB W78, Universidad de Talca, pp. 292-299
+
+
+
+
+
+
+
+Boeykens, S and Neuckermans, H (2009) 
+ Visual Programming in Architecture: Should Architects Be Trained As Programmers?
+, CAAD-Futures
+
+
+
+
+
+
+
+Bouchlaghem, N (2000) 
+ Optimizing the design of building envelopes for thermal performance
+, Automation in Construction, 10, pp. 101-112
+
+
+
+
+
+
+
+Coley, DA and Schukat, S (2002) 
+ Low-energy design: combining computer-based optimization and human judgement
+, Building and Environment, 37, pp. 1241-1247
+
+
+
+
+
+
+
+Cormier, A, Robert, S, Roger, P, Stephan, L and Wurtz, E (2011) 
+ Towards a BIM-based service oriented platform: application to building energy performance simulation
+, Building Simulation 2011
+
+
+
+
+
+
+
+Council, USGB (2009) 
+ LEED Reference Guide For Green Building Design And Construction
+, US Green Building Council (USGBC)
+
+
+
+
+
+
+
+Crawley, DB, Hand, JW, Kummert, M and Griffith, BT (2008) 
+ Contrasting the capabilities of building energy performance simulation programs
+, Building and Environment, 43, pp. 661-673
+
+
+
+
+
+
+
+Deb, K, Pratap, A, Agarwal, S and Meyarivan, T (2002) 
+ A fast and elitist multiobjective genetic algorithm: NSGA-II
+, IEEE Trans. Evol. Comput., 6, p. 182197
+
+
+
+
+
+
+
+Eastman, C, Teicholz, P, Sacks, R and Liston, K (2011) 
+ BIM Handbook: A Guide to Building Information Modeling for Owners, Managers, Designers, Engineers and Contractors
+, Wiley
+
+
+
+
+
+
+
+Fischer, M (2006) 
+ Formalizing construction knowledge for concurrent performance-based design
+, 13th international conference on Intelligent Computing in Engineering and Architecture, pp. 186-205 
+
+
+
+
+
+
+
+Fonseca, CM and Fleming, PJ (1993) 
+ Genetic Algorithms for Multiobjective Optimization: Formulation, Discussion and Generalization
+, ICGA, 93, pp. 416-423
+
+
+
+
+
+
+
+Garg, V, Chandrasen, K, Tetali, S and Mathur, J (2010) 
+ EnergyPlus Simulation Speedup Using Data Parallelization Concept
+, AMSE 2010 4th International Conference on Energy Suistanibility, pp. 1-6
+
+
+
+
+
+
+
+Gossard, D, Lartigue, B and Thellier, F (2013) 
+ Multi-objective optimization of a building envelope for thermal performance using genetic algorithms and artificial neural network
+, Energy and Buildings, 67, pp. 253-260
+
+
+
+
+
+
+
+Hoes, P, Trcka, M, Hensen, J and Bonnema, B (2011) 
+ Optimizing building designs using a robustness indicator with respect to user behavior
+, Building Simulation Proceedings of the 12th Conference of the International Building Performance Simulation Association, pp. 1710-1717
+
+
+
+
+
+
+
+Konak, A, Coit, DW and Smith, AE (2006) 
+ Multi-objective optimization using genetic algorithms: A tutorial
+, Reliability Engineering & System Safety, 91, p. 9921007
+
+
+
+
+
+
+
+Kumar, S (2008) 
+ Interoperability between building information models (BIM) and energy analysis programs
+, Master's Thesis, University of Southern California
+
+
+
+
+
+
+
+Maile, T, Fischer, M and Bazjanac, V (2007) 
+ Building energy performance simulation tools-a life-cycle and interoperable perspective
+, Center for Integrated Facility Engineering (CIFE) Working Paper, 107, pp. 1-49",,"Aish, R and Woodbury, R (2005) 
+ Multi-level interaction in parametric design
+, Smart Graphics, 3638, p. 151162",,,,"Azhar, S and Brown, J (2009) 
+ BIM for Sustainability Analyses
+, International Journal of Construction Education and Research, 5, pp. 276-292",,,,"Azhar, S, Brown, J and Farooqui, R (2009) 
+ BIM-based sustainability analysis: An evaluation of building performance analysis software
+, 45th ASC Annual Conference, pp. 1-4",,,,"Bazjanac, V (2008) 
+ IFC BIM-based methodology for semi-automated building energy performance simulation
+, Improving  the Management of Construction Projects through IT Adoption, CIB W78, Universidad de Talca, pp. 292-299",,,,"Boeykens, S and Neuckermans, H (2009) 
+ Visual Programming in Architecture: Should Architects Be Trained As Programmers?
+, CAAD-Futures",,,,"Bouchlaghem, N (2000) 
+ Optimizing the design of building envelopes for thermal performance
+, Automation in Construction, 10, pp. 101-112",,,,"Coley, DA and Schukat, S (2002) 
+ Low-energy design: combining computer-based optimization and human judgement
+, Building and Environment, 37, pp. 1241-1247",,,,"Cormier, A, Robert, S, Roger, P, Stephan, L and Wurtz, E (2011) 
+ Towards a BIM-based service oriented platform: application to building energy performance simulation
+, Building Simulation 2011",,,,"Council, USGB (2009) 
+ LEED Reference Guide For Green Building Design And Construction
+, US Green Building Council (USGBC)",,,,"Crawley, DB, Hand, JW, Kummert, M and Griffith, BT (2008) 
+ Contrasting the capabilities of building energy performance simulation programs
+, Building and Environment, 43, pp. 661-673",,,,"Deb, K, Pratap, A, Agarwal, S and Meyarivan, T (2002) 
+ A fast and elitist multiobjective genetic algorithm: NSGA-II
+, IEEE Trans. Evol. Comput., 6, p. 182197",,,,"Eastman, C, Teicholz, P, Sacks, R and Liston, K (2011) 
+ BIM Handbook: A Guide to Building Information Modeling for Owners, Managers, Designers, Engineers and Contractors
+, Wiley",,,,"Fischer, M (2006) 
+ Formalizing construction knowledge for concurrent performance-based design
+, 13th international conference on Intelligent Computing in Engineering and Architecture, pp. 186-205",,,,"Fonseca, CM and Fleming, PJ (1993) 
+ Genetic Algorithms for Multiobjective Optimization: Formulation, Discussion and Generalization
+, ICGA, 93, pp. 416-423",,,,"Garg, V, Chandrasen, K, Tetali, S and Mathur, J (2010) 
+ EnergyPlus Simulation Speedup Using Data Parallelization Concept
+, AMSE 2010 4th International Conference on Energy Suistanibility, pp. 1-6",,,,"Gossard, D, Lartigue, B and Thellier, F (2013) 
+ Multi-objective optimization of a building envelope for thermal performance using genetic algorithms and artificial neural network
+, Energy and Buildings, 67, pp. 253-260",,,,"Hoes, P, Trcka, M, Hensen, J and Bonnema, B (2011) 
+ Optimizing building designs using a robustness indicator with respect to user behavior
+, Building Simulation Proceedings of the 12th Conference of the International Building Performance Simulation Association, pp. 1710-1717",,,,"Konak, A, Coit, DW and Smith, AE (2006) 
+ Multi-objective optimization using genetic algorithms: A tutorial
+, Reliability Engineering & System Safety, 91, p. 9921007",,,,"Kumar, S (2008) 
+ Interoperability between building information models (BIM) and energy analysis programs
+, Master's Thesis, University of Southern California",,,,"Maile, T, Fischer, M and Bazjanac, V (2007) 
+ Building energy performance simulation tools-a life-cycle and interoperable perspective
+, Center for Integrated Facility Engineering (CIFE) Working Paper, 107, pp. 1-49",,
+12,2016/05/16 09:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

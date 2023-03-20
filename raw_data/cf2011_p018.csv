@@ -1,0 +1,246 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76
+0,cf2011_p018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Sokmenoglu, Ahu; Cagdas Gulen, Sariyildiz Sevil",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,A Multi-dimensional Exploration of Urban Attributes by Data Mining,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Computer Aided Architectural Design Futures 2011 [Proceedings of the 14th International Conference on Computer Aided Architectural Design Futures / ISBN 9782874561429] Liege (Belgium) 4-8 July 2011, pp. 333-350.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The paper which is proposed here will introduce an ongoing research project aiming to research data mining as a methodology of knowledge discovery in urban feature analysis. To address the increasing multi-dimensional and relational complexity of urban environments requires a multidisciplinary approach to urban analysis. This research is an attempt to establish a link between knowledge discovery methodologies and automated urban feature analysis. Therefore, in the scope of this research we apply data mining methodologies for urban analysis. Data mining is defined as to extract important patterns and trends from raw data (Witten and Frank, 2005). When applied to discover relationships between urban attributes, data mining can constitute a methodology for the analysis of multi-dimensional relational complexity of urban environments (Gil, Montenegro, Beirao and Duarte, 2009) The theoretical motivation of the research is derived by the lack of explanatory urban knowledge which is an issue since 1970Äôs in the area of urban research. This situation is mostly associated with deductive methods of analysis. The analysis of urban system from the perspective of few interrelated factors, without considering the multi-dimensionality of the system in a deductive fashion was not been explanatory enough. (Jacobs, 1961, Lefebvre, 1970 Harvey, 1973) To address the multi-dimensional and relational complexity of urban environments requires the consideration of diverse spatial, social, economic, cultural, morphological, environmental, political etc. features of urban entities. The main claim is that, in urban analysis, there is a need to advance from traditional one dimensional (Marshall, 2004) description and classification of urban forms (e.g. Land-use maps, Density maps) to the consideration of the simultaneous multi-dimensionality of urban systems. For this purpose, this research proposes a methodology consisting of the application of data mining as a knowledge discovery method into a GIS based conceptual urban database built out of official real data of Beyoglu. Generally, the proposed methodology is a framework for representing and analyzing urban entities represented as objects with properties (attributes). It concerns the formulation of an urban entityÄôs database based on both available and non-available (constructed from available data) data, and then data mining of spatial and non-spatial attributes of the urban entities. Location or position is the primary reference basis for the data that is describing urban entities. Urban entities are; building floors, buildings, building blocks, streets, geographically defined districts and neighborhoods etc. Urban attributes are district properties of locations (such as land-use, land value, slope, view and so forth) that change from one location to another. Every basic urban entity is unique in terms of its attributes. All the available qualitative and quantitative attributes that is relavant (in the mind of the analyst) and appropriate for encoding, can be coded inside the computer representation of the basic urban entity. Our methodology is applied by using the real and official, the most complex, complete and up-to-dataset of Beyoglu (a historical neighborhood of Istanbul) that is provided by the Istanbul Metropolitan Municipality (IBB). Basically, in our research, data mining in the context of urban data is introduced as a computer based, data-driven, context-specific approach for supporting analysis of urban systems without relying on any existing theories. Data mining in the context of urban data; Ä¢ Can help in the design process by providing site-specific insight through deeper understanding of urban data. Ä¢ Can produce results that can assist architects and urban planners at design, policy and strategy levels. Ä¢ Can constitute a robust scientific base for rule definition in urban simulation applications such as urban growth prediction systems, land-use simulation models etc. In the paper, firstly we will present the framework of our research with an emphasis on its theoretical background. Afterwards we will introduce our methodology in detail and finally we will present some of important results of data mining analysis processed in Rapid Miner open-source software. Specifically, our research define a general framework for knowledge discovery in urban feature analysis and enable the usage of GIS and data mining as complementary applications in urban feature analysis. Acknowledgments I would like to thank to Nuffic, the Netherlands Organization for International Cooperation in Higher Education, for funding of this research. I would like to thank Ceyhun Burak Akgul for his support in Data Mining and to H. Serdar Kaya for his support in GIS.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"urban feature analysis, data mining, urban database, urban complexity, GIS",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,ahusokmenoglu@yahoo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,741,300 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Alexander, C. (1979) 
+ The Timeless Way of Building
+, Oxford University Press
+
+
+
+
+
+
+
+Behnisch, M. & Ultsch, A. (2008) 
+ Urban Data Mining Using Emergent SOM
+, Preisach, C, Burkhardt, H, Schmidt-Thieme L., and Decker, R. (eds.), Data Analysis, Machine Learning and Applications, Springer Berlin Heidelberg
+
+
+
+
+
+
+
+Behnisch, M. & Ultsch, A. (2009) 
+ Urban data-mining: spatiotemporal exploration of multidimensional data
+, Building Research & Information, Vol. 37, no.5, pp. 520-532
+
+
+
+
+
+
+
+Cheng, T. & Anbaroglu, B. (2009) 
+ Spatio-Temporal Outlier Detection in Environmental Data
+, Spatial and Temporal Reasoning for Ambient Intelligence Systems Workshop; 20- 25 September 2009, France
+
+
+
+
+
+
+
+Cheng, T. & Wang, J. (2008) 
+ Integrated Spatio-temporal Data Mining for Forest Fire Prediction
+, Transactions in GIS, 12: 591-611. doi: 10.1111/j.1467-9671.2008.01117.x
+
+
+
+
+
+
+
+Christopoulou, K. (2009) 
+ A Geographic Knowledge Discovery Approach to Property Valuation
+, PhD Thesis. UCL
+
+
+
+
+
+
+
+Demsar, U. (2006) 
+ Data Mining of Geospatial Data: Combining Visual and Automatic Methods
+, PhD Thesis. KTH
+
+
+
+
+
+
+
+Fayyad, U.M., Piatetsky-Shapiro, G. & Smyth, P. (1996) 
+ From Data Mining to Knowledge Discovery: An Overview
+, AI Magazine, Vol. 17, no.2, pp. 37-54
+
+
+
+
+
+
+
+Gil, J., Montenegro, N., Beirao, J.N. & Duarte, J.P. (2009) 
+ On the Discovery of Urban Typologies: Data Mining the Multi dimensional Character of Neighbourhoods
+, Cagdas, G. & Colakoglu, B. (eds.), Proceedings of 27th Conference on Education of Computer Aided Architectural Design in Europe, Istanbul, Turkey, pp. 269-278
+
+
+
+
+
+
+
+Han, J. & Kamber, M. (2001) 
+ Data Mining: Concepts and Techniques
+, Morgan Kaufmann
+
+
+
+
+
+
+
+Harvey, D. (1973) 
+ Social Justice and The City
+, University of Georgia Press
+
+
+
+
+
+
+
+Jacobs, J. (1961) 
+ The Death and Life of Great American Cities
+, Random House INC., New York
+
+
+
+
+
+
+
+Lefebvre, H. (1970) 
+ The Urban Revolution
+, University of Minnesota Press
+
+
+
+
+
+
+
+Liu, W. & Seto, K.C. (2008) 
+ Using the ART-MMAP neural network to model and predict urban growth: a spatiotemporal data mining approach
+, Environment and Planning B, Vol. 35, no.2, pp. 296 - 317
+
+
+
+
+
+
+
+Marshall, S. (2004) 
+ Streets and Patterns
+, The Structure of Urban Geometry 1st ed. Routledge
+
+
+
+
+
+
+
+Miller, H.J. & Han, J. (2001) 
+ Geographic data mining and knowledge discovery, An overview
+, Miller, H.J. & Han, J. (eds), Geographic data mining and knowledge discovery, Taylor & Francis
+
+
+
+
+
+
+
+Nijkamp, P. (1980) 
+ New Developments in Multidimensional Geographical Data and Policy Analysis
+, Colloquium on Theoretical and Quantitative Geography, Cambridge
+
+
+
+
+
+
+
+Reffat, R. (2008) 
+ Investigating Patterns of Contemporary Architecture using Data Mining Techniques
+, Muylle, M. (ed.), Proceedings of 26th Conference on Education of Computer Aided Architectural Design in Europe, Antwerpen, Belgium, pp. 601-608
+
+
+
+
+
+
+
+Sokmenoglu, A., Cagdas, G. & Sariyildiz, S. (2010) 
+ Exploring the Patterns and Relationships of Urban Attributes by Data Mining
+, Proceedings of the 28th eCAADe Conference, Zurich, Switzerland",,"Alexander, C. (1979) 
+ The Timeless Way of Building
+, Oxford University Press",,,,"Behnisch, M. & Ultsch, A. (2008) 
+ Urban Data Mining Using Emergent SOM
+, Preisach, C, Burkhardt, H, Schmidt-Thieme L., and Decker, R. (eds.), Data Analysis, Machine Learning and Applications, Springer Berlin Heidelberg",,,,"Behnisch, M. & Ultsch, A. (2009) 
+ Urban data-mining: spatiotemporal exploration of multidimensional data
+, Building Research & Information, Vol. 37, no.5, pp. 520-532",,,,"Cheng, T. & Anbaroglu, B. (2009) 
+ Spatio-Temporal Outlier Detection in Environmental Data
+, Spatial and Temporal Reasoning for Ambient Intelligence Systems Workshop; 20- 25 September 2009, France",,,,"Cheng, T. & Wang, J. (2008) 
+ Integrated Spatio-temporal Data Mining for Forest Fire Prediction
+, Transactions in GIS, 12: 591-611. doi: 10.1111/j.1467-9671.2008.01117.x",,,,"Christopoulou, K. (2009) 
+ A Geographic Knowledge Discovery Approach to Property Valuation
+, PhD Thesis. UCL",,,,"Demsar, U. (2006) 
+ Data Mining of Geospatial Data: Combining Visual and Automatic Methods
+, PhD Thesis. KTH",,,,"Fayyad, U.M., Piatetsky-Shapiro, G. & Smyth, P. (1996) 
+ From Data Mining to Knowledge Discovery: An Overview
+, AI Magazine, Vol. 17, no.2, pp. 37-54",,,,"Gil, J., Montenegro, N., Beirao, J.N. & Duarte, J.P. (2009) 
+ On the Discovery of Urban Typologies: Data Mining the Multi dimensional Character of Neighbourhoods
+, Cagdas, G. & Colakoglu, B. (eds.), Proceedings of 27th Conference on Education of Computer Aided Architectural Design in Europe, Istanbul, Turkey, pp. 269-278",,,,"Han, J. & Kamber, M. (2001) 
+ Data Mining: Concepts and Techniques
+, Morgan Kaufmann",,,,"Harvey, D. (1973) 
+ Social Justice and The City
+, University of Georgia Press",,,,"Jacobs, J. (1961) 
+ The Death and Life of Great American Cities
+, Random House INC., New York",,,,"Lefebvre, H. (1970) 
+ The Urban Revolution
+, University of Minnesota Press",,,,"Liu, W. & Seto, K.C. (2008) 
+ Using the ART-MMAP neural network to model and predict urban growth: a spatiotemporal data mining approach
+, Environment and Planning B, Vol. 35, no.2, pp. 296 - 317",,,,"Marshall, S. (2004) 
+ Streets and Patterns
+, The Structure of Urban Geometry 1st ed. Routledge",,,,"Miller, H.J. & Han, J. (2001) 
+ Geographic data mining and knowledge discovery, An overview
+, Miller, H.J. & Han, J. (eds), Geographic data mining and knowledge discovery, Taylor & Francis",,,,"Nijkamp, P. (1980) 
+ New Developments in Multidimensional Geographical Data and Policy Analysis
+, Colloquium on Theoretical and Quantitative Geography, Cambridge",,,,"Reffat, R. (2008) 
+ Investigating Patterns of Contemporary Architecture using Data Mining Techniques
+, Muylle, M. (ed.), Proceedings of 26th Conference on Education of Computer Aided Architectural Design in Europe, Antwerpen, Belgium, pp. 601-608",,,,"Sokmenoglu, A., Cagdas, G. & Sariyildiz, S. (2010) 
+ Exploring the Patterns and Relationships of Urban Attributes by Data Mining
+, Proceedings of the 28th eCAADe Conference, Zurich, Switzerland",,
+11,2012/02/11 18:21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

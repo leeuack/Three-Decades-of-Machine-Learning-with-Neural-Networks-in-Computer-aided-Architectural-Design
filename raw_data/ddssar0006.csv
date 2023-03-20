@@ -1,0 +1,112 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32
+0,ddssar0006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Ciftcioglu, Ö., Durmisevic, S. and Sariyildiz, S.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Multi-objective design for space layout topology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Timmermans, Harry (Ed.), Fifth Design and Decision Support Systems in Architecture and Urban Planning - Part one: Architecture Proceedings  (Nijkerk, the Netherlands)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"A novel method to produce space layout topologies for architectural design is described. From the uniformly distributed design solutions in the solution space the corresponding design requirements are computed according to a given norm and metric function. The system is based on graph representation of the layout so that the desired relations between the pairs of nodes are considered to be independent variables of appropriate series of multivariable functions mapping the requirements into the solution space. The system so established is used as a knowledge-base for robust layout design where knowledge base having been established, the layout design requirements are introduced to the system as design constraints and the output is identified in the multidimensional solution space by means of interpolation. Since the smoothness of the interpolation is guaranteed, robust design layout, in the form of node locations, is obtained.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,DDSS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"file.pdf (325,992 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Broomhead, D.S. and Lowe, D. (1988) 
+ Multivariable Function Interpolation and Adaptive Network
+,  Complex Systems 21, p. 321-355
+
+
+
+
+
+
+
+Chen C, F.N. Cowan and P.M. Grant (1991) 
+ Orthogonal Least Squares Algorithm for Radial Basis Function Networks
+, IEEE Trans. on Neural Networks, Vol.2, No.2, March
+
+
+
+
+
+
+
+Chitchian D. (1997) 
+ Artificial Intelligence for Automated Floor Plan Generation
+, Ph.D. Thesis, Delft University of Technology, The Netherlands
+
+
+
+
+
+
+
+Damski Jose C. and John S. Gero (1997) 
+ An Evalutionary Approach to Generating ConstrainedBased Space Layout Topologies
+, Proceedings of the 7th International Conference on Computer Aided Architectural Design Futures, Munich, Germany, 4-6 August 1997
+
+
+
+
+
+
+
+Horn J. and N. Nafpliotis (1994) 
+ Multiobjective Optimization Using the Niched Pareto Genetic Algorithm 
+, Proceedings of the first IEEE Conference on Evolutionary Computation, IEEE World Congress on Computational Intelligence, Vol.1 (ICEC'94)
+
+
+
+
+
+
+
+Jagielski R. and J.S. Gero (1997) 
+ A Genetic Programming Approach to the Space Layout Planning Problem
+,  R. Junge (Ed.). Proc. 7 th International Conference onComputer Aided Architectural Design Futures, Munich, Germany, 4- 6 August
+
+
+
+
+
+
+
+Steadman, J.P. (1983) 
+ Architectural Morphology - An Introduction to the Geometry ofBuilding Plans
+, Pion, London
+
+
+
+
+
+
+
+Zandi-Nia (1992) 
+ TOPGENE: An Artificial Intelligence Approach to a Design Process
+, Ph.D. Thesis, Delft University of Technology, The Netherlands",,"Broomhead, D.S. and Lowe, D. (1988) 
+ Multivariable Function Interpolation and Adaptive Network
+,  Complex Systems 21, p. 321-355",,,,"Chen C, F.N. Cowan and P.M. Grant (1991) 
+ Orthogonal Least Squares Algorithm for Radial Basis Function Networks
+, IEEE Trans. on Neural Networks, Vol.2, No.2, March",,,,"Chitchian D. (1997) 
+ Artificial Intelligence for Automated Floor Plan Generation
+, Ph.D. Thesis, Delft University of Technology, The Netherlands",,,,"Damski Jose C. and John S. Gero (1997) 
+ An Evalutionary Approach to Generating ConstrainedBased Space Layout Topologies
+, Proceedings of the 7th International Conference on Computer Aided Architectural Design Futures, Munich, Germany, 4-6 August 1997",,,,"Horn J. and N. Nafpliotis (1994) 
+ Multiobjective Optimization Using the Niched Pareto Genetic Algorithm 
+, Proceedings of the first IEEE Conference on Evolutionary Computation, IEEE World Congress on Computational Intelligence, Vol.1 (ICEC'94)",,,,"Jagielski R. and J.S. Gero (1997) 
+ A Genetic Programming Approach to the Space Layout Planning Problem
+,  R. Junge (Ed.). Proc. 7 th International Conference onComputer Aided Architectural Design Futures, Munich, Germany, 4- 6 August",,,,"Steadman, J.P. (1983) 
+ Architectural Morphology - An Introduction to the Geometry ofBuilding Plans
+, Pion, London",,,,"Zandi-Nia (1992) 
+ TOPGENE: An Artificial Intelligence Approach to a Design Process
+, Ph.D. Thesis, Delft University of Technology, The Netherlands",,
+9,2003/08/07 14:36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

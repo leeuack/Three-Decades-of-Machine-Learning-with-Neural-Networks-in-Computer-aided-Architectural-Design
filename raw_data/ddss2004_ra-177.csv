@@ -1,0 +1,257 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ddss2004_ra-177,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Ballas, D., R. Kingston, and J. Stillwell",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Using a Spatial Microsimulation Decision Support System for  Policy Scenario Analysis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Van Leeuwen, J.P. and H.J.P. Timmermans (eds.) Recent Advances in Design  & Decision Support Systems in Architecture and Urban Planning, Dordrecht: Kluwer Academic Publishers,  ISBN: 1-4020-2408-8, p. 177-191",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper discusses the potential of a spatial microsimulation-based decision  support system for policy analysis. The system can be used to describe current  conditions and issues in neighbourhoods, predict future trends in the  composition and health of neighbourhoods and conduct modelling and  predictive analysis to measure the likely impact of policy interventions at the  local level. A large dynamic spatial micro-simulation model is being  constructed for the population of Leeds (approximately 715,000 individuals)  based on spatial microsimulation techniques in conjunction with a range of  data, including 2001 Census data for Output Areas and sample data from the  British Household Panel Survey. The project has three main aims as follows:  (i) to develop a static microsimulation model to describe current conditions in  Leeds; (ii) to enable the performance of What if? analysis on a range of  policy scenarios; and (iii) to develop a dynamic microsimulation model to  predict future conditions in Leeds under different policy scenarios.  The paper  reports progress in meeting the above aims and outlines the associated  difficulties and data issues. One of the significant advantages of the spatial  microsimulation approach adopted by this project is that it enables the user to  query any combination of variables that is deemed desirable for policy  analysis. The paper will illustrate the software tool being developed in the  context of this project that is capable of carrying out queries of this type and of  mapping their results. The decision support tool is being developed to support  policy-makers concerned with urban regeneration and neighbourhood renewal.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Spatial Microsimulation, Spatial Decision Support Systems, Geotools",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,DDSS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (391,267 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Alvanides S (2000) 
+ Zone design methods for application in human Geography
+, Unpublished  PhD Thesis, School of Geography, University of Leeds, Leeds
+
+
+
+
+
+
+
+Ballas, D, Kingston R, Stillwell, J, (2003) 
+ Public participation in local policy-making with the  use of GIS-based microsimulation
+, Poster presented at the 2nd annual Public Participation  GIS Conference, Portland State University, Portland, USA, 20-22 July 2003
+
+
+
+
+
+
+
+Ballas, D. and Clarke, G. P. (2001) 
+ Towards local implications of major job transformations  in the city: a spatial microsimulation approach
+, Geographical Analysis 33, 291-311
+
+
+
+
+
+
+
+Ballas, D., Clarke, G. P. and Turton, I. (1999) 
+ Exploring microsimulation methodologies for  the estimation of household attributes
+, Paper presented at the 4th International Conference  on GeoComputation, Fredericksburg, Virginia, USA, 25-28 July
+
+
+
+
+
+
+
+Ballas, D., Clarke, G. P. and Turton, I. (2003) 
+ A spatial microsimulation model for social  policy micro-spatial analysis
+, Boots, B., Okabe, A. and Thomas, R. (eds.) Modelling  Geographical Systems: Statistical and Computational Applications, Kluwer, Dordrecht,  pp. 143-168
+
+
+
+
+
+
+
+Ballas, D., Clarke, G.P. (2000) 
+ GIS and microsimulation for local labour market policy  analysis
+, Computers, Environment and Urban Systems, 24, 305-330
+
+
+
+
+
+
+
+Ballas, D., Clarke, G.P. (2001) 
+ Modelling the local impacts of national social policies: a  spatial microsimulation approach
+, Environment and Planning C: Government and Policy,  19, 587  606
+
+
+
+
+
+
+
+Ballas, D., Clarke, G.P. (2003) 
+ Microsimulation and Regional Science: 30 years of spatial  microsimulation of populations
+, Paper presented at the 50th Annual North American  Meeting of the Regional Science Association International, Philadelphia, USA, 19-22  November 2003
+
+
+
+
+
+
+
+Ballas, D. (2001) 
+ A spatial microsimulation approach to local labour market policy analysis
+, Unpublished PhD Thesis, School of Geography, University of Leeds, Leeds
+
+
+
+
+
+
+
+Clarke, G.P. (1996) 
+ Microsimulation: an introduction
+, G.P. Clarke (ed.) Microsimulation for  Urban and Regional Policy Analysis, Pion, London, 1-9
+
+
+
+
+
+
+
+Dowsland, K. (1993) 
+ Simulated annealing
+, Reeves, C. (ed) Modern Heuristic Techniques for  Combinatorial Problems, Blackwell, Oxford
+
+
+
+
+
+
+
+Kingston, R., Carver, S., Evans, A. and Turton, I.  (2000) 
+ Web-Based Public Participation  Geographical Information Systems: an aid to Local Environmental Decision-Making
+, Computers, Environment and Urban Systems, 24, 109-125
+
+
+
+
+
+
+
+Kirkpatrick, S, Gelatt, C. D. Jr. and Vecchi, M. P. (1983) 
+ Optimization by simulated annealing
+, Science, 220: 671-680
+
+
+
+
+
+
+
+Norman, P. (1999) 
+ Putting Iterative Proportional Fitting on the Researchers Desk
+, Working  paper 99/03, School of Geography, University of Leeds, Leeds LS2 9JT
+
+
+
+
+
+
+
+Openshaw, S. and Rao, L. (1995) 
+ Algorithms for reengineering 1991 Census geography
+, Environment and Planning A, 27: 425-446
+
+
+
+
+
+
+
+Openshaw, S. and Schmidt, J. (1996) 
+ Parallel simulated annealing and genetic algorithms for  re-engineering zoning systems
+, Geographical Systems, 3: 201-220
+
+
+
+
+
+
+
+Orcutt, G.H.  (1957) 
+ A new type of socio-economic system
+, The review of economics and  statistics, 39, 116-123
+
+
+
+
+
+
+
+Pham, D.T. and Karaboga, D. (2000) 
+ Intelligent Optimisation Techniques: Genetic Algorithms,  Tabu Search, Simulated Annealing and Neural Networks
+, Springer, London
+
+
+
+
+
+
+
+Van Laarhoven, P.J.M. and Aarts, E.H.L. (1987) 
+ Simulated Annealing: Theory and  Applications
+, Kluwer, Dordrecht
+
+
+
+
+
+
+
+Williamson, P., Birkin, M. and Rees, P. (1998) 
+ The estimation of population microdata by  using data from small area statistics and samples of anonymised records
+, Environment and  Planning A, 30:  785-816",,"Alvanides S (2000) 
+ Zone design methods for application in human Geography
+, Unpublished  PhD Thesis, School of Geography, University of Leeds, Leeds",,,,"Ballas, D, Kingston R, Stillwell, J, (2003) 
+ Public participation in local policy-making with the  use of GIS-based microsimulation
+, Poster presented at the 2nd annual Public Participation  GIS Conference, Portland State University, Portland, USA, 20-22 July 2003",,,,"Ballas, D. and Clarke, G. P. (2001) 
+ Towards local implications of major job transformations  in the city: a spatial microsimulation approach
+, Geographical Analysis 33, 291-311",,,,"Ballas, D., Clarke, G. P. and Turton, I. (1999) 
+ Exploring microsimulation methodologies for  the estimation of household attributes
+, Paper presented at the 4th International Conference  on GeoComputation, Fredericksburg, Virginia, USA, 25-28 July",,,,"Ballas, D., Clarke, G. P. and Turton, I. (2003) 
+ A spatial microsimulation model for social  policy micro-spatial analysis
+, Boots, B., Okabe, A. and Thomas, R. (eds.) Modelling  Geographical Systems: Statistical and Computational Applications, Kluwer, Dordrecht,  pp. 143-168",,,,"Ballas, D., Clarke, G.P. (2000) 
+ GIS and microsimulation for local labour market policy  analysis
+, Computers, Environment and Urban Systems, 24, 305-330",,,,"Ballas, D., Clarke, G.P. (2001) 
+ Modelling the local impacts of national social policies: a  spatial microsimulation approach
+, Environment and Planning C: Government and Policy,  19, 587  606",,,,"Ballas, D., Clarke, G.P. (2003) 
+ Microsimulation and Regional Science: 30 years of spatial  microsimulation of populations
+, Paper presented at the 50th Annual North American  Meeting of the Regional Science Association International, Philadelphia, USA, 19-22  November 2003",,,,"Ballas, D. (2001) 
+ A spatial microsimulation approach to local labour market policy analysis
+, Unpublished PhD Thesis, School of Geography, University of Leeds, Leeds",,,,"Clarke, G.P. (1996) 
+ Microsimulation: an introduction
+, G.P. Clarke (ed.) Microsimulation for  Urban and Regional Policy Analysis, Pion, London, 1-9",,,,"Dowsland, K. (1993) 
+ Simulated annealing
+, Reeves, C. (ed) Modern Heuristic Techniques for  Combinatorial Problems, Blackwell, Oxford",,,,"Kingston, R., Carver, S., Evans, A. and Turton, I.  (2000) 
+ Web-Based Public Participation  Geographical Information Systems: an aid to Local Environmental Decision-Making
+, Computers, Environment and Urban Systems, 24, 109-125",,,,"Kirkpatrick, S, Gelatt, C. D. Jr. and Vecchi, M. P. (1983) 
+ Optimization by simulated annealing
+, Science, 220: 671-680",,,,"Norman, P. (1999) 
+ Putting Iterative Proportional Fitting on the Researchers Desk
+, Working  paper 99/03, School of Geography, University of Leeds, Leeds LS2 9JT",,,,"Openshaw, S. and Rao, L. (1995) 
+ Algorithms for reengineering 1991 Census geography
+, Environment and Planning A, 27: 425-446",,,,"Openshaw, S. and Schmidt, J. (1996) 
+ Parallel simulated annealing and genetic algorithms for  re-engineering zoning systems
+, Geographical Systems, 3: 201-220",,,,"Orcutt, G.H.  (1957) 
+ A new type of socio-economic system
+, The review of economics and  statistics, 39, 116-123",,,,"Pham, D.T. and Karaboga, D. (2000) 
+ Intelligent Optimisation Techniques: Genetic Algorithms,  Tabu Search, Simulated Annealing and Neural Networks
+, Springer, London",,,,"Van Laarhoven, P.J.M. and Aarts, E.H.L. (1987) 
+ Simulated Annealing: Theory and  Applications
+, Kluwer, Dordrecht",,,,"Williamson, P., Birkin, M. and Rees, P. (1998) 
+ The estimation of population microdata by  using data from small area statistics and samples of anonymised records
+, Environment and  Planning A, 30:  785-816",,
+10,2004/07/03 20:13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

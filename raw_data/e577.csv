@@ -1,0 +1,89 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+0,"Wadhwa, Ashwan and Lonsway, Brian",,,,,,,,,,,,,,,,,,,,,,,,
+1,2001,,,,,,,,,,,,,,,,,,,,,,,,
+2,A Self-Organizing Neural System for Urban Design,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Reinventing the Discourse - How Digital Tools Help Bridge and Transform Research, Education and Practice in Architecture [Proceedings of the Twenty First Annual Conference of the Association for Computer-Aided Design in Architecture / ISBN 1-880250-10-1] Buffalo (New York) 11-14 October 2001, pp. 386-391",,,,,,,,,,,,,,,,,,,,,,,,
+4,"The focus of this research is the development of an urban simulation system and its use to analyze growth factors in an urban design proposal. Unlike predictive simulation models, which attempt to accurately simulate future conditions resulting from a proposal, our neural network model is tuned to creatively present socioeconomic deficiencies and requirements for proposed developments. The system is built using a novel variant of Kohonens self-organizing neural map algorithm. Urban data of a simulated region is embedded in the neural net and correlated, in varying degrees, with data obtained from case study and/or other local regions. By projecting design ideas onto this network, designers gain an insight into the proposals impact based on complex, non-linear relationships of socio-economic data, which are otherwise difficult to envision.",,,,,,,,,,,,,,,,,,,,,,,,
+5,"Neural Networks, Self Organizing Maps",,,,,,,,,,,,,,,,,,,,,,,,
+6,ACADIA,,,,,,,,,,,,,,,,,,,,,,,,
+7,wadhwa2@rpi.edu,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (96,906 bytes)",,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Batty, M. and Xie, Y.  (1994) 
+ From Cells to Cities
+, Environment and Planning B, 21: 531-548
+
+
+
+
+
+
+
+Dantas, A.S., Lamar, M.V., Yamashita, Y., Yamamoto, K. and  Hideshima, E.  (1999) 
+ Towards a Neural Network Based Model For Travel Demand Forecast: GIS and Remote Sensing Approach 
+, Proceedings of International Symposium on Remote Sensing & Integrated Technologies, Istanbul, Turkey
+
+
+
+
+
+
+
+Kohonen, Teuvo (1995) 
+ The Basic SOM 
+, Self Organizing Maps, edited by Thomas S. Huang, T. Kohonen and Manfred Schroeder, 77-127. Berlin Heidelberg : Springer-Verlag
+
+
+
+
+
+
+
+Kohonen, Teuvo (1995) 
+ Case example of attribute maps based on incomplete data matrices, Poverty Maps
+, Self Organizing Maps, edited by Thomas S. Huang, T. Kohonen and Manfred Schroeder, 117-121. Berlin Heidelberg : Springer-Verlag
+
+
+
+
+
+
+
+Sui, D.Z.  (1993) 
+ A neural network-based GIS approach to spatial decision-making 
+, The Operational Geographer. Vol.11, No.2, pp.13-20
+
+
+
+
+
+
+
+Ward, D.P., Murray, A.T. and Phinn, S.R.  (1999) 
+ An optimized cellular automata approach for sustainable urban development in rapidly urbanizing regions 
+, Proceedings of Geocomputation99, pp., Mary Washington College, Fredericksburg, VA",,"Batty, M. and Xie, Y.  (1994) 
+ From Cells to Cities
+, Environment and Planning B, 21: 531-548",,,,"Dantas, A.S., Lamar, M.V., Yamashita, Y., Yamamoto, K. and  Hideshima, E.  (1999) 
+ Towards a Neural Network Based Model For Travel Demand Forecast: GIS and Remote Sensing Approach 
+, Proceedings of International Symposium on Remote Sensing & Integrated Technologies, Istanbul, Turkey",,,,"Kohonen, Teuvo (1995) 
+ The Basic SOM 
+, Self Organizing Maps, edited by Thomas S. Huang, T. Kohonen and Manfred Schroeder, 77-127. Berlin Heidelberg : Springer-Verlag",,,,"Kohonen, Teuvo (1995) 
+ Case example of attribute maps based on incomplete data matrices, Poverty Maps
+, Self Organizing Maps, edited by Thomas S. Huang, T. Kohonen and Manfred Schroeder, 117-121. Berlin Heidelberg : Springer-Verlag",,,,"Sui, D.Z.  (1993) 
+ A neural network-based GIS approach to spatial decision-making 
+, The Operational Geographer. Vol.11, No.2, pp.13-20",,,,"Ward, D.P., Murray, A.T. and Phinn, S.R.  (1999) 
+ An optimized cellular automata approach for sustainable urban development in rapidly urbanizing regions 
+, Proceedings of Geocomputation99, pp., Mary Washington College, Fredericksburg, VA",,
+10,2002/04/25 17:30,,,,,,,,,,,,,,,,,,,,,,,,

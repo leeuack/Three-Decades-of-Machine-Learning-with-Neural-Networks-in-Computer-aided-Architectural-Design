@@ -1,0 +1,126 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+0,cf2005_2_54_229,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"LEE Yungil, CHOI Jinwon and LERTLAKKHANAKUL Jumphon",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Developing a User Location Prediction Model for Ubiquitous Computing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Learning from the Past a Foundation for the Future [Special publication of papers presented at the CAAD futures 2005 conference held at the Vienna University of Technology / ISBN 3-85437-276-0], Vienna (Austria) 20-22 June 2005, pp. 215-224",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Our prediction model is based on the development of Semantic Location Model. It embodies geometrical and topological information which can increase the efficiency in prediction and make it easy to manipulate the prediction model. Data mining is being implemented to extract the inhabitant's location patterns generated day by day. As a result, the self-learning system will be able to semantically predict the inhabitant's location in advance. This context-aware system brings about the key component of the ubiquitous computing environment. First, we explain the semantic location model and data mining methods. Then the location prediction model for the ubiquitous computing system is described in details. Finally, the prototype system is introduced to demonstrate and evaluate our prediction model.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"prediction, data mining, semantic location model, ubiquitous computing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,CAAD Futures,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,whaooer@yonsei.ac.kr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (532,599 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Choi, J.W. (1997) 
+ A Development of an Intelligent CAD Engine to Support Architectural Design Collaboration
+, Korea CAD/CAM Journal, 53-59
+
+
+
+
+
+
+
+Cook, D. J., M. Youngblood, E. Heierman, K. Gopalratnam, S. Rao, A. Litvin, and F. Khawaja (2003) 
+ MavHome: An Agent-Based Smart Home
+, Proceedings of the IEEE International Conference on Pervasive Computing and Communications, 521-524. New York: The Institute of Electrical and Electronic Engineers
+
+
+
+
+
+
+
+Fayyad, U.M. (1996) 
+ Advances in Knowledge Discovery and Data Mining
+, eds. U.M. Fayyad, G. Piatetsky-Shapiro, P. Smyth, and R. Uthurusamy. California: AAAI Press and MIT Press
+
+
+
+
+
+
+
+Lee, Y.G., Lee, I.J. and Choi. J.W. (2004) 
+ Location Modeling for Ubiquitous Computing based on Spatial Information Management Technology
+, Proceedings of CAADRIA2004, 787-801. Seoul: Yonsei University Press
+
+
+
+
+
+
+
+Lesser, V., M. Atioghetchi, B. Benyo, B. Horling, A. Raja, R. Vincent, T. Wagner, X. Ping, and S. X. Zhang (1999) 
+ The intelligent home test bed
+, Proceedings of the Autonomy Control Software Workshop
+
+
+
+
+
+
+
+Mozer, M. (1998) 
+ The neural network house: An environment that adapts to its inhabitants
+, Proceedings of the AAAI Spring Symposium on Intelligent Environments, 110-114. California: AAAI Press and MIT Press
+
+
+
+
+
+
+
+Okazaki, S., and Matsushita, S. (1993) 
+ A Study of Simulation Model for Pedestrian Movement with Evacuation and Queuing
+, Proceedings of the International Conference on Engineering for crowd safety, London: Elsevier
+
+
+
+
+
+
+
+Torrance, M.C. (1995) 
+ Advances in human-computer interaction: The intelligent room
+, Working Notes of the CHI 95 Research Symposium
+
+
+
+
+
+
+
+Two Crows Corporation (1999) 
+ Introduction to Data Mining and Knowledge Discovery [3rd ed.]
+, Maryland: Two Crows Corporation",,"Choi, J.W. (1997) 
+ A Development of an Intelligent CAD Engine to Support Architectural Design Collaboration
+, Korea CAD/CAM Journal, 53-59",,,,"Cook, D. J., M. Youngblood, E. Heierman, K. Gopalratnam, S. Rao, A. Litvin, and F. Khawaja (2003) 
+ MavHome: An Agent-Based Smart Home
+, Proceedings of the IEEE International Conference on Pervasive Computing and Communications, 521-524. New York: The Institute of Electrical and Electronic Engineers",,,,"Fayyad, U.M. (1996) 
+ Advances in Knowledge Discovery and Data Mining
+, eds. U.M. Fayyad, G. Piatetsky-Shapiro, P. Smyth, and R. Uthurusamy. California: AAAI Press and MIT Press",,,,"Lee, Y.G., Lee, I.J. and Choi. J.W. (2004) 
+ Location Modeling for Ubiquitous Computing based on Spatial Information Management Technology
+, Proceedings of CAADRIA2004, 787-801. Seoul: Yonsei University Press",,,,"Lesser, V., M. Atioghetchi, B. Benyo, B. Horling, A. Raja, R. Vincent, T. Wagner, X. Ping, and S. X. Zhang (1999) 
+ The intelligent home test bed
+, Proceedings of the Autonomy Control Software Workshop",,,,"Mozer, M. (1998) 
+ The neural network house: An environment that adapts to its inhabitants
+, Proceedings of the AAAI Spring Symposium on Intelligent Environments, 110-114. California: AAAI Press and MIT Press",,,,"Okazaki, S., and Matsushita, S. (1993) 
+ A Study of Simulation Model for Pedestrian Movement with Evacuation and Queuing
+, Proceedings of the International Conference on Engineering for crowd safety, London: Elsevier",,,,"Torrance, M.C. (1995) 
+ Advances in human-computer interaction: The intelligent room
+, Working Notes of the CHI 95 Research Symposium",,,,"Two Crows Corporation (1999) 
+ Introduction to Data Mining and Knowledge Discovery [3rd ed.]
+, Maryland: Two Crows Corporation",,
+11,2005/05/05 05:06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

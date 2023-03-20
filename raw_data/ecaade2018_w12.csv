@@ -1,0 +1,90 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+0,ecaade2018_w12,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Rahbar, Morteza",,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,
+3,Application of Artificial Intelligence in Architectural Generative Design,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Kepczynska-Walczak, A, Bialkowski, S (eds.), Computing for a better tomorrow - Proceedings of the 36th eCAADe Conference - Volume 1, Lodz University of Technology, Lodz, Poland, 19-21 September 2018, pp. 71-72",,,,,,,,,,,,,,,,,,,,,,,,
+5,"In this workshop, data-driven models will be discussed and how they could change the way architects think, design and analyse. Both supervised and unsupervised learning models will be discussed and different projects will be referred as examples. Deep learning models are the third part of the workshop and more specifically, Generative Adversarial Networks will be mentioned in more detail. The GAN's open a new field of generative models in design which is based on data-driven process and we will go into detail with GANs, their branches and how we could test a sample architecture generative problem with GANs.",,,,,,,,,,,,,,,,,,,,,,,,
+6,Artificial Intelligence; Machine Learning; Generative Design; Knowledge based Design; GAN,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,
+8,rahbar@arch.ethz.ch,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (65,045 bytes)",,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Ahmed, S (2012) 
+ Automatic room detection and room labeling from architectural floor plans. in Document Analysis Systems
+, 10th IAPR International Workshop on. 2012. IEEE
+
+
+
+
+
+
+
+Dodge, S, Xu, J and Stenger, B (2017) 
+ Parsing floor plan images. in Machine Vision Applications (MVA)
+, Fifteenth IAPR International Conference on. IEEE. 2017
+
+
+
+
+
+
+
+Gatys, L.A, Ecker, A.S and Bethge, M (2015) 
+ A neural algorithm of artistic style
+, arXiv preprint arXiv:1508.06576
+
+
+
+
+
+
+
+Lu, Y, Tai, Y.-W and Tang, C.-K (2017) 
+ Conditional cyclegan for attribute guided face image generation
+, arXiv preprint arXiv:1705.09966
+
+
+
+
+
+
+
+Nagy, D (2017) 
+ Project Discover: An Application of Generative Design for Architectural Space Planning
+, Symposium on Simulation for Architecture and Urban Design
+
+
+
+
+
+
+
+Zhu, J.-Y (2017) 
+ Unpaired image-to-image translation using cycle-consistent adversarial networks
+, arXiv preprint arXiv:1703.10593",,"Ahmed, S (2012) 
+ Automatic room detection and room labeling from architectural floor plans. in Document Analysis Systems
+, 10th IAPR International Workshop on. 2012. IEEE",,,,"Dodge, S, Xu, J and Stenger, B (2017) 
+ Parsing floor plan images. in Machine Vision Applications (MVA)
+, Fifteenth IAPR International Conference on. IEEE. 2017",,,,"Gatys, L.A, Ecker, A.S and Bethge, M (2015) 
+ A neural algorithm of artistic style
+, arXiv preprint arXiv:1508.06576",,,,"Lu, Y, Tai, Y.-W and Tang, C.-K (2017) 
+ Conditional cyclegan for attribute guided face image generation
+, arXiv preprint arXiv:1705.09966",,,,"Nagy, D (2017) 
+ Project Discover: An Application of Generative Design for Architectural Space Planning
+, Symposium on Simulation for Architecture and Urban Design",,,,"Zhu, J.-Y (2017) 
+ Unpaired image-to-image translation using cycle-consistent adversarial networks
+, arXiv preprint arXiv:1703.10593",,
+11,2018/07/24 10:22,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,40 @@
+﻿,0,1,2,3,4,5,6,7,8
+0,ddssar0002,,,,,,,,
+1,"Aoki, Yoshitsugu and Inage, Makoto",,,,,,,,
+2,2000,,,,,,,,
+3,Linguistic Operation System for Design of Architectural Form,,,,,,,,
+4,"Timmermans, Harry (Ed.), Fifth Design and Decision Support Systems in Architecture and Urban Planning - Part one: Architecture Proceedings  (Nijkerk, the Netherlands)",,,,,,,,
+5,"In a process of architectural design, an architect not only draws by himself/herself but also lets another person modify a design by given a linguistic instruction expressing how the design ought to be. In the case of utilization of CAD systems, it is useful if the system modifies the design according to the linguistic instruction. On the other hand, because of the recent increase of the opportunities of designing a building whose roof has complicated curved surface, it extremely takes labor to change the design. This paper proposes a linguistic operation system that modifies a design according to the linguistic instruction of the modification by the user to support design of a complicated form with curved surface. The proposed system is expected to be integrated with a CAD system. First, the system presents a perspective sketch of a designed form. From the values of the design variables that characterize the form in the system, the system calculates the position of the form in the association image space. Second, the designer puts a linguistic instruction i.e., words as like as let it be more light to modify the form. The words used for the instruction have the position in the association image space. In the association image space, the system moves the position of the form to a new position that gets to be near the position of the given word. The system calculates the values of the design variables of the form corresponding to the new position. We need a mapping from every vector representing the position of the changed form in the association image space to the corresponding vector representing the values of the design variables. To find the mapping, we construct a neural network system with three levels. Finally, the system presents a perspective sketch of changed form using the calculated values of design variables.",,,,,,,,
+6,DDSS,,,,,,,,
+7,"file.pdf (3,162,323 bytes)",,,,,,,,
+8,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Aoki, Y. and Osaragi, T. and Sasaki, H. and Hiroki, A. and Kanno, M. (1989) 
+ A construction method of multidimensional image space from associationalwords  A case study on office building image
+, Summaries of Technical Papers of Annual Meeting, vol.E, Architectural Institute of Japan (in Japanese), Kyusyu, Japan, October 1989, pp.745-746
+
+
+
+
+
+
+
+Vidyasagar, M. (1997) 
+ A Theory of Learning and Generalization
+, Springer-Verlag London Limited, Great Britain",,"Aoki, Y. and Osaragi, T. and Sasaki, H. and Hiroki, A. and Kanno, M. (1989) 
+ A construction method of multidimensional image space from associationalwords  A case study on office building image
+, Summaries of Technical Papers of Annual Meeting, vol.E, Architectural Institute of Japan (in Japanese), Kyusyu, Japan, October 1989, pp.745-746",,,,"Vidyasagar, M. (1997) 
+ A Theory of Learning and Generalization
+, Springer-Verlag London Limited, Great Britain",,
+9,2003/11/21 14:15,,,,,,,,

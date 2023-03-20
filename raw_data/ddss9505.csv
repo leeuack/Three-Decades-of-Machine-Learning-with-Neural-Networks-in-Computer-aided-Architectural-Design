@@ -1,0 +1,11 @@
+﻿,0
+0,ddss9505
+1,"Wyatt, Ray"
+2,1994
+3,Strategic Decision Support: Using Neural Networks to Enhance and Explore Human Strategizing
+4,"Second Design and Decision Support Systems in Architecture & Urban Planning (Vaals, the Netherlands), August 15-19, 1994"
+5,"This paper focuses on a mechanism by which planners and designers are thought to reduce complexity. The mechanism involves choosing a potentially profitable direction of search, or choosing potentially profitable set of aims to pursue, within which a detailed solution might be found, and rejecting all potentially unprofitable directions of search. The literature of psychology, planning and operations research is drawn upon to argue that designers base such initial choice of direction on their candidate aims' relative scores for eight key parameters: probability, returns for effort, delay, robustness, difficulty, present satisfaction and dependence. The paper then describes a piece of decision support software which, by eliciting any user's scores for their candidate aims on the eight key parameters, is able to order such aims into a strategic plan. Such software also incorporates a simulated neural network which attempts to ""learn"", from users' recorded responses to the software-suggested strategies, how users actually weight the relative importances of the eight key parameters. That is, it is hoped that the neural network will ""converge' to some prototypical pattern(s) of weightings. Having such a tool would certainly constitute an advance in the state of the art of computer-aided strategy development. Alternatively, if the network never converges, the use of neural networks in computer-aided planning is perhaps not advisable. Accordingly, a test was conducted in which a group of planners used the software to address a typical spatial problem. The results, in terms of whether or not the neural network converged, will be reported."
+6,DDSS
+7,raywyatt@muwayf.unimelb.edu.au
+8,Content-type: text/plain
+9,2003/08/07 14:36

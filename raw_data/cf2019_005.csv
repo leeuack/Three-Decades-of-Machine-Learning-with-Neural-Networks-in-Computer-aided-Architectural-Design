@@ -1,0 +1,14 @@
+﻿,0
+0,cf2019_005
+1,"Eisenstadt, Viktor; Klaus-Dieter Althoff and Christoph Langenhan"
+2,2019
+3,"Supporting Architectural Design Process with FLEA A Distributed AI Methodology for Retrieval, Suggestion, Adaptation, and Explanation of Room Conﬁgurations"
+4,"Ji-Hyun Lee (Eds.) ""Hello, Culture!""  [18th International Conference, CAAD Futures 2019, Proceedings / ISBN 978-89-89453-05-5] Daejeon, Korea, p. 24"
+5,"The artiﬁcial intelligence methods, such as case-based reasoning and artiﬁcial neural networks were already applied to the task of architectural design support in a multitude of speciﬁc approaches and tools. However, modern AI trends, such as Explainable AI (XAI), and additional features, such as providing contextual suggestions for the next step of the design process, were rarely considered an integral part of these approaches or simply not available. In this paper, we present an application of a distributed AI-based methodology FLEA (Find, Learn, Explain, Adapt) to the task of room conﬁguration during the early conceptual phases of architectural design. The implementation of the methodology in the framework MetisCBR applies CBR-based methods for retrieval of similar ﬂoor plans to suggest possibly inspirational designs and to explain the returned results with speciﬁc explanation patterns. Furthermore, it makes use of a farm of recurrent neural networks to suggest contextually suitable next conﬁguration steps and to present design variations that show how the designs may evolve in the future. The ﬂexibility of FLEA allows for variational use of its components in order to activate the currently required modules only. The methodology was initialized during the basic research project Metis (funded by German Research Foundation) during which the architectural semantic search patterns and a family of corresponding ﬂoor plan representations were developed. FLEA uses these patterns and representations as the base for its semantic search, explanation, next step suggestion, and adaptation components. The methodology implementation was iteratively tested during quantitative evaluations and user studies with multiple ﬂoor plan datasets."
+6,"Room con?guration, Distributed AI, Case-based reasoning, Neural networks, Explainable AI"
+7,CAAD Futures
+8,normal paper
+9,ayzensht@uni-hildesheim.de
+10,"file.pdf (135,072 bytes)"
+11,Content-type: text/plain
+12,2019/07/29 12:11
