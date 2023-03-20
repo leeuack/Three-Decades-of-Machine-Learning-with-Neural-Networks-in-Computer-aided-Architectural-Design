@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ijac201917106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Brown, Nathan C. and Caitlin T. Mueller",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Design variable analysis and generation for performance-based parametric modeling in architecture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"International Journal of Architectural Computing vol. 17 - no. 1, 36-52",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Many architectural designers recognize the potential of parametric models as a worthwhile approach to performance- driven design. A variety of performance simulations are now possible within computational design environments, and the framework of design space exploration allows users to generate and navigate various possibilities while considering both qualitative and quantitative feedback. At the same time, it can be difficult to formulate a parametric design space in a way that leads to compelling solutions and does not limit flexibility. This article proposes and tests the extension of machine learning and data analysis techniques to early problem setup in order to interrogate, modify, relate, transform, and automatically generate design variables for architectural investigations. Through analysis of two case studies involving structure and daylight, this article demonstrates initial workflows for determining variable importance, finding overall control sliders that relate directly to performance and automatically generating meaningful variables for specific typologies.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Parametric design, design space formulation, data analysis, design variables, dimensionality reduction",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,journal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,ncbrown@mit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,file.pdf ( bytes),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Anderl R. and Mendgen R. (1995) 
+ Parametric design and its impact on solid modeling applications
+, Proceedings of the third ACM symposium on solid modeling and applications, Salt Lake City, UT, 1719 May 1995, pp. 112. New York: ACM
+
+
+
+
+
+
+
+Box G.E.P., Hunter J.S. and Hunter W.G. (2005) 
+ Statistics for experimenters: design, innovation, and discovery. 2nd ed. 
+, Hoboken, NJ: John Wiley & Sons
+
+
+
+
+
+
+
+Bradner E., Iorio F. and Davis M.  (2014) 
+ Parameters tell the design story: ideation and abstraction in design optimization
+, Simul Ser; 46: 172197
+
+
+
+
+
+
+
+Brown N.C. and Mueller C.T.   (2017) 
+ Designing with data: moving beyond the design space catalog
+, Proceedings of ACADIA 2017: disciplines and disruption, Cambridge, MA, 24 November 2017
+
+
+
+
+
+
+
+Brown N.C. and Mueller C.T.  (2017) 
+ Automated performance-based design space simplification for parametric structural design
+, Proceedings of the IASS annual symposium 2017, Hamburg, 2528 September 2017
+
+
+
+
+
+
+
+Chaszar A. and Joyce S.C. (2016) 
+ Generating freedom: questions of flexibility in digital design and architectural computa- tion
+, Int J Archit Comput; 14: 167181
+
+
+
+
+
+
+
+Chen K.W., Janssen P. and Schlueter A.  (2015) 
+ Analysing populations of design variants using clustering and archetypal analysis
+, Proceedings of the 33rd eCAADe conference, Vienna, 1618 September 2015, vol. 1, pp. 251260
+
+
+
+
+
+
+
+Conti Z.X. and Kaijima S. (2017) 
+ Enabling inference in performance-driven design exploration
+, De Rycke K, Gengnagel C, Baverel O, et al. (eds) Humanizing digital reality: design modelling symposium Paris 2017 . Singapore: Springer Nature, pp. 177188
+
+
+
+
+
+
+
+Cross N., Dorst K., Roozenburg N. et al. (1992) 
+ Research in design thinking
+, Delft: Delft University Press
+
+
+
+
+
+
+
+Cross N., Naughton J. and Walker D. (1981) 
+ Design method and scientific method
+, Des Stud; 2: 195201
+
+
+
+
+
+
+
+Derix C. and Jagannath P. (2014) 
+ Near futures: associative archetypes
+, Archit Des; 84: 130135
+
+
+
+
+
+
+
+Dorst K. (2011) 
+ The core of design thinking and its application
+, Des Stud; 32: 521532
+
+
+
+
+
+
+
+Harding J.  (2016) 
+ Dimensionality reduction for parametric design exploration
+, Adriaenssens S, Gramazio F, Kohler M, et al. (eds) Advances in architectural geometry 2016 . Zurich: vdf Hochschulverlag, pp. 204221
+
+
+
+
+
+
+
+Harding J. and Shepherd P.  (2017) 
+ Meta-parametric design
+, Des Stud; 52: 7395
+
+
+
+
+
+
+
+Hardoon D.R., Szedmak S. and Shawe-Taylor J.  (2004) 
+ Canonical correlation analysis: an overview with application to learning methods
+, Neural Comput; 16: 26392664
+
+
+
+
+
+
+
+Haymaker J.  (2012) 
+ Expanding Design Spaces
+, Frontiers of Engineering: Reports on Leading-Edge Engineering from the 2011 Symposium . Washington, DC: The National Academies Press, pp. 8996
+
+
+
+
+
+
+
+Holzer D., Hough R. and Burry M.  (2008) 
+ Parametric design and structural optimisation for early design exploration
+, Int J Archit Comput; 5: 625644
+
+
+
+
+
+
+
+Kackar R.N.  (1985) 
+ Off-line quality control, parameter design, and the Taguchi method
+, J Qual Technol; 17: 176 188
+
+
+
+
+
+
+
+Karhunen J. and Joutsensalo J.  (1995) 
+ Generalizations of principal component analysis, optimization problems, and neural networks
+, Neural Networks; 8: 549562
+
+
+
+
+
+
+
+Khaled N. and Smaili A.  (2005) 
+ Curve representation using principal component analysis for shape optimization of path generating mechanisms
+, Proceedings of IDETC/CIE 2005 ASME 2005 international design engineering techni- cal conferences & computers, Long Beach, CA, 2428 September 2005, pp. 18. New York: ASME",,"Anderl R. and Mendgen R. (1995) 
+ Parametric design and its impact on solid modeling applications
+, Proceedings of the third ACM symposium on solid modeling and applications, Salt Lake City, UT, 1719 May 1995, pp. 112. New York: ACM",,,,"Box G.E.P., Hunter J.S. and Hunter W.G. (2005) 
+ Statistics for experimenters: design, innovation, and discovery. 2nd ed. 
+, Hoboken, NJ: John Wiley & Sons",,,,"Bradner E., Iorio F. and Davis M.  (2014) 
+ Parameters tell the design story: ideation and abstraction in design optimization
+, Simul Ser; 46: 172197",,,,"Brown N.C. and Mueller C.T.   (2017) 
+ Designing with data: moving beyond the design space catalog
+, Proceedings of ACADIA 2017: disciplines and disruption, Cambridge, MA, 24 November 2017",,,,"Brown N.C. and Mueller C.T.  (2017) 
+ Automated performance-based design space simplification for parametric structural design
+, Proceedings of the IASS annual symposium 2017, Hamburg, 2528 September 2017",,,,"Chaszar A. and Joyce S.C. (2016) 
+ Generating freedom: questions of flexibility in digital design and architectural computa- tion
+, Int J Archit Comput; 14: 167181",,,,"Chen K.W., Janssen P. and Schlueter A.  (2015) 
+ Analysing populations of design variants using clustering and archetypal analysis
+, Proceedings of the 33rd eCAADe conference, Vienna, 1618 September 2015, vol. 1, pp. 251260",,,,"Conti Z.X. and Kaijima S. (2017) 
+ Enabling inference in performance-driven design exploration
+, De Rycke K, Gengnagel C, Baverel O, et al. (eds) Humanizing digital reality: design modelling symposium Paris 2017 . Singapore: Springer Nature, pp. 177188",,,,"Cross N., Dorst K., Roozenburg N. et al. (1992) 
+ Research in design thinking
+, Delft: Delft University Press",,,,"Cross N., Naughton J. and Walker D. (1981) 
+ Design method and scientific method
+, Des Stud; 2: 195201",,,,"Derix C. and Jagannath P. (2014) 
+ Near futures: associative archetypes
+, Archit Des; 84: 130135",,,,"Dorst K. (2011) 
+ The core of design thinking and its application
+, Des Stud; 32: 521532",,,,"Harding J.  (2016) 
+ Dimensionality reduction for parametric design exploration
+, Adriaenssens S, Gramazio F, Kohler M, et al. (eds) Advances in architectural geometry 2016 . Zurich: vdf Hochschulverlag, pp. 204221",,,,"Harding J. and Shepherd P.  (2017) 
+ Meta-parametric design
+, Des Stud; 52: 7395",,,,"Hardoon D.R., Szedmak S. and Shawe-Taylor J.  (2004) 
+ Canonical correlation analysis: an overview with application to learning methods
+, Neural Comput; 16: 26392664",,,,"Haymaker J.  (2012) 
+ Expanding Design Spaces
+, Frontiers of Engineering: Reports on Leading-Edge Engineering from the 2011 Symposium . Washington, DC: The National Academies Press, pp. 8996",,,,"Holzer D., Hough R. and Burry M.  (2008) 
+ Parametric design and structural optimisation for early design exploration
+, Int J Archit Comput; 5: 625644",,,,"Kackar R.N.  (1985) 
+ Off-line quality control, parameter design, and the Taguchi method
+, J Qual Technol; 17: 176 188",,,,"Karhunen J. and Joutsensalo J.  (1995) 
+ Generalizations of principal component analysis, optimization problems, and neural networks
+, Neural Networks; 8: 549562",,,,"Khaled N. and Smaili A.  (2005) 
+ Curve representation using principal component analysis for shape optimization of path generating mechanisms
+, Proceedings of IDETC/CIE 2005 ASME 2005 international design engineering techni- cal conferences & computers, Long Beach, CA, 2428 September 2005, pp. 18. New York: ASME",,
+11,2019/08/07 12:04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,186 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56
+0,ecaade2020_018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Sato, Gen, Ishizawa, Tsukasa, Iseda, Hajime and Kitahara, Hideo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Automatic Generation of the Schematic Mechanical System Drawing by Generative Adversarial Network,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Werner, L and Koering, D (eds.), Anthropologic: Architecture and Fabrication in the cognitive age - Proceedings of the 38th eCAADe Conference - Volume 1, TU Berlin, Berlin, Germany, 16-18 September 2020, pp. 403-410",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In the front-loaded project workflow, mechanical, electrical, and plumbing (MEP) design requires precision from the beginning of the design phase. Leveraging insights from as-built drawings during the early design stage can be beneficial to design enhancement. This study proposes a GAN (Generative Adversarial Networks)-based system which populates the fire extinguishing (FE) system onto the architectural drawing image as its input. An algorithm called Pix2Pix with the improved loss function enabled such generation. The algorithm was trained by the dataset, which includes pairs of as-built building plans with and without FE equipment. A novel index termed Piping Coverage Rate was jointly proposed to evaluate the obtained results. The system produces the output within 45 seconds, which is drastically faster than the conventional manual workflow. The system realizes the prompt engineering study learned from past as-built information, which contributes to further the data-driven decision making.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Generative Adversarial Network; MEP; as-built drawing; automated design; data-driven design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,satou.gen@takenaka.co.jp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (3,398,509 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Cao, J, Guo, Y, Wu, Q, Shen, C, Huang, J and Tan, M (2018) 
+ Adversarial Learning with Local Coordinate Coding
+, Proceedings of the 35th International Conference on Machine Learning(PMLR), pp. 707-715
+
+
+
+
+
+
+
+Chen, Q, Wu, Q, Tang, R, Wang, Y, Wang, S and Tan, M (2020) 
+ Intelligent Home 3D: Automatic 3D-House Design from Linguistic Descriptions Only
+, Proceedings of Computer Vision and Pattern Recognition
+
+
+
+
+
+
+
+Goodfellow, JI, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative Adversarial Networks
+, Proceedings of the International Conference on Neural Information Processing Systems (NIPS), pp. 2672-2680
+
+
+
+
+
+
+
+Ishizawa, T, Xiao, Y and Ikeda, Y (2018) 
+ Analyzing BIM Protocols And Users Surveys in Japan
+, Proceedings of The 23rd Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA), Beijing, China
+
+
+
+
+
+
+
+Isola, P, Zhu, JY, Zhou, T and Efros, AA (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+
+
+
+
+
+
+
+Kaneko, S, Murase, I and Igarashi, S (2002) 
+ Robust image registration by increment sign correlation
+, Pattern Recognition, Volume 35, Issue 10(https://doi.org/10.1016/S0031-3203(01)00177-7Get rights and content), pp. Pages 2223-2234
+
+
+
+
+
+
+
+Krizhevsky, A, Sutskever, H and Hinton, G (2012) 
+ ImageNet Classification with Deep Convolutional Neural Networks
+, The Conference and Workshop on Neural Information Processing Systems (NIPS), Stateline
+
+
+
+
+
+
+
+Lu, Q and Wong, HY (2018) 
+ A BIM-based approach to automate the design and coordination process of mechanical, electrical, and plumbing systems
+, HKIE Transactions, 25(https://doi.org/10.1080/1023697X.2018.1537813), pp. 273-280
+
+
+
+
+
+
+
+Okamura, S, Nakanishi, K and Fujioka, Y (1969) 
+ Theoretical Study on Sprinkler Sprays
+, Transactions of the Agricultural Engineering Society, 29, pp. 14-21
+
+
+
+
+
+
+
+Radford, A, Metz, L and Chintala, S (2016) 
+ Unsupervised representation learning with deep convolutional generative adversarial networks.
+, Conference on Learning Representations (ICLR)
+
+
+
+
+
+
+
+Ullah, F, Kaneko, S and Igarashi, S (2000) 
+ Object Search Using Orientation Code Matching
+, IAPR Workshop on Machine Vision Applications, Tokyo
+
+
+
+
+
+
+
+Wang, L and Leite, F (2016) 
+ Formalized knowledge representation for spatial conflict coordination of mechanical, electrical and plumbing (MEP) systems in new building projects
+, Automation in Construction, 64(https://doi.org/10.1016/j.autcon.2015.12.020), pp. 20-26
+
+
+
+
+
+
+
+Wang, Z, Simoncelli, EP and Bovik, EC (2003) 
+ Multi-scale structural similarity for image quality assessment
+, Proceedings of the 37th IEEE Asilomar Conference on Signals, Systems and Computers
+
+
+
+
+
+
+
+Zeiler, M and Fergus, R (2014) 
+ Visualizing and Understanding Convolutional Networks
+, The European Conference on Computer Vision, Zurich, pp. 818-833",,"Cao, J, Guo, Y, Wu, Q, Shen, C, Huang, J and Tan, M (2018) 
+ Adversarial Learning with Local Coordinate Coding
+, Proceedings of the 35th International Conference on Machine Learning(PMLR), pp. 707-715",,,,"Chen, Q, Wu, Q, Tang, R, Wang, Y, Wang, S and Tan, M (2020) 
+ Intelligent Home 3D: Automatic 3D-House Design from Linguistic Descriptions Only
+, Proceedings of Computer Vision and Pattern Recognition",,,,"Goodfellow, JI, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative Adversarial Networks
+, Proceedings of the International Conference on Neural Information Processing Systems (NIPS), pp. 2672-2680",,,,"Ishizawa, T, Xiao, Y and Ikeda, Y (2018) 
+ Analyzing BIM Protocols And Users Surveys in Japan
+, Proceedings of The 23rd Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA), Beijing, China",,,,"Isola, P, Zhu, JY, Zhou, T and Efros, AA (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",,,,"Kaneko, S, Murase, I and Igarashi, S (2002) 
+ Robust image registration by increment sign correlation
+, Pattern Recognition, Volume 35, Issue 10(https://doi.org/10.1016/S0031-3203(01)00177-7Get rights and content), pp. Pages 2223-2234",,,,"Krizhevsky, A, Sutskever, H and Hinton, G (2012) 
+ ImageNet Classification with Deep Convolutional Neural Networks
+, The Conference and Workshop on Neural Information Processing Systems (NIPS), Stateline",,,,"Lu, Q and Wong, HY (2018) 
+ A BIM-based approach to automate the design and coordination process of mechanical, electrical, and plumbing systems
+, HKIE Transactions, 25(https://doi.org/10.1080/1023697X.2018.1537813), pp. 273-280",,,,"Okamura, S, Nakanishi, K and Fujioka, Y (1969) 
+ Theoretical Study on Sprinkler Sprays
+, Transactions of the Agricultural Engineering Society, 29, pp. 14-21",,,,"Radford, A, Metz, L and Chintala, S (2016) 
+ Unsupervised representation learning with deep convolutional generative adversarial networks.
+, Conference on Learning Representations (ICLR)",,,,"Ullah, F, Kaneko, S and Igarashi, S (2000) 
+ Object Search Using Orientation Code Matching
+, IAPR Workshop on Machine Vision Applications, Tokyo",,,,"Wang, L and Leite, F (2016) 
+ Formalized knowledge representation for spatial conflict coordination of mechanical, electrical and plumbing (MEP) systems in new building projects
+, Automation in Construction, 64(https://doi.org/10.1016/j.autcon.2015.12.020), pp. 20-26",,,,"Wang, Z, Simoncelli, EP and Bovik, EC (2003) 
+ Multi-scale structural similarity for image quality assessment
+, Proceedings of the 37th IEEE Asilomar Conference on Signals, Systems and Computers",,,,"Zeiler, M and Fergus, R (2014) 
+ Visualizing and Understanding Convolutional Networks
+, The European Conference on Computer Vision, Zurich, pp. 818-833",,
+11,2020/09/09 09:52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

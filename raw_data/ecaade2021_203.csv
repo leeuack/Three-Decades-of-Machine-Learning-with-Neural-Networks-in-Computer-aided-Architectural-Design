@@ -1,0 +1,234 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72
+0,ecaade2021_203,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Arora, Hardik, Bielski, Jessica, Eisenstadt, Viktor, Langenhan, Christoph, Ziegler, Christoph, Althoff, Klaus-Dieter and Dengel, Andreas",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Consistency Checker - An automatic constraint-based evaluator for housing spatial configurations,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 2, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 351-358",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The gradual rise of artificial intelligence (AI) and its increasing visibility among many research disciplines affected Computer-Aided Architectural Design (CAAD). Architectural deep learning (DL) approaches are being developed and published on a regular basis, such as retrieval (Sharma et al. 2017) or design style manipulation (Newton 2019; Silvestre et al. 2016). However, there seems to be no method to evaluate highly constrained spatial configurations for specific architectural domains (such as housing or office buildings) based on basic architectural principles and everyday practices. This paper introduces an automatic constraint-based consistency checker to evaluate the coherency of semantic spatial configurations of housing construction using a small set of design principles to evaluate our DL approaches. The consistency checker informs about the overall performance of a spatial configuration followed by whether it is open/closed and the constraints it didn't satisfy. This paper deals with the relation of spaces processed as mathematically formalized graphs contrary to existing model checking software like Solibri.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"model checking, building information modeling, deep learning, data quality",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,hardik.arora@dfki.de,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (749,141 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Damski, JC and Gero, JJ (1997) 
+ AN EVOLUTIONARY APPROACH TO GENERATING CONSTRAINT-BASED SPACE LAYOUT TOPOLOGIES
+, CAAD Futures 1997
+
+
+
+
+
+
+
+Elango, M and Devadas, M (2014) 
+ Identification of Parameters for Evaluating Architectural Design. - A Case of Housing in Hot and Humid Region, Chennai City, India
+, Proceedings of ARCHDESIGN / Architectural Design Conference on Design Methodologies
+
+
+
+
+
+
+
+Elango, M and Devdas, M (2014) 
+ Multi-Criteria Analysis of the Design Decisions In Architectural Design Process during the Pre-Design Stage
+, International Journal of Engineering and Technology, 6, pp. 1033-1046
+
+
+
+
+
+
+
+Gann, D, Salter, A and Whyte, J (2003) 
+ Design Quality Indicator as a tool for thinking
+, Building Research and Information, 31, pp. 318-333
+
+
+
+
+
+
+
+Harputlugil, T, Gultekin, A, Prins, M and Topcu, YI (2014) 
+ Architectural Design Quality Assessment Based On Analytic Hierarchy Process: A Case Study
+, Journal of The Faculty of Architecture, 3, pp. 139-161
+
+
+
+
+
+
+
+Langenhan, C and Petzold, F (2010) 
+ The Fingerprint of Architecture: Sketch-Based Design Methods of Researching Building Layouts through the Semantic Fingerprint Of FloorPlans
+, Journal of Architecture and Modern Information Technologies, 4, pp. 4-13
+
+
+
+
+
+
+
+Langenhan, C and Petzold, F (2015) 
+ BEYOND THE BUBBLE-Computer-aided topological analysis and parametric design of room configurations in university education
+, Proceedings of eCAADe 2015, Vienna
+
+
+
+
+
+
+
+Langenhan, C, Weber, M, Liwicki, M, Petzold, F and Dengel, A (2013) 
+ Graph-based retrieval of building information models for supporting the early design stages
+, Advanced Engineering Informatics, 27(4), pp. 413-426
+
+
+
+
+
+
+
+Laseau, P (2000) 
+ Graphic Thinking for Architects and Designers
+, John Wiley & Sons
+
+
+
+
+
+
+
+Newton, D (2019) 
+ Generative Deep Learning in Architectural Design
+, Technology|Architecture + Design, 3, pp. 176-189
+
+
+
+
+
+
+
+Purcell, PA, Mitchell, WJ and McCullough, M (1990) 
+ The Electronic design studio: Knowledge and media in the computer era
+, MIT Press
+
+
+
+
+
+
+
+Richter, K (2010) 
+ Augmenting Designers' Memory: Case Based Reasoning in der Architektur
+, Ph.D. Thesis, Bauhaus-Universität Weimar
+
+
+
+
+
+
+
+Rittel, HWJ and Weber, MM (1973) 
+ Dilemmas in a General Theory of Planning
+, Policy Sciences, 4, pp. 155-169
+
+
+
+
+
+
+
+Roith, J, Langenhan, C and Petzold, F (2017) 
+ Supporting the building design process with graph-based methods using centrally coordinated federated databases
+, Visualization in Engineering, 5, p. Article 20
+
+
+
+
+
+
+
+Sessions, V and Valtorta, M (2006) 
+ The Effects of Data Quality on Machine Learning Algorithms
+, Proceedings of ICIQ 2006
+
+
+
+
+
+
+
+Sharma, D, Gupta, N, Chattopadhyay, C and Mehta, S (2017) 
+ DANIEL: A Deep Architecture for Automatic Analysis and Retrieval of Building Floor Plans
+, 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), 01, pp. 420-425
+
+
+
+
+
+
+
+Silvestre, J, Ikeda, F and Guéna, F (2016) 
+ Artificial imagination of architecture with deep convolutional neural network ""Laissez-faire"": Loss of control in the esquisse phase
+, CAADRIA 2016, 21st International Conference on Computer-Aided Architectural Design Research in Asia - Living Systems and Micro-Utopias: Towards Continuous Designing
+
+
+
+
+
+
+
+Sun, C, Hsiao, CW, Sun, M and Chen, HT (2019) 
+ Horizonnet: Learning room layout with 1d representation and pano stretch data augmentation
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2019",,"Damski, JC and Gero, JJ (1997) 
+ AN EVOLUTIONARY APPROACH TO GENERATING CONSTRAINT-BASED SPACE LAYOUT TOPOLOGIES
+, CAAD Futures 1997",,,,"Elango, M and Devadas, M (2014) 
+ Identification of Parameters for Evaluating Architectural Design. - A Case of Housing in Hot and Humid Region, Chennai City, India
+, Proceedings of ARCHDESIGN / Architectural Design Conference on Design Methodologies",,,,"Elango, M and Devdas, M (2014) 
+ Multi-Criteria Analysis of the Design Decisions In Architectural Design Process during the Pre-Design Stage
+, International Journal of Engineering and Technology, 6, pp. 1033-1046",,,,"Gann, D, Salter, A and Whyte, J (2003) 
+ Design Quality Indicator as a tool for thinking
+, Building Research and Information, 31, pp. 318-333",,,,"Harputlugil, T, Gultekin, A, Prins, M and Topcu, YI (2014) 
+ Architectural Design Quality Assessment Based On Analytic Hierarchy Process: A Case Study
+, Journal of The Faculty of Architecture, 3, pp. 139-161",,,,"Langenhan, C and Petzold, F (2010) 
+ The Fingerprint of Architecture: Sketch-Based Design Methods of Researching Building Layouts through the Semantic Fingerprint Of FloorPlans
+, Journal of Architecture and Modern Information Technologies, 4, pp. 4-13",,,,"Langenhan, C and Petzold, F (2015) 
+ BEYOND THE BUBBLE-Computer-aided topological analysis and parametric design of room configurations in university education
+, Proceedings of eCAADe 2015, Vienna",,,,"Langenhan, C, Weber, M, Liwicki, M, Petzold, F and Dengel, A (2013) 
+ Graph-based retrieval of building information models for supporting the early design stages
+, Advanced Engineering Informatics, 27(4), pp. 413-426",,,,"Laseau, P (2000) 
+ Graphic Thinking for Architects and Designers
+, John Wiley & Sons",,,,"Newton, D (2019) 
+ Generative Deep Learning in Architectural Design
+, Technology|Architecture + Design, 3, pp. 176-189",,,,"Purcell, PA, Mitchell, WJ and McCullough, M (1990) 
+ The Electronic design studio: Knowledge and media in the computer era
+, MIT Press",,,,"Richter, K (2010) 
+ Augmenting Designers' Memory: Case Based Reasoning in der Architektur
+, Ph.D. Thesis, Bauhaus-Universität Weimar",,,,"Rittel, HWJ and Weber, MM (1973) 
+ Dilemmas in a General Theory of Planning
+, Policy Sciences, 4, pp. 155-169",,,,"Roith, J, Langenhan, C and Petzold, F (2017) 
+ Supporting the building design process with graph-based methods using centrally coordinated federated databases
+, Visualization in Engineering, 5, p. Article 20",,,,"Sessions, V and Valtorta, M (2006) 
+ The Effects of Data Quality on Machine Learning Algorithms
+, Proceedings of ICIQ 2006",,,,"Sharma, D, Gupta, N, Chattopadhyay, C and Mehta, S (2017) 
+ DANIEL: A Deep Architecture for Automatic Analysis and Retrieval of Building Floor Plans
+, 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), 01, pp. 420-425",,,,"Silvestre, J, Ikeda, F and Guéna, F (2016) 
+ Artificial imagination of architecture with deep convolutional neural network ""Laissez-faire"": Loss of control in the esquisse phase
+, CAADRIA 2016, 21st International Conference on Computer-Aided Architectural Design Research in Asia - Living Systems and Micro-Utopias: Towards Continuous Designing",,,,"Sun, C, Hsiao, CW, Sun, M and Chen, HT (2019) 
+ Horizonnet: Learning room layout with 1d representation and pano stretch data augmentation
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2019",,
+11,2021/08/11 08:46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

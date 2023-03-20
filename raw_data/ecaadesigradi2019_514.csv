@@ -1,0 +1,210 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64
+0,ecaadesigradi2019_514,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"de Miguel, Jaime, Villafa?e, Maria Eugenia, Pikorec, Luka and Sancho-Caparrini, Fernando",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Deep Form Finding - Using Variational Autoencoders for deep form finding of structural typologies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 1, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 71-80",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In this paper, we are aiming to present a methodology for generation, manipulation and form finding of structural typologies using variational autoencoders, a machine learning model based on neural networks. We are giving a detailed description of the neural network architecture used as well as the data representation based on the concept of a 3D-canvas with voxelized wireframes. In this 3D-canvas, the input geometry of the building typologies is represented through their connectivity map and subsequently augmented to increase the size of the training set. Our variational autoencoder model then learns a continuous latent distribution of the input data from which we can sample to generate new geometry instances, essentially hybrids of the initial input geometries. Finally, we present the results of these computational experiments and lay out the conclusions as well as outlook for future research in this field.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,artificial intelligence; deep neural networks; variational autoencoders; generative design; form finding; structural design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADeSIGraDi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,luka.piskorec@aalto.fi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (17,399,674 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Cudzik, J and Radziszewski, K (2018) 
+ Artificial Intelligence Aided Architectural Design
+, Proceedings of the 36th eCAADe Conference - Volume 1
+
+
+
+
+
+
+
+Doersch, C (2016) 
+ Tutorial on Variational Autoencoders
+, arXiv preprint, arXiv:1606.05908
+
+
+
+
+
+
+
+Goodfellow, I, Bengio, Y and Courville, A (2016) 
+ Deep Learning
+, MIT Press
+
+
+
+
+
+
+
+Gregor, K, Danihelka, I, Graves, A, Rezende, D and Wierstra, D (2015) 
+ Draw: A recurrent neural network for image generation
+, ICCV 2015
+
+
+
+
+
+
+
+Ha, D and Eck, D (2017) 
+ A neural representation of sketch drawings
+, arXiv preprint, arXiv:1704.03477
+
+
+
+
+
+
+
+Kelly, T, Guerrero, P, Steed, A, Wonka, P and Mitra, NJ (2018) 
+ FrankenGAN: Guided Detail Synthesis for Building Mass-Models Using Style-Synchonized GANs
+, arXiv preprint, arXiv:1806.07179
+
+
+
+
+
+
+
+Kingma, DP and Welling, M (2014) 
+ Auto-encoding variational Bayes
+, ICLR 2014
+
+
+
+
+
+
+
+Krizhevsky, A, Sutskever, I and Hinton, G (2012) 
+ Imagenet classification with deep convolutional neural networks
+, NIPS 2012
+
+
+
+
+
+
+
+Luo, D, Wang, J and Xu, W (2018) 
+ Applied Automatic Machine Learning Process for Material Computation
+, Proceedings of the 36th eCAADe Conference - Volume 1
+
+
+
+
+
+
+
+Radford, A, Metz, L and Chintala, S (2016) 
+ Unsupervised representation learning with deep convolutional generative adversarial networks
+, arXiv preprint, arXiv:1511.06434
+
+
+
+
+
+
+
+Sohn, K, Lee, H and Yan, X (2015) 
+ Learning structured output representation using deep conditional generative models
+, NIPS 2015
+
+
+
+
+
+
+
+Wang, TY, Cylan, D, Popovic, J and Mitra, NJ (2018) 
+ Learning a shared shape space for multimodal garment design
+, arXiv preprint, arXiv:1806.11335
+
+
+
+
+
+
+
+White, T (2016) 
+ Sampling generative networks
+, arXiv preprint, arXiv:1609.04468
+
+
+
+
+
+
+
+Wu, J, Zhang, C, Xue, T, Freeman, WT and Tenenbaum, JB (2016) 
+ Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling
+, arXiv preprint, arXiv:1610.07584
+
+
+
+
+
+
+
+Wu, K and Kilian, A (2018) 
+ Designing Natural Wood Log Structures with Stochastic Assembly and Deep Learning
+, Robotic Fabrication in Architecture, Art and Design 2018
+
+
+
+
+
+
+
+Yetiº, G, Yetkin, O, Moon, K and K?l?ç, Ö (2018) 
+ A Novel Approach for Classification of Structural Elements in a 3D Model by Supervised Learning
+, Proceedings of the 36th eCAADe Conference - Volume 1",,"Cudzik, J and Radziszewski, K (2018) 
+ Artificial Intelligence Aided Architectural Design
+, Proceedings of the 36th eCAADe Conference - Volume 1",,,,"Doersch, C (2016) 
+ Tutorial on Variational Autoencoders
+, arXiv preprint, arXiv:1606.05908",,,,"Goodfellow, I, Bengio, Y and Courville, A (2016) 
+ Deep Learning
+, MIT Press",,,,"Gregor, K, Danihelka, I, Graves, A, Rezende, D and Wierstra, D (2015) 
+ Draw: A recurrent neural network for image generation
+, ICCV 2015",,,,"Ha, D and Eck, D (2017) 
+ A neural representation of sketch drawings
+, arXiv preprint, arXiv:1704.03477",,,,"Kelly, T, Guerrero, P, Steed, A, Wonka, P and Mitra, NJ (2018) 
+ FrankenGAN: Guided Detail Synthesis for Building Mass-Models Using Style-Synchonized GANs
+, arXiv preprint, arXiv:1806.07179",,,,"Kingma, DP and Welling, M (2014) 
+ Auto-encoding variational Bayes
+, ICLR 2014",,,,"Krizhevsky, A, Sutskever, I and Hinton, G (2012) 
+ Imagenet classification with deep convolutional neural networks
+, NIPS 2012",,,,"Luo, D, Wang, J and Xu, W (2018) 
+ Applied Automatic Machine Learning Process for Material Computation
+, Proceedings of the 36th eCAADe Conference - Volume 1",,,,"Radford, A, Metz, L and Chintala, S (2016) 
+ Unsupervised representation learning with deep convolutional generative adversarial networks
+, arXiv preprint, arXiv:1511.06434",,,,"Sohn, K, Lee, H and Yan, X (2015) 
+ Learning structured output representation using deep conditional generative models
+, NIPS 2015",,,,"Wang, TY, Cylan, D, Popovic, J and Mitra, NJ (2018) 
+ Learning a shared shape space for multimodal garment design
+, arXiv preprint, arXiv:1806.11335",,,,"White, T (2016) 
+ Sampling generative networks
+, arXiv preprint, arXiv:1609.04468",,,,"Wu, J, Zhang, C, Xue, T, Freeman, WT and Tenenbaum, JB (2016) 
+ Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling
+, arXiv preprint, arXiv:1610.07584",,,,"Wu, K and Kilian, A (2018) 
+ Designing Natural Wood Log Structures with Stochastic Assembly and Deep Learning
+, Robotic Fabrication in Architecture, Art and Design 2018",,,,"Yetiº, G, Yetkin, O, Moon, K and K?l?ç, Ö (2018) 
+ A Novel Approach for Classification of Structural Elements in a 3D Model by Supervised Learning
+, Proceedings of the 36th eCAADe Conference - Volume 1",,
+11,2019/08/26 20:24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

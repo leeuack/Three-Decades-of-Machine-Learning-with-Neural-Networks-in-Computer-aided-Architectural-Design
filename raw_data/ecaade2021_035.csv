@@ -1,0 +1,138 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40
+0,ecaade2021_035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Newton, David",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Visualizing Deep Learning Models for Urban Health Analysis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 1, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 527-536",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"As humanity has become increasingly urbanized, physical and mental health problems have increased significantly among urban populations with a combined cost of treating these diseases estimated to be in the trillions of dollars. In parallel to these developments, a growing body of research suggests that the design of the built environment has significant correlations with both physical and mental health outcomes. This research, however, has been limited in its ability to make use of large remote sensing datasets to identify specific design features at the neighborhood scale that correlate with health outcomes. The development of methods that can efficiently find such correlations from ubiquitous remote sensing datasets, such as satellite images, would therefore allow researchers a greater level of insight into how specific urban planning and design features might relate to health. This research contributes knowledge on a novel mixed method workflow to address this issue.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Deep Learning; Urban Planning; Health; Artificial Intelligence; Remote Sensing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,david.newton@unl.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (15,137,158 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Chollet, F (2017) 
+ Xception: Deep learning with depthwise separable convolutions
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1251-1258
+
+
+
+
+
+
+
+Dumbaugh, E and Rae, R (2009) 
+ Safe urban form: Revisiting the relationship between community design and traffic safety
+, Journal of the American Planning Association, 75(3), pp. 309-329
+
+
+
+
+
+
+
+Jackson, RJ (2003) 
+ The impact of the built environment on health: an emerging field
+, Jackson RJ. The impact of the built environment on health: an emerging field. Am J Public Health. 2003;93(9):1382-1384. doi:10.2105/ajph.93.9.1382, 93(9), pp. 1382-1384
+
+
+
+
+
+
+
+Li, F, Harmer, P, Cardinal, BJ and Vongjaturapat, N (2009) 
+ Built environment and changes in blood pressure in middle aged and older adults
+, Preventive medicine, 48(3), pp. 237-241
+
+
+
+
+
+
+
+Lopez-Zetina, J, Lee, H and Friis, R (2006) 
+ The link between obesity and the built environment. Evidence from an ecological analysis of obesity and vehicle miles of travel in California
+, Health & place, 12(4), pp. 656-664
+
+
+
+
+
+
+
+Maharana, A and Nsoesie, EO (2018) 
+ Use of deep learning to examine the association of the built environment with prevalence of neighborhood adult obesity
+, JAMA network open, 1(4), pp. e181535-e181535
+
+
+
+
+
+
+
+Marshall, WE, Garrick, N, Piatkowski, DP and Newton, D (2020) 
+ Community design, street networks, and public health
+, Nieuwenhuijsen, Khreis, M. H. (eds), Advances in Transportation and Health, Elsevier, pp. 371-388
+
+
+
+
+
+
+
+Müller, G, Harhoff, R, Rahe, C and Berger, K (2018) 
+ Inner-city green space and its association with body mass index and prevalent type 2 diabetes: a cross-sectional study in an urban German city
+, BMJ open, 8(1), p. e019062
+
+
+
+
+
+
+
+Piaggesi, S, Gauvin, L, Tizzoni, M, Cattuto, C, Adler, N, Verhulst, S, Young, A, Price, R, Ferres, L and Panisson, A (2019) 
+ Predicting city poverty using satellite imagery
+, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, pp. 90-96
+
+
+
+
+
+
+
+Simonyan, K and Zisserman, A (2014) 
+ Very deep convolutional networks for large-scale image recognition
+, arXiv preprint arXiv:1409.1556, 7, pp. 112-120",,"Chollet, F (2017) 
+ Xception: Deep learning with depthwise separable convolutions
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1251-1258",,,,"Dumbaugh, E and Rae, R (2009) 
+ Safe urban form: Revisiting the relationship between community design and traffic safety
+, Journal of the American Planning Association, 75(3), pp. 309-329",,,,"Jackson, RJ (2003) 
+ The impact of the built environment on health: an emerging field
+, Jackson RJ. The impact of the built environment on health: an emerging field. Am J Public Health. 2003;93(9):1382-1384. doi:10.2105/ajph.93.9.1382, 93(9), pp. 1382-1384",,,,"Li, F, Harmer, P, Cardinal, BJ and Vongjaturapat, N (2009) 
+ Built environment and changes in blood pressure in middle aged and older adults
+, Preventive medicine, 48(3), pp. 237-241",,,,"Lopez-Zetina, J, Lee, H and Friis, R (2006) 
+ The link between obesity and the built environment. Evidence from an ecological analysis of obesity and vehicle miles of travel in California
+, Health & place, 12(4), pp. 656-664",,,,"Maharana, A and Nsoesie, EO (2018) 
+ Use of deep learning to examine the association of the built environment with prevalence of neighborhood adult obesity
+, JAMA network open, 1(4), pp. e181535-e181535",,,,"Marshall, WE, Garrick, N, Piatkowski, DP and Newton, D (2020) 
+ Community design, street networks, and public health
+, Nieuwenhuijsen, Khreis, M. H. (eds), Advances in Transportation and Health, Elsevier, pp. 371-388",,,,"Müller, G, Harhoff, R, Rahe, C and Berger, K (2018) 
+ Inner-city green space and its association with body mass index and prevalent type 2 diabetes: a cross-sectional study in an urban German city
+, BMJ open, 8(1), p. e019062",,,,"Piaggesi, S, Gauvin, L, Tizzoni, M, Cattuto, C, Adler, N, Verhulst, S, Young, A, Price, R, Ferres, L and Panisson, A (2019) 
+ Predicting city poverty using satellite imagery
+, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, pp. 90-96",,,,"Simonyan, K and Zisserman, A (2014) 
+ Very deep convolutional networks for large-scale image recognition
+, arXiv preprint arXiv:1409.1556, 7, pp. 112-120",,
+11,2021/08/11 08:45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

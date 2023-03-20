@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ijac202018402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Mette Ramsgaard Thomsen, Paul Nicholas, Martin Tamke, Sebastian Gatz, Yuliya Sinke and Gabriella Rossi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Towards machine learning for architectural fabrication in the age of industry 4.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"International Journal of Architectural Computing vol. 18 - no. 4, 335352",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Machine Learning (ML) is opening new perspectives for architectural fabrication, as it holds the potential for the profession to shortcut the currently tedious and costly setup of digital integrated design to fabrication workflows and make these more adaptable. To establish and alter these workflows rapidly becomes a main concern with the advent of Industry 4.0 in building industry. In this article we present two projects, which presents how ML can lead to radical changes in generation of fabrication data and linking these directly to design intent. We investigate two different moments of implementation: linking performance to the generation of fabrication data (KnitCone) and integrating the ability to adapt fabrication data in realtime as response to fabrication processes (Neural-Network Steered Robotic Fabrication). Together they examine how models can employ design information as training data and be trained to by step processes within the digital chain. We detail the advantages and limitations of each experiment, we reflect on core questions and perspectives of ML for architectural fabrication: the nature of data to be used, the capacity of these algorithms to encode complexity and generalize results, their task-specificness versus their adaptability and the tradeoffs of using them with respect to conventional explicit analytical modelling.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Machine learning, architectural design, industry 4.0, digital fabrication, robotic fabrication, CNC knit, neural networks",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,journal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,martin.tamke@kadk.dk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,file.pdf ( bytes),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bhömer T, Hai-Ning M, Difeng Yu L, et al. (2019) 
+ Designing predictive tools for personalized functionalities in knitted performance wear
+, Temes de Disseny; 35: 4275
+
+
+
+
+
+
+
+Bloice MD, Roth PM and Holzinger A. (2019) 
+ Biomedical image augmentation using Augmentor
+, Bioinformatics; 35(21): 45224524
+
+
+
+
+
+
+
+Brugnaro G and Hanna S. (2017) 
+ Adaptive robotic training methods for subtractive manufacturing
+, Proceedings of the 37th annual conference of the association for computer aided design in architecture (ACADIA), 24 November 2017, pp. 164169. Cambridge, MA: Acadia Publishing Company
+
+
+
+
+
+
+
+Dezfoulian SH, Wu D and Ahmad IS. (2012) 
+ A generalized neural network approach to mobile robot navigation and obstacle avoidance
+, Intelligent autonomous systems 12: volume 1 proceedings of the 12th international conference IAS-12 (eds Lee S, Cho H, Yoon K-J, et al.), Jeju Island, Korea 2629 June 2012, pp. 2542. Berlin, Heidelberg: Springer Berlin Heidelberg
+
+
+
+
+
+
+
+Dohmen P and Rüdenauer K. (2007) 
+ Digital chains in modern architecture
+, Kieferle J and Ehlers K (eds) Predicting the future: 25th eCAADe conference proceedings. Faculty of Architecture and Civil engineering, FH Wiesbaden; pp. 801804
+
+
+
+
+
+
+
+Gandia A, Parascho S, Rust R, et al. (2019) 
+ Towards automatic path planning for robotically assembled spatial structures
+, Robotic fabrication in architecture, art and design 2018. BerlSpringer International Publishing, pp. 5973
+
+
+
+
+
+
+
+Goodfellow I, Pouget-Abadie J, Mirza M, et al. (2014) 
+ Generative adversarial nets
+, Ghahramani Z, Welling M, Cortes C, et al. (eds), Advances in neural information processing systems. Curran Associates, Inc., pp. 26722680
+
+
+
+
+
+
+
+Gupta S, Tan Y, Chia P, et al. (2020) 
+ Prototyping knit tensegrity shells: a design-to-fabrication workflow
+, SN Appl Sci; 2: 113
+
+
+
+
+
+
+
+Isola P, Zhu J-Y, Zhou T, et al. (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition, Honolulu, HI, 2126 July 2017, pp. 11251134. IEEE
+
+
+
+
+
+
+
+Kagermann H. (2015) 
+ Change through digitizationValue creation in the age of industry 4.0
+, Albach H, Meffert H, Pinkwart A, et al. (eds) Management of permanent change. Wiesbaden: Springer Fachmedien Wiesbaden, pp. 2345
+
+
+
+
+
+
+
+Karmon A, Sterman Y, Shaked T, et al. (2018) 
+ KNITIT: a computational tool for design, simulation, and fabrication of mul-tiple structured knits
+, Gershenfeld N, Levin DIW and MacCurdy R (eds) SCF 18: Proceedings of the 2nd ACM Symposium on Computational Fabrication [Internet]. MIT. http://dx.doi.org/10.1145/3213512.3213516
+
+
+
+
+
+
+
+Kaspar A, Oh T-H, Makatura L, et al. (2019) 
+ Neural inverse knitting: from images to manufacturing instructions
+, Proceedings of 36th international conference on machine learning (ICML), PMLR. Long Beach, CA, 1015 June 2019
+
+
+
+
+
+
+
+Kuderer M, Gulati S and Burgard W. (2015) 
+ Learning driving styles for autonomous vehicles from demonstration
+, IEEE international conference on robotics and automation (ICRA), 2630 May 2015, pp. 26412646. Seattle, WA: IEEE
+
+
+
+
+
+
+
+Liu Y, Li L and Yuan PF. (2019) 
+ A computational approach for knitting 3D composites preforms
+, Proceedings of the 2019 DigitalFUTURES. Singapore: Springer, pp. 232246
+
+
+
+
+
+
+
+Mayser JKH. (1990) 
+ Lot Size 1: a flexible answer to customer demands
+, Assem Automat; 10(4): 177180
+
+
+
+
+
+
+
+Mokhtar S, Sojka A and Davila CC. (2020) 
+ Conditional generative adversarial networks for pedestrian wind flow approximation
+, Chronis A and Wurtzner G (eds) Proceedings of SimAUD, 2527 May 2020, Vienna, Austria: Society for Modeling & Simulation International (SCS)
+
+
+
+
+
+
+
+Narayanan V, Wu K, Yuksel C, et al. (2019) 
+ Visual knitting machine programming
+, ACM Trans Graph; 38(4): 113
+
+
+
+
+
+
+
+Nicholas P and Rossi G. (2018) 
+ Modelling a complex fabrication system: new design tools for doubly curved metal surfaces fabricated using the English Wheel
+, Proceedings of eCAADe: computing for a better tomorrow, Lodz, Poland, 1921 September 2018, pp. 811820
+
+
+
+
+
+
+
+Nicholas P, Zwierzycki M, Norgaard Clausen E, et al. (2017) 
+ Adaptive robotic fabrication for conditions of material inconsistency increasing the geometric accuracy of incrementally formed metal panels
+, Menges A, Sheil B, Glynn R, et al. (eds) Fabricate: rethinking design and construction - proceedings of fabricate 2017. London: UCL Press, p. 114121
+
+
+
+
+
+
+
+Nicholas P. (2018) 
+ Fabrication for differentiation: towards an adaptive material practice
+, Daas M and Wit AJ (eds) Towards a robotic architecture. San Francisco, CA: ORO Editions, pp. 7687",,"Bhömer T, Hai-Ning M, Difeng Yu L, et al. (2019) 
+ Designing predictive tools for personalized functionalities in knitted performance wear
+, Temes de Disseny; 35: 4275",,,,"Bloice MD, Roth PM and Holzinger A. (2019) 
+ Biomedical image augmentation using Augmentor
+, Bioinformatics; 35(21): 45224524",,,,"Brugnaro G and Hanna S. (2017) 
+ Adaptive robotic training methods for subtractive manufacturing
+, Proceedings of the 37th annual conference of the association for computer aided design in architecture (ACADIA), 24 November 2017, pp. 164169. Cambridge, MA: Acadia Publishing Company",,,,"Dezfoulian SH, Wu D and Ahmad IS. (2012) 
+ A generalized neural network approach to mobile robot navigation and obstacle avoidance
+, Intelligent autonomous systems 12: volume 1 proceedings of the 12th international conference IAS-12 (eds Lee S, Cho H, Yoon K-J, et al.), Jeju Island, Korea 2629 June 2012, pp. 2542. Berlin, Heidelberg: Springer Berlin Heidelberg",,,,"Dohmen P and Rüdenauer K. (2007) 
+ Digital chains in modern architecture
+, Kieferle J and Ehlers K (eds) Predicting the future: 25th eCAADe conference proceedings. Faculty of Architecture and Civil engineering, FH Wiesbaden; pp. 801804",,,,"Gandia A, Parascho S, Rust R, et al. (2019) 
+ Towards automatic path planning for robotically assembled spatial structures
+, Robotic fabrication in architecture, art and design 2018. BerlSpringer International Publishing, pp. 5973",,,,"Goodfellow I, Pouget-Abadie J, Mirza M, et al. (2014) 
+ Generative adversarial nets
+, Ghahramani Z, Welling M, Cortes C, et al. (eds), Advances in neural information processing systems. Curran Associates, Inc., pp. 26722680",,,,"Gupta S, Tan Y, Chia P, et al. (2020) 
+ Prototyping knit tensegrity shells: a design-to-fabrication workflow
+, SN Appl Sci; 2: 113",,,,"Isola P, Zhu J-Y, Zhou T, et al. (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition, Honolulu, HI, 2126 July 2017, pp. 11251134. IEEE",,,,"Kagermann H. (2015) 
+ Change through digitizationValue creation in the age of industry 4.0
+, Albach H, Meffert H, Pinkwart A, et al. (eds) Management of permanent change. Wiesbaden: Springer Fachmedien Wiesbaden, pp. 2345",,,,"Karmon A, Sterman Y, Shaked T, et al. (2018) 
+ KNITIT: a computational tool for design, simulation, and fabrication of mul-tiple structured knits
+, Gershenfeld N, Levin DIW and MacCurdy R (eds) SCF 18: Proceedings of the 2nd ACM Symposium on Computational Fabrication [Internet]. MIT. http://dx.doi.org/10.1145/3213512.3213516",,,,"Kaspar A, Oh T-H, Makatura L, et al. (2019) 
+ Neural inverse knitting: from images to manufacturing instructions
+, Proceedings of 36th international conference on machine learning (ICML), PMLR. Long Beach, CA, 1015 June 2019",,,,"Kuderer M, Gulati S and Burgard W. (2015) 
+ Learning driving styles for autonomous vehicles from demonstration
+, IEEE international conference on robotics and automation (ICRA), 2630 May 2015, pp. 26412646. Seattle, WA: IEEE",,,,"Liu Y, Li L and Yuan PF. (2019) 
+ A computational approach for knitting 3D composites preforms
+, Proceedings of the 2019 DigitalFUTURES. Singapore: Springer, pp. 232246",,,,"Mayser JKH. (1990) 
+ Lot Size 1: a flexible answer to customer demands
+, Assem Automat; 10(4): 177180",,,,"Mokhtar S, Sojka A and Davila CC. (2020) 
+ Conditional generative adversarial networks for pedestrian wind flow approximation
+, Chronis A and Wurtzner G (eds) Proceedings of SimAUD, 2527 May 2020, Vienna, Austria: Society for Modeling & Simulation International (SCS)",,,,"Narayanan V, Wu K, Yuksel C, et al. (2019) 
+ Visual knitting machine programming
+, ACM Trans Graph; 38(4): 113",,,,"Nicholas P and Rossi G. (2018) 
+ Modelling a complex fabrication system: new design tools for doubly curved metal surfaces fabricated using the English Wheel
+, Proceedings of eCAADe: computing for a better tomorrow, Lodz, Poland, 1921 September 2018, pp. 811820",,,,"Nicholas P, Zwierzycki M, Norgaard Clausen E, et al. (2017) 
+ Adaptive robotic fabrication for conditions of material inconsistency increasing the geometric accuracy of incrementally formed metal panels
+, Menges A, Sheil B, Glynn R, et al. (eds) Fabricate: rethinking design and construction - proceedings of fabricate 2017. London: UCL Press, p. 114121",,,,"Nicholas P. (2018) 
+ Fabrication for differentiation: towards an adaptive material practice
+, Daas M and Wit AJ (eds) Towards a robotic architecture. San Francisco, CA: ORO Editions, pp. 7687",,
+11,2021/06/03 21:29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,138 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40
+0,ecaade2020_167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Newton, David, Piatkowski, Dan, Marshall, Wesley and Tendle, Atharva",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Deep Learning Methods for Urban Analysis and Health Estimation of Obesity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Werner, L and Koering, D (eds.), Anthropologic: Architecture and Fabrication in the cognitive age - Proceedings of the 38th eCAADe Conference - Volume 1, TU Berlin, Berlin, Germany, 16-18 September 2020, pp. 297-304",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In the 20th and 21st centuries, urban populations have increased dramatically with a whole host of impacts to human health that remain unknown. Research has shown significant correlations between design features in the built environment and human health, but this research has remained limited. A better understanding of this relationship could allow urban planners and architects to design healthier cities and buildings for an increasingly urbanized population. This research addresses this problem by using discriminative deep learning in combination with satellite imagery of census tracts to estimate rates of obesity. Data from the California Health Interview Survey is used to train a Convolutional Neural Network that uses satellite imagery of selected census tracts to estimate rates of obesity. This research contributes knowledge on methods for applying deep learning to urban health estimation, as well as, methods for identifying correlations between urban morphology and human health.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Deep Learning; Artificial Intelligence; Urban Planning; Health;  Remote Sensing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,david.newton@unl.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (11,458,428 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Chollet, F (2017) 
+ Xception: Deep learning with depthwise separable convolutions
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1251-1258
+
+
+
+
+
+
+
+Dumbaugh, E and Rae, R (2009) 
+ Safe urban form: revisiting the relationship between community design and traffic safety
+, Journal of the American Planning Association, 75, pp. 309-329
+
+
+
+
+
+
+
+Jackson, RJ (2003) 
+ The impact of the built environment on health: an emerging field
+, American Public Health Association, 1, pp. 1382-1384
+
+
+
+
+
+
+
+Jean, N, Burke, M and Xie, M (2016) 
+ Combining satellite imagery and machine learning to predict poverty
+, Science, 353, pp. 790-794
+
+
+
+
+
+
+
+Liu, W, Wang, Z and Liu, X (2017) 
+ A survey of deep neural network architectures and their applications
+, Neurocomputing, 234, pp. 11-26
+
+
+
+
+
+
+
+Lopez-Zetina, J, Lee, H and Friis, R (2006) 
+ The link between obesity and the built environment
+, Health & Place, 12, pp. 656-664
+
+
+
+
+
+
+
+Maharana, A and Nsoesie, EO (2018) 
+ Use of deep learning to examine the association of the built environment with prevalence of neighborhood adult obesity
+, JAMA network open, 1, pp. 181535-e181535
+
+
+
+
+
+
+
+Marshall, WE, Piatkowski, DP and Garrick, NW (2014) 
+ Community design, street networks, and public health
+, Journal of Transport & Health, 1, pp. 326-340
+
+
+
+
+
+
+
+Simonyan, K and Zisserman, A (2015) 
+ Very deep convolutional networks for large-scale image recognition
+, International Conference on Learning Representations
+
+
+
+
+
+
+
+Suel, E, Polak, JW and Bennett, JE (2019) 
+ Measuring social, environmental and health inequalities using deep learning and street imagery
+, Scientific Reports, 9, pp. 1-10",,"Chollet, F (2017) 
+ Xception: Deep learning with depthwise separable convolutions
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1251-1258",,,,"Dumbaugh, E and Rae, R (2009) 
+ Safe urban form: revisiting the relationship between community design and traffic safety
+, Journal of the American Planning Association, 75, pp. 309-329",,,,"Jackson, RJ (2003) 
+ The impact of the built environment on health: an emerging field
+, American Public Health Association, 1, pp. 1382-1384",,,,"Jean, N, Burke, M and Xie, M (2016) 
+ Combining satellite imagery and machine learning to predict poverty
+, Science, 353, pp. 790-794",,,,"Liu, W, Wang, Z and Liu, X (2017) 
+ A survey of deep neural network architectures and their applications
+, Neurocomputing, 234, pp. 11-26",,,,"Lopez-Zetina, J, Lee, H and Friis, R (2006) 
+ The link between obesity and the built environment
+, Health & Place, 12, pp. 656-664",,,,"Maharana, A and Nsoesie, EO (2018) 
+ Use of deep learning to examine the association of the built environment with prevalence of neighborhood adult obesity
+, JAMA network open, 1, pp. 181535-e181535",,,,"Marshall, WE, Piatkowski, DP and Garrick, NW (2014) 
+ Community design, street networks, and public health
+, Journal of Transport & Health, 1, pp. 326-340",,,,"Simonyan, K and Zisserman, A (2015) 
+ Very deep convolutional networks for large-scale image recognition
+, International Conference on Learning Representations",,,,"Suel, E, Polak, JW and Bennett, JE (2019) 
+ Measuring social, environmental and health inequalities using deep learning and street imagery
+, Scientific Reports, 9, pp. 1-10",,
+11,2020/09/09 09:52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,126 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+0,ecaade2021_017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Fukuda, Tomohiro, Nada, Hideki, Fujii, Hiroyuki and Pencreach, Yoann",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,A Motion Vector Visualization Method on a Virtual Reality Screen - Preventing virtual reality sickness for architectural investigation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 2, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 513-520",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In the age of mass customization, virtual reality (VR) allows users to virtually visualize architecture from any viewpoint they prefer and to examine the design. It is important to evaluate the movement of the virtual camera to guarantee the quality of VR content in addition to preventing VR sickness. The development of rendering methods to visualize the speed of VR cameras has begun. However, the only absolute velocity values are insufficient because the amount of movement of objects close to the camera is large, and that of distant objects is small. Therefore, this research aims to develop a visualization method of relative velocities known as motion vectors on a VR screen. A prototype of a new rendering technique has been implemented and successfully applied to a VR application for design review of a complex building. There are two rendering methods to display a gradient in RGB colors and to give a motion blur effect. This function allows VR creators to understand where in the virtual world VR sickness is likely to occur.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,virtual reality; rendering; shader; virtual reality sickness; motion vector; computer-aided architectural design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,fukuda@see.eng.osaka-u.ac.jp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (12,685,950 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Dichgans, J and Brandt, T (1978) 
+ Visual-vestibular interaction: Effects on self-motion perception and postural control
+, Held, R, Leibowitz, H.W. and Teuber, HL (eds), Perception. Handbook of Sensory Physiology, vol.8, Springer, Berlin, pp. 756-795
+
+
+
+
+
+
+
+Fukuda, T., Novak, M., Fujii, H. and Pencreach, Y. (2021) 
+ Virtual reality rendering methods for training deep learning, analysing landscapes, and preventing virtual reality sickness
+, International Journal of Architectural Computing, 19(2), pp. 190-207
+
+
+
+
+
+
+
+Groen, E.L. and Bos, J.E. (2008) 
+ Simulator sickness depends on frequency of the simulator motion mismatch: An observation
+, PRESENCE: Virtual and Augmented Reality, 17(6), pp. 584-593
+
+
+
+
+
+
+
+Kennedy, R.S., Lane, N.E., Berbaum, K.S. and Lilienthal, M.G. (1993) 
+ Simulator Sickness Questionnaire (SSQ): a new method for quantifying simulator sickness
+, International Journal of Aviation Psychology, 3(3), pp. 203-220
+
+
+
+
+
+
+
+Kreutzberg, A (2014) 
+ New Virtual Reality for Architectural Investigations
+, Proceedings of eCAADe 2014, vol. 2, Newcastle upon Tyne, pp. 253-260
+
+
+
+
+
+
+
+LaViola, J.J.Jr. (2000) 
+ A Discussion of Cybersickness in Virtual Environments
+, ACM SIGCHI Bulletin, 32, p. 47-56
+
+
+
+
+
+
+
+Lo, W.T. and So, R.H.Y. (2001) 
+ Cybersickness in the presence of scene rotational movements along different axes
+, Applied Ergonomics, 32(1), pp. 1-14
+
+
+
+
+
+
+
+Sasada, T. (1994) 
+ Open Design Environment and Collaborative Design
+, Proceedings of eCAADe 1994, Glasgow (Scotland), pp. 3-6
+
+
+
+
+
+
+
+Schnabel, M.A., Kobayashi, Y., Pencreach, Y., Bennadji, A., Choi, D., Fiamma, P., Fukuda, T., Lo, T.T., Narahara, T., Novak, M., Ron, R., Swarts, M., Terzidis, K., Tucker, T. and Vital, R. (2021) 
+ Virtual World16 - Virtual Design Collaboration for the Intersection of Academia and Industry
+, Proceedings of CAADRIA 2021, Hong Kong and Online, pp. 203-212",,"Dichgans, J and Brandt, T (1978) 
+ Visual-vestibular interaction: Effects on self-motion perception and postural control
+, Held, R, Leibowitz, H.W. and Teuber, HL (eds), Perception. Handbook of Sensory Physiology, vol.8, Springer, Berlin, pp. 756-795",,,,"Fukuda, T., Novak, M., Fujii, H. and Pencreach, Y. (2021) 
+ Virtual reality rendering methods for training deep learning, analysing landscapes, and preventing virtual reality sickness
+, International Journal of Architectural Computing, 19(2), pp. 190-207",,,,"Groen, E.L. and Bos, J.E. (2008) 
+ Simulator sickness depends on frequency of the simulator motion mismatch: An observation
+, PRESENCE: Virtual and Augmented Reality, 17(6), pp. 584-593",,,,"Kennedy, R.S., Lane, N.E., Berbaum, K.S. and Lilienthal, M.G. (1993) 
+ Simulator Sickness Questionnaire (SSQ): a new method for quantifying simulator sickness
+, International Journal of Aviation Psychology, 3(3), pp. 203-220",,,,"Kreutzberg, A (2014) 
+ New Virtual Reality for Architectural Investigations
+, Proceedings of eCAADe 2014, vol. 2, Newcastle upon Tyne, pp. 253-260",,,,"LaViola, J.J.Jr. (2000) 
+ A Discussion of Cybersickness in Virtual Environments
+, ACM SIGCHI Bulletin, 32, p. 47-56",,,,"Lo, W.T. and So, R.H.Y. (2001) 
+ Cybersickness in the presence of scene rotational movements along different axes
+, Applied Ergonomics, 32(1), pp. 1-14",,,,"Sasada, T. (1994) 
+ Open Design Environment and Collaborative Design
+, Proceedings of eCAADe 1994, Glasgow (Scotland), pp. 3-6",,,,"Schnabel, M.A., Kobayashi, Y., Pencreach, Y., Bennadji, A., Choi, D., Fiamma, P., Fukuda, T., Lo, T.T., Narahara, T., Novak, M., Ron, R., Swarts, M., Terzidis, K., Tucker, T. and Vital, R. (2021) 
+ Virtual World16 - Virtual Design Collaboration for the Intersection of Academia and Industry
+, Proceedings of CAADRIA 2021, Hong Kong and Online, pp. 203-212",,
+11,2021/08/11 08:46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

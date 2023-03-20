@@ -1,0 +1,126 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+0,ecaade2021_080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Chen, Hao, Fukuda, Tomohiro and Yabuki, Nobuyoshi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Development of an Augmented Reality System with Reflection Implementation for Landscape Design Visualization using a Planar Reflection Method in Real-Time Rendering,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 2, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 547-554",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Augmented reality (AR) in landscape design review scenarios has become an important tool that helps designers express their designs and allows stakeholders to more easily understand how the designs will look on the actual site. This study aimed to add the reflection of a virtual design model on the surface of the water in an existing AR system, thereby providing a more complete representation of the waterfront landscape design. First, we constructed an AR system using a smartphone linked to a computer. Then, a virtual surface model was predefined manually according to the water surface area on-site. A planar reflection method was introduced to generate an accurate reflection effect in real-time. Moreover, the reflection was simulated to ripple together with the water surface, providing a visually authentic look. Thus, the virtual model was able to accurately display the real-time reflection effect on the water surface in this realistic environment. Our findings indicate that future tasks could involve the implementation of other interactive optical effects for landscape design visualization, such as refraction simulation for underwater illumination design.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,augmented reality; reflection; landscape architectural design; waterscape; interactive visualization; computer-aided design in architecture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,chen.hao@it.see.eng.osaka-u.ac.jp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (7,021,737 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Akenine-Möller, T, Haines, E and Hoffman, N (2019) 
+ Real-time rendering
+, Crc Press
+
+
+
+
+
+
+
+Beug, AP (2020) 
+ Screen Space Reflection Techniques
+, Ph.D. Thesis, University of Regina
+
+
+
+
+
+
+
+Booth, NK (1989) 
+ Basic elements of landscape architectural design
+, Waveland press
+
+
+
+
+
+
+
+Gordon, E and Manosevitch, E (2010) 
+ Augmented deliberation: Merging physical and virtual interaction to engage communities in urban planning
+, New Media & Society, Vol 13, Issue 1, 2011, pp. 75-95
+
+
+
+
+
+
+
+Hu, YH, Velho, L, Tong, X, Guo, BN and Shum, H (2006) 
+ Realistic, real-time rendering of ocean waves
+, Computer Animation and Virtual Worlds, Volume17, Issue1, pp. 59-67
+
+
+
+
+
+
+
+Johanson, C (2004) 
+ Real-time water rendering--Introducing the projected grid concept
+, Master's Thesis, Lund University
+
+
+
+
+
+
+
+Kido, D, Fukuda, T and Yabuki, N (2021) 
+ Assessing future landscapes using enhanced mixed reality with semantic segmentation by deep learning
+, Advanced Engineering Informatics, Volume 48, April 2021(https://doi.org/10.1016/j.aei.2021.101281), p. 101281
+
+
+
+
+
+
+
+Milovanovic, J, Moreau, G, Siret, D and Miguet, F (2017) 
+ Virtual and augmented reality in architectural design and education
+, 17th International Conference, CAAD Futures 2017
+
+
+
+
+
+
+
+Stintzing, M, Pietsch, S and Wardenga, U (eds) (2020) 
+ How to Teach ""Landscape"" Through Games?
+, Springer Fachmedien",,"Akenine-Möller, T, Haines, E and Hoffman, N (2019) 
+ Real-time rendering
+, Crc Press",,,,"Beug, AP (2020) 
+ Screen Space Reflection Techniques
+, Ph.D. Thesis, University of Regina",,,,"Booth, NK (1989) 
+ Basic elements of landscape architectural design
+, Waveland press",,,,"Gordon, E and Manosevitch, E (2010) 
+ Augmented deliberation: Merging physical and virtual interaction to engage communities in urban planning
+, New Media & Society, Vol 13, Issue 1, 2011, pp. 75-95",,,,"Hu, YH, Velho, L, Tong, X, Guo, BN and Shum, H (2006) 
+ Realistic, real-time rendering of ocean waves
+, Computer Animation and Virtual Worlds, Volume17, Issue1, pp. 59-67",,,,"Johanson, C (2004) 
+ Real-time water rendering--Introducing the projected grid concept
+, Master's Thesis, Lund University",,,,"Kido, D, Fukuda, T and Yabuki, N (2021) 
+ Assessing future landscapes using enhanced mixed reality with semantic segmentation by deep learning
+, Advanced Engineering Informatics, Volume 48, April 2021(https://doi.org/10.1016/j.aei.2021.101281), p. 101281",,,,"Milovanovic, J, Moreau, G, Siret, D and Miguet, F (2017) 
+ Virtual and augmented reality in architectural design and education
+, 17th International Conference, CAAD Futures 2017",,,,"Stintzing, M, Pietsch, S and Wardenga, U (eds) (2020) 
+ How to Teach ""Landscape"" Through Games?
+, Springer Fachmedien",,
+11,2021/08/11 08:46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

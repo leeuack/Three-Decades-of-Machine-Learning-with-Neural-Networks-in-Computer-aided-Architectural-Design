@@ -1,0 +1,115 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32
+0,ijac201816407,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Mahankali, Ranjeeth; Brian R. Johnson and Alex T. Anderson",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Deep learning in design workflows: The elusive design pixel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"International Journal of Architectural Computing vol. 16 - no. 4, 328-340",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The recent wave of developments and research in the field of deep learning and artificial intelligence is causing the border between the intuitive and deterministic domains to be redrawn, especially in computer vision and natural language processing. As designers frequently invoke vision and language in the context of design, this article takes a step back to ask if deep learnings capabilities might be applied to design workflows, especially in architecture. In addition to addressing this general question, the article discusses one of several prototypes, BIMToVec, developed to examine the use of deep learning in design. It employs techniques like those used in natural language processing to interpret building information models. The article also proposes a homogeneous data format, provisionally called a design pixel, which can store design information as spatial-semantic maps. This would make designers intuitive thoughts more accessible to deep learning algorithms while also allowing designers to communicate abstractly with design software.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Associative logic, creative processes, deep learning, embedding vectors, BIMToVec, homogeneous design data format, 
+design pixel, idea persistence",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,journal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,rnjthmhnkl@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,file.pdf ( bytes),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bengio Y., Ducharme R., Vincent P. et al.   (2003) 
+ A neural probabilistic language model
+, J Mach Learn Res; 3: 11371155
+
+
+
+
+
+
+
+Coyne R. (1990) 
+ Tools for exploring associative reasoning in design
+, McCullough M, Mitchell WJ and Purcell P (eds) The electronic design studio: architectural knowledge and media in the computer era . Cambridge, MA: The MIT Press, pp. 91106
+
+
+
+
+
+
+
+Gero J.S. and Maher M.L. (1991) 
+ Mutation and analogy to support creativity in computer aided design
+, Schmitt GN (ed.) CAAD Futures . Zurich: ETH, pp. 261270
+
+
+
+
+
+
+
+Kalay Y.E.   (2004) 
+ Architectures new media: principles, theories, and methods of computer-aided design
+, Cambridge, MA: The MIT Press
+
+
+
+
+
+
+
+Mahankali R.  (2018) 
+ Assessing the potential applications of deep learning in design
+, Ann Arbor: University of Washington
+
+
+
+
+
+
+
+Schnabel T., Labutov I., Mimno D. et al.  (2015) 
+ Evaluation methods for unsupervised word embeddings
+, Proceedings of the 2015 conference on empirical methods in natural language processing, Lisbon, 1721 September 2015, pp. 298307. Stroudsburg, PA: The association for computational linguistics
+
+
+
+
+
+
+
+Simon H.A.  (1996) 
+ The sciences of the artificial. 3rd ed.
+, Cambridge, MA: The MIT press
+
+
+
+
+
+
+
+Van der Maaten L. and Hinton G.  (2008) 
+ Visualizing data using t-SNE
+, J Mach Learn Res; 9: 25792605",,"Bengio Y., Ducharme R., Vincent P. et al.   (2003) 
+ A neural probabilistic language model
+, J Mach Learn Res; 3: 11371155",,,,"Coyne R. (1990) 
+ Tools for exploring associative reasoning in design
+, McCullough M, Mitchell WJ and Purcell P (eds) The electronic design studio: architectural knowledge and media in the computer era . Cambridge, MA: The MIT Press, pp. 91106",,,,"Gero J.S. and Maher M.L. (1991) 
+ Mutation and analogy to support creativity in computer aided design
+, Schmitt GN (ed.) CAAD Futures . Zurich: ETH, pp. 261270",,,,"Kalay Y.E.   (2004) 
+ Architectures new media: principles, theories, and methods of computer-aided design
+, Cambridge, MA: The MIT Press",,,,"Mahankali R.  (2018) 
+ Assessing the potential applications of deep learning in design
+, Ann Arbor: University of Washington",,,,"Schnabel T., Labutov I., Mimno D. et al.  (2015) 
+ Evaluation methods for unsupervised word embeddings
+, Proceedings of the 2015 conference on empirical methods in natural language processing, Lisbon, 1721 September 2015, pp. 298307. Stroudsburg, PA: The association for computational linguistics",,,,"Simon H.A.  (1996) 
+ The sciences of the artificial. 3rd ed.
+, Cambridge, MA: The MIT press",,,,"Van der Maaten L. and Hinton G.  (2008) 
+ Visualizing data using t-SNE
+, J Mach Learn Res; 9: 25792605",,
+11,2019/08/07 12:04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

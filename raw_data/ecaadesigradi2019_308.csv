@@ -1,0 +1,90 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+0,ecaadesigradi2019_308,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Yetkin, Ozan and Gönenç Sorguç, Arzu",,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,
+3,Design Space Exploration of Initial Structural Design Alternatives via Artificial Neural Networks,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 1, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 55-60",,,,,,,,,,,,,,,,,,,,,,,,
+5,"Increasing implementation of digital tools within a design process generates exponentially growing data in each phase, and inevitably, decision making within a design space with increasing complexity will be a great challenge for the designers in the future. Hence, this research aimed to seek potentials of captured data within a design space and solution space of a truss design problem for proposing an initial novel approach to augment capabilities of digital tools by artificial intelligence where designers are allowed to make a wise guess within the initial design space via performance feedbacks from the objective space. Initial structural design and modelling phase of a truss section was selected as a material of this study since decisions within this stage affect the whole process and performance of the end product. As a method, a generic framework was proposed that can help designers to understand the trade-offs between initial structural design alternatives to make informed decisions and optimizations during the initial stage. Finally, the proposed framework was presented in a case study, and future potentials of the research were discussed.",,,,,,,,,,,,,,,,,,,,,,,,
+6,design space; objective space; structural design; artificial intelligence; machine learning; optimization,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADeSIGraDi,,,,,,,,,,,,,,,,,,,,,,,,
+8,ozan.yetkin@metu.edu.tr,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,561,741 bytes)",,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Alpaydin, E. (2016) 
+ Machine Learning: The New AI
+, MIT Press
+
+
+
+
+
+
+
+Brown, N. and Mueller, C. (2017) 
+ Designing with Data: Moving Beyond the Design Space Catalog
+, ACADIA 2017
+
+
+
+
+
+
+
+Preisinger, C. and Heimrath, M. (2014) 
+ Karamba-A Toolkit for Parametric Structural Design
+, Structural Engineering International, 24(2), pp. 217-221
+
+
+
+
+
+
+
+Rutten, D. (2010) 
+ Evolutionary Principles Applied to Problem Solving Using Galapagos
+, AAG10, Vienna
+
+
+
+
+
+
+
+Rutten, D. (2013) 
+ Galapagos: On the Logic and Limitations of Generic Solvers
+, Architectural Design, 83(2), pp. 132-135
+
+
+
+
+
+
+
+Villaggi, L., Zhao, D. and Benjamin, D. (2017) 
+ Beyond Heuristics: A Novel Design Space Model for Generative Space Planning in Architecture
+, ACADIA 2017",,"Alpaydin, E. (2016) 
+ Machine Learning: The New AI
+, MIT Press",,,,"Brown, N. and Mueller, C. (2017) 
+ Designing with Data: Moving Beyond the Design Space Catalog
+, ACADIA 2017",,,,"Preisinger, C. and Heimrath, M. (2014) 
+ Karamba-A Toolkit for Parametric Structural Design
+, Structural Engineering International, 24(2), pp. 217-221",,,,"Rutten, D. (2010) 
+ Evolutionary Principles Applied to Problem Solving Using Galapagos
+, AAG10, Vienna",,,,"Rutten, D. (2013) 
+ Galapagos: On the Logic and Limitations of Generic Solvers
+, Architectural Design, 83(2), pp. 132-135",,,,"Villaggi, L., Zhao, D. and Benjamin, D. (2017) 
+ Beyond Heuristics: A Novel Design Space Model for Generative Space Planning in Architecture
+, ACADIA 2017",,
+11,2019/08/26 20:24,,,,,,,,,,,,,,,,,,,,,,,,

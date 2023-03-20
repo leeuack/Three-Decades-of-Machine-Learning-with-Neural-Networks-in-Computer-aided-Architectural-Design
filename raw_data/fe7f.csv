@@ -1,0 +1,10 @@
+﻿,0
+0,"Schofield, A.J., Stonham,  T.J. and Mehta,  P.A."
+1,1997
+2,Automated people counting to aid lift control
+3,Automation in Construction 6 (5-6) (1997) pp. 437-445
+4,It has been suggested that the efficiency of elevator systems could be improved if lift controllers had access to accurate counts of the number of passengers waiting at each floor. Video cameras and image processing techniques represent a convenient and non-intrusive solution to the people counting problem and can produce reasonably accurate counts for moderate cost. This paper addresses the problem of people counting using video techniques not the problem of lift control. For a video based counting system to be of use it must distinguish people from other (background) objects in the field of view; the principle difficulty being due to variations in the background scene caused by changes in lighting and the movement of objects. The system discussed here uses neural networks to distinguish between parts of the background scene and non-background objects (people). This system is able to form a compact representation of multiple background images and hence deal with variations in the scene under analysis without requiring large amounts of memory or processing time.
+5,journal paper
+6,http://www.elsevier.com/locate/autcon
+7,Content-type: text/plain
+8,2003/05/15 19:23

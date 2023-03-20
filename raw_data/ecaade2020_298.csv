@@ -1,0 +1,198 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60
+0,ecaade2020_298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Zhang, Ye, Zhang, Kun, Chen, KaiDi and Xu, Zhen",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Source Material Oriented Computational Design and Robotic Construction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Werner, L and Koering, D (eds.), Anthropologic: Architecture and Fabrication in the cognitive age - Proceedings of the 38th eCAADe Conference - Volume 2, TU Berlin, Berlin, Germany, 16-18 September 2020, pp. 443-452",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The disconnection between architectural form and materiality has become an important issue in recent years. Architectural form is mainly decided by the designer, while material data, for example, the natural shape of source materials, is often treated as an afterthought which doesn't factor in decision-making directly. This study proposes a new, real-time scanning-modeling system for obtaining material information, and incorporating the data into a continuous digital chain of computational design and robotic construction. After collecting and visualizing the data, the calculation portion of the chain processes the selection of source materials and generates architectural geometry based on both human-designed rules and various shapes of materials. Finally, at the action end of the chain, an industry robot is used to fabricate the design. End-effector is designed for tightly gripping the irregular source materials. Scripts is written in Grasshopper for positioning the components and assemble them into configurations. This study also shows a pavilion developing with the continuous digital chain",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,scanning-modeling system; source material information; computational design;  robotic construction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,yaapp2012@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (15,095,189 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Brugnaro, GB, Baharlou, EB, Vasey, LV and Menges, AM (2016) 
+ Robotic softness-an adaptive robotic fabrication process for woven structures
+, Proc. CAADRIA 2016. Posthuman Frontiers: Data, Designers, and Cognitive Machines, pp. 154-163
+
+
+
+
+
+
+
+Davidova, MD (2018) 
+ Systemic approach to architectural performance: The media mix in the creative design process
+, Formakademisk, Oslo
+
+
+
+
+
+
+
+Eversmann, PE, Gramazio, FG and Kohler, MK (2017) 
+ Robotic prefabrication of timber structures: towards automated large-scale spatial assembly
+, Construction Robotics, 1(1), pp. 49-60
+
+
+
+
+
+
+
+Franco, JSF and Boyeb, EB (2009) 
+ Efficient polyhedral modeling from silhouettes
+, Proc. IEEE Symp. Efficient Polyhedral Modeling from Silhouettes, pp. 27-41
+
+
+
+
+
+
+
+Gramazio, GF, Kohler, KM and WillMann, WJ (2018) 
+ The robotic touch: How robots change architecture
+, Architektur Aktuell
+
+
+
+
+
+
+
+Holstov, AH, Famer, GF and Bridgens, BB (2017) 
+ Sustainable Materialisation of Responsive Architecture
+, Sustainability, 3, pp. 12-16
+
+
+
+
+
+
+
+Hua, HH (2017) 
+ A Bi-Directional Procedural Model for Architectural Design
+, COMPUTER GRAPHICS Forum,2017, p. 36
+
+
+
+
+
+
+
+Larson, ML, Yoshida, HY and Igarashi, TI (2019) 
+ Human -in-the-loop Fabrication of 3D surfaces with natural tree branches
+, SCF'19, Pittsburgh, PA
+
+
+
+
+
+
+
+Maarten, SM, Peter, VP, David, HD, Dimitri, CD and Wilfried, PW (2017) 
+ Cell-Based Approach for 3D Reconstruction from Incomplete Silhouettes
+, Proc. ACIVS 2017. Advanced Concepts for Intelligent Vision Systems: 18th International Conference, pp. 530-541
+
+
+
+
+
+
+
+Picon, AP (2004) 
+ Architecture and the Virtual: Towards a New Materiality
+, PRAXIS, 6, pp. 114-121
+
+
+
+
+
+
+
+Schlarp, JS, Csencsics, EC and Schitter, Georg (2019) 
+ Scanning laser triangulation sensor geometry maintaining imaging condition
+, Elsevierjournal, 52(15), pp. 301-306
+
+
+
+
+
+
+
+Snooks, RS and Jahn, GJ (2016) 
+ Closeness: On the Relationship of Multi-agent Algorithms and Robotic Fabrication
+, Robotic Fabrication in Architecture, 2016, Art and Design
+
+
+
+
+
+
+
+Sousa, JPS, Palop, CGP, Moreira, EM, Pinto, AMP, Lima, JL, Costa, PC, Costa, PC, Veiga, GV and Moreira, APM (eds) (2016) 
+ The SPIDERobot: A Cable-Robot System for On-site Construction in Architecture. Robotic Fabrication in Architecture, Art and Design
+, Springer
+
+
+
+
+
+
+
+Wu, KW and Kilian, AK (2018) 
+ Design Natural Wood Log Structures with Stochastic Assembly and Deep Learning
+, Robotic Fabrication in Architecture, 2018, Art and Design
+
+
+
+
+
+
+
+Zhu, RZ, Furxhi, OF, Marks, DM and Brady, DB (2014) 
+ Millimeter wave surface and reflectivity estimation based on sparse time of flight measurements
+, Proc. IEEE Symp. 2014 39th International Conference on Infrared, Millimeter, and Terahertz waves, pp. 1-2",,"Brugnaro, GB, Baharlou, EB, Vasey, LV and Menges, AM (2016) 
+ Robotic softness-an adaptive robotic fabrication process for woven structures
+, Proc. CAADRIA 2016. Posthuman Frontiers: Data, Designers, and Cognitive Machines, pp. 154-163",,,,"Davidova, MD (2018) 
+ Systemic approach to architectural performance: The media mix in the creative design process
+, Formakademisk, Oslo",,,,"Eversmann, PE, Gramazio, FG and Kohler, MK (2017) 
+ Robotic prefabrication of timber structures: towards automated large-scale spatial assembly
+, Construction Robotics, 1(1), pp. 49-60",,,,"Franco, JSF and Boyeb, EB (2009) 
+ Efficient polyhedral modeling from silhouettes
+, Proc. IEEE Symp. Efficient Polyhedral Modeling from Silhouettes, pp. 27-41",,,,"Gramazio, GF, Kohler, KM and WillMann, WJ (2018) 
+ The robotic touch: How robots change architecture
+, Architektur Aktuell",,,,"Holstov, AH, Famer, GF and Bridgens, BB (2017) 
+ Sustainable Materialisation of Responsive Architecture
+, Sustainability, 3, pp. 12-16",,,,"Hua, HH (2017) 
+ A Bi-Directional Procedural Model for Architectural Design
+, COMPUTER GRAPHICS Forum,2017, p. 36",,,,"Larson, ML, Yoshida, HY and Igarashi, TI (2019) 
+ Human -in-the-loop Fabrication of 3D surfaces with natural tree branches
+, SCF'19, Pittsburgh, PA",,,,"Maarten, SM, Peter, VP, David, HD, Dimitri, CD and Wilfried, PW (2017) 
+ Cell-Based Approach for 3D Reconstruction from Incomplete Silhouettes
+, Proc. ACIVS 2017. Advanced Concepts for Intelligent Vision Systems: 18th International Conference, pp. 530-541",,,,"Picon, AP (2004) 
+ Architecture and the Virtual: Towards a New Materiality
+, PRAXIS, 6, pp. 114-121",,,,"Schlarp, JS, Csencsics, EC and Schitter, Georg (2019) 
+ Scanning laser triangulation sensor geometry maintaining imaging condition
+, Elsevierjournal, 52(15), pp. 301-306",,,,"Snooks, RS and Jahn, GJ (2016) 
+ Closeness: On the Relationship of Multi-agent Algorithms and Robotic Fabrication
+, Robotic Fabrication in Architecture, 2016, Art and Design",,,,"Sousa, JPS, Palop, CGP, Moreira, EM, Pinto, AMP, Lima, JL, Costa, PC, Costa, PC, Veiga, GV and Moreira, APM (eds) (2016) 
+ The SPIDERobot: A Cable-Robot System for On-site Construction in Architecture. Robotic Fabrication in Architecture, Art and Design
+, Springer",,,,"Wu, KW and Kilian, AK (2018) 
+ Design Natural Wood Log Structures with Stochastic Assembly and Deep Learning
+, Robotic Fabrication in Architecture, 2018, Art and Design",,,,"Zhu, RZ, Furxhi, OF, Marks, DM and Brady, DB (2014) 
+ Millimeter wave surface and reflectivity estimation based on sparse time of flight measurements
+, Proc. IEEE Symp. 2014 39th International Conference on Infrared, Millimeter, and Terahertz waves, pp. 1-2",,
+11,2020/09/09 09:54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

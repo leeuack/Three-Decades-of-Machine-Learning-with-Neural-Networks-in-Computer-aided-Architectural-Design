@@ -1,0 +1,130 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+0,sigradi2015_8.289,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Felippe, Alexandre Reis; Fonseca, Raphaela Walger da; Moraes, Letícia Niero; Pereira, Fernando O. Ruttkay",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Parametric modeling for the simulation of daylight and thermo-energetic performance of buildings,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"SIGRADI 2015 [Proceedings of the 19th Conference of the Iberoamerican Society of Digital Graphics - vol. 1 - ISBN: 978-85-8039-135-0] Florianópolis, SC, Brasil 23-27 November 2015, pp. 398-404.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This study comprises the developing process of a parameterization algorithm in grasshopper forbuilding daylight and energy 
+integrated simulation considering the main daylighting key-variables. DIVA for Grasshopper plugin was used to carry out the 
+simulations in Radiance/Daysim and Energyplus. The algorithm enables several sample simulationswhile improvingprocess agility, 
+providing a graphical output of the models andminimizing the possibility of human errors. Acase study considering three different samples simulation was proposed aiming to test the algorithm. Its resultswere used to evaluatethe sample size required to train an 
+artificial neural network for modeling daylighting harvesting potential.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Parametric Modeling, Daylight, Thermo-energetic, Grasshopper, DIVA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,SIGRADI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,alexandre@labcon.ufsc.br,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,845,011 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Choo, T. S., & Janssen, P. (2013) 
+ Semi-transparent building integrated photovoltaic facades: Maximise energy savings using evolutionary multi-objective optimisation
+, Proceedings of the 18th International Conference on Computer-Aided Architectural Design Research Asia (CAADRIA 2013) (pp. 127136). Singapore
+
+
+
+
+
+
+
+Crawley, D. B. (2001) 
+ EnergyPlus: creating a new-generation building energy simulation program
+, Energy and Buildings, v.33, n.4, p.319-331. 2001
+
+
+
+
+
+
+
+Gagne, J. M. L., & Andersen, M. (2010) 
+ Multi-objetive facade optimization for daylighting design using a genetic algorithm
+, SimBuild (pp. 110117). New York City, New York
+
+
+
+
+
+
+
+Giani, M., Belfiore, C., Lobaccaro, G., Masera, G., Imperadori, M., & Frontini, F (2013) 
+ A Design approach for the solar optimization of built volumes
+, CISBAT 2013 (pp. 811). Lausanne, Switzerland
+
+
+
+
+
+
+
+Heshong, L. Daylight Metrics (2011) 
+ Heshong Mahone Group - Public Interest Energy Research
+, California Energy Commission fevereiro de 2012, p.387. 2011. (CEC-500-2012-053)
+
+
+
+
+
+
+
+Jakubiec J. A. e Reinhart, C. (2011) 
+ The Adaptive Zone  A Concept for Assessing Glare Throughout Daylit Spaces
+, Proceedings of Building Simulation, 12th Conference of International Building Performance Simulation Association. Sydney, 2011. 1416 p.
+
+
+
+
+
+
+
+Lobaccaro, G., & Masera, G. (2014) 
+ A Digital Language for a New Sustainable Urban Planning: Design and Simulation Tools for Solar Architecture
+, Buinding Simulation and optimization (p. 8)
+
+
+
+
+
+
+
+Reinhart, C. F. e Walkenhorst, O. (2001) 
+ Validation of dynamic RADIANCE-based daylight simulations for a test office with external blinds
+, Energy and Buildings, v.33, n.7, p.683-697
+
+
+
+
+
+
+
+Versage, R., Melo, A. P. e Lamberts, R. (2010) 
+ Impact of different daylighting simulation results on the prediction of total energy consuption
+, SimBuild 2010 - Fourth National Conference of IBPSA-USA. New York: IBPSA 2010",,"Choo, T. S., & Janssen, P. (2013) 
+ Semi-transparent building integrated photovoltaic facades: Maximise energy savings using evolutionary multi-objective optimisation
+, Proceedings of the 18th International Conference on Computer-Aided Architectural Design Research Asia (CAADRIA 2013) (pp. 127136). Singapore",,,,"Crawley, D. B. (2001) 
+ EnergyPlus: creating a new-generation building energy simulation program
+, Energy and Buildings, v.33, n.4, p.319-331. 2001",,,,"Gagne, J. M. L., & Andersen, M. (2010) 
+ Multi-objetive facade optimization for daylighting design using a genetic algorithm
+, SimBuild (pp. 110117). New York City, New York",,,,"Giani, M., Belfiore, C., Lobaccaro, G., Masera, G., Imperadori, M., & Frontini, F (2013) 
+ A Design approach for the solar optimization of built volumes
+, CISBAT 2013 (pp. 811). Lausanne, Switzerland",,,,"Heshong, L. Daylight Metrics (2011) 
+ Heshong Mahone Group - Public Interest Energy Research
+, California Energy Commission fevereiro de 2012, p.387. 2011. (CEC-500-2012-053)",,,,"Jakubiec J. A. e Reinhart, C. (2011) 
+ The Adaptive Zone  A Concept for Assessing Glare Throughout Daylit Spaces
+, Proceedings of Building Simulation, 12th Conference of International Building Performance Simulation Association. Sydney, 2011. 1416 p.",,,,"Lobaccaro, G., & Masera, G. (2014) 
+ A Digital Language for a New Sustainable Urban Planning: Design and Simulation Tools for Solar Architecture
+, Buinding Simulation and optimization (p. 8)",,,,"Reinhart, C. F. e Walkenhorst, O. (2001) 
+ Validation of dynamic RADIANCE-based daylight simulations for a test office with external blinds
+, Energy and Buildings, v.33, n.7, p.683-697",,,,"Versage, R., Melo, A. P. e Lamberts, R. (2010) 
+ Impact of different daylighting simulation results on the prediction of total energy consuption
+, SimBuild 2010 - Fourth National Conference of IBPSA-USA. New York: IBPSA 2010",,
+11,2016/03/10 08:51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

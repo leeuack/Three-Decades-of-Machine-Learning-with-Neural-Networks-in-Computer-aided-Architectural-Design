@@ -1,0 +1,222 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68
+0,ecaadesigradi2019_280,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Rossi, Gabriella and Nicholas, Paul",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Haptic Learning - Towards Neural-Network-based adaptive Cobot Path-Planning for unstructured spaces,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 2, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 201-210",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Collaborative Robots, or Cobots, bring new possibilities for human-machine interaction within the fabrication process, allowing each actor to contribute with their specific capabilities. However creative interaction brings unexpected changes, obstacles, complexities and non-linearities which are encountered in real time and cannot be predicted in advance. This paper presents an experimental methodology for robotic path planning using Machine Learning. The focus of this methodology is obstacle avoidance. A neural network is deployed, providing a relationship between the robot's pose and its surroundings, thus allowing for motion planning and obstacle avoidance, directly integrated within the design environment. The method is demonstrated through a series of case-studies. The method combines haptic teaching with machine learning to create a task specific dataset, giving the robot the ability to adapt to obstacles without being explicitly programmed at every instruction. This opens the door to shifting to robotic applications for construction in unstructured environments, where adapting to the singularities of the workspace, its occupants and activities presents an important computational hurdle today.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Architectural Robotics; Neural Networks; Path Planning; Digital Fabrication; Artificial Intelligence; Data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADeSIGraDi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,gr@gabriellarossi.tech,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (11,061,043 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bloss, R (2014) 
+ Robots have come to architecture to model, construct, fabricate and offer new approaches to create innovative designs, elements and structures
+, Industrial Robot: An International Journal, 41(5), pp. 403-407
+
+
+
+
+
+
+
+Bonwetsch, T (2015) 
+ Robotically assembled brickwork: Manipulating assembly processes of discrete elements
+, Ph.D. Thesis, ETH Zurich
+
+
+
+
+
+
+
+Braumann, J, Stumm, S and Brell-cokcan, S (2016) 
+ Towards New Robotic Design Tools: Using Collaborative Robots within the Creative Industry
+, ACADIA // 2016: POSTHUMAN FRONTIERS: Data, Designers, and Cognitive Machines, Ann Arbor, pp. 164-173
+
+
+
+
+
+
+
+Brell-Cokcan, S and Braumann, J (2010) 
+ A New Parametric Design Tool for Robot Milling
+, Proceedings of ACADIA 2010, pp. 357-363
+
+
+
+
+
+
+
+Gandia, A, Parascho, S, Rust, R, Casas, G, Gramazio, F and Kohler, M (2018) 
+ Towards Automatic Path Planning for Robotically Assembled Spatial Structures
+, Robotic Fabrication in Architecture, Art and Design 2018, Zurich, pp. 59-73
+
+
+
+
+
+
+
+Iturrate, I, Hallundb?k, E, ?stergaard, M and Savarimuthu, TR (2017) 
+ Learning and correcting robot trajectory keypoints from a single demonstration
+, Control, Automation and Robotics (ICCAR), 2017 3rd International Conference, pp. 52-59
+
+
+
+
+
+
+
+Menges, A (2012) 
+ Morphospaces of robotic fabrication
+, Robotic Fabrication in Architecture, Art and Design 2012, pp. 28-47
+
+
+
+
+
+
+
+Nicholas, P (2018) 
+ Fabrication for Differentiation: Towards an Adaptive Material Practice
+, Daas, M and Wit, AJ (eds), Towards a Robotic Architecture, ORO Editions
+
+
+
+
+
+
+
+Peshkin, MA, Colgate, JE, Wannasuphoprasit, W, Moore, CA, Gillespie, RB and Akella, P (2001) 
+ Cobot Architecture
+, IEEE Transactions on Robotics and Automation, pp. 377-390
+
+
+
+
+
+
+
+Rossi, G and Nicholas, P (2018) 
+ Re/Learning the Wheel: Methods to Utilize Neural Networks as Design Tools for Doubly Curved Metal Surfaces
+, ACADIA // 2018: Recalibration. On imprecisionand infidelity., Mexico City, pp. 146-155
+
+
+
+
+
+
+
+Scheinman, V, McCarthy, J and Song, J (2016) 
+ Mechanism and Actuation
+, Siciliano, B and Khatib, O (eds), Springer Handbook of Robotics, Springer
+
+
+
+
+
+
+
+Stumm, S and Brell-Cokcan, S (2018) 
+ Haptic Programming
+, Robotic Fabrication in Architecture, Art and Design 2018, pp. 44-58
+
+
+
+
+
+
+
+Stumm, S, Braumann, J and Brell-Cokcan, S (2016) 
+ Human-Machine Interaction for Intuitive Programming of Assembly Tasks in Construction
+, Procedia CIRP, 44, pp. 269-274
+
+
+
+
+
+
+
+Svilans, T, Tamke, M, Ramsgaard Thomsen, M, Runberger, J, Strehlke, K and Antemann, M (2019) 
+ New Workflows for Digital Timber: Innovative Techniques of Representation in Architectural Design
+, Bianconi, F and Filippucci, M (eds), Digital Wood Design, Springer
+
+
+
+
+
+
+
+Welschehold, T, Dornhege, C and Burgard, W (2017) 
+ Learning mobile manipulation actions from human demonstrations
+, Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems, Vancouver, pp. 3196-3201
+
+
+
+
+
+
+
+Wu, K and Kilian, A (2018) 
+ Designing Natural Wood Log Structures with Stochastic Assembly and Deep Learning
+, Robotic Fabrication in Architecture, Art and Design 2018
+
+
+
+
+
+
+
+Zou, AM, Hou, ZG, Fu, SY and Tan, M (2006) 
+ Neural networks for mobile robot navigation: a survey
+, International Symposium on Neural Networks, Berlin, pp. 1218-1226",,"Bloss, R (2014) 
+ Robots have come to architecture to model, construct, fabricate and offer new approaches to create innovative designs, elements and structures
+, Industrial Robot: An International Journal, 41(5), pp. 403-407",,,,"Bonwetsch, T (2015) 
+ Robotically assembled brickwork: Manipulating assembly processes of discrete elements
+, Ph.D. Thesis, ETH Zurich",,,,"Braumann, J, Stumm, S and Brell-cokcan, S (2016) 
+ Towards New Robotic Design Tools: Using Collaborative Robots within the Creative Industry
+, ACADIA // 2016: POSTHUMAN FRONTIERS: Data, Designers, and Cognitive Machines, Ann Arbor, pp. 164-173",,,,"Brell-Cokcan, S and Braumann, J (2010) 
+ A New Parametric Design Tool for Robot Milling
+, Proceedings of ACADIA 2010, pp. 357-363",,,,"Gandia, A, Parascho, S, Rust, R, Casas, G, Gramazio, F and Kohler, M (2018) 
+ Towards Automatic Path Planning for Robotically Assembled Spatial Structures
+, Robotic Fabrication in Architecture, Art and Design 2018, Zurich, pp. 59-73",,,,"Iturrate, I, Hallundb?k, E, ?stergaard, M and Savarimuthu, TR (2017) 
+ Learning and correcting robot trajectory keypoints from a single demonstration
+, Control, Automation and Robotics (ICCAR), 2017 3rd International Conference, pp. 52-59",,,,"Menges, A (2012) 
+ Morphospaces of robotic fabrication
+, Robotic Fabrication in Architecture, Art and Design 2012, pp. 28-47",,,,"Nicholas, P (2018) 
+ Fabrication for Differentiation: Towards an Adaptive Material Practice
+, Daas, M and Wit, AJ (eds), Towards a Robotic Architecture, ORO Editions",,,,"Peshkin, MA, Colgate, JE, Wannasuphoprasit, W, Moore, CA, Gillespie, RB and Akella, P (2001) 
+ Cobot Architecture
+, IEEE Transactions on Robotics and Automation, pp. 377-390",,,,"Rossi, G and Nicholas, P (2018) 
+ Re/Learning the Wheel: Methods to Utilize Neural Networks as Design Tools for Doubly Curved Metal Surfaces
+, ACADIA // 2018: Recalibration. On imprecisionand infidelity., Mexico City, pp. 146-155",,,,"Scheinman, V, McCarthy, J and Song, J (2016) 
+ Mechanism and Actuation
+, Siciliano, B and Khatib, O (eds), Springer Handbook of Robotics, Springer",,,,"Stumm, S and Brell-Cokcan, S (2018) 
+ Haptic Programming
+, Robotic Fabrication in Architecture, Art and Design 2018, pp. 44-58",,,,"Stumm, S, Braumann, J and Brell-Cokcan, S (2016) 
+ Human-Machine Interaction for Intuitive Programming of Assembly Tasks in Construction
+, Procedia CIRP, 44, pp. 269-274",,,,"Svilans, T, Tamke, M, Ramsgaard Thomsen, M, Runberger, J, Strehlke, K and Antemann, M (2019) 
+ New Workflows for Digital Timber: Innovative Techniques of Representation in Architectural Design
+, Bianconi, F and Filippucci, M (eds), Digital Wood Design, Springer",,,,"Welschehold, T, Dornhege, C and Burgard, W (2017) 
+ Learning mobile manipulation actions from human demonstrations
+, Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems, Vancouver, pp. 3196-3201",,,,"Wu, K and Kilian, A (2018) 
+ Designing Natural Wood Log Structures with Stochastic Assembly and Deep Learning
+, Robotic Fabrication in Architecture, Art and Design 2018",,,,"Zou, AM, Hou, ZG, Fu, SY and Tan, M (2006) 
+ Neural networks for mobile robot navigation: a survey
+, International Symposium on Neural Networks, Berlin, pp. 1218-1226",,
+11,2019/08/26 20:26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

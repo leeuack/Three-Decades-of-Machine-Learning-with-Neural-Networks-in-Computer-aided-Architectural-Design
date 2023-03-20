@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2021_158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Joyce, Sam Conrad and Nazim, Ibrahim",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Limits to Applied ML in Planning and Architecture - Understanding and defining extents and capabilities,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 1, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 243-252",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"There has been an exponential increase in Machine Learning (ML) research in design. Specifically, with Deep Learning becoming more accessible, frameworks like Generative Adversarial Networks (GANs), which are able to synthesise novel images are being used in the classification and generation of designs in architecture. While much of these explorations successfully demonstrate the 'magic' and potential of these techniques, their limits remain unclear, with only a few, but crucial, discussions on underlying fundamental limits and sensitivities of ML. This is a gap in our understanding of these tools especially within the complex context of planning and architecture. This paper seeks to discuss what limits ML in design as it exists today, by examining the state-of-the-art and mechanics of ML models relevant to design tasks. Aiming to help researchers to focus on productive uses of ML and avoid areas of over-promise.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Machine Learning; Artificial Intelligence; Creativity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Nazim_ibrahim@sutd.edu.sg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (8,635,420 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Ahmed, E, Saint, A, Shabayek, AER, Cherenkova, K, Das, R, Gusev, G, Aouada, D and Ottersten, B (2019) 
+ A Survey on Deep Learning Advances on Different 3D Data Representations
+, arXiv:1808.01462 [cs]
+
+
+
+
+
+
+
+Brown, NC and Mueller, CT (2019) 
+ Quantifying Diversity in Parametric Design: A Comparison of Possible Metrics
+, AI EDAM, 33, pp. 40-53
+
+
+
+
+
+
+
+Brown, TB, Mann, B, Ryder, N, Subbiah, M, Kaplan, J, Dhariwal, P, Neelakantan, A and ., et al (2020) 
+ Language Models Are Few-Shot Learners
+, arXiv:2005.14165 [cs]
+
+
+
+
+
+
+
+Chaillou, S (2020) 
+ ArchiGAN: Artificial Intelligence x Architecture
+, Yuan, PF, Xie, M, Leach, N, Yao, J and Wang, X (eds), Architectural Intelligence: Selected Papers from CDRF 2019, Springer, Singapore
+
+
+
+
+
+
+
+Cristie, V and Joyce, SC (2019) 
+ GHShot
+, Proc. eCAADe/SIGraDi 2019
+
+
+
+
+
+
+
+Daniel, D (2013) 
+ Modelled on Software Engineering: Flexible Parametric Models in the Practice of Architecture
+, Ph.D. Thesis, RMIT
+
+
+
+
+
+
+
+Del Campo, M (2021) 
+ ARCHITECTURE, LANGUAGE AND AI:Language, Attentional Generative Adversarial Networks (AttnGAN) and Architecture Design
+, Proc. CAADRIA 2021
+
+
+
+
+
+
+
+Frey, CB and Osborne, MA (2017) 
+ The Future of Employment: How Susceptible Are Jobs to Computerisation?
+, Technological Forecasting and Social Change, 114, pp. 254-280
+
+
+
+
+
+
+
+Fujimura, R (2018) 
+ The Form Of Knowledge, The Prototype Of Architectural Thinking And Its Application
+, Toto
+
+
+
+
+
+
+
+Gero, JS (2002) 
+ Computational Models of Creative Designing Based on Situated Cognition
+, Proc. 4th Conf. on Creativity & Cognition
+
+
+
+
+
+
+
+Harding, J, Joyce, S, Shepherd, P and Williams, C (2013) 
+ Thinking Topologically at Early Stage Parametric Design
+, Advances in Architectural Geometry 2012, 2012, pp. 67-76
+
+
+
+
+
+
+
+Heaven, D (2019) 
+ Why Deep-Learning AIs Are so Easy to Fool
+, Nature, 574, pp. 163-166
+
+
+
+
+
+
+
+Ibrahim, N and Joyce, S.C (2019) 
+ User Directed Meta Parametric Design for Option Exploration
+, Proc. ACADIA 2019.
+
+
+
+
+
+
+
+Joyce, S.C and Ibrahim, N (2017) 
+ Exploring the Evolution of Meta Parametric Models
+, Proceedings of ACADIA 2017
+
+
+
+
+
+
+
+Karras, T, Laine, S and Aila, T (2019) 
+ A Style-Based Generator Architecture for Generative Adversarial Networks
+, Proc. IEEE/CVF Conf. Comp. Vision and Pattern Recogn.
+
+
+
+
+
+
+
+Koch, G, Zemel, R and Salakhutdinov, R (2015) 
+ Siamese Neural Networks for One-shot Image Recognition
+, Proc. of 32nd Int. Conf. on Mach. Learning
+
+
+
+
+
+
+
+Machairas, V, Tsangrassoulis, A and Axarli, K (2014) 
+ Algorithms for Optimization of Building Design: A Review
+, Renewable and Stust. Energy Rev., 31, pp. 101-112
+
+
+
+
+
+
+
+Mohiuddin, A, Woodbury, R, Ashtari, N, Cichy, M and Mueller, V (2017) 
+ A Design Gallery System: Prototype and Evaluation
+, Proc. ACADIA 2017
+
+
+
+
+
+
+
+Nauata, N, Chang, KH, Cheng, CY, Mori, G and Furukawa, Y (2020) 
+ House-GAN: Relational Generative Adversarial Networks for Graph-Constrained House Layout Generation
+, arXiv:2003.06988 [cs]
+
+
+
+
+
+
+
+Newton, D (2019) 
+ Generative Deep Learning in Architectural Design
+, Technology|Architecture + Design, 3, pp. 177-189",,"Ahmed, E, Saint, A, Shabayek, AER, Cherenkova, K, Das, R, Gusev, G, Aouada, D and Ottersten, B (2019) 
+ A Survey on Deep Learning Advances on Different 3D Data Representations
+, arXiv:1808.01462 [cs]",,,,"Brown, NC and Mueller, CT (2019) 
+ Quantifying Diversity in Parametric Design: A Comparison of Possible Metrics
+, AI EDAM, 33, pp. 40-53",,,,"Brown, TB, Mann, B, Ryder, N, Subbiah, M, Kaplan, J, Dhariwal, P, Neelakantan, A and ., et al (2020) 
+ Language Models Are Few-Shot Learners
+, arXiv:2005.14165 [cs]",,,,"Chaillou, S (2020) 
+ ArchiGAN: Artificial Intelligence x Architecture
+, Yuan, PF, Xie, M, Leach, N, Yao, J and Wang, X (eds), Architectural Intelligence: Selected Papers from CDRF 2019, Springer, Singapore",,,,"Cristie, V and Joyce, SC (2019) 
+ GHShot
+, Proc. eCAADe/SIGraDi 2019",,,,"Daniel, D (2013) 
+ Modelled on Software Engineering: Flexible Parametric Models in the Practice of Architecture
+, Ph.D. Thesis, RMIT",,,,"Del Campo, M (2021) 
+ ARCHITECTURE, LANGUAGE AND AI:Language, Attentional Generative Adversarial Networks (AttnGAN) and Architecture Design
+, Proc. CAADRIA 2021",,,,"Frey, CB and Osborne, MA (2017) 
+ The Future of Employment: How Susceptible Are Jobs to Computerisation?
+, Technological Forecasting and Social Change, 114, pp. 254-280",,,,"Fujimura, R (2018) 
+ The Form Of Knowledge, The Prototype Of Architectural Thinking And Its Application
+, Toto",,,,"Gero, JS (2002) 
+ Computational Models of Creative Designing Based on Situated Cognition
+, Proc. 4th Conf. on Creativity & Cognition",,,,"Harding, J, Joyce, S, Shepherd, P and Williams, C (2013) 
+ Thinking Topologically at Early Stage Parametric Design
+, Advances in Architectural Geometry 2012, 2012, pp. 67-76",,,,"Heaven, D (2019) 
+ Why Deep-Learning AIs Are so Easy to Fool
+, Nature, 574, pp. 163-166",,,,"Ibrahim, N and Joyce, S.C (2019) 
+ User Directed Meta Parametric Design for Option Exploration
+, Proc. ACADIA 2019.",,,,"Joyce, S.C and Ibrahim, N (2017) 
+ Exploring the Evolution of Meta Parametric Models
+, Proceedings of ACADIA 2017",,,,"Karras, T, Laine, S and Aila, T (2019) 
+ A Style-Based Generator Architecture for Generative Adversarial Networks
+, Proc. IEEE/CVF Conf. Comp. Vision and Pattern Recogn.",,,,"Koch, G, Zemel, R and Salakhutdinov, R (2015) 
+ Siamese Neural Networks for One-shot Image Recognition
+, Proc. of 32nd Int. Conf. on Mach. Learning",,,,"Machairas, V, Tsangrassoulis, A and Axarli, K (2014) 
+ Algorithms for Optimization of Building Design: A Review
+, Renewable and Stust. Energy Rev., 31, pp. 101-112",,,,"Mohiuddin, A, Woodbury, R, Ashtari, N, Cichy, M and Mueller, V (2017) 
+ A Design Gallery System: Prototype and Evaluation
+, Proc. ACADIA 2017",,,,"Nauata, N, Chang, KH, Cheng, CY, Mori, G and Furukawa, Y (2020) 
+ House-GAN: Relational Generative Adversarial Networks for Graph-Constrained House Layout Generation
+, arXiv:2003.06988 [cs]",,,,"Newton, D (2019) 
+ Generative Deep Learning in Architectural Design
+, Technology|Architecture + Design, 3, pp. 177-189",,
+11,2021/08/11 08:45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

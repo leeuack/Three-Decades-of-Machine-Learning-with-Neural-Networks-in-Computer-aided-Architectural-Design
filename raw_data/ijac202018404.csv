@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ijac202018404,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Paul Nicholas, Gabriella Rossi, Ella Williams, Michael Bennett and Tim Schork",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Integrating real-time multi-resolution scanning and machine learning for Conformal Robotic 3D Printing in Architecture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"International Journal of Architectural Computing vol. 18 - no. 4, 371384",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Robotic 3D printing applications are rapidly growing in architecture, where they enable the introduction of new materials and bespoke geometries. However, current approaches remain limited to printing on top of a flat build bed. This limits robotic 3D printings impact as a sustainable technology: opportunities to customize or enhance existing elements, or to utilize complex material behaviour are missed. This paper addresses the potentials of conformal 3D printing and presents a novel and robust workflow for printing onto unknown and arbitrarily shaped 3D substrates. The workflow combines dual-resolution Robotic Scanning, Neural Network prediction and printing of PETG plastic. This integrated approach offers the advantage of responding directly to unknown geometries through automated performance design customization. This paper firstly contextualizes the work within the current state of the art of conformal printing. We then describe our methodology and the design experiment we have used to test it. We lastly describe the key findings, potentials and limitations of the work, as well as the next steps in this research.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Conformal printing, robotic fabrication, 3D scanning, neural networks, industry 4.0",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,journal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,garo@kadk.dk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,file.pdf ( bytes),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Alkadi F, Lee K-C, Bashiri AH, et al. (2020) 
+ Conformal additive manufacturing using a direct-print process
+, Addit Manuf; 32: 100975
+
+
+
+
+
+
+
+Anton A and Abdelmahgoub A. (2018) 
+ Ceramic components-computational design for bespoke robotic 3D printing on curved support
+, Proceedings of 36th eCAADe 2018: computing for a better tomorrow, vol. 2, pp. 7178, Lodz, Poland
+
+
+
+
+
+
+
+Artola I, Rademaekers K, Williams R, et al. (2016) 
+ Boosting building renovation: what potential and value for Europe
+, Directorate General for Internal Policies, Policy Department A: Economic and Scientific Policy. European Parliament
+
+
+
+
+
+
+
+Ayres P, Leal da Silva WR, Nicholas P, et al. (2019) 
+ SCRIM  Sparse Concrete Reinforcement in Meshworks
+, Robotic fabrication in architecture, art and design 2018. Cham: Springer
+
+
+
+
+
+
+
+Battaglia CA, Miller MF, and Zivkovic S. (2019) 
+ Sub-additive 3D printing of optimized double curved concrete lat-tice structures
+, Robotic fabrication in architecture, art and design 2018, Cham: Springer
+
+
+
+
+
+
+
+Brandt J. (2005) 
+ Skin that fits: designing and constructing cladding systems with as-built structural data
+, Proceeding of Acadia: Smart architecture. Georgia, USA: Savannah School of Architecture and Design
+
+
+
+
+
+
+
+Dilberoglu UM, Gharehpapagh B, Yaman U, et al. (2017) 
+ The role of additive manufacturing in the era of Industry 4.0
+, Proc Manuf; 11: 54554
+
+
+
+
+
+
+
+Duballet R, Baverel O and Dirrenberger J. (2017) 
+ Classification of building systems for concrete 3D printing
+, Autom Constr; 83: 247258
+
+
+
+
+
+
+
+Duro-Royo J, Mogas-Soldevila L and Oxman N. (2015) 
+ Flow-based fabrication: an integrated computational workflow for design and digital additive manufacturing of multifunctional heterogeneously structured objects
+, Comput Aid Design; 69: 143154
+
+
+
+
+
+
+
+Gardiner JB and Janssen SR. (2014) 
+ FreeFab
+, McGee W and Ponce de Leon M (eds) Robotic fabrication in architec-ture, art and design 2014. Cham: Springer International Publishing, pp. 131146
+
+
+
+
+
+
+
+Gero J. (1991) 
+ Artificial intelligence in design '91
+, Oxford: Butterworth-Heinemann
+
+
+
+
+
+
+
+Ghaffar SM, Corker J and Fan M. (2018) 
+ Additive manufacturing technology and its implementation in construction as an eco-innovative solution
+, Autom Constr; 93: 111
+
+
+
+
+
+
+
+Isola P, Zhu JY, Zhou T, et al. (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 11251134, Hawaii
+
+
+
+
+
+
+
+Kwon H, Eichenhofer M, Kyttas T, et al. (2019) 
+ Digital composites: robotic 3D printing of continuous carbon fiber-rein-forced plastics for functionally-graded building components
+, Robotic fabrication in architecture, art and design 2018. Cham: Springer
+
+
+
+
+
+
+
+Martin T, Paul N and Mateusz Z. (2018) 
+ Machine learning for architectural design: practices and infrastructure
+, International Journal of Architectural Computation; 16(2): 123143
+
+
+
+
+
+
+
+Meibodi MA, Jipa A, Giesecke R, et al. (2018) 
+ Smart slab: computational design and digital fabrication of a lightweight concrete slab
+, Proceedings of the 38th annual conference of the association for computer aided design in architecture (ACADIA), 1820 October 2018, pp. 434443, Mexico City, Mexico
+
+
+
+
+
+
+
+Mostafavi S, Kemper BN and Fischer DL. (2019) 
+ Multimode robotic materialization
+, Robotic fabrication in architecture, art and design 2018. Cham: Springer
+
+
+
+
+
+
+
+Nematollahi B, Xia M and Sanjayan J. (2017) 
+ Current progress of 3D concrete printing technologies
+, Proceedings of 34th international symposium on automation and robotics in construction, vol. 34. Taipei, Taiwan: IAARC Publications
+
+
+
+
+
+
+
+Nicholas P, Zwierzycki M, Norgaard EC, et al. (2017) 
+ Adaptive robotic fabrication for conditions of material inconsist-ency: increasing the geometric accuracy of incrementally formed metal panels
+, Fabricate 2017. London: UCL Press, pp. 114121
+
+
+
+
+
+
+
+Panda B, Tan MJ, Gibson I, et al. (2016) 
+ The disruptive evolution of 3D printing
+, Pro-AM: Proceedings of the 2nd international conference on Pro-AM progress in additive manufacturing, research publishing, pp. 152157, Singapore",,"Alkadi F, Lee K-C, Bashiri AH, et al. (2020) 
+ Conformal additive manufacturing using a direct-print process
+, Addit Manuf; 32: 100975",,,,"Anton A and Abdelmahgoub A. (2018) 
+ Ceramic components-computational design for bespoke robotic 3D printing on curved support
+, Proceedings of 36th eCAADe 2018: computing for a better tomorrow, vol. 2, pp. 7178, Lodz, Poland",,,,"Artola I, Rademaekers K, Williams R, et al. (2016) 
+ Boosting building renovation: what potential and value for Europe
+, Directorate General for Internal Policies, Policy Department A: Economic and Scientific Policy. European Parliament",,,,"Ayres P, Leal da Silva WR, Nicholas P, et al. (2019) 
+ SCRIM  Sparse Concrete Reinforcement in Meshworks
+, Robotic fabrication in architecture, art and design 2018. Cham: Springer",,,,"Battaglia CA, Miller MF, and Zivkovic S. (2019) 
+ Sub-additive 3D printing of optimized double curved concrete lat-tice structures
+, Robotic fabrication in architecture, art and design 2018, Cham: Springer",,,,"Brandt J. (2005) 
+ Skin that fits: designing and constructing cladding systems with as-built structural data
+, Proceeding of Acadia: Smart architecture. Georgia, USA: Savannah School of Architecture and Design",,,,"Dilberoglu UM, Gharehpapagh B, Yaman U, et al. (2017) 
+ The role of additive manufacturing in the era of Industry 4.0
+, Proc Manuf; 11: 54554",,,,"Duballet R, Baverel O and Dirrenberger J. (2017) 
+ Classification of building systems for concrete 3D printing
+, Autom Constr; 83: 247258",,,,"Duro-Royo J, Mogas-Soldevila L and Oxman N. (2015) 
+ Flow-based fabrication: an integrated computational workflow for design and digital additive manufacturing of multifunctional heterogeneously structured objects
+, Comput Aid Design; 69: 143154",,,,"Gardiner JB and Janssen SR. (2014) 
+ FreeFab
+, McGee W and Ponce de Leon M (eds) Robotic fabrication in architec-ture, art and design 2014. Cham: Springer International Publishing, pp. 131146",,,,"Gero J. (1991) 
+ Artificial intelligence in design '91
+, Oxford: Butterworth-Heinemann",,,,"Ghaffar SM, Corker J and Fan M. (2018) 
+ Additive manufacturing technology and its implementation in construction as an eco-innovative solution
+, Autom Constr; 93: 111",,,,"Isola P, Zhu JY, Zhou T, et al. (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 11251134, Hawaii",,,,"Kwon H, Eichenhofer M, Kyttas T, et al. (2019) 
+ Digital composites: robotic 3D printing of continuous carbon fiber-rein-forced plastics for functionally-graded building components
+, Robotic fabrication in architecture, art and design 2018. Cham: Springer",,,,"Martin T, Paul N and Mateusz Z. (2018) 
+ Machine learning for architectural design: practices and infrastructure
+, International Journal of Architectural Computation; 16(2): 123143",,,,"Meibodi MA, Jipa A, Giesecke R, et al. (2018) 
+ Smart slab: computational design and digital fabrication of a lightweight concrete slab
+, Proceedings of the 38th annual conference of the association for computer aided design in architecture (ACADIA), 1820 October 2018, pp. 434443, Mexico City, Mexico",,,,"Mostafavi S, Kemper BN and Fischer DL. (2019) 
+ Multimode robotic materialization
+, Robotic fabrication in architecture, art and design 2018. Cham: Springer",,,,"Nematollahi B, Xia M and Sanjayan J. (2017) 
+ Current progress of 3D concrete printing technologies
+, Proceedings of 34th international symposium on automation and robotics in construction, vol. 34. Taipei, Taiwan: IAARC Publications",,,,"Nicholas P, Zwierzycki M, Norgaard EC, et al. (2017) 
+ Adaptive robotic fabrication for conditions of material inconsist-ency: increasing the geometric accuracy of incrementally formed metal panels
+, Fabricate 2017. London: UCL Press, pp. 114121",,,,"Panda B, Tan MJ, Gibson I, et al. (2016) 
+ The disruptive evolution of 3D printing
+, Pro-AM: Proceedings of the 2nd international conference on Pro-AM progress in additive manufacturing, research publishing, pp. 152157, Singapore",,
+11,2021/06/03 21:29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

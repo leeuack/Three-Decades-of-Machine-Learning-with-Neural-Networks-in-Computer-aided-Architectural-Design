@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2021_109,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Doumpioti, Christina and Huang, Jeffrey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Intensive Differences in Spatial Design - Reversing form-finding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 1, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 9-16",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Drawing from the philosophy of science, 'intensive' qualities define differences in degree instead of 'extensive' ones that define additive quantities. More relevant to architecture, intensive differences can define transient boundaries such as warmness and coolness, dryness and moisture, light and shadow, or visual accessibility, to name a few.The question that serves as a starting point of this study is whether the attributes mentioned above can become form-giving agents during the design process and, therefore, whether they become fundamental parameters for the conceptualization and configuration of extensive spatial qualities. This question is explored using Generative Adversarial Networks and image-to-image translation. The dataset consists of two types of images; one consists of spatial configurations representing extensive attributes. The second set depicts intensive characteristics of visual accessibility. The study proposes a conceptual model and workflow that reverses form-finding and enables the design of environments through the specification of desired intensive attributes. Furthermore, it discusses the advantage of working with this method in search of architectural environments with embedded spatial experiences.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Intensive Differences; Form-Finding; Isovist Simulation; conditional Generative Adversarial Networks (cGAN),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,christina.doumpioti@epfl.ch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (2,201,294 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Abalos, I and Sentkiewicz, R (eds) (2015) 
+ Essays on Thermodynamics, Architecture and Beauty
+, Actar
+
+
+
+
+
+
+
+Allen, S (2009) 
+ From Object to field: field conditions in architecture and urbanism
+, Hensel, M, Hight, C and Menges, A (eds), Space Reader: Heterogeneous space in architecture, Wiley
+
+
+
+
+
+
+
+Banham, R (1984) 
+ The architecture of the well-tempered environment
+, University of Chicago, Chicago
+
+
+
+
+
+
+
+Benedikt, ML (1979) 
+ To Take Hold of Space: Isovists and Isovist Fields
+, Environment and Planning B: Planning and Design, 6, pp. 47-65
+
+
+
+
+
+
+
+Böhme, G (1993) 
+ Atmosphere as the Fundamental Concept of a New Aesthetics
+, Thesis Eleven, 36(10.1177/072551369303600107), pp. 113-126
+
+
+
+
+
+
+
+DeLanda, M (2005) 
+ Space: Extensive and Intensive, Actual and Virtual
+, Buchanan, I and Lambert, G (eds), Deleuze and Space, Edinburgh University Press, pp. 80-87, pp. 80-87
+
+
+
+
+
+
+
+Duering, S, Chronis, A and Koenig, R (2020) 
+ 2020 Optimizing Urban Systems: Integrated optimization of spatial configurations in SimAUD 2020 May 25-27 Vienna, Austria
+, SIMAUD, Vienna
+
+
+
+
+
+
+
+Galanos, T, Chronis, A, Vesely, O, Aichinger, A and Koenig, R (2019) 
+ Best of both worlds - using computational design and deep learning for real-time urban performance evaluation
+, OPIARCH - 1st International Conference on Optimization Driven Architectural Design, Amman, Jordan
+
+
+
+
+
+
+
+Garcia-German, J (eds) (2017) 
+ Thermodynamic Interactions: An Exploration into Physiological, Material and Territorial Atmospheres
+, Actar
+
+
+
+
+
+
+
+Gissen, D (2009) 
+ Subnature: Architecture's Other Environments
+, Princeton Architectural Press
+
+
+
+
+
+
+
+Hensel, M (eds) (2013) 
+ Performance-Oriented Architecture: Rethinking Architectural Design and the Built Environment
+, Wiley
+
+
+
+
+
+
+
+Hensel, M, Hight, C and Menges, A (eds) (2009) 
+ AD Reader, Space Reader: Heterogeneous space in architecture
+, Wiley
+
+
+
+
+
+
+
+Huang, W and Zheng, H (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, ACADIA -Annual Conference of the Association for Computer Aided Design in Architecture, Mexico City, pp. 156-165
+
+
+
+
+
+
+
+Isola, P, Zhu, J, Zhou, T and Efros, AA (2017) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 5967-5976
+
+
+
+
+
+
+
+Lally, S (eds) (2009) 
+ Energies: new material boundaries, Architectural Design
+, Wiley, Chichester
+
+
+
+
+
+
+
+Lally, S (2014) 
+ The air from other planets: A brief history of architecture to come
+, Lars Muller, Zurich
+
+
+
+
+
+
+
+Montello, D R (2014) 
+ Spatial Cognition and Architectural Space: Research Perspectives
+, Architectural Design, 84, pp. 74-79
+
+
+
+
+
+
+
+Pallasmaa, J (2014) 
+ Pallasmaa, J 2014, Empathic Imagination: Formal and Experiential Projection: Empathic Imagination: Formal and Experiential Projection.
+, Architectural Design, 84, p. 80-85
+
+
+
+
+
+
+
+Schneider, S and Koenig, R (2012) 
+ Exploring the Generative Potential of Isovist Fields: The Evolutionary Generation of Urban Layouts based on Isovist Field Properties in Proceedings of the 30th eCAADe Conference - Volume 1, . 12-14 September, pp. 355-363
+, Proceedings of eCAADe 2012, Czech Republic
+
+
+
+
+
+
+
+Tamke, M, Nicholas, P and Zwierzycki, M (2018) 
+ Machine learning for architectural design: Practices and infrastructure
+, International Journal of Architectural Computing, 16(2)(10.1177/1478077118778580), pp. 123-143",,"Abalos, I and Sentkiewicz, R (eds) (2015) 
+ Essays on Thermodynamics, Architecture and Beauty
+, Actar",,,,"Allen, S (2009) 
+ From Object to field: field conditions in architecture and urbanism
+, Hensel, M, Hight, C and Menges, A (eds), Space Reader: Heterogeneous space in architecture, Wiley",,,,"Banham, R (1984) 
+ The architecture of the well-tempered environment
+, University of Chicago, Chicago",,,,"Benedikt, ML (1979) 
+ To Take Hold of Space: Isovists and Isovist Fields
+, Environment and Planning B: Planning and Design, 6, pp. 47-65",,,,"Böhme, G (1993) 
+ Atmosphere as the Fundamental Concept of a New Aesthetics
+, Thesis Eleven, 36(10.1177/072551369303600107), pp. 113-126",,,,"DeLanda, M (2005) 
+ Space: Extensive and Intensive, Actual and Virtual
+, Buchanan, I and Lambert, G (eds), Deleuze and Space, Edinburgh University Press, pp. 80-87, pp. 80-87",,,,"Duering, S, Chronis, A and Koenig, R (2020) 
+ 2020 Optimizing Urban Systems: Integrated optimization of spatial configurations in SimAUD 2020 May 25-27 Vienna, Austria
+, SIMAUD, Vienna",,,,"Galanos, T, Chronis, A, Vesely, O, Aichinger, A and Koenig, R (2019) 
+ Best of both worlds - using computational design and deep learning for real-time urban performance evaluation
+, OPIARCH - 1st International Conference on Optimization Driven Architectural Design, Amman, Jordan",,,,"Garcia-German, J (eds) (2017) 
+ Thermodynamic Interactions: An Exploration into Physiological, Material and Territorial Atmospheres
+, Actar",,,,"Gissen, D (2009) 
+ Subnature: Architecture's Other Environments
+, Princeton Architectural Press",,,,"Hensel, M (eds) (2013) 
+ Performance-Oriented Architecture: Rethinking Architectural Design and the Built Environment
+, Wiley",,,,"Hensel, M, Hight, C and Menges, A (eds) (2009) 
+ AD Reader, Space Reader: Heterogeneous space in architecture
+, Wiley",,,,"Huang, W and Zheng, H (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, ACADIA -Annual Conference of the Association for Computer Aided Design in Architecture, Mexico City, pp. 156-165",,,,"Isola, P, Zhu, J, Zhou, T and Efros, AA (2017) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 5967-5976",,,,"Lally, S (eds) (2009) 
+ Energies: new material boundaries, Architectural Design
+, Wiley, Chichester",,,,"Lally, S (2014) 
+ The air from other planets: A brief history of architecture to come
+, Lars Muller, Zurich",,,,"Montello, D R (2014) 
+ Spatial Cognition and Architectural Space: Research Perspectives
+, Architectural Design, 84, pp. 74-79",,,,"Pallasmaa, J (2014) 
+ Pallasmaa, J 2014, Empathic Imagination: Formal and Experiential Projection: Empathic Imagination: Formal and Experiential Projection.
+, Architectural Design, 84, p. 80-85",,,,"Schneider, S and Koenig, R (2012) 
+ Exploring the Generative Potential of Isovist Fields: The Evolutionary Generation of Urban Layouts based on Isovist Field Properties in Proceedings of the 30th eCAADe Conference - Volume 1, . 12-14 September, pp. 355-363
+, Proceedings of eCAADe 2012, Czech Republic",,,,"Tamke, M, Nicholas, P and Zwierzycki, M (2018) 
+ Machine learning for architectural design: Practices and infrastructure
+, International Journal of Architectural Computing, 16(2)(10.1177/1478077118778580), pp. 123-143",,
+11,2021/08/11 08:45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

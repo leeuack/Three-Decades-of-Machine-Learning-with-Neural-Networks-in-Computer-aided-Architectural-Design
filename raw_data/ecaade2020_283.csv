@@ -1,0 +1,150 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+0,ecaade2020_283,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Sebestyen, Adam and Tyc, Jakub",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Machine Learning Methods in Energy Simulations for Architects and Designers - The implementation of supervised machine learning in the context of the computational design process,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Werner, L and Koering, D (eds.), Anthropologic: Architecture and Fabrication in the cognitive age - Proceedings of the 38th eCAADe Conference - Volume 1, TU Berlin, Berlin, Germany, 16-18 September 2020, pp. 613-622",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Application of Machine Learning (ML) in the field of architecture is a worthwhile topic to discuss in the context of digital architecture. Authors propose to extend this discussion, presenting an integrated ML pipeline built with the state-of-the-art data science tools. To investigate the affordances of such pipelines, an ML model being able to predict the environmental metrics of a generalized facade system is created. This approach is valid for arbitrary facades, as long as the proposed design could be discretized in the form analogous to the data generated for the ML model training. The presented experiment evaluates the precision of the sunlight hours and radiation values predictions, aiming at the application in the early design phases. Conducted investigation builds up on the knowledge embedded in the Grasshopper and Ladybug toolsets. Potential application of Convolutional Neural Networks and categorical datasets for classifications tasks to increase the precision of the ML models have been identified. Possibility to extend the approach beyond the workspace of Rhino and Grasshopper is suggested. Further research outlook, investigating the data pattern recognition capabilities in relation to the three-dimensional forms discretized as multidimensional arrays, is stated.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Machine Learning; Environmental Analysis; Parametric Design; Supervised Learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Sebestyen@iemar.tuwien.ac.at,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (7,892,750 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+BelÃ©m, C, Santos, L and LeitÃ£o, A (2019) 
+ On the Impact of Machine Learning Architecture without Architects?
+, CAAD Futures 2019, Daejon, South Korea
+
+
+
+
+
+
+
+Cudzik, J and Radziszewski, K (2018) 
+ Artificial Intelligence Aided Architectural Design
+, Kepczynska-Walczak, A, Bialkowski, S (eds.), Computing for a better tomorrow - Proceedings of the 36th eCAADe Conference - Volume 1, Lodz University of Technology, Lodz, Poland, 19-21 September 2018, pp. 77-84
+
+
+
+
+
+
+
+GÃ©ron, A (2019) 
+ Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow: Concepts, Tools, & Techniques to Build Intelligent Systems
+, OReilly Media, Inc.
+
+
+
+
+
+
+
+Hebron, P (2016) 
+ Machine Learning for Designers
+, O'Reilly Media, Inc.
+
+
+
+
+
+
+
+Huang, B., Wu, B. and Barry, M. (2010) 
+ Geographically and Temporally Weighted Regression for Modeling Spatio-Temporal Variation in House Prices.
+, International Journal of Geographical Information Science, 24(3), p. 383-401
+
+
+
+
+
+
+
+Khean, N, Fabbri, A and Haesler, MH (2018) 
+ Learning Machine Learning as an Architect, How to? Presenting and evaluating a Grasshopper based platform to teach architecture students machine learning
+, computing a better tomorrow - 36th eCAADE, Lodz, Poland, pp. 95-102
+
+
+
+
+
+
+
+Mackey, C(W (2015) 
+ Pan climatic humans : shaping thermal habits in an unconditioned society
+, Ph.D. Thesis, Massachusetts Institute of Technology
+
+
+
+
+
+
+
+Roudsari, MS, Pak, M, Smith, A and Gill, G (2013) 
+ Ladybug: A parametric environmental plugin for grasshopper to help designers create an environmentally-conscious design
+, Proceedings of BS 2013: 13th Conference of the International Building Performance Simulation Association, n.a., pp. 3128-3135
+
+
+
+
+
+
+
+Sebestyen, A (2020) 
+ Machine Learning for Architectures and Designers
+, Ph.D. Symposium Divergence in Architectural Research, Atlanta, GA
+
+
+
+
+
+
+
+Tamke, M, Nicholas, P and Zwierzycki, M (2018) 
+ Machine learning for architectural design: Practices and infrastructure
+, International Journal of Architectural Computing, 16, pp. 123-143
+
+
+
+
+
+
+
+Toutou, A.M.Y. (2019) 
+ Parametric Approach for Multi-Objective Optimization for Daylighting and Energy Consumption in Early Stage Design of Office Tower in New Administrative Capital City of Egypt
+, The Academic Research Community Publication, 3(1), pp. 1-13",,"BelÃ©m, C, Santos, L and LeitÃ£o, A (2019) 
+ On the Impact of Machine Learning Architecture without Architects?
+, CAAD Futures 2019, Daejon, South Korea",,,,"Cudzik, J and Radziszewski, K (2018) 
+ Artificial Intelligence Aided Architectural Design
+, Kepczynska-Walczak, A, Bialkowski, S (eds.), Computing for a better tomorrow - Proceedings of the 36th eCAADe Conference - Volume 1, Lodz University of Technology, Lodz, Poland, 19-21 September 2018, pp. 77-84",,,,"GÃ©ron, A (2019) 
+ Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow: Concepts, Tools, & Techniques to Build Intelligent Systems
+, OReilly Media, Inc.",,,,"Hebron, P (2016) 
+ Machine Learning for Designers
+, O'Reilly Media, Inc.",,,,"Huang, B., Wu, B. and Barry, M. (2010) 
+ Geographically and Temporally Weighted Regression for Modeling Spatio-Temporal Variation in House Prices.
+, International Journal of Geographical Information Science, 24(3), p. 383-401",,,,"Khean, N, Fabbri, A and Haesler, MH (2018) 
+ Learning Machine Learning as an Architect, How to? Presenting and evaluating a Grasshopper based platform to teach architecture students machine learning
+, computing a better tomorrow - 36th eCAADE, Lodz, Poland, pp. 95-102",,,,"Mackey, C(W (2015) 
+ Pan climatic humans : shaping thermal habits in an unconditioned society
+, Ph.D. Thesis, Massachusetts Institute of Technology",,,,"Roudsari, MS, Pak, M, Smith, A and Gill, G (2013) 
+ Ladybug: A parametric environmental plugin for grasshopper to help designers create an environmentally-conscious design
+, Proceedings of BS 2013: 13th Conference of the International Building Performance Simulation Association, n.a., pp. 3128-3135",,,,"Sebestyen, A (2020) 
+ Machine Learning for Architectures and Designers
+, Ph.D. Symposium Divergence in Architectural Research, Atlanta, GA",,,,"Tamke, M, Nicholas, P and Zwierzycki, M (2018) 
+ Machine learning for architectural design: Practices and infrastructure
+, International Journal of Architectural Computing, 16, pp. 123-143",,,,"Toutou, A.M.Y. (2019) 
+ Parametric Approach for Multi-Objective Optimization for Daylighting and Energy Consumption in Early Stage Design of Office Tower in New Administrative Capital City of Egypt
+, The Academic Research Community Publication, 3(1), pp. 1-13",,
+11,2020/09/09 09:52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

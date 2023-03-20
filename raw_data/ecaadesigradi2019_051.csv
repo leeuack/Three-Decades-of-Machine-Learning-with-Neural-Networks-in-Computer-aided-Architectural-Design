@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaadesigradi2019_051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Stojanovic, Vladeta, Trapp, Matthias, Richter, Rico, Hagedorn, Benjamin and Döllner, Jürgen",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Semantic Enrichment of Indoor Point Clouds - An Overview of Progress towards Digital Twinning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 2, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 809-818",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper presents an approach towards the development of a service-oriented platform for semantic enrichment of indoor point clouds. It mainly focuses on integrated methods for the capture of as-is 3D point clouds using commodity mobile hardware, classification of point cloud clusters using a multiview-based method, geometric reconstruction of room boundaries, interactive 3D visualization, sensor data visualization, and tracking of spatial changes and user annotations via a secure ledger. Implementing the methods in a prototypical web-based application, we demonstrate our approach for the semantic enrichment of indoor point clouds and the generation of base data for Digital Twin representation.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Digital Twin;  Indoor Point Cloud;  Semantic Enrichment;  Real Estate 4.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADeSIGraDi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,vladeta.stojanovic@hpi.de,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (8,030,415 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bassier, M, Vergauwen, M and Van Genechten, B (2016) 
+ Automated semantic labelling of 3D vector models for scan-to-BIM
+, Proceedings of the 4th Annual International Conference on Architecture and Civil Engineering (ACE 2016), Singapore, pp. 25-26
+
+
+
+
+
+
+
+Clauß, M, Götze, J, Müller, E and Schumann, C.A (2014) 
+ Real-time Data Access through Semantic Technologies and Augmented Reality in Facility Management Processes
+, Proc. Int. Conf. on Innovative Technologies, IN-TECH, pp. 45-48
+
+
+
+
+
+
+
+Discher, S, Richter, R and Döllner, J (2018) 
+ A scalable webGL-based approach for visualizing massive 3D point clouds using semantics-dependent rendering techniques
+, Proceedings of the 23rd International ACM Conference on 3D Web Technology (Web3D '18), Poznan, pp. 1-9
+
+
+
+
+
+
+
+Franz, S, Irmler, R and Rüppel, U (2018) 
+ Real-time collaborative reconstruction of digital building models with mobile devices
+, Advanced Engineering Informatics, 38, pp. 569-580
+
+
+
+
+
+
+
+Froehlich, M, Azhar, S and Vanture, M (2017) 
+ An Investigation of Google Tango Tablet for Low Cost 3D Scanning
+, ISARC. Proceedings of the 34th International Symposium on Automation and Robotics in Construction, Taipei, pp. 1-8
+
+
+
+
+
+
+
+Grieves, M (2014) 
+ Digital twin: Manufacturing excellence through virtual factory replication
+, White paper, 1, pp. 1-7
+
+
+
+
+
+
+
+Hildebrandt, D, Klimke, J, Hagedorn, B and Döllner, J (2011) 
+ Service-oriented interactive 3D visualization of massive 3D city models on thin clients
+, Proceedings of the 2nd International Conference on Computing for Geospatial Research & Applications
+
+
+
+
+
+
+
+Hoppe, H, DeRose, T, Duchamp, T, McDonald, J and Stuetzle, W (1993) 
+ Surface reconstruction from unorganized points
+, Computer Graphics, 26(2), pp. 71-78
+
+
+
+
+
+
+
+Ioannidou, A, Chatzilari, E, Nikolopoulos, S and Kompatsiaris, I (2017) 
+ Deep learning advances in computer vision with 3d data: A survey
+, ACM Computing Surveys (CSUR), 50(2), pp. 1-38
+
+
+
+
+
+
+
+Kensek, K (2015) 
+ BIM guidelines inform facilities management databases: a case study over time
+, Buildings, 5(3), pp. 899-916
+
+
+
+
+
+
+
+Khalid, MU, Bashir, MK and Newport, D (2017) 
+ Building Information Modelling, Building Performance, Design and Smart Construction
+, Springer
+
+
+
+
+
+
+
+Lasi, H, Fettke, P, Kemper, H.G, Feld, T and Hoffmann, M (2014) 
+ Industry 4.0
+, Business & Information Systems Engineering, 6(4), pp. 239-242
+
+
+
+
+
+
+
+Li, J, Greenwood, D and Kassem, M (2018) 
+ Blockchain in the built environment: analysing current applications and developing an emergent framework
+, Proceedings of the Creative Construction Conference 2018, pp. 1-10
+
+
+
+
+
+
+
+Macher, H, Landes, T and Grussenmeyer, P (2017) 
+ From point clouds to building information models: 3D semi-automatic reconstruction of indoors of existing buildings
+, Applied Sciences, 7(10), pp. 1-30
+
+
+
+
+
+
+
+Mitra, NJ and Nguyen, A (2003) 
+ Estimating surface normals in noisy point cloud data
+, Proceedings of the 19th annual symposium on Computational geometry, pp. 322-328
+
+
+
+
+
+
+
+Nguyen, A and Le, B (2013) 
+ 3D point cloud segmentation: A survey
+, 6th IEEE conference on robotics, automation and mechatronics (RAM), pp. 225-230
+
+
+
+
+
+
+
+Patlakas, P, Koronaios, G, Raslan, R, Neighbour, G and Altan, H (2017) 
+ Case studies of environmental visualization
+, Energies, 10(10), pp. 1-18
+
+
+
+
+
+
+
+Posada, J, Zorrilla, M, Dominguez, A, Simoes, B, Eisert, P, Stricker, D, Rambach, J, Döllner, J and Guevara, M (2018) 
+ Graphics and Media Technologies for Operators in Industry 4.0
+, IEEE computer graphics and applications, 38(5), pp. 119-132
+
+
+
+
+
+
+
+Pouke, P, Virtanen, JP, Badri, M and Ojala, T (2018) 
+ Comparison of two workflows for Web-based 3D smart home visualizations
+, 2018 IEEE International Conference on Future IoT Technologies (Future IoT), pp. 1-8
+
+
+
+
+
+
+
+Qiao, X, Ren, P, Dustdar, S, Liu, L, Ma, H and Chen, J (2019) 
+ Web AR: A Promising Future for Mobile Augmented Reality-State of the Art, Challenges, and Insights
+, Proceedings of the IEEE, 107(4), pp. 651 - 666",,"Bassier, M, Vergauwen, M and Van Genechten, B (2016) 
+ Automated semantic labelling of 3D vector models for scan-to-BIM
+, Proceedings of the 4th Annual International Conference on Architecture and Civil Engineering (ACE 2016), Singapore, pp. 25-26",,,,"Clauß, M, Götze, J, Müller, E and Schumann, C.A (2014) 
+ Real-time Data Access through Semantic Technologies and Augmented Reality in Facility Management Processes
+, Proc. Int. Conf. on Innovative Technologies, IN-TECH, pp. 45-48",,,,"Discher, S, Richter, R and Döllner, J (2018) 
+ A scalable webGL-based approach for visualizing massive 3D point clouds using semantics-dependent rendering techniques
+, Proceedings of the 23rd International ACM Conference on 3D Web Technology (Web3D '18), Poznan, pp. 1-9",,,,"Franz, S, Irmler, R and Rüppel, U (2018) 
+ Real-time collaborative reconstruction of digital building models with mobile devices
+, Advanced Engineering Informatics, 38, pp. 569-580",,,,"Froehlich, M, Azhar, S and Vanture, M (2017) 
+ An Investigation of Google Tango Tablet for Low Cost 3D Scanning
+, ISARC. Proceedings of the 34th International Symposium on Automation and Robotics in Construction, Taipei, pp. 1-8",,,,"Grieves, M (2014) 
+ Digital twin: Manufacturing excellence through virtual factory replication
+, White paper, 1, pp. 1-7",,,,"Hildebrandt, D, Klimke, J, Hagedorn, B and Döllner, J (2011) 
+ Service-oriented interactive 3D visualization of massive 3D city models on thin clients
+, Proceedings of the 2nd International Conference on Computing for Geospatial Research & Applications",,,,"Hoppe, H, DeRose, T, Duchamp, T, McDonald, J and Stuetzle, W (1993) 
+ Surface reconstruction from unorganized points
+, Computer Graphics, 26(2), pp. 71-78",,,,"Ioannidou, A, Chatzilari, E, Nikolopoulos, S and Kompatsiaris, I (2017) 
+ Deep learning advances in computer vision with 3d data: A survey
+, ACM Computing Surveys (CSUR), 50(2), pp. 1-38",,,,"Kensek, K (2015) 
+ BIM guidelines inform facilities management databases: a case study over time
+, Buildings, 5(3), pp. 899-916",,,,"Khalid, MU, Bashir, MK and Newport, D (2017) 
+ Building Information Modelling, Building Performance, Design and Smart Construction
+, Springer",,,,"Lasi, H, Fettke, P, Kemper, H.G, Feld, T and Hoffmann, M (2014) 
+ Industry 4.0
+, Business & Information Systems Engineering, 6(4), pp. 239-242",,,,"Li, J, Greenwood, D and Kassem, M (2018) 
+ Blockchain in the built environment: analysing current applications and developing an emergent framework
+, Proceedings of the Creative Construction Conference 2018, pp. 1-10",,,,"Macher, H, Landes, T and Grussenmeyer, P (2017) 
+ From point clouds to building information models: 3D semi-automatic reconstruction of indoors of existing buildings
+, Applied Sciences, 7(10), pp. 1-30",,,,"Mitra, NJ and Nguyen, A (2003) 
+ Estimating surface normals in noisy point cloud data
+, Proceedings of the 19th annual symposium on Computational geometry, pp. 322-328",,,,"Nguyen, A and Le, B (2013) 
+ 3D point cloud segmentation: A survey
+, 6th IEEE conference on robotics, automation and mechatronics (RAM), pp. 225-230",,,,"Patlakas, P, Koronaios, G, Raslan, R, Neighbour, G and Altan, H (2017) 
+ Case studies of environmental visualization
+, Energies, 10(10), pp. 1-18",,,,"Posada, J, Zorrilla, M, Dominguez, A, Simoes, B, Eisert, P, Stricker, D, Rambach, J, Döllner, J and Guevara, M (2018) 
+ Graphics and Media Technologies for Operators in Industry 4.0
+, IEEE computer graphics and applications, 38(5), pp. 119-132",,,,"Pouke, P, Virtanen, JP, Badri, M and Ojala, T (2018) 
+ Comparison of two workflows for Web-based 3D smart home visualizations
+, 2018 IEEE International Conference on Future IoT Technologies (Future IoT), pp. 1-8",,,,"Qiao, X, Ren, P, Dustdar, S, Liu, L, Ma, H and Chen, J (2019) 
+ Web AR: A Promising Future for Mobile Augmented Reality-State of the Art, Challenges, and Insights
+, Proceedings of the IEEE, 107(4), pp. 651 - 666",,
+11,2019/08/26 20:28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

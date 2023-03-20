@@ -1,0 +1,198 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60
+0,ecaade2020_113,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Li, Yunqin, Yabuki, Nobuyoshi, Fukuda, Tomohiro and Zhang, Jiaxin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,A big data evaluation of urban street walkability using deep learning and environmental sensors - a case study around Osaka University Suita campus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Werner, L and Koering, D (eds.), Anthropologic: Architecture and Fabrication in the cognitive age - Proceedings of the 38th eCAADe Conference - Volume 2, TU Berlin, Berlin, Germany, 16-18 September 2020, pp. 319-328",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Although it is widely known that the walkability of urban street plays a vital role in promoting street quality and public health, there is still no consensus on how to measure it quantitatively and comprehensively. Recent emerging deep learning and sensor network has revealed the possibility to overcome the previous limit, thus bringing forward a research paradigm shift. Taking this advantage, this study explores a new approach for urban street walkability measurement. In the experimental study, we capture Street View Picture, traffic flow data, and environmental sensor data covering streets within Osaka University and conduct both physical and perceived walkability evaluation. The result indicates that the street walkability of the campus is significantly higher than that of municipal, and the streets close to large service facilities have better walkability, while others receive lower scores. The difference between physical and perceived walkability indicates the feasibility and limitation of the auto-calculation method.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,walkability; WalkScore; deep learning; Street view picture; environmental sensor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,liyunqin128@outlook.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (12,442,689 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Alfonzo, MA (2005) 
+ To walk or not to walk? The hierarchy of walking needs
+, Environment and behavior, 37(6), pp. 808-836
+
+
+
+
+
+
+
+Chen, LC, Papandreou, G, Kokkinos, I, Murphy, K and Yuille, AL (2017) 
+ Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs
+, IEEE transactions on pattern analysis and machine intelligence, 40(4), pp. 834-848
+
+
+
+
+
+
+
+Curtis, JW, Curtis, A, Mapes, J, Szell, AB and Cinderich, A (2013) 
+ Using google street view for systematic observation of the built environment: analysis of spatio-temporal instability of imagery dates
+, International journal of health geographics, 12(1), p. 53
+
+
+
+
+
+
+
+Ewing, R and Handy, S (2009) 
+ Measuring the unmeasurable: Urban design qualities related to walkability
+, Journal of Urban design, 14(1), pp. 65-84
+
+
+
+
+
+
+
+Gardner, K (1996) 
+ Developing a pedestrian strategy for London
+, 24th European Transport Forum, Brunel University,England, p. 402
+
+
+
+
+
+
+
+Liu, LL and Wei, W (2018) 
+ International experience of walkability evaluation methods and tools
+, International Urban Planning, 04, pp. 103-110
+
+
+
+
+
+
+
+Long, Y, Zhao, J, Zhou, Y and Xu, L (2018) 
+ Large-scale measurement of street walking index in major Chinese cities
+, New Buildings, 3, pp. 4-8
+
+
+
+
+
+
+
+McGinn, AP, Evenson, KR, Herring, AH, Huston, SL and Rodriguez, DA (2007) 
+ Exploring associations between physical activity and perceived and objective measures of the built environment
+, Journal of urban health, 84(2), pp. 162-184
+
+
+
+
+
+
+
+Moura, F, Cambra, P and Gonccalves, AB (2017) 
+ Measuring walkability for distinct pedestrian groups with a participatory assessment method: A case study in Lisbon
+, Landscape and Urban Planning, 157, pp. 282-296
+
+
+
+
+
+
+
+Sallis, JF, Johnson, MF, Calfas, KJ, Caparosa, S and Nichols, JF (1997) 
+ Assessing perceived physical environmental variables that may influence physical activity
+, Research quarterly for exercise and sport, 68(4), pp. 345-351
+
+
+
+
+
+
+
+Sidawi, B, Deakin, M and Kamel, MAE (2013) 
+ Encouraging walkability in GCC cities: smart urban solutions
+, Smart and Sustainable Built Environment, 3, pp. 288-310
+
+
+
+
+
+
+
+Southworth, Michael (2005) 
+ Designing the Walkable City
+, Journal of Urban Planning and Development, 131, pp. 246-257
+
+
+
+
+
+
+
+Tang, J, Long, Y, Zhai, W and Ma, Y (2016) 
+ Measuring quality of street space, its temporal variation and impact factors: an analysis based on massive street view pictures
+, New Archit, 5, pp. 110-115
+
+
+
+
+
+
+
+Wang, R, Lu, Y, Zhang, J, Liu, P, Yao, Y and Liu, Y (2019) 
+ The relationship between visual enclosure for neighbourhood street walkability and elders' mental health in China: using street view images
+, Journal of Transport & Health, 13, pp. 90-102
+
+
+
+
+
+
+
+Yin, L and Wang, Z (2016) 
+ Measuring visual enclosure for street walkability: Using machine learning algorithms and Google Street View imagery
+, Applied geography, 76, pp. 147-153",,"Alfonzo, MA (2005) 
+ To walk or not to walk? The hierarchy of walking needs
+, Environment and behavior, 37(6), pp. 808-836",,,,"Chen, LC, Papandreou, G, Kokkinos, I, Murphy, K and Yuille, AL (2017) 
+ Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs
+, IEEE transactions on pattern analysis and machine intelligence, 40(4), pp. 834-848",,,,"Curtis, JW, Curtis, A, Mapes, J, Szell, AB and Cinderich, A (2013) 
+ Using google street view for systematic observation of the built environment: analysis of spatio-temporal instability of imagery dates
+, International journal of health geographics, 12(1), p. 53",,,,"Ewing, R and Handy, S (2009) 
+ Measuring the unmeasurable: Urban design qualities related to walkability
+, Journal of Urban design, 14(1), pp. 65-84",,,,"Gardner, K (1996) 
+ Developing a pedestrian strategy for London
+, 24th European Transport Forum, Brunel University,England, p. 402",,,,"Liu, LL and Wei, W (2018) 
+ International experience of walkability evaluation methods and tools
+, International Urban Planning, 04, pp. 103-110",,,,"Long, Y, Zhao, J, Zhou, Y and Xu, L (2018) 
+ Large-scale measurement of street walking index in major Chinese cities
+, New Buildings, 3, pp. 4-8",,,,"McGinn, AP, Evenson, KR, Herring, AH, Huston, SL and Rodriguez, DA (2007) 
+ Exploring associations between physical activity and perceived and objective measures of the built environment
+, Journal of urban health, 84(2), pp. 162-184",,,,"Moura, F, Cambra, P and Gonccalves, AB (2017) 
+ Measuring walkability for distinct pedestrian groups with a participatory assessment method: A case study in Lisbon
+, Landscape and Urban Planning, 157, pp. 282-296",,,,"Sallis, JF, Johnson, MF, Calfas, KJ, Caparosa, S and Nichols, JF (1997) 
+ Assessing perceived physical environmental variables that may influence physical activity
+, Research quarterly for exercise and sport, 68(4), pp. 345-351",,,,"Sidawi, B, Deakin, M and Kamel, MAE (2013) 
+ Encouraging walkability in GCC cities: smart urban solutions
+, Smart and Sustainable Built Environment, 3, pp. 288-310",,,,"Southworth, Michael (2005) 
+ Designing the Walkable City
+, Journal of Urban Planning and Development, 131, pp. 246-257",,,,"Tang, J, Long, Y, Zhai, W and Ma, Y (2016) 
+ Measuring quality of street space, its temporal variation and impact factors: an analysis based on massive street view pictures
+, New Archit, 5, pp. 110-115",,,,"Wang, R, Lu, Y, Zhang, J, Liu, P, Yao, Y and Liu, Y (2019) 
+ The relationship between visual enclosure for neighbourhood street walkability and elders' mental health in China: using street view images
+, Journal of Transport & Health, 13, pp. 90-102",,,,"Yin, L and Wang, Z (2016) 
+ Measuring visual enclosure for street walkability: Using machine learning algorithms and Google Street View imagery
+, Applied geography, 76, pp. 147-153",,
+11,2020/09/09 09:54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

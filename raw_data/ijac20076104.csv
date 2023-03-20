@@ -1,0 +1,11 @@
+﻿,0
+0,ijac20076104
+1,"Benoudjit, Mohamed Amine; Coates, Paul S."
+2,2008
+3,Artificial networks for spatial analysis
+4,"International Journal of Architectural Computing vol. 6 - no. 1, pp. 59-78"
+5,"This paper tests digital representation techniques which can be used by artificial neural networks in a computer-aided design (CAD) environment to analyze and classify architectural spaces. We developed two techniques for encoding volumetric data: vertex representation and feature space representation, as input for artificial neural networks. We tested how two different kinds of artificial neural networks, perceptron networks and self-organizing maps, could recognize given shapes in these representational formats. We have found that a one-layer perceptron can be used to classify shapes even when presented with input vectors composed of real numbers. These spatial representation techniques provide a method for using ANNs for architectural purposes."
+6,journal
+7,"file.pdf (2,037,815 bytes)"
+8,Content-type: text/plain
+9,2008/06/18 06:12

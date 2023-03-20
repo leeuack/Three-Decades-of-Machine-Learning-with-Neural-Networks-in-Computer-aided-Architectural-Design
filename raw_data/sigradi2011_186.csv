@@ -1,0 +1,126 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+0,sigradi2011_186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Valdes Castillo, Francisco Javier",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,(STMS) Standard Texture Metrology Simulation for General CNC Machining Processes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"SIGraDi 2011 [Proceedings of the 15th Iberoamerican Congress of Digital Graphics] Argentina - Santa Fe 16-18 November 2011, pp. 90-93",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This research will develop a simplified surfaces roughness measurement system STMSto be used in subtractive CAM processes.This STMS system will involve a solid modeling approach to measure tolerances through CAD comparison procedures, plus the addition of real texture profiles for metrology purposes. The CAD comparison will be performed between the input CAD model (part to be machined) and the output machined model after simulation. The addition of real textures will report levels of surfaces' roughnessbased on standards. To do so, the STMS system will access standard texture databases from an organism of standardization (ex. ISO or ASME). The parameters taken form those databases will be translated in texture profiles and applied as general texture patterns to the output model. After those procedures, the outcomes of the system will be a report about tolerances and roughness of the machined model?s surface, and a realistic textured model useful for virtual mockups, visual inspections as well as design intent checking.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Machining simulation; Metrology; Virtual Mock-up; Rendering; CAD/CAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,SIGRADI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,fvaldes6@gatech.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (465,055 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Benardos, P.G. and Vosniakos, G.C. (2003) 
+ Predicting surface roughness in machining: a review
+, International Journal of Machine Tools and Manufacture 43 , pp. 833-844
+
+
+
+
+
+
+
+Chouhury, I.A. and El-Baradie, M.A. (1997) 
+ Surface roughness in the turning of high strength steel by factorial design of experiments
+, Journal of Materials Processing Technology 67 , pp. 55-61
+
+
+
+
+
+
+
+Dana Kristin J. and. Nayar Shree K. () 
+ 3D Textured Surface Modeling
+, Computer Science Department, Columbia University, New York, NY 10027
+
+
+
+
+
+
+
+Dana Kristin J., Van Ginneken Bram, Nayar Shree K., Koenederinik Jan J. (1999) 
+ Reflectance and Texture of Real-World Surfaces
+, ACM Transactions on Graphics, Vol. 18, No. 1, January 1999
+
+
+
+
+
+
+
+Davim, J.P. (2001) 
+ A note on the determination of optimal cutting conditions for surface finish obtained in turning using design of experiments
+, Journal of Materials Processing Technology116 , pp. 305-30
+
+
+
+
+
+
+
+Eastman, Baer, Henrion M (1979) 
+ Geometrical modeling: A survey
+, Computer-Aided Design 11 (5) pp 253-272
+
+
+
+
+
+
+
+Jesuthanama C.P.; Kumanana S.; Asokana P (2005) 
+ Surface roughness prediction using hybrid neural networks
+, Department of Production Engineering, National Institute of Technology, Tiruchirappalli, India, Vol. 9, No.2, April-June 2005
+
+
+
+
+
+
+
+Petropolous G.P. (2007) 
+ Multi-parameter analysis and modelling of engineering surface texture
+, Department of Mechanical and Industrial Engineering, University of Thessaly, Thessaly, August 2007
+
+
+
+
+
+
+
+Yau Hong T.,Tsou Lee S , Tong Yu C. (2005) 
+ Adaptive NC Simulation for Multi-axis Solid Machining
+, Computer-Aided Design & Applications, Vol. 2, Nos. 1-4, 2005, pp 95-104",,"Benardos, P.G. and Vosniakos, G.C. (2003) 
+ Predicting surface roughness in machining: a review
+, International Journal of Machine Tools and Manufacture 43 , pp. 833-844",,,,"Chouhury, I.A. and El-Baradie, M.A. (1997) 
+ Surface roughness in the turning of high strength steel by factorial design of experiments
+, Journal of Materials Processing Technology 67 , pp. 55-61",,,,"Dana Kristin J. and. Nayar Shree K. () 
+ 3D Textured Surface Modeling
+, Computer Science Department, Columbia University, New York, NY 10027",,,,"Dana Kristin J., Van Ginneken Bram, Nayar Shree K., Koenederinik Jan J. (1999) 
+ Reflectance and Texture of Real-World Surfaces
+, ACM Transactions on Graphics, Vol. 18, No. 1, January 1999",,,,"Davim, J.P. (2001) 
+ A note on the determination of optimal cutting conditions for surface finish obtained in turning using design of experiments
+, Journal of Materials Processing Technology116 , pp. 305-30",,,,"Eastman, Baer, Henrion M (1979) 
+ Geometrical modeling: A survey
+, Computer-Aided Design 11 (5) pp 253-272",,,,"Jesuthanama C.P.; Kumanana S.; Asokana P (2005) 
+ Surface roughness prediction using hybrid neural networks
+, Department of Production Engineering, National Institute of Technology, Tiruchirappalli, India, Vol. 9, No.2, April-June 2005",,,,"Petropolous G.P. (2007) 
+ Multi-parameter analysis and modelling of engineering surface texture
+, Department of Mechanical and Industrial Engineering, University of Thessaly, Thessaly, August 2007",,,,"Yau Hong T.,Tsou Lee S , Tong Yu C. (2005) 
+ Adaptive NC Simulation for Multi-axis Solid Machining
+, Computer-Aided Design & Applications, Vol. 2, Nos. 1-4, 2005, pp 95-104",,
+11,2016/03/10 09:02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

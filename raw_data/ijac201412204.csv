@@ -1,0 +1,256 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ijac201412204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Wilkinson, Samuel; Sean Hanna",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Approximating Computational Fluid Dynamics for Generative Tall Building Design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"International Journal of Architectural Computing vol. 12 - no. 2, 155-178",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Background literature review, methodology, results, and analysis are presented for a novel approach to approximating wind pressure on tall buildings for the application of generative design exploration and optimisation.The predictions are approximations of time-averaged computational fluid dynamics (CFD) data with the aim of maintaining simulation accuracy but with improved speed.This is achieved through the use of a back-propagation artificial neural network (ANN) with vertex-based shape features as input and pressure as output.The training set consists of 600 procedurally generated tall building models, and the test set of 10 real building models; for all models in both sets, a feature vector is calculated for every vertex. Over the test set, mean absolute errors against the basis CFD are 1.994.44% (_:2.105.09%) with an on-line process time of 14.72809.98s (0.028s/sample). Studies are also included on feature sensitivity, training set size, and comparison of CFD against prediction times. Results indicate that prediction time is only dependent on the number of test model vertices, and is therefore invariant to basis CFD time.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,journal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"file.pdf (4,192,188 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Athanailidi, P., Fatah gen Schieck, A., Tenu, V. and Chronis, A. (2014) 
+ Tensegrity Systems Acting as Windbreak: Form Finding and Fast Fluid Dynamics Analysis to Address Wind Funnel Effect 
+, Proceedings of SimAUD SCS SpringSim14, 127134. Tampa, Fl
+
+
+
+
+
+
+
+Breiman, L. (2001) 
+ Random Forests
+, Machine Learning, 2001(45), 532.
+
+
+
+
+
+
+
+Bui-Thanh, T., Willcox, K. and Ghattas, O. (2008) 
+ Parametric Reduced-Order Models for Probabilistic Analysis of Unsteady Aerodynamic Applications
+, AIAA, 46(10)
+
+
+
+
+
+
+
+Chronis, A., Tsigkari, M., Davis, A. and Aish, F. (2012) 
+ Design Systems, Ecology and Time
+, Proceedings of ACADIA12: Synthetic Digital Ecologies. San Francisco, CA
+
+
+
+
+
+
+
+Chronis, A., Turner, A. and Tsigkari, M. (2011) 
+ Generative Fluid Dynamics: Integration of Fast Fluid Dynamics and Genetic Algorithms for Wind Loading Optimization of a Free Form Surface
+, Proceedings of SimAUD SCS SpringSim11, 7986
+
+
+
+
+
+
+
+Cipriano, G., Phillips, G.N. and Gleicher, M. (2009) 
+ Multi-Scale Surface Descriptors
+, IEEE Transactions on Visualization and Computer Graphics, 15(6), 12018.
+
+
+
+
+
+
+
+Darom, T. and Keller, Y. (2012) 
+ Scale-Invariant Features for 3-D Mesh Models
+, IEEE transactions on image processing: a publication of the IEEE Signal Processing Society, 21(5), 275869.
+
+
+
+
+
+
+
+Degroote, J., Vierendeels, J. and Willcox, K. (2010) 
+ Interpolation Among Reduced-Order Matrices to Obtain Parameterized Models for Design, Optimization and Probabilistic Analysis
+, International Journal for Numerical Methods in Fluids, 2010(63), 207230
+
+
+
+
+
+
+
+Dong, C.S. and Wang, G.Z. (2005) 
+ Curvatures Estimation on Triangular Mesh
+, Journal of Zhejiang University SCIENCE, 6(Suppl. I), 128136
+
+
+
+
+
+
+
+Feng, X., Xia, K., Chen, Z., Tong, Y. and Wei, G.W. (2013) 
+ Multiscale geometric modeling of macromolecules II: Lagrangian representation
+, Journal of computational chemistry, 34(24), 210020
+
+
+
+
+
+
+
+Graening, L. and Sendho_, B. (2014) 
+ Shape Mining: A Holistic Data Mining Approach for Engineering Design
+, Advanced Engineering Informatics
+
+
+
+
+
+
+
+Graening, L., Menzel, S., Hasenj¨ager, M., Bihrer, T., Olhofer, M. and Sendho_, B. (2008) 
+ Knowledge Extraction from Aerodynamic Design Data and its Application to 3D Turbine Blade Geometries
+, Journal of Mathematical Modelling and Algorithms, 7(4), 329350
+
+
+
+
+
+
+
+Hsu, S.A., Meindl, E.A. and Gilhousen, D.B. (1994) 
+ Determining the Power-law Wind-Profile Exponent under Near-Neutral Stability Conditions at Sea
+, Journal of Applied Meteorology, 33(1994), 757772
+
+
+
+
+
+
+
+Hubeli, A. and Gross, M. (2001) 
+ Multiresolution Feature Extraction for Unstructured Meshes
+, Proceedings of the conference on Visualization01. IEEE Computer Society, 287294
+
+
+
+
+
+
+
+Hubeli, A., Meyer, K. and Gross, M. (2000) 
+ Mesh Edge Detection
+, Tech. rep., Swiss Federal Institute of Technology, Zurich
+
+
+
+
+
+
+
+Jiao, X. and Heath, M.T. (2002) 
+ Feature Detection for Surface Meshes
+, Proceedings of 8th international conference on numerical grid generation in computational field simulations. University of Illinois.
+
+
+
+
+
+
+
+Karagkouni, C.S., Fatah, A., Tsigkari, M. and Chronis, A. (2013) 
+ Fac¸ade Apertures Optimization :Integrating Cross-Ventilation Performance Analysis in Fluid Dynamics Simulation
+, Proceedings of SimAUD SCS SpringSim13, Malkawi 2004
+
+
+
+
+
+
+
+Park, S.M., Elnimeiri, M., Sharpe, D.C. and Krawczyk, R.J.,  (2004) 
+ All Building Form Generation by Parametric Design Process
+, In CTBUH, 17. Seoul Conference
+
+
+
+
+
+
+
+Rendall, T.C.S. and Allen, C.B. (2008) 
+ Multi-Dimensional Aircraft Surface Pressure Interpolation using Radial Basis Functions
+, Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering, 222(4), 483495
+
+
+
+
+
+
+
+Samareh, J.A. (2001) 
+ Survey of Shape Parameterization Techniques for High- Fidelity Multidisciplinary Shape Optimization
+, American Institute of Aeronautics and Astronautics, 39(5), 333343",,"Athanailidi, P., Fatah gen Schieck, A., Tenu, V. and Chronis, A. (2014) 
+ Tensegrity Systems Acting as Windbreak: Form Finding and Fast Fluid Dynamics Analysis to Address Wind Funnel Effect 
+, Proceedings of SimAUD SCS SpringSim14, 127134. Tampa, Fl",,,,"Breiman, L. (2001) 
+ Random Forests
+, Machine Learning, 2001(45), 532.",,,,"Bui-Thanh, T., Willcox, K. and Ghattas, O. (2008) 
+ Parametric Reduced-Order Models for Probabilistic Analysis of Unsteady Aerodynamic Applications
+, AIAA, 46(10)",,,,"Chronis, A., Tsigkari, M., Davis, A. and Aish, F. (2012) 
+ Design Systems, Ecology and Time
+, Proceedings of ACADIA12: Synthetic Digital Ecologies. San Francisco, CA",,,,"Chronis, A., Turner, A. and Tsigkari, M. (2011) 
+ Generative Fluid Dynamics: Integration of Fast Fluid Dynamics and Genetic Algorithms for Wind Loading Optimization of a Free Form Surface
+, Proceedings of SimAUD SCS SpringSim11, 7986",,,,"Cipriano, G., Phillips, G.N. and Gleicher, M. (2009) 
+ Multi-Scale Surface Descriptors
+, IEEE Transactions on Visualization and Computer Graphics, 15(6), 12018.",,,,"Darom, T. and Keller, Y. (2012) 
+ Scale-Invariant Features for 3-D Mesh Models
+, IEEE transactions on image processing: a publication of the IEEE Signal Processing Society, 21(5), 275869.",,,,"Degroote, J., Vierendeels, J. and Willcox, K. (2010) 
+ Interpolation Among Reduced-Order Matrices to Obtain Parameterized Models for Design, Optimization and Probabilistic Analysis
+, International Journal for Numerical Methods in Fluids, 2010(63), 207230",,,,"Dong, C.S. and Wang, G.Z. (2005) 
+ Curvatures Estimation on Triangular Mesh
+, Journal of Zhejiang University SCIENCE, 6(Suppl. I), 128136",,,,"Feng, X., Xia, K., Chen, Z., Tong, Y. and Wei, G.W. (2013) 
+ Multiscale geometric modeling of macromolecules II: Lagrangian representation
+, Journal of computational chemistry, 34(24), 210020",,,,"Graening, L. and Sendho_, B. (2014) 
+ Shape Mining: A Holistic Data Mining Approach for Engineering Design
+, Advanced Engineering Informatics",,,,"Graening, L., Menzel, S., Hasenj¨ager, M., Bihrer, T., Olhofer, M. and Sendho_, B. (2008) 
+ Knowledge Extraction from Aerodynamic Design Data and its Application to 3D Turbine Blade Geometries
+, Journal of Mathematical Modelling and Algorithms, 7(4), 329350",,,,"Hsu, S.A., Meindl, E.A. and Gilhousen, D.B. (1994) 
+ Determining the Power-law Wind-Profile Exponent under Near-Neutral Stability Conditions at Sea
+, Journal of Applied Meteorology, 33(1994), 757772",,,,"Hubeli, A. and Gross, M. (2001) 
+ Multiresolution Feature Extraction for Unstructured Meshes
+, Proceedings of the conference on Visualization01. IEEE Computer Society, 287294",,,,"Hubeli, A., Meyer, K. and Gross, M. (2000) 
+ Mesh Edge Detection
+, Tech. rep., Swiss Federal Institute of Technology, Zurich",,,,"Jiao, X. and Heath, M.T. (2002) 
+ Feature Detection for Surface Meshes
+, Proceedings of 8th international conference on numerical grid generation in computational field simulations. University of Illinois.",,,,"Karagkouni, C.S., Fatah, A., Tsigkari, M. and Chronis, A. (2013) 
+ Fac¸ade Apertures Optimization :Integrating Cross-Ventilation Performance Analysis in Fluid Dynamics Simulation
+, Proceedings of SimAUD SCS SpringSim13, Malkawi 2004",,,,"Park, S.M., Elnimeiri, M., Sharpe, D.C. and Krawczyk, R.J.,  (2004) 
+ All Building Form Generation by Parametric Design Process
+, In CTBUH, 17. Seoul Conference",,,,"Rendall, T.C.S. and Allen, C.B. (2008) 
+ Multi-Dimensional Aircraft Surface Pressure Interpolation using Radial Basis Functions
+, Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering, 222(4), 483495",,,,"Samareh, J.A. (2001) 
+ Survey of Shape Parameterization Techniques for High- Fidelity Multidisciplinary Shape Optimization
+, American Institute of Aeronautics and Astronautics, 39(5), 333343",,
+9,2019/05/24 07:55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,114 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32
+0,ecaade2021_072,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Jarzyna, Micha³",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Finding Optimal Path Planning Method for Building Navigation in BIM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 2, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 31-38",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Building's spatial structure described in a BIM model can be used for retrieving the information required for determining the shortest path within the building. The matrix method and the visibility method are the two main ways of dividing space into prime factors. Both are widely used to find the shortest path. In order to compare the performance of both methods, several tests were carried out with various versions of the floorplan modification (room area, the surface of internal walls, distance between the entrance, and exit in a straight line and within the boundary marked by walls of the maze). The results revealed significant differences between the visibility graph and the matrix method.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,BIM;  Building information modeling;  Facility management;  FM;  Routing in building,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,michal.jarzyna@dokt.p.lodz.pl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (9,008,782 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Chen, W, Chen, K, Cheng, JC, Wang, Q and Gan, VJ (2018) 
+ BIM-based framework for automatic scheduling of facility maintenance work orders
+, Automation in Construction, 91(February), pp. 15-30
+
+
+
+
+
+
+
+Graser, A (2016) 
+ Integrating Open Spaces into OpenStreetMap Routing Graphs for Realistic Crossing Behaviour in Pedestrian Navigation
+, GI_Forum, 1, pp. 217-230
+
+
+
+
+
+
+
+Hahmann, S, Miksch, J, Resch, B, Lauer, J and Zipf, A (2018) 
+ Routing through open spaces - A performance comparison of algorithms
+, Geo-spatial Information Science, 21(3), pp. 247-256
+
+
+
+
+
+
+
+Haunert, JH and Sester, M (2008) 
+ Area Collapse and Road Centerlines based on Straight Skeletons
+, GeoInformatica, 12(2), pp. 169-191
+
+
+
+
+
+
+
+Krisp, J, Liu, L and Berger, T (2010) 
+ Goal Directed Visibility Polygon Routing for Pedestrian Navigation
+, Proceedings of 7th International Symposium on LBS & TeleCartography, Guangzhou, China
+
+
+
+
+
+
+
+Masehian, E and Amin-Naseri, MR (2004) 
+ A voronoi diagram-visibility graph-potential field compound algorithm for robot path planning
+, Journal of Robotic Systems, 21(6), pp. 275-300
+
+
+
+
+
+
+
+Ruppel, U, Abolghasemzadeh, P and Stubbe, K (2010) 
+ BIM-based immersive indoor situations in buildings
+, Proceedings of the International Conference on Computing in Civil and Building Engineering
+
+
+
+
+
+
+
+Volk, R, Stengel, J and Schultmann, F (2014) 
+ Building Information Modeling (BIM) for existing buildings - Literature review and future needs
+, Automation in Construction, 38, pp. 109-127",,"Chen, W, Chen, K, Cheng, JC, Wang, Q and Gan, VJ (2018) 
+ BIM-based framework for automatic scheduling of facility maintenance work orders
+, Automation in Construction, 91(February), pp. 15-30",,,,"Graser, A (2016) 
+ Integrating Open Spaces into OpenStreetMap Routing Graphs for Realistic Crossing Behaviour in Pedestrian Navigation
+, GI_Forum, 1, pp. 217-230",,,,"Hahmann, S, Miksch, J, Resch, B, Lauer, J and Zipf, A (2018) 
+ Routing through open spaces - A performance comparison of algorithms
+, Geo-spatial Information Science, 21(3), pp. 247-256",,,,"Haunert, JH and Sester, M (2008) 
+ Area Collapse and Road Centerlines based on Straight Skeletons
+, GeoInformatica, 12(2), pp. 169-191",,,,"Krisp, J, Liu, L and Berger, T (2010) 
+ Goal Directed Visibility Polygon Routing for Pedestrian Navigation
+, Proceedings of 7th International Symposium on LBS & TeleCartography, Guangzhou, China",,,,"Masehian, E and Amin-Naseri, MR (2004) 
+ A voronoi diagram-visibility graph-potential field compound algorithm for robot path planning
+, Journal of Robotic Systems, 21(6), pp. 275-300",,,,"Ruppel, U, Abolghasemzadeh, P and Stubbe, K (2010) 
+ BIM-based immersive indoor situations in buildings
+, Proceedings of the International Conference on Computing in Civil and Building Engineering",,,,"Volk, R, Stengel, J and Schultmann, F (2014) 
+ Building Information Modeling (BIM) for existing buildings - Literature review and future needs
+, Automation in Construction, 38, pp. 109-127",,
+11,2021/08/11 08:46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,210 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64
+0,ecaadesigradi2019_648,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Eisenstadt, Viktor, Langenhan, Christoph and Althoff, Klaus-Dieter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Generation of Floor Plan Variations with Convolutional Neural Networks and Case-based Reasoning - An approach for transformative adaptation of room configurations within a framework for support of early conceptual design phases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 2, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 79-84",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"We present an approach for computer-aided generation of different variations of floor plans during the early phases of conceptual design in architecture. The early design phases are mostly characterized by the processes of inspiration gaining and search for contextual help in order to improve the building design at hand. The generation method described in this work uses the novel as well as established artificial intelligence methods, namely, generative adversarial nets and case-based reasoning, for creation of possible evolutions of the current design based on the most similar previous designs. The main goal of this approach is to provide the designer with information on how the current floor plan can evolve over time in order to influence the direction of the design process. The work described in this paper is part of the methodology FLEA (Find, Learn, Explain, Adapt) whose task is to provide a holistic structure for support of the early conceptual phases in architecture. The approach is implemented as the adaptation component of the framework MetisCBR that is based on FLEA.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,room configuration; adaptation; case-based reasoning; convolutional neural networks; conceptual design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADeSIGraDi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,ayzensht@uni-hildesheim.de,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (779,643 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Aamodt, A and Plaza, E (1994) 
+ Case-based reasoning: Foundational issues, methodological variations, and system approaches
+, AI communications, 7.1
+
+
+
+
+
+
+
+Ayzenshtadt, V, Langenhan, C, Bukhari, S, Althoff, KD, Petzold, F and Dengel, A (2016) 
+ Thinking With Containers: A Multi-Agent Retrieval Approach for the Case-Based Semantic Search of Architectural Designs
+, ICAART 2016, Rome, Italy, pp. 149-156
+
+
+
+
+
+
+
+De Mantaras, RL, McSherry, D, Bridge, D, Leake, D, Smyth, B, Craw, S, Faltings, B, Maher, ML, Cox, MT, Forbus, K, Keane, M, Aamodt, A and Watson, I (2005) 
+ Retrieval, reuse, revision and retention in case-based reasoning
+, The Knowledge Engineering Review, 20.3, pp. 215-240
+
+
+
+
+
+
+
+Eisenstadt, V, Espinoza-Stapelfeld, C, Mikyas, A and Althoff, KD (2018) 
+ Explainable Distributed Case-Based Support Systems: Patterns for Enhancement and Validation of Design Recommendations
+, ICCBR 2018, Stockholm, Sweden, pp. 78-94
+
+
+
+
+
+
+
+Flack, RWJ and Ross, BJ (2011) 
+ Evolution of architectural floor plans
+, European Conference on the Applications of Evolutionary Computation, pp. 313-322
+
+
+
+
+
+
+
+Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative adversarial nets
+, Advances in neural information processing systems
+
+
+
+
+
+
+
+He, Y, Liang, J and Liu, Y (2017) 
+ Pervasive Floorplan Generation Based on Only Inertial Sensing: Feasibility, Design, and Implementation
+, IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS, 35.5, pp. 1132-1140
+
+
+
+
+
+
+
+Kolodner, J (2014) 
+ Case-based reasoning
+, Morgan Kaufmann
+
+
+
+
+
+
+
+Langenhan, C and Petzold, F (2010) 
+ The fingerprint of architecture-sketch-based design methods for researching building layouts through the semantic fingerprinting of floor plans
+, International electronic scientific-educational journal: Architecture and Modern Information Technologies, 4.13, pp. 1-8
+
+
+
+
+
+
+
+Merrell, P, Schkufza, E and Koltun, V (2010) 
+ Computer-Generated Residential Building Layouts
+, ACM Transactions on Graphics (TOG), 29.6, p. 181
+
+
+
+
+
+
+
+Nisztuk, M and Myszkowski, B (2019) 
+ Hybrid Evolutionary Algorithm applied to Automated Floor Plan Generation
+, International Journal of Architectural Computing
+
+
+
+
+
+
+
+Richter, K (2011) 
+ Augmenting designers memory: case based reasoning in der Architektur
+, Logos Berlin
+
+
+
+
+
+
+
+Sharma, D, Gupta, N, Chattopadhyay, C and Mehta, S (2017) 
+ DANIEL: A Deep Architecture for Automatic Analysis and Retrieval of Building Floor Plans
+, 14th IAPR International Conference on Document Analysis and Recognition (ICDAR)
+
+
+
+
+
+
+
+Simonyan, K and Zisserman, A (2014) 
+ Very deep convolutional networks for large-scale image recognition
+, arXiv:1409.1556
+
+
+
+
+
+
+
+Steadman, P and Mitchell, LJ (2010) 
+ Architectural morphospace: mapping worlds of built forms
+, Planning and Design, 37.2, pp. 197-220
+
+
+
+
+
+
+
+Wilke, W and Bergmann, R (1998) 
+ Techniques and knowledge used for adaptation during case-based problem solving
+, International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",,"Aamodt, A and Plaza, E (1994) 
+ Case-based reasoning: Foundational issues, methodological variations, and system approaches
+, AI communications, 7.1",,,,"Ayzenshtadt, V, Langenhan, C, Bukhari, S, Althoff, KD, Petzold, F and Dengel, A (2016) 
+ Thinking With Containers: A Multi-Agent Retrieval Approach for the Case-Based Semantic Search of Architectural Designs
+, ICAART 2016, Rome, Italy, pp. 149-156",,,,"De Mantaras, RL, McSherry, D, Bridge, D, Leake, D, Smyth, B, Craw, S, Faltings, B, Maher, ML, Cox, MT, Forbus, K, Keane, M, Aamodt, A and Watson, I (2005) 
+ Retrieval, reuse, revision and retention in case-based reasoning
+, The Knowledge Engineering Review, 20.3, pp. 215-240",,,,"Eisenstadt, V, Espinoza-Stapelfeld, C, Mikyas, A and Althoff, KD (2018) 
+ Explainable Distributed Case-Based Support Systems: Patterns for Enhancement and Validation of Design Recommendations
+, ICCBR 2018, Stockholm, Sweden, pp. 78-94",,,,"Flack, RWJ and Ross, BJ (2011) 
+ Evolution of architectural floor plans
+, European Conference on the Applications of Evolutionary Computation, pp. 313-322",,,,"Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative adversarial nets
+, Advances in neural information processing systems",,,,"He, Y, Liang, J and Liu, Y (2017) 
+ Pervasive Floorplan Generation Based on Only Inertial Sensing: Feasibility, Design, and Implementation
+, IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS, 35.5, pp. 1132-1140",,,,"Kolodner, J (2014) 
+ Case-based reasoning
+, Morgan Kaufmann",,,,"Langenhan, C and Petzold, F (2010) 
+ The fingerprint of architecture-sketch-based design methods for researching building layouts through the semantic fingerprinting of floor plans
+, International electronic scientific-educational journal: Architecture and Modern Information Technologies, 4.13, pp. 1-8",,,,"Merrell, P, Schkufza, E and Koltun, V (2010) 
+ Computer-Generated Residential Building Layouts
+, ACM Transactions on Graphics (TOG), 29.6, p. 181",,,,"Nisztuk, M and Myszkowski, B (2019) 
+ Hybrid Evolutionary Algorithm applied to Automated Floor Plan Generation
+, International Journal of Architectural Computing",,,,"Richter, K (2011) 
+ Augmenting designers memory: case based reasoning in der Architektur
+, Logos Berlin",,,,"Sharma, D, Gupta, N, Chattopadhyay, C and Mehta, S (2017) 
+ DANIEL: A Deep Architecture for Automatic Analysis and Retrieval of Building Floor Plans
+, 14th IAPR International Conference on Document Analysis and Recognition (ICDAR)",,,,"Simonyan, K and Zisserman, A (2014) 
+ Very deep convolutional networks for large-scale image recognition
+, arXiv:1409.1556",,,,"Steadman, P and Mitchell, LJ (2010) 
+ Architectural morphospace: mapping worlds of built forms
+, Planning and Design, 37.2, pp. 197-220",,,,"Wilke, W and Bergmann, R (1998) 
+ Techniques and knowledge used for adaptation during case-based problem solving
+, International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",,
+11,2019/08/26 20:26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

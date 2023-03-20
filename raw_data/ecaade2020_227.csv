@@ -1,0 +1,126 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+0,ecaade2020_227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Bielski, Jessica, Langenhan, Christoph, Weyand, Babara, Neuber, Markus, Eisenstadt, Viktor and Althoff, Klaus-Dieter",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Topological Queries and Analysis of School Buildings Based on Building Information Modeling (BIM) Using Parametric Design Tools and Visual Programming to Develop New Building Typologies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Werner, L and Koering, D (eds.), Anthropologic: Architecture and Fabrication in the cognitive age - Proceedings of the 38th eCAADe Conference - Volume 2, TU Berlin, Berlin, Germany, 16-18 September 2020, pp. 279-288",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"School buildings are currently one of the largest portions of planning and building projects in Germany. In order to reflect the continuous developments in school building construction with constantly changing spatial requirements, an approach to analyse, derive and combine patterns of schools is proposed to adapt school typologies accordingly. Therefore, the topology is analysed, concerning interconnection methods, such as adjacency, accessibility, depth, and flow. The geometric analysis of e.g. room sizes or spatial proportions is enhanced by including grouping of rooms, estimated room clusters, or room shapes. Furthermore, text-matching is used to determine e.g. room program fulfilment, or assigning functional room descriptions to predefined room types, revealing huge differences of terms throughout time and architects. First results of the analyses show a relevant correlation between spatial proportion and room types.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,school building typologies; building information modeling (BIM); artificial intelligence (AI); topology; spatial analysis; digital semantic model,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,bielski.jessica@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,392,060 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Arora, H, Langenhan, C, Petzold, F, Eisenstadt, V and Althoff, K-D (2020) 
+ Autocomplete designs by suggesting best practice design solutions in digital semantic building models (BIM) by combining AI approaches of case-based design and deep learning
+, Proceedings of ECPPM 2020, Moscow (accepted)
+
+
+
+
+
+
+
+Eastman, CM (1999) 
+ Building Product Models: Computer Environments Supporting Design and Construction
+, CRC Press, Boca Raton, Florida
+
+
+
+
+
+
+
+Eisenstadt, V, Langenhan, C, Althoff, K-D and Dengel, A (2020) 
+ Improved and Visually Enhanced Case-Based Retrieval of Room Configurations for Assistance in Architectural Design Education
+, Proceedings of ICCBR 2020, Salamanca
+
+
+
+
+
+
+
+Langenhan, C and Petzold, F (2010) 
+ The Fingerprint of Architecture: Sketch-Based Design Methods of Researching Building Layouts through the Semantic Fingerprint of Floor Plans
+, Journal of Architecture and Modern Information Technologies, 4, pp. 4-13
+
+
+
+
+
+
+
+Langenhan, C and Petzold, F (2015) 
+ BEYOND THE BUBBLE - Computer-aided topological analysis and parametric design of room configurations in university education.
+, Proceedings of eCAADe 2015, Vienna
+
+
+
+
+
+
+
+Langenhan, C, Weber, M, Liwicki, M, Petzold, F and Dengel, A (2013) 
+ Graph-based retrieval of building inforrmation models for supporting the early design stages.
+, Advanced Engineering Informatics, 27(4), pp. 413-426
+
+
+
+
+
+
+
+Opp, G and Bauer, A (eds) (2010) 
+ Lebensraum Schule: Raumkonzepte planen, gestalten, entwickeln
+, Fraunhofer-IRB Verlag, Stuttgart
+
+
+
+
+
+
+
+Reisinger, MLR and Schirmer, F (1955) 
+ Richtlinien fÃ¼r den Schulbau
+, August Bagel Verlag, DÃ¼sseldorf
+
+
+
+
+
+
+
+Richter, K (2010) 
+ Augmenting Designers' Memory: Case Based Reasoning in der Architektur
+, Ph.D. Thesis, Bauhaus-UniversitÃ¤t Weimar",,"Arora, H, Langenhan, C, Petzold, F, Eisenstadt, V and Althoff, K-D (2020) 
+ Autocomplete designs by suggesting best practice design solutions in digital semantic building models (BIM) by combining AI approaches of case-based design and deep learning
+, Proceedings of ECPPM 2020, Moscow (accepted)",,,,"Eastman, CM (1999) 
+ Building Product Models: Computer Environments Supporting Design and Construction
+, CRC Press, Boca Raton, Florida",,,,"Eisenstadt, V, Langenhan, C, Althoff, K-D and Dengel, A (2020) 
+ Improved and Visually Enhanced Case-Based Retrieval of Room Configurations for Assistance in Architectural Design Education
+, Proceedings of ICCBR 2020, Salamanca",,,,"Langenhan, C and Petzold, F (2010) 
+ The Fingerprint of Architecture: Sketch-Based Design Methods of Researching Building Layouts through the Semantic Fingerprint of Floor Plans
+, Journal of Architecture and Modern Information Technologies, 4, pp. 4-13",,,,"Langenhan, C and Petzold, F (2015) 
+ BEYOND THE BUBBLE - Computer-aided topological analysis and parametric design of room configurations in university education.
+, Proceedings of eCAADe 2015, Vienna",,,,"Langenhan, C, Weber, M, Liwicki, M, Petzold, F and Dengel, A (2013) 
+ Graph-based retrieval of building inforrmation models for supporting the early design stages.
+, Advanced Engineering Informatics, 27(4), pp. 413-426",,,,"Opp, G and Bauer, A (eds) (2010) 
+ Lebensraum Schule: Raumkonzepte planen, gestalten, entwickeln
+, Fraunhofer-IRB Verlag, Stuttgart",,,,"Reisinger, MLR and Schirmer, F (1955) 
+ Richtlinien fÃ¼r den Schulbau
+, August Bagel Verlag, DÃ¼sseldorf",,,,"Richter, K (2010) 
+ Augmenting Designers' Memory: Case Based Reasoning in der Architektur
+, Ph.D. Thesis, Bauhaus-UniversitÃ¤t Weimar",,
+11,2020/09/09 09:54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

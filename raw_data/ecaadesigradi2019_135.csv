@@ -1,0 +1,234 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72
+0,ecaadesigradi2019_135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Newton, David",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Deep Generative Learning for the Generation and Analysis of Architectural Plans with Small Datasets,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 2, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 21-28",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The field of generative architectural design has explored a wide range of approaches in the automation of design production, but these approaches have demonstrated limited artificial intelligence. Generative Adversarial Networks (GANs) are a leading deep generative model that use deep neural networks (DNNs) to learn from a set of training examples in order to create new design instances with a degree of flexibility and fidelity that outperform competing generative approaches. Their application to generative tasks in architecture, however, has been limited. This research contributes new knowledge on the use of GANs for architectural plan generation and analysis in relation to the work of specific architects. Specifically, GANs are trained to synthesize architectural plans from the work of the architect Le Corbusier and are used to provide analytic insight. Experiments demonstrate the efficacy of different augmentation techniques that architects can use when working with small datasets.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,generative design; deep learning; artificial intelligence; generative adversarial networks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADeSIGraDi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,david.newton@unl.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (3,842,494 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+As, I, Pal, S and Basu, P (2018) 
+ Artificial intelligence in architecture: Generating conceptual design via deep learning
+, International Journal of Architectural Computing, 16(4), pp. 306-327
+
+
+
+
+
+
+
+Caldas, LG and Santos, L (2012) 
+ Generation of Energy-Efficient Patio Houses With GENEARCH
+, Combining an evolutionary generative design system with a shape grammar, eCAADe, 2, pp. 36-45
+
+
+
+
+
+
+
+Dincer, AE, Cagdas, G and Tong, H (2014) 
+ A digital tool for customized mass housing design
+, Newcastle upon Tyne
+
+
+
+
+
+
+
+Gagne, JM and Andersen, M (2010) 
+ Multi-objective facade optimization for daylighting design using a genetic algorithm
+, Proceedings of SimBuild, 4(1), pp. 110-117
+
+
+
+
+
+
+
+Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative adversarial nets
+, Advances in neural information processing systems, pp. 2672-2680
+
+
+
+
+
+
+
+Halatsch, J, Kunze, A and Schmitt, G (2008) 
+ Using shape grammars for master planning
+, John S. Gero, JG and Ashok k. Goel, AG (eds), Design Computing and Cognition, Springer, pp. 655-673
+
+
+
+
+
+
+
+Im, DJ, Ma, H, Taylor, G and Branson, K (2018) 
+ Quantitatively evaluating GANs with divergences proposed for training
+, arXiv preprint arXiv:1803.01045, 1, pp. 2-4
+
+
+
+
+
+
+
+Isola, P, Zhu, JY, Zhou, T and Efros, AA (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1125-1134
+
+
+
+
+
+
+
+Klemmt, C and Bollinger, K (2017) 
+ Angiogenesis as a model for the generation of load-bearing networks
+, International Journal of Architectural Computing, 15(1), pp. 18-37
+
+
+
+
+
+
+
+Merrell, P, Schkufza, E and Koltun, V (2010) 
+ Computer-generated residential building layouts
+, ACM Transactions on Graphics (TOG), p. 181
+
+
+
+
+
+
+
+Meuller, P, Wonka, P, Haegler, S, Ulmer, A and Van Gool, L (2006) 
+ Procedural modeling of buildings
+, Acm Transactions On Graphics, 25(3), pp. 614-623
+
+
+
+
+
+
+
+Radford, A, Metz, L and Chintala, S (2015) 
+ Unsupervised representation learning with deep convolutional generative adversarial networks
+, arXiv preprint arXiv:1511.06434, 1, pp. 1-5
+
+
+
+
+
+
+
+Russell, SJ and Norvig, P (2016) 
+ Artificial intelligence: a modern approach
+, Malaysia; Pearson Education Limited,
+
+
+
+
+
+
+
+Stiny, G and Mitchell, WJ (1978) 
+ The palladian grammar
+, Environment and planning B: Planning and design, 5(1), pp. 5-18
+
+
+
+
+
+
+
+Stiny, G (1980) 
+ Introduction to shape and shape grammars
+, Environment and planning B: planning and design, 7(3), pp. 343-351
+
+
+
+
+
+
+
+Swahn, E (2018) 
+ Markovian Drift - Iterative substitutional synthesis of 2D and 3D design data using Markov models of source data
+, Computing for a better tomorrow - Proceedings of the 36th eCAADe Conference, Lodz University of Technology, Lodz, Poland, 19-21
+
+
+
+
+
+
+
+Turrin, M, Von Buelow, P and Stouffs, R (2011) 
+ Design explorations of performance driven geometry in architectural design using parametric modeling and genetic algorithms
+, Advanced Engineering Informatics, 25(4), pp. 656-675
+
+
+
+
+
+
+
+Wu, J, Zhang, C, Xue, T, Freeman, B and Tenenbaum, J (2016) 
+ Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling
+, Advances in neural information processing systems, pp. 82-90",,"As, I, Pal, S and Basu, P (2018) 
+ Artificial intelligence in architecture: Generating conceptual design via deep learning
+, International Journal of Architectural Computing, 16(4), pp. 306-327",,,,"Caldas, LG and Santos, L (2012) 
+ Generation of Energy-Efficient Patio Houses With GENEARCH
+, Combining an evolutionary generative design system with a shape grammar, eCAADe, 2, pp. 36-45",,,,"Dincer, AE, Cagdas, G and Tong, H (2014) 
+ A digital tool for customized mass housing design
+, Newcastle upon Tyne",,,,"Gagne, JM and Andersen, M (2010) 
+ Multi-objective facade optimization for daylighting design using a genetic algorithm
+, Proceedings of SimBuild, 4(1), pp. 110-117",,,,"Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative adversarial nets
+, Advances in neural information processing systems, pp. 2672-2680",,,,"Halatsch, J, Kunze, A and Schmitt, G (2008) 
+ Using shape grammars for master planning
+, John S. Gero, JG and Ashok k. Goel, AG (eds), Design Computing and Cognition, Springer, pp. 655-673",,,,"Im, DJ, Ma, H, Taylor, G and Branson, K (2018) 
+ Quantitatively evaluating GANs with divergences proposed for training
+, arXiv preprint arXiv:1803.01045, 1, pp. 2-4",,,,"Isola, P, Zhu, JY, Zhou, T and Efros, AA (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1125-1134",,,,"Klemmt, C and Bollinger, K (2017) 
+ Angiogenesis as a model for the generation of load-bearing networks
+, International Journal of Architectural Computing, 15(1), pp. 18-37",,,,"Merrell, P, Schkufza, E and Koltun, V (2010) 
+ Computer-generated residential building layouts
+, ACM Transactions on Graphics (TOG), p. 181",,,,"Meuller, P, Wonka, P, Haegler, S, Ulmer, A and Van Gool, L (2006) 
+ Procedural modeling of buildings
+, Acm Transactions On Graphics, 25(3), pp. 614-623",,,,"Radford, A, Metz, L and Chintala, S (2015) 
+ Unsupervised representation learning with deep convolutional generative adversarial networks
+, arXiv preprint arXiv:1511.06434, 1, pp. 1-5",,,,"Russell, SJ and Norvig, P (2016) 
+ Artificial intelligence: a modern approach
+, Malaysia; Pearson Education Limited,",,,,"Stiny, G and Mitchell, WJ (1978) 
+ The palladian grammar
+, Environment and planning B: Planning and design, 5(1), pp. 5-18",,,,"Stiny, G (1980) 
+ Introduction to shape and shape grammars
+, Environment and planning B: planning and design, 7(3), pp. 343-351",,,,"Swahn, E (2018) 
+ Markovian Drift - Iterative substitutional synthesis of 2D and 3D design data using Markov models of source data
+, Computing for a better tomorrow - Proceedings of the 36th eCAADe Conference, Lodz University of Technology, Lodz, Poland, 19-21",,,,"Turrin, M, Von Buelow, P and Stouffs, R (2011) 
+ Design explorations of performance driven geometry in architectural design using parametric modeling and genetic algorithms
+, Advanced Engineering Informatics, 25(4), pp. 656-675",,,,"Wu, J, Zhang, C, Xue, T, Freeman, B and Tenenbaum, J (2016) 
+ Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling
+, Advances in neural information processing systems, pp. 82-90",,
+11,2019/08/26 20:26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

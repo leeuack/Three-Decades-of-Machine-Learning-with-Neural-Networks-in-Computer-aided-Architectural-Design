@@ -1,0 +1,222 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68
+0,ecaade2021_186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Sebestyen, Adam, Rock, Johanna and Hirschberg, Urs Leonhard",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Towards Abductive Reasoning-Based Computational Design Tools - Using Machine Learning as a way to explore the combined design spaces of multiple parametric models,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 1, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 141-150",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Abductive Reasoning - reasoning based on experience - is important for design. This research tries to lay the groundwork for using Variational Autoencoders (VAE) - currently one of the most established deep learning architectures for generative modelling, a subfield of Machine Learning (ML) - as a way to support abductive reasoning in early design stages. While our research is still in its early stages, the first results look promising. In this paper we explain the current state of our research, its premises and methods, and discuss the results achieved thus far. We also explain the motivation behind our work and the potential we see in using VAE in this way and why we believe our approach could represent a paradigmatic shift in the way parametric models can be used in design.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Machine Learning; Parametric Design; Variational Autoencoders; Generative Modeling; Abductive Reasoning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Sebestyen@tugraz.at,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (2,921,067 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+As, I, Pal, S and Basu, P (2018) 
+ Artificial intelligence in architecture: Generating conceptual design via deep learning
+, International Journal of Architectural Computing, 16, pp. 306-327
+
+
+
+
+
+
+
+Chaillou, S (2020) 
+ ArchiGAN: Artificial Intelligence x Architecture
+, Yuan, PF, Xie, M, Leach, N, Yao, J and Wang, X (eds), Architectural Intelligence: Selected Papers from the 1st International Conference on Computational Design and Robotic Fabrication (CDRF 2019), Springer, Singapore, pp. 117-127
+
+
+
+
+
+
+
+Cross, N (2011) 
+ Design Thinking: Understanding How Designers Think and Work
+, Berg Publishers, Oxford ; New York
+
+
+
+
+
+
+
+Cudzik, J and Radziszewski, K (2018) 
+ Artificial Intelligence Aided Architectural Design
+, Proceedings of eCAADE 2018, Lodz, pp. 77-84
+
+
+
+
+
+
+
+del Campo, M, Manninger, S and Carlson, A (2020) 
+ A Question of Style
+, Yuan, PF, Xie, M, Leach, N, Yao, J and Wang, X (eds), Architectural Intelligence: Selected Papers from the 1st International Conference on Computational Design and Robotic Fabrication (CDRF 2019), Springer, Singapore, pp. 171-188
+
+
+
+
+
+
+
+Foster, D (2019) 
+ Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play
+, O'Reilly Media, Sebastopol, CA
+
+
+
+
+
+
+
+Hovestadt, L, Hirschberg, U and Fritz, O (2020) 
+ Atlas of Digital Architecture
+, Birkhäuser
+
+
+
+
+
+
+
+Kingma, DP and Welling, M (2014) 
+ Auto-Encoding Variational Bayes
+, ICLR
+
+
+
+
+
+
+
+Maher, ML, Balachandran, MB and Zhang, DM (1995) 
+ Case-Based Reasoning in Design
+, Lawrence Erlbaum Ass, Publishers, Mahwah, NJ
+
+
+
+
+
+
+
+Ren, Y and Zeng, H (2020) 
+ The Spire of AI - Voxel-based 3D Neural Style Transfer
+, Proceedings of eCAADE 2020, Bangkok, pp. 619-628
+
+
+
+
+
+
+
+Sebestyen, A and Tyc, J (2020) 
+ Machine Learning Methods in Energy Simulations for Architects and Designers - The implementation of supervised machine learning in the context of the computational design process
+, Proceedings of eCAADe 2020, Berlin, pp. 613-622
+
+
+
+
+
+
+
+Smith, EJ and Meger, D (2017) 
+ Improved Adversarial Systems for 3D ObjectGeneration and Reconstruction
+, 1st Conference on Robot Learning (CoRL 2017, Mountain View, USA
+
+
+
+
+
+
+
+Smith, EJ, Fujimoto, S, Romero, A and Meger, D (2019) 
+ GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects
+, Proceedings of the 36th International Conference on Machine Learning, Long Beach, CA, pp. 5566-5876
+
+
+
+
+
+
+
+Steinfeld, K (2017) 
+ Dreams May Come
+, ACADIA 2017: DISCIPLINES + DISRUPTION, Cambridge, MA, pp. 590-599
+
+
+
+
+
+
+
+Wu, J, Zhang, C, Xue, T, Freeman, WT and Tenenbaum, JB (2017) 
+ Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling
+, NIPS 2016, Barcelona
+
+
+
+
+
+
+
+Yang, Y, Feng, C, Shen, Y and Tian, D (2018) 
+ FoldingNet: Point Cloud Auto-Encoder via Deep Grid Deformation
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 206-215
+
+
+
+
+
+
+
+Özel, G (2020) 
+ Interdisciplinary AI: A Machine Learning System for Streamlining External Aesthetic and Cultural Influences in Architecture
+, Yuan, PF, Xie, M, Leach, N, Yao, J and Wang, X (eds), Architectural Intelligence: Selected Papers from the 1st International Conference on Computational Design and Robotic Fabrication (CDRF 2019), Springer, Singapore, pp. 103-116",,"As, I, Pal, S and Basu, P (2018) 
+ Artificial intelligence in architecture: Generating conceptual design via deep learning
+, International Journal of Architectural Computing, 16, pp. 306-327",,,,"Chaillou, S (2020) 
+ ArchiGAN: Artificial Intelligence x Architecture
+, Yuan, PF, Xie, M, Leach, N, Yao, J and Wang, X (eds), Architectural Intelligence: Selected Papers from the 1st International Conference on Computational Design and Robotic Fabrication (CDRF 2019), Springer, Singapore, pp. 117-127",,,,"Cross, N (2011) 
+ Design Thinking: Understanding How Designers Think and Work
+, Berg Publishers, Oxford ; New York",,,,"Cudzik, J and Radziszewski, K (2018) 
+ Artificial Intelligence Aided Architectural Design
+, Proceedings of eCAADE 2018, Lodz, pp. 77-84",,,,"del Campo, M, Manninger, S and Carlson, A (2020) 
+ A Question of Style
+, Yuan, PF, Xie, M, Leach, N, Yao, J and Wang, X (eds), Architectural Intelligence: Selected Papers from the 1st International Conference on Computational Design and Robotic Fabrication (CDRF 2019), Springer, Singapore, pp. 171-188",,,,"Foster, D (2019) 
+ Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play
+, O'Reilly Media, Sebastopol, CA",,,,"Hovestadt, L, Hirschberg, U and Fritz, O (2020) 
+ Atlas of Digital Architecture
+, Birkhäuser",,,,"Kingma, DP and Welling, M (2014) 
+ Auto-Encoding Variational Bayes
+, ICLR",,,,"Maher, ML, Balachandran, MB and Zhang, DM (1995) 
+ Case-Based Reasoning in Design
+, Lawrence Erlbaum Ass, Publishers, Mahwah, NJ",,,,"Ren, Y and Zeng, H (2020) 
+ The Spire of AI - Voxel-based 3D Neural Style Transfer
+, Proceedings of eCAADE 2020, Bangkok, pp. 619-628",,,,"Sebestyen, A and Tyc, J (2020) 
+ Machine Learning Methods in Energy Simulations for Architects and Designers - The implementation of supervised machine learning in the context of the computational design process
+, Proceedings of eCAADe 2020, Berlin, pp. 613-622",,,,"Smith, EJ and Meger, D (2017) 
+ Improved Adversarial Systems for 3D ObjectGeneration and Reconstruction
+, 1st Conference on Robot Learning (CoRL 2017, Mountain View, USA",,,,"Smith, EJ, Fujimoto, S, Romero, A and Meger, D (2019) 
+ GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects
+, Proceedings of the 36th International Conference on Machine Learning, Long Beach, CA, pp. 5566-5876",,,,"Steinfeld, K (2017) 
+ Dreams May Come
+, ACADIA 2017: DISCIPLINES + DISRUPTION, Cambridge, MA, pp. 590-599",,,,"Wu, J, Zhang, C, Xue, T, Freeman, WT and Tenenbaum, JB (2017) 
+ Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling
+, NIPS 2016, Barcelona",,,,"Yang, Y, Feng, C, Shen, Y and Tian, D (2018) 
+ FoldingNet: Point Cloud Auto-Encoder via Deep Grid Deformation
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 206-215",,,,"Özel, G (2020) 
+ Interdisciplinary AI: A Machine Learning System for Streamlining External Aesthetic and Cultural Influences in Architecture
+, Yuan, PF, Xie, M, Leach, N, Yao, J and Wang, X (eds), Architectural Intelligence: Selected Papers from the 1st International Conference on Computational Design and Robotic Fabrication (CDRF 2019), Springer, Singapore, pp. 103-116",,
+11,2021/08/11 08:45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

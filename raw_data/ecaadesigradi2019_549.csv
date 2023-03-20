@@ -1,0 +1,126 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+0,ecaadesigradi2019_549,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Reinhardt, Dagmar, Haeusler, M. Hank, Loke, Lian, de Oliveira Barata, Eduardo, Firth, Charlotte, Khean, Nariddh, London, Kerry, Feng, Yingbin and Watt, Rodney",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,CoBuilt - Towards a novel methodology for workflow capture and analysis of carpentry tasks for human-robot collaboration,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 3, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 207-216",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Advanced manufacturing and robotic fabrication for the housing construction industry is mainly focused on the use of industrial robots in the pre-fabrication stage. Yet to be fully developed is the use on-site of collaborative robots, able to work cooperatively with humans in a range of construction trades. Our study focuses on the trade of carpentry in small-to-medium size enterprises in the Australian construction industry, seeking to understand and identify opportunities in the current workflows of carpenters for the role of collaborative robots. Prior to presenting solutions for this problem, we first developed a novel methodology for the capture and analysis of the body movements of carpenters, resulting in a suite of visual resources to aid us in thinking through where, what, and how a collaborative robot could participate in the carpentry task. We report on the challenges involved, and outline how the results of applying this methodology will inform the next stage of our research.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Robotic Fabrication; Collaborative Robots; Training Methodology; Machine Learning; Interaction Analysis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADeSIGraDi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,dagmar.reinhardt@sydney.edu.au,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (18,456,701 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Brell-Cokcan, S and Braumann, J (2013) 
+ Rob | Arch 2012: Robotic Fabrication in Architecture, Art and Design
+, Springer Verlag, Wien
+
+
+
+
+
+
+
+Colgate, JEC (1996) 
+ Cobots: Robots for Collaboration with Human Operators
+, Proceedings of the International Mechanical Engineering Congress and Exhibition, Atlanta, pp. 433-439
+
+
+
+
+
+
+
+Domingos, P (2012) 
+ A Few Useful Things to Know about Machine Learning
+, Cummun acm, 55(10), pp. 78-87
+
+
+
+
+
+
+
+Ghadirzadeh, A, Maki, A, Kragic, D and Björkman, M (2017) 
+ Deep predictive policy training using reinforcement learning
+, 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 2351-2358
+
+
+
+
+
+
+
+Jordan, B and Henderson, A (1995) 
+ Interaction analysis Foundations and practice
+, The Journal of the Learning Sciences, 4, pp. 39-103
+
+
+
+
+
+
+
+Levine, S, Pastor, P, Krizhevsky, A, Ibarz, J and Quillen, D (2018) 
+ Learning hand-eye coordination for robotic grasping with deep learning large-scale data collection
+, The International Journal of Robotics Research, 37(4-5), pp. 421-436
+
+
+
+
+
+
+
+McKinsey, \& Company (2017) 
+ Reinventing Construction: A Route to Higher Productivity
+, McKinsey Global Institute
+
+
+
+
+
+
+
+Rosenberg, E, Haeusler, M H, Araullo, R and Gardner, N (2015) 
+ Smart Architecture?Bots and Industry 4.0 Principles for Architecture
+, 33rd eCAADE, Vienna, pp. 251-259
+
+
+
+
+
+
+
+Stanton, C, Bogdanovych, A and Ratanasena, E (2012) 
+ Teleoperation of a Humanoid robot using full-body motion capture, example movements, and machine learning
+, 012 Australasian Conference on Robotics and Automation (ACRA), pp. 260-269",,"Brell-Cokcan, S and Braumann, J (2013) 
+ Rob | Arch 2012: Robotic Fabrication in Architecture, Art and Design
+, Springer Verlag, Wien",,,,"Colgate, JEC (1996) 
+ Cobots: Robots for Collaboration with Human Operators
+, Proceedings of the International Mechanical Engineering Congress and Exhibition, Atlanta, pp. 433-439",,,,"Domingos, P (2012) 
+ A Few Useful Things to Know about Machine Learning
+, Cummun acm, 55(10), pp. 78-87",,,,"Ghadirzadeh, A, Maki, A, Kragic, D and Björkman, M (2017) 
+ Deep predictive policy training using reinforcement learning
+, 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 2351-2358",,,,"Jordan, B and Henderson, A (1995) 
+ Interaction analysis Foundations and practice
+, The Journal of the Learning Sciences, 4, pp. 39-103",,,,"Levine, S, Pastor, P, Krizhevsky, A, Ibarz, J and Quillen, D (2018) 
+ Learning hand-eye coordination for robotic grasping with deep learning large-scale data collection
+, The International Journal of Robotics Research, 37(4-5), pp. 421-436",,,,"McKinsey, \& Company (2017) 
+ Reinventing Construction: A Route to Higher Productivity
+, McKinsey Global Institute",,,,"Rosenberg, E, Haeusler, M H, Araullo, R and Gardner, N (2015) 
+ Smart Architecture?Bots and Industry 4.0 Principles for Architecture
+, 33rd eCAADE, Vienna, pp. 251-259",,,,"Stanton, C, Bogdanovych, A and Ratanasena, E (2012) 
+ Teleoperation of a Humanoid robot using full-body motion capture, example movements, and machine learning
+, 012 Australasian Conference on Robotics and Automation (ACRA), pp. 260-269",,
+11,2019/08/26 20:28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

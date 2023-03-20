@@ -1,0 +1,174 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52
+0,ecaadesigradi2019_061,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Alkadri, Miktha Farid, De Luca, Francesco, Turrin, Michela and Sariyildiz, Sevil",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Making use of Point Cloud for Generating Subtractive Solar Envelopes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 1, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 633-640",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"As a contextual and passive design strategy, solar envelopes play a great role in determining building mass based on desirable sun access during the predefined period. With the rapid evolution of digital tools, the design method of solar envelopes varies in different computational platforms. However, current approaches still lack in covering the detailed complex geometry and relevant information of the surrounding context. This, consequently, affects missing information during contextual analysis and simulation of solar envelopes. This study proposes a subtractive method of solar envelopes by considering the geometrical attribute contained in the point cloud of TLS (terrestrial laser scanner) dataset. Integration of point cloud into the workflow of solar envelopes not only increases the robustness of final geometry of existing solar envelopes but also enhances awareness of architects during contextual analysis due to consideration of surface properties of the existing environment.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,point cloud data; solar envelopes; subtractive method; solar access,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADeSIGraDi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,M.F.Alkadri@tudelft.nl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (3,225,161 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Alkadri, MF, Turrin, M and Sariyildiz, S (2018) 
+ The use and potential application of point clouds in simulation of solar radiation for solar access in urban contexts
+, Advances in Computational Design, 3, pp. 319-338
+
+
+
+
+
+
+
+Alkadri, MF, Turrin, M and Sariyildiz, S (2019) 
+ A computational workflow to analyse material properties and solar radiation of existing contexts from attribute information of point cloud data
+, Building and Environment, 155, pp. 268-282
+
+
+
+
+
+
+
+Boulch, A and Marlet, R (2016) 
+ Deep Learning for Robust Normal Estimation in Unstructured Point Clouds
+, Proceeding of SGP 2016, Berlin, pp. 281-290
+
+
+
+
+
+
+
+Butti, K and Perlin, J (1980) 
+ A Golden Threat 2500 Years of Solar Architecture and Technology
+, Van Nostrand Reinhold Company
+
+
+
+
+
+
+
+De Luca, F (2017) 
+ Solar form finding. Subtractive Solar Envelope and Integrated Solar Collection Computational Method for High-rise Buildings in Urban Environments
+, Proceeding of ACADIA 2017 Conference DISCIPLINES+DISRUPTION, Cambridge (MA), pp. 212-221
+
+
+
+
+
+
+
+Fujita, Y, Hoshino, Y, Ogata, S and Kobayashi, I (2015) 
+ Attribute assignment to point cloud data and its usage
+, Global journal of computer science and technology, 15, pp. 11-18
+
+
+
+
+
+
+
+Knowles, RL (1974) 
+ Energy and form: An ecological approach to urban growth
+, The MIT Press
+
+
+
+
+
+
+
+Knowles, RL (1981) 
+ Sun, rhytm and form
+, The MIT Press
+
+
+
+
+
+
+
+Mazzone, D (2017) 
+ The Dark Side of a Model Community: The 'Ghetto' of el-Lahun
+, The Journal of Ancient Egyptian Architecture, 2, pp. 19-54
+
+
+
+
+
+
+
+Randall, T (2013) 
+ Client guide to 3D scanning and data capture
+, BIM Task Group
+
+
+
+
+
+
+
+Staneva, NN (2008) 
+ Approaches for generating 3D solid models in AutoCAD and solid works
+, Journal of Engineering, VI, pp. 28-31
+
+
+
+
+
+
+
+Topaloglu, B (2003) 
+ Solar envelope and form generation in architecture
+, Graduate School of natural and applied science of the middle east of technical university
+
+
+
+
+
+
+
+Weinmann, M (2016) 
+ Reconstruction and analysis of 3D scenes
+, Springer International Publishing",,"Alkadri, MF, Turrin, M and Sariyildiz, S (2018) 
+ The use and potential application of point clouds in simulation of solar radiation for solar access in urban contexts
+, Advances in Computational Design, 3, pp. 319-338",,,,"Alkadri, MF, Turrin, M and Sariyildiz, S (2019) 
+ A computational workflow to analyse material properties and solar radiation of existing contexts from attribute information of point cloud data
+, Building and Environment, 155, pp. 268-282",,,,"Boulch, A and Marlet, R (2016) 
+ Deep Learning for Robust Normal Estimation in Unstructured Point Clouds
+, Proceeding of SGP 2016, Berlin, pp. 281-290",,,,"Butti, K and Perlin, J (1980) 
+ A Golden Threat 2500 Years of Solar Architecture and Technology
+, Van Nostrand Reinhold Company",,,,"De Luca, F (2017) 
+ Solar form finding. Subtractive Solar Envelope and Integrated Solar Collection Computational Method for High-rise Buildings in Urban Environments
+, Proceeding of ACADIA 2017 Conference DISCIPLINES+DISRUPTION, Cambridge (MA), pp. 212-221",,,,"Fujita, Y, Hoshino, Y, Ogata, S and Kobayashi, I (2015) 
+ Attribute assignment to point cloud data and its usage
+, Global journal of computer science and technology, 15, pp. 11-18",,,,"Knowles, RL (1974) 
+ Energy and form: An ecological approach to urban growth
+, The MIT Press",,,,"Knowles, RL (1981) 
+ Sun, rhytm and form
+, The MIT Press",,,,"Mazzone, D (2017) 
+ The Dark Side of a Model Community: The 'Ghetto' of el-Lahun
+, The Journal of Ancient Egyptian Architecture, 2, pp. 19-54",,,,"Randall, T (2013) 
+ Client guide to 3D scanning and data capture
+, BIM Task Group",,,,"Staneva, NN (2008) 
+ Approaches for generating 3D solid models in AutoCAD and solid works
+, Journal of Engineering, VI, pp. 28-31",,,,"Topaloglu, B (2003) 
+ Solar envelope and form generation in architecture
+, Graduate School of natural and applied science of the middle east of technical university",,,,"Weinmann, M (2016) 
+ Reconstruction and analysis of 3D scenes
+, Springer International Publishing",,
+11,2019/08/26 20:26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

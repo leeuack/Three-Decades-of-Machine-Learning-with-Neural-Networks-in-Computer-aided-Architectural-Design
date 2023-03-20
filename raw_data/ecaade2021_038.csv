@@ -1,0 +1,174 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52
+0,ecaade2021_038,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Nakabayashi, Mizuki, Fukuda, Tomohiro and Yabuki, Nobuyoshi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Mixed Reality Landscape Visualization Method with Automatic Discrimination Process for Dynamic Occlusion Handling Using Instance Segmentation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 2, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 539-546",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Mixed reality (MR), which blends real and virtual worlds, has attracted attention as a visualization method in landscape design. MR-based landscape visualization enables stakeholders to examine landscape changes at actual scale in real-time at the actual project site. One challenge in MR-based landscape visualization is occlusion, which occurs when virtual objects obscure physical objects that are in the foreground. Previous research proposed an MR-based landscape visualization method with dynamic occlusion by using semantic segmentation of deep learning. However, this method has two problems. The first is that the same kind of objects that are grouped into one or overlapped types are classified as the same object, and the other is that the foreground objects have to be defined in pre-processing. In this study, we developed a system for large-scale MR landscape visualization that enables the recognition of each physical object individually using instance segmentation, and it is possible to accurately represent the positional relationship by comparing the coordinate information of the 3D virtual model and all physical objects.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,landscape visualization; mixed reality; instance segmentation; dynamic occlusion handling; deep learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,nakabayashi@it.see.eng.osaka-u.ac.jp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,260,118 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bishop, I. and Lange, E. (2005) 
+ Visualization in Landscape and Environmental Planning: Technology and Applications
+, Taylor & Francis
+
+
+
+
+
+
+
+Bolya, D., Zhou, C., Xioa, F. and Lee, Y. (2019) 
+ YOLACT++ Better Real-time Instance Segmentation
+, arXiv preprint arXiv:1912.06218
+
+
+
+
+
+
+
+Bolya, D., Zhou, C., Xioa, F. and Lee, Y. (2019) 
+ YOLACT Real-time Instance Segmentation
+, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pp. 9157-9166
+
+
+
+
+
+
+
+Haynes, P., Lange, S.H. and Lange, E. (2018) 
+ Mobile Augmented Reality for Flood Visualization
+, Environmental Modelling & Software, 109, pp. 380-389
+
+
+
+
+
+
+
+He, K., Gkioxari, G., Dollar, P. and Girshick, R. (2017) 
+ Mask R-CNN
+, Proceedings of the IEEE International Conference on Computer Vision (ICCV), pp. 2961-2969
+
+
+
+
+
+
+
+Inoue, K., Author, 1, Cao, R. and Author, 2 (2018) 
+ Tracking Robustness and Green View Index Estimation of Augmented and Diminished Reality for Environmental Design: PhotoAR+DR 2017 project
+, Proceedings of the 23rd International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2018), pp. 339-348
+
+
+
+
+
+
+
+Jabbar, A., Farrawell, L., Fountain, J. and Chalup, S. (2017) 
+ Training Deep Neural Networks for Detecting Drinking Glasses Using Synthetic Images
+, Proceedings of the 24th International Conference of Neural Information (ICONIP), pp. 354-363
+
+
+
+
+
+
+
+Kido, D., Author, 1 and Author, 2 (2021) 
+ Assessing future landscapes using enhanced mixed reality with semantic segmentation by deep learning
+, Advanced Engineering Informatics, 48, p. -
+
+
+
+
+
+
+
+Lin, T.-Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., Dollar, P. and Zitnick, C. L. (2014) 
+ Microsoft COCO: Common Objects in Context
+, European Conference on Computer Vision (ECCV), 8693, pp. 740-755
+
+
+
+
+
+
+
+Milgram, P. and Kishino, F. (1994) 
+ A Taxonomy of Mixed Reality Visual Displays
+, IEICE Transactions on Information Systems, E77-D(12), pp. 1321-1329
+
+
+
+
+
+
+
+Roxas, M., Hori, T., Fukiage, T., Okamoto, Y. and Oishi, T. (2018) 
+ Occlusion Handling using Semantic Segmentation and Visibility-Based Rendering for Mixed Reality
+, Proceedings of the 24th ACM Symposium on Virtual Reality Software and technology (VRST 2018), pp. 1-8, 20
+
+
+
+
+
+
+
+Tamura, H., Yamamoto, H. and Katayama, A. (2001) 
+ Mixed reality: future dreams seen at the border between real and virtual worlds
+, IEEE Computer Graphics and Applications, 21(6), pp. 64-70
+
+
+
+
+
+
+
+Zhu, J., Pan, Z., Sun, C. and Chen, W. (2010) 
+ Handling Occlusions in Video-Based Augmented Reality Using Depth Information
+, Computer Animation and Virtual Worlds, 21, pp. 509-521",,"Bishop, I. and Lange, E. (2005) 
+ Visualization in Landscape and Environmental Planning: Technology and Applications
+, Taylor & Francis",,,,"Bolya, D., Zhou, C., Xioa, F. and Lee, Y. (2019) 
+ YOLACT++ Better Real-time Instance Segmentation
+, arXiv preprint arXiv:1912.06218",,,,"Bolya, D., Zhou, C., Xioa, F. and Lee, Y. (2019) 
+ YOLACT Real-time Instance Segmentation
+, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pp. 9157-9166",,,,"Haynes, P., Lange, S.H. and Lange, E. (2018) 
+ Mobile Augmented Reality for Flood Visualization
+, Environmental Modelling & Software, 109, pp. 380-389",,,,"He, K., Gkioxari, G., Dollar, P. and Girshick, R. (2017) 
+ Mask R-CNN
+, Proceedings of the IEEE International Conference on Computer Vision (ICCV), pp. 2961-2969",,,,"Inoue, K., Author, 1, Cao, R. and Author, 2 (2018) 
+ Tracking Robustness and Green View Index Estimation of Augmented and Diminished Reality for Environmental Design: PhotoAR+DR 2017 project
+, Proceedings of the 23rd International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2018), pp. 339-348",,,,"Jabbar, A., Farrawell, L., Fountain, J. and Chalup, S. (2017) 
+ Training Deep Neural Networks for Detecting Drinking Glasses Using Synthetic Images
+, Proceedings of the 24th International Conference of Neural Information (ICONIP), pp. 354-363",,,,"Kido, D., Author, 1 and Author, 2 (2021) 
+ Assessing future landscapes using enhanced mixed reality with semantic segmentation by deep learning
+, Advanced Engineering Informatics, 48, p. -",,,,"Lin, T.-Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., Dollar, P. and Zitnick, C. L. (2014) 
+ Microsoft COCO: Common Objects in Context
+, European Conference on Computer Vision (ECCV), 8693, pp. 740-755",,,,"Milgram, P. and Kishino, F. (1994) 
+ A Taxonomy of Mixed Reality Visual Displays
+, IEICE Transactions on Information Systems, E77-D(12), pp. 1321-1329",,,,"Roxas, M., Hori, T., Fukiage, T., Okamoto, Y. and Oishi, T. (2018) 
+ Occlusion Handling using Semantic Segmentation and Visibility-Based Rendering for Mixed Reality
+, Proceedings of the 24th ACM Symposium on Virtual Reality Software and technology (VRST 2018), pp. 1-8, 20",,,,"Tamura, H., Yamamoto, H. and Katayama, A. (2001) 
+ Mixed reality: future dreams seen at the border between real and virtual worlds
+, IEEE Computer Graphics and Applications, 21(6), pp. 64-70",,,,"Zhu, J., Pan, Z., Sun, C. and Chen, W. (2010) 
+ Handling Occlusions in Video-Based Augmented Reality Using Depth Information
+, Computer Animation and Virtual Worlds, 21, pp. 509-521",,
+11,2021/08/11 08:46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

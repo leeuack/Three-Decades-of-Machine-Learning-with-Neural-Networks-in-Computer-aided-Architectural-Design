@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2020_047,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Brown, Lachlan, Yip, Michael, Gardner, Nicole, Haeusler, M. Hank, Khean, Nariddh, Zavoleas, Yannis and Ramos, Cristina",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Drawing Recognition - Integrating Machine Learning Systems into Architectural Design Workflows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Werner, L and Koering, D (eds.), Anthropologic: Architecture and Fabrication in the cognitive age - Proceedings of the 38th eCAADe Conference - Volume 2, TU Berlin, Berlin, Germany, 16-18 September 2020, pp. 289-298",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Machine Learning (ML) has valuable applications that are yet to be proliferated in the AEC industry. Yet, ML offers arguably significant new ways to produce and assist design. However, ML tools are too often out of the reach of designers, severely limiting opportunities to improve the methods by which designers design. To address this and to optimise the practices of designers, the research aims to create a ML tool that can be integrated into architectural design workflows. Thus, this research investigates how ML can be used to universally move BIM data across various design platforms through the development of a convolutional neural network (CNN) for the recognition and labelling of rooms within floor plan images of multi-residential apartments. The effects of this computation and thinking shift will have meaningful impacts on future practices enveloping all major aspects of our built environment from designing, to construction to management.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,machine learning; convolutional neural networks; labelling and classification; design recognition,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,m.haeusler@unsw.edu.au,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (465,508 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Barto, A and Sutton, R (1992) 
+ Reinforcement Learning: An Introduction
+, The MIT Press, London
+
+
+
+
+
+
+
+Brynjolfson, E and McAfee, A (2014) 
+ The second machine age: Work, progress, and prosperity in a time of brilliant technologies
+, W. W. Norton&Company
+
+
+
+
+
+
+
+Carpo, M (2017) 
+ The Second Digital Turn: Design Beyond Intelligence
+, The MIT Press, London
+
+
+
+
+
+
+
+Chaillou, S (2019) 
+ AI + Architecture | Towards a New Approach
+, Master's Thesis, Harvard University
+
+
+
+
+
+
+
+Chapman, R (2005) 
+ Inadequate Interoperability: A Closer Look at the Costs
+, 22nd International Symposium on Automation and Robotics in Construction ISARC 2005 - September 11-14, Ferrara, Italy, pp. 1-6
+
+
+
+
+
+
+
+Deutsch, R (2019) 
+ Superusers: Design Technology Specialists and the Future of Practice
+, Routledge
+
+
+
+
+
+
+
+Dutta, A and Zisserman, A (2019) 
+ The VIA Annotation Software for Images, Audio and Video
+, 27th ACM International Conference on Multimedia, Nice, France, pp. 2276-2279
+
+
+
+
+
+
+
+Ferrando, C, Dalmasso, N, Mai, J and Llach, D (2019) 
+ Architectural Distant Reading, Using Machine Learning to Identify Typological Traits Across Multiple Building
+, 18th International Conference, CAAD Futures 2019, Proceedings, Daejeon, Korea, pp. 114-127
+
+
+
+
+
+
+
+Haeusler, M H (2019) 
+ Theory (Methods) and Design in the Second Machine Age
+, Gardner, N, Haeusler, M H and Zavoleas, Y (eds), Computational Design: From Promise to Practice, av edition, Ludwigsburg, Germany, pp. 56-67
+
+
+
+
+
+
+
+Hinton, G, Krizhevsky, A and Sutskever, I (2012) 
+ ImageNet Classification with Deep Convolutional Neural Networks
+, Advances in neural information processing systems, 25(2), pp. 1-9
+
+
+
+
+
+
+
+Huang, W and Zheng, H (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, Proceedings of ACADIA 2018, Mexico City, Mexico, pp. 156-165
+
+
+
+
+
+
+
+Khean, N, Gerber, D, Fabbri, A and Haeusler, M H (2019) 
+ Examining Potential Socio-economic Factors that Aï¬ect Machine Learning Research in the AEC Industry
+, 18th International Conference, CAAD Futures 2019, Proceedings, Daejeon, Korea, p. 254
+
+
+
+
+
+
+
+Khean, N, Kim, L, Martinez, J, Doherty, B, Fabbri, A, Gardner, N and Haeusler, M H (2018) 
+ The Introspection of Deep Neural Networks - Towards Illuminating the Black Box
+, Proceedings of CAADRIA 2018, Beijing, pp. 237-246
+
+
+
+
+
+
+
+Knodel, J and Naab, M (2016) 
+ How to Perform the Architecture Compliance Check (ACC)?
+, The Fraunhofer IESE Series on Software, and Systems Engineering (eds), Pragmatic Evaluation of Software Architectures., Springer, pp. 83-94
+
+
+
+
+
+
+
+McAfee, A and Brynolfsson, E (2017) 
+ Machine, Platform, Crowd: Harnessing Our Digital Future';
+, W. W. Norton&Company
+
+
+
+
+
+
+
+Mitchell, T M (1997) 
+ Machine Learning
+, McGraw Hill
+
+
+
+
+
+
+
+Ng, J M Y, Khean, N, Madden, D, Fabbri, A, Gardner, N, Haeusler, M H and Zavoleas, Y (2019) 
+ Optimising Image Classification - Implementation of Convolutional Neural Network Algorithms to Distinguish Between Plans and Sections within the Architectural, Engineering and Construction (AEC) Industry
+, Intelligent & Informed - Proceedings of the 24th CAADRIA Conference - Volume 2,, Wellington, New Zealand, pp. 795-804
+
+
+
+
+
+
+
+Parker, G G, Van Alstyne, M W and Sangeet, P (2016) 
+ Platform Revolution: How Networked Markets Are Transforming the Economy - and How to Make Them Work for You
+, Harvard Business Review
+
+
+
+
+
+
+
+Susskind, R and Susskind, D (2016) 
+ The Future of the Professions - How technology will transform the work of human experts
+, Oxford University Press
+
+
+
+
+
+
+
+van Rijmenam, M (2019) 
+ The Organisation of Tomorrow - How AI, blockchain and analytics turn your business into a data organisation
+, Routledge",,"Barto, A and Sutton, R (1992) 
+ Reinforcement Learning: An Introduction
+, The MIT Press, London",,,,"Brynjolfson, E and McAfee, A (2014) 
+ The second machine age: Work, progress, and prosperity in a time of brilliant technologies
+, W. W. Norton&Company",,,,"Carpo, M (2017) 
+ The Second Digital Turn: Design Beyond Intelligence
+, The MIT Press, London",,,,"Chaillou, S (2019) 
+ AI + Architecture | Towards a New Approach
+, Master's Thesis, Harvard University",,,,"Chapman, R (2005) 
+ Inadequate Interoperability: A Closer Look at the Costs
+, 22nd International Symposium on Automation and Robotics in Construction ISARC 2005 - September 11-14, Ferrara, Italy, pp. 1-6",,,,"Deutsch, R (2019) 
+ Superusers: Design Technology Specialists and the Future of Practice
+, Routledge",,,,"Dutta, A and Zisserman, A (2019) 
+ The VIA Annotation Software for Images, Audio and Video
+, 27th ACM International Conference on Multimedia, Nice, France, pp. 2276-2279",,,,"Ferrando, C, Dalmasso, N, Mai, J and Llach, D (2019) 
+ Architectural Distant Reading, Using Machine Learning to Identify Typological Traits Across Multiple Building
+, 18th International Conference, CAAD Futures 2019, Proceedings, Daejeon, Korea, pp. 114-127",,,,"Haeusler, M H (2019) 
+ Theory (Methods) and Design in the Second Machine Age
+, Gardner, N, Haeusler, M H and Zavoleas, Y (eds), Computational Design: From Promise to Practice, av edition, Ludwigsburg, Germany, pp. 56-67",,,,"Hinton, G, Krizhevsky, A and Sutskever, I (2012) 
+ ImageNet Classification with Deep Convolutional Neural Networks
+, Advances in neural information processing systems, 25(2), pp. 1-9",,,,"Huang, W and Zheng, H (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, Proceedings of ACADIA 2018, Mexico City, Mexico, pp. 156-165",,,,"Khean, N, Gerber, D, Fabbri, A and Haeusler, M H (2019) 
+ Examining Potential Socio-economic Factors that Aï¬ect Machine Learning Research in the AEC Industry
+, 18th International Conference, CAAD Futures 2019, Proceedings, Daejeon, Korea, p. 254",,,,"Khean, N, Kim, L, Martinez, J, Doherty, B, Fabbri, A, Gardner, N and Haeusler, M H (2018) 
+ The Introspection of Deep Neural Networks - Towards Illuminating the Black Box
+, Proceedings of CAADRIA 2018, Beijing, pp. 237-246",,,,"Knodel, J and Naab, M (2016) 
+ How to Perform the Architecture Compliance Check (ACC)?
+, The Fraunhofer IESE Series on Software, and Systems Engineering (eds), Pragmatic Evaluation of Software Architectures., Springer, pp. 83-94",,,,"McAfee, A and Brynolfsson, E (2017) 
+ Machine, Platform, Crowd: Harnessing Our Digital Future';
+, W. W. Norton&Company",,,,"Mitchell, T M (1997) 
+ Machine Learning
+, McGraw Hill",,,,"Ng, J M Y, Khean, N, Madden, D, Fabbri, A, Gardner, N, Haeusler, M H and Zavoleas, Y (2019) 
+ Optimising Image Classification - Implementation of Convolutional Neural Network Algorithms to Distinguish Between Plans and Sections within the Architectural, Engineering and Construction (AEC) Industry
+, Intelligent & Informed - Proceedings of the 24th CAADRIA Conference - Volume 2,, Wellington, New Zealand, pp. 795-804",,,,"Parker, G G, Van Alstyne, M W and Sangeet, P (2016) 
+ Platform Revolution: How Networked Markets Are Transforming the Economy - and How to Make Them Work for You
+, Harvard Business Review",,,,"Susskind, R and Susskind, D (2016) 
+ The Future of the Professions - How technology will transform the work of human experts
+, Oxford University Press",,,,"van Rijmenam, M (2019) 
+ The Organisation of Tomorrow - How AI, blockchain and analytics turn your business into a data organisation
+, Routledge",,
+11,2020/09/09 09:54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

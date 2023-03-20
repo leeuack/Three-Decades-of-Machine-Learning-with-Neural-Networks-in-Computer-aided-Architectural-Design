@@ -1,0 +1,186 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56
+0,ecaade2021_148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Mintrone, Alessandro and Erioli, Alessio",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Training Spaces - Fostering machine sensibility for spatial assemblages through wave function collapse and reinforcement learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 1, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 17-26",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This research explores the integration of Deep Reinforcement Learning (RL) and a Wave Function Collapse (WFC) algorithm for a goal-driven, open-ended generation of architectural spaces. Our approach binds RL to a distributed network of decisions, unfolding through three key steps: the definition of a set of architectural components (tiles) and their connectivity rules, the selection of the tile placement location, which is determined by the WFC, and the choice of which tile to place, which is performed by RL. The act of thinking becomes granular and embedded in an iterative process, distributed among human and non-human cognitions, which constantly negotiate their agency and authorial status. Tools become active agents capable of developing their own sensibility while controlling specific spatial conditions. Establishing an interdependency with the human, that engenders the design patterns and becomes an indispensable prerequisite for the exploration of the generated design space, exceeding human or machinic reach alone.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Reinforcement Learning; Machine Learning; Proximal Policy Optimization; Assemblages; Wave Function Collapse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,alessandro.mintrone5@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (13,316,506 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Chaillou, S (2020) 
+ Archigan: Artificial Intelligence X Architecture
+, Architectural Intelligence, Singapore, pp. 117-127
+
+
+
+
+
+
+
+Clark, A (2008) 
+ Supersizing the Mind: Embodiment, Action, and Cognitive Extension
+, Oxford University Press, New York
+
+
+
+
+
+
+
+del Campo, M and Manninger, S (2019) 
+ Imaginary Plans
+, Proceedings of the 2019 ACADIA Conference - Ubiquity and Autonomy, Austin, pp. 412-418
+
+
+
+
+
+
+
+del Campo, M, Carlson, A and Manninger, S (2020) 
+ Towards Hallucinating Machines - Designing with Computational Vision
+, International Journal of Architectural Computing, Online, pp. 1-16
+
+
+
+
+
+
+
+DeLanda, M (2006) 
+ A New Philosophy of Society: Assemblage Theory and Social Complexity, Annotated edition
+, Continuum, London
+
+
+
+
+
+
+
+Deleuze, G and Guattari, F (1987) 
+ A Thousand Plateaus
+, Minnesota University Press, Minneapolis
+
+
+
+
+
+
+
+Goodfellow, I, Bengio, Y and Courville, A (2016) 
+ Deep Learning
+, MIT Press, Cambridge
+
+
+
+
+
+
+
+Harding, J (2016) 
+ Dimensionality Reduction for Parametric Design Exploration
+, Advances in Architectural Geometry 2016, Zurich, pp. 274-287
+
+
+
+
+
+
+
+Johnson, S (2001) 
+ Emergence: The Connected Lives of Ants, Brains, Cities and Software
+, Scribner, New York
+
+
+
+
+
+
+
+Juliani, A, Berges, V P, Teng, E, Cohen, A, Harper, J, Elion, C, Goy, C, Gao, Y, Henry, H, Mattar, M and Lange, D (2020) 
+ Unity: A General Platform for Intelligent Agents
+, arXiv:1809.02627v2
+
+
+
+
+
+
+
+Leach, N (2016) 
+ Digital Tool Thinking: Object Oriented Ontology versus New Materialism
+, ACADIA 2016 POSTHUMAN FRONTIERS: Data, Designers, and Cognitive Machines Projects Catalog of the 36th Annual Conference of the Association for Computer Aided Design in Architecture, Ann Arbor, p. 344-351
+
+
+
+
+
+
+
+Parisi, L (2014) 
+ Automated Architecture: Speculative Reason in the Age of the Algorithm
+, Mackay, R and Avanessian, A (eds), #Accellerate#, the accelerationist reader, Urbanomic Media Ltd, Falmouth, pp. 401-424
+
+
+
+
+
+
+
+Picon, A (2016) 
+ Free the Robots!
+, Log, 36, pp. 146-151
+
+
+
+
+
+
+
+Schulman, J, Wolski, F, Dhariwal, P, Radford, A and Kilmov, O (2017) 
+ Proximal Policy Optimization Algorithms
+, arXiv:1707.06347v2",,"Chaillou, S (2020) 
+ Archigan: Artificial Intelligence X Architecture
+, Architectural Intelligence, Singapore, pp. 117-127",,,,"Clark, A (2008) 
+ Supersizing the Mind: Embodiment, Action, and Cognitive Extension
+, Oxford University Press, New York",,,,"del Campo, M and Manninger, S (2019) 
+ Imaginary Plans
+, Proceedings of the 2019 ACADIA Conference - Ubiquity and Autonomy, Austin, pp. 412-418",,,,"del Campo, M, Carlson, A and Manninger, S (2020) 
+ Towards Hallucinating Machines - Designing with Computational Vision
+, International Journal of Architectural Computing, Online, pp. 1-16",,,,"DeLanda, M (2006) 
+ A New Philosophy of Society: Assemblage Theory and Social Complexity, Annotated edition
+, Continuum, London",,,,"Deleuze, G and Guattari, F (1987) 
+ A Thousand Plateaus
+, Minnesota University Press, Minneapolis",,,,"Goodfellow, I, Bengio, Y and Courville, A (2016) 
+ Deep Learning
+, MIT Press, Cambridge",,,,"Harding, J (2016) 
+ Dimensionality Reduction for Parametric Design Exploration
+, Advances in Architectural Geometry 2016, Zurich, pp. 274-287",,,,"Johnson, S (2001) 
+ Emergence: The Connected Lives of Ants, Brains, Cities and Software
+, Scribner, New York",,,,"Juliani, A, Berges, V P, Teng, E, Cohen, A, Harper, J, Elion, C, Goy, C, Gao, Y, Henry, H, Mattar, M and Lange, D (2020) 
+ Unity: A General Platform for Intelligent Agents
+, arXiv:1809.02627v2",,,,"Leach, N (2016) 
+ Digital Tool Thinking: Object Oriented Ontology versus New Materialism
+, ACADIA 2016 POSTHUMAN FRONTIERS: Data, Designers, and Cognitive Machines Projects Catalog of the 36th Annual Conference of the Association for Computer Aided Design in Architecture, Ann Arbor, p. 344-351",,,,"Parisi, L (2014) 
+ Automated Architecture: Speculative Reason in the Age of the Algorithm
+, Mackay, R and Avanessian, A (eds), #Accellerate#, the accelerationist reader, Urbanomic Media Ltd, Falmouth, pp. 401-424",,,,"Picon, A (2016) 
+ Free the Robots!
+, Log, 36, pp. 146-151",,,,"Schulman, J, Wolski, F, Dhariwal, P, Radford, A and Kilmov, O (2017) 
+ Proximal Policy Optimization Algorithms
+, arXiv:1707.06347v2",,
+11,2021/08/11 08:45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

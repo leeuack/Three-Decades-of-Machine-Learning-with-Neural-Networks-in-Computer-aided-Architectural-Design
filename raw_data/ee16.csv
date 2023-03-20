@@ -1,0 +1,11 @@
+﻿,0
+0,"Coyne, R.D., Newton, S. and Sudweeks, F."
+1,1989
+2,Modeling the Emergence of Schemas in Design Reasoning
+3,"Design Computing Unit, Department of Architectural and Design Science, University of Sydney, 1989. pp. 173-205. CADLINE has abstract only"
+4,"The authors explore how neural networks can be used to model important aspects of design reasoning: the way design involves memory; and a 'holistic' kind of reasoning by which designs appear to emerge from that memory. A simple neural network is constructed to demonstrate how information about schemas (in this case, room types) is stored implicitly after exposure to a number of examples of specific rooms. We then demonstrate how new room types emerge from this information. The paper includes a discussion of design, a discussion of schemas from a psycholinguistic perspective, a technical explanation of neural networks and the demonstration of an implemented examples"
+5,"neural networks, modeling, design, reasoning, learning, knowledge acquisition, experimentation"
+6,CADline
+7,Richard.Coyne@ed.ac.uk
+8,Content-type: text/plain
+9,2003/05/17 08:13

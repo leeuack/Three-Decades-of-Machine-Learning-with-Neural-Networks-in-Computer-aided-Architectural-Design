@@ -1,0 +1,210 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64
+0,ecaadesigradi2019_510,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Giannopoulou, Effima, Baquero, Pablo, Warang, Angad, Orciuoli, Affonso and T. Estévez, Alberto",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Stripe Segmentation for Branching Shell Structures - A Data Set Development as a Learning Process for Fabrication Efficiency and Structural Performance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 3, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 63-70",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This article explains the evolution towards the subject of digital fabrication of thin shell structures, searching for the computational design techniques which allow to implement biological pattern mechanisms for efficient fabrication procedures. The method produces data sets in order to analyse and evaluate parallel alternatives of branching topologies, segmentation patterns, material usage, weight and deflection values as a user learning process. The importance here is given to the selection of the appropriate attributes, referring to which specific geometric characteristics of the parametric model are affecting each other and with what impact. The outcomes are utilized to train an Artificial Neural Network to predict new building information based on new combinations of desired parameters so that the user can decide and adjust the design based on the new information.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Digital Fabrication; Shell Structures; Segmentation; Machine Learning; Branching Topologies; Bio-inspired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADeSIGraDi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,estevez@uic.es,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (10,050,573 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bernal, M (2016) 
+ From Parametric to Meta Modeling in Design
+, Proceedings of 20th SIGradi, Buenos Aires, pp. 579-583
+
+
+
+
+
+
+
+Boettiger, A, Ermentrout, B and Oster, G (2009) 
+ The Neural Origins of Shell Structure and Pattern in Aquatic Mollusks
+, Proceedings of the National Academy of Sciences, pp. 6837-6842
+
+
+
+
+
+
+
+Giannopoulou, E, Baquero, P, Warang, A, Orciuoli, A and Estevéz, A.T (2019) 
+ Employing Mesh Segmentation Algorithms as Fabrication Strategies: Pattern Generation based on Reaction-Diffusion Mechanism
+, FME Transactions, vol. 47, no. 2, pp. 379-386
+
+
+
+
+
+
+
+Giannopoulou, E, Baquero, P, Warang, A, Orciuoli, A, Estevéz, A.T and Brun-Usan, M.A (2019) 
+ Biological Pattern based on Reaction-Diffusion Mechanism Employed as Fabrication Strategy for a Shell Structure
+, IOP Conference Series: Materials Science and Engineering, 471(10)
+
+
+
+
+
+
+
+Hanna, S and Mahdavi, SH (2006) 
+ Inductive Machine Learning in Microstructures
+, GERO, J.S (eds), Design Computing and Cognition '06, Springer
+
+
+
+
+
+
+
+Kleijnen, JP (1997) 
+ Sensitivity Analysis and Related Analyses: a Review of some Statistical Techniques
+, Journal of Statistical Computation and Simulation, 57(1-4), pp. 111-142
+
+
+
+
+
+
+
+Kondo, S (2002) 
+ The Reaction-Diffusion System: A Mechanism for Autonomous Pattern Formation in the Animal Skin
+, Genes and Cells, 7, pp. 535-541
+
+
+
+
+
+
+
+Nejur, A and Steinfeld, K (2016) 
+ IVY:Bringing a Weighted-Mesh Representation to Bear on Generative Architectural Design Applications
+, Proceedings of 36th ACADIA, pp. 140-151
+
+
+
+
+
+
+
+Piker, D (2013) 
+ Kangaroo: Form Finding with Computational Physics
+, Architectural Design, 83(1), pp. 136-137
+
+
+
+
+
+
+
+Sennett, R (2009) 
+ The Craftsman
+, Yale University Press
+
+
+
+
+
+
+
+Sousa, J.P., Xavier, J.P and Castro, H.G (2019) 
+ Architecture in the Age of the 4th Industrial Revolution
+, Proceedings of eCAADe+ SIGraDi 2019 Conference, Porto
+
+
+
+
+
+
+
+Stach, E (2010) 
+ Structural Morphology and Self-Organisation
+, Journal of the International Association for Shell and Spatial Structures, 51(165), pp. 217-231
+
+
+
+
+
+
+
+Tam, KM and Mueller, CT (2015) 
+ Stress Line Generation For Structurally Perfomative Architectural Design
+, Proceedings of 35th ACADIA
+
+
+
+
+
+
+
+Tamke, M, Paul, N and Zwierzycki, M (2018) 
+ Machine Learning for Architectural Design: Practices and Infrastructure
+, International Journal of Architectural Computing, 16(2), pp. 123-143
+
+
+
+
+
+
+
+Turing, A (1953) 
+ The Chemical Basis of Morphogenesis
+, Philosophical Transactions of the Royal Society B: Biological Sciences, 237, pp. 37-72
+
+
+
+
+
+
+
+von Buelow, P (2007) 
+ A Geometric Comparison of Branching Structures in Tension and Compression versus Minimal Paths
+, Proceedings of 7th Seminar of the IASS-Shell and Spatial Structures: Structural Architecture - Towards the future looking to the past",,"Bernal, M (2016) 
+ From Parametric to Meta Modeling in Design
+, Proceedings of 20th SIGradi, Buenos Aires, pp. 579-583",,,,"Boettiger, A, Ermentrout, B and Oster, G (2009) 
+ The Neural Origins of Shell Structure and Pattern in Aquatic Mollusks
+, Proceedings of the National Academy of Sciences, pp. 6837-6842",,,,"Giannopoulou, E, Baquero, P, Warang, A, Orciuoli, A and Estevéz, A.T (2019) 
+ Employing Mesh Segmentation Algorithms as Fabrication Strategies: Pattern Generation based on Reaction-Diffusion Mechanism
+, FME Transactions, vol. 47, no. 2, pp. 379-386",,,,"Giannopoulou, E, Baquero, P, Warang, A, Orciuoli, A, Estevéz, A.T and Brun-Usan, M.A (2019) 
+ Biological Pattern based on Reaction-Diffusion Mechanism Employed as Fabrication Strategy for a Shell Structure
+, IOP Conference Series: Materials Science and Engineering, 471(10)",,,,"Hanna, S and Mahdavi, SH (2006) 
+ Inductive Machine Learning in Microstructures
+, GERO, J.S (eds), Design Computing and Cognition '06, Springer",,,,"Kleijnen, JP (1997) 
+ Sensitivity Analysis and Related Analyses: a Review of some Statistical Techniques
+, Journal of Statistical Computation and Simulation, 57(1-4), pp. 111-142",,,,"Kondo, S (2002) 
+ The Reaction-Diffusion System: A Mechanism for Autonomous Pattern Formation in the Animal Skin
+, Genes and Cells, 7, pp. 535-541",,,,"Nejur, A and Steinfeld, K (2016) 
+ IVY:Bringing a Weighted-Mesh Representation to Bear on Generative Architectural Design Applications
+, Proceedings of 36th ACADIA, pp. 140-151",,,,"Piker, D (2013) 
+ Kangaroo: Form Finding with Computational Physics
+, Architectural Design, 83(1), pp. 136-137",,,,"Sennett, R (2009) 
+ The Craftsman
+, Yale University Press",,,,"Sousa, J.P., Xavier, J.P and Castro, H.G (2019) 
+ Architecture in the Age of the 4th Industrial Revolution
+, Proceedings of eCAADe+ SIGraDi 2019 Conference, Porto",,,,"Stach, E (2010) 
+ Structural Morphology and Self-Organisation
+, Journal of the International Association for Shell and Spatial Structures, 51(165), pp. 217-231",,,,"Tam, KM and Mueller, CT (2015) 
+ Stress Line Generation For Structurally Perfomative Architectural Design
+, Proceedings of 35th ACADIA",,,,"Tamke, M, Paul, N and Zwierzycki, M (2018) 
+ Machine Learning for Architectural Design: Practices and Infrastructure
+, International Journal of Architectural Computing, 16(2), pp. 123-143",,,,"Turing, A (1953) 
+ The Chemical Basis of Morphogenesis
+, Philosophical Transactions of the Royal Society B: Biological Sciences, 237, pp. 37-72",,,,"von Buelow, P (2007) 
+ A Geometric Comparison of Branching Structures in Tension and Compression versus Minimal Paths
+, Proceedings of 7th Seminar of the IASS-Shell and Spatial Structures: Structural Architecture - Towards the future looking to the past",,
+11,2019/08/26 20:28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

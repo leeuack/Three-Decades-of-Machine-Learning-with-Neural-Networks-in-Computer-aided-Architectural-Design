@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2021_021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Wu, Shaoji",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Approach to Auto-Recognition of Human Trajectory in Squares using Machine Learning-Based Methods - An application of the Yolo-v3 and the DeepSORT algorithm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 2, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 361-370",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The square plays an essential role in contemporary urban space. Researchers had explored many methods to record the distribution of people in it. However, few of them study this issue using fine data. This study proposes a method recognized of the human trajectory using a machine learning-based computer vision algorithm, which can be divided into the following three steps. (1) the acquisition of video and the method of obtaining human trajectory. (2) cleaning of the raw human trajectory data. (3) to visualize the trajectory data. Based on the existing methodology, we take three example squares within the Tianjin University campus to illustrate it. We use trajectory map, people distribution heat map, and people walking speed heat map as visualization methods. The following two conclusions are drawn from the three examples. First, it is found that the human trajectory data derived from this method is more accurate when the UAV is flying at a lower altitude. Second, this study demonstrates that a passive Real Time Locating Systems (RTLS), based on a deep learning computer vision algorithm, can effectively obtain human trajectory data in a square. Third, this paper proves that the visualization method we used is effective.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Human Trajectory; Squares; Machine Learning; DeepSORT; Yolo-v3; UAV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,wsjarchitecture@tju.edu.cn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (7,732,001 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Ahmed, I., Ahmad, M., Rodrigues, J. J., Jeon, G. and Din, S. (2021) 
+ A deep learning-based social distance monitoring framework for COVID-19. Sustainable Cities and Society
+, Sustainable Cities and Society, 65, p. 102571
+
+
+
+
+
+
+
+Bewley, A., Ge, Z., Ott, L., Ramos, F. and Upcroft, B. (2016) 
+ Simple online and realtime tracking
+, 2016 IEEE international conference on image processing (ICIP), Phoenix, Arizona, pp. 3464-3468
+
+
+
+
+
+
+
+Farhadi, A. and Redmon, J. (2018) 
+ Yolov3: An incremental improvement
+, Computer Vision and Pattern Recognition, arXiv preprint arXiv, p. 1804.02767
+
+
+
+
+
+
+
+Gehl, J. (2011) 
+ Life between buildings: using public space
+, Island press
+
+
+
+
+
+
+
+Grauwin, S., Sobolevsky, S., Moritz, S., Gódor, I. and Ratti, C. (2015) 
+ Towards a comparative science of cities: Using mobile traffic records in new york, london, and hong kong
+, Helbich, M., Arsanjani, J. J. and Leitner, M. (eds), Computational approaches for urban environments, Springer, Cham, pp. 363-387
+
+
+
+
+
+
+
+He, K., Zhang, X., Ren, S. and Sun, J. (2015) 
+ Spatial pyramid pooling in deep convolutional networks for visual recognition
+, IEEE transactions on pattern analysis and machine intelligence, 37(9), pp. 1904-1916
+
+
+
+
+
+
+
+Huang, W. and Wu, M. (2017) 
+ Dimensions of Information in Big Data Acquired by Indoor Positioning Systems: A New Perspective for Environmental Behavior Research
+, Time + Architecture, 2017(05), pp. 50-53
+
+
+
+
+
+
+
+Kapania, S., Saini, D., Goyal, S., Thakur, N., Jain, R. and Nagrath, P. (2020) 
+ Multi object tracking with UAVs using deep SORT and YOLOv3 RetinaNet detection framework
+, Proceedings of the 1st ACM Workshop on Autonomous and Intelligent Mobile Systems, Bangalore, pp. 1-6
+
+
+
+
+
+
+
+Li, B., Jiang, C., Wang, L, Cai, W. and Liu, J. (2019) 
+ A parametric study of the effect of building layout on wind flow over an urban area
+, Building and Environment, 160, p. 106160
+
+
+
+
+
+
+
+Liang, J., Hu, Y. and Sun, H. (2013) 
+ The design evaluation of the green space layout of urban squares based on fractal theory
+, Nexus Network Journal, 15(1), pp. 33-49
+
+
+
+
+
+
+
+Lin, Y. and Huang, W. (2018) 
+ Social Behavior Analysis in Innovation Incubator Based on Wi-Fi Data - A Case Study on Yan Jing Lane Community
+, Proceedings of the 23rd CAADRIA Conference, Tsinghua University, Beijing, China, pp. 197-206
+
+
+
+
+
+
+
+Mohamed, A., Qian, K., Elhoseiny, M. and Claudel, C. (2020) 
+ Social-stgcnn: A social spatio-temporal graph convolutional neural network for human trajectory prediction
+, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 14424-14432
+
+
+
+
+
+
+
+Pan, S. J. and Yang, Q. (2009) 
+ A survey on transfer learning
+, IEEE Transactions on knowledge and data engineering, 22(10), pp. 1345-1359
+
+
+
+
+
+
+
+Wojke, N., Bewley, A. and Paulus, D. (2017) 
+ Simple online and realtime tracking with a deep association metric
+, 2017 IEEE international conference on image processing (ICIP), Beijing, China, pp. 3645-3649
+
+
+
+
+
+
+
+Xu, L., Liu, N. and Sun, C. (2012) 
+ Scale of Square, Calibre of Space:Virtual Study on the Relation of Space Preference and Image with Area of Square and Depth-Width Ratio
+, Architectural Journal, 2012(02), pp. 74-78
+
+
+
+
+
+
+
+Yang, L., Cheng, B., Deng, N., Zhou, Z. and Huang, W. (2019) 
+ The Influence of Supermarket Spatial Layout on Shopping Behavior and Product Sales-An application of the Ultra-wideband Indoor Positioning System
+, Proceedings of the 24th CAADRIA Conference, Victoria University of Wellington, Wellington, New Zealand, pp. 301-310
+
+
+
+
+
+
+
+Yoshimura, Y., Sobolevsky, S., Ratti, C., Girardin, F., Carrascal, J. P., Blat, J. and Sinatra, R. (2014) 
+ An analysis of visitors' behavior in the Louvre Museum: A study using Bluetooth data
+, Environment and Planning B: Planning and Design, 41(6), pp. 1113-1131
+
+
+
+
+
+
+
+Yu, H., Yang, B., Liu, J. and Yu, G. J. (2018) 
+ Passive human trajectory tracking study in indoor environment with CSI
+, 2018 International Conference on Networking and Network Applications (NaNA), Xi'an, China, pp. 372-377
+
+
+
+
+
+
+
+Zakariya, K., Harun, N. Z. and Mansor, M. (2014) 
+ Spatial characteristics of urban square and sociability: A review of the City Square, Melbourne
+, Procedia-Social and Behavioral Sciences, 153, pp. 678-688
+
+
+
+
+
+
+
+Zetik, R., Sachs, J. and Thoma, R. S. (2007) 
+ UWB short-range radar sensing-The architecture of a baseband, pseudo-noise UWB radar sensor
+, IEEE Instrumentation & Measurement Magazine, 10(2), pp. 39-45",,"Ahmed, I., Ahmad, M., Rodrigues, J. J., Jeon, G. and Din, S. (2021) 
+ A deep learning-based social distance monitoring framework for COVID-19. Sustainable Cities and Society
+, Sustainable Cities and Society, 65, p. 102571",,,,"Bewley, A., Ge, Z., Ott, L., Ramos, F. and Upcroft, B. (2016) 
+ Simple online and realtime tracking
+, 2016 IEEE international conference on image processing (ICIP), Phoenix, Arizona, pp. 3464-3468",,,,"Farhadi, A. and Redmon, J. (2018) 
+ Yolov3: An incremental improvement
+, Computer Vision and Pattern Recognition, arXiv preprint arXiv, p. 1804.02767",,,,"Gehl, J. (2011) 
+ Life between buildings: using public space
+, Island press",,,,"Grauwin, S., Sobolevsky, S., Moritz, S., Gódor, I. and Ratti, C. (2015) 
+ Towards a comparative science of cities: Using mobile traffic records in new york, london, and hong kong
+, Helbich, M., Arsanjani, J. J. and Leitner, M. (eds), Computational approaches for urban environments, Springer, Cham, pp. 363-387",,,,"He, K., Zhang, X., Ren, S. and Sun, J. (2015) 
+ Spatial pyramid pooling in deep convolutional networks for visual recognition
+, IEEE transactions on pattern analysis and machine intelligence, 37(9), pp. 1904-1916",,,,"Huang, W. and Wu, M. (2017) 
+ Dimensions of Information in Big Data Acquired by Indoor Positioning Systems: A New Perspective for Environmental Behavior Research
+, Time + Architecture, 2017(05), pp. 50-53",,,,"Kapania, S., Saini, D., Goyal, S., Thakur, N., Jain, R. and Nagrath, P. (2020) 
+ Multi object tracking with UAVs using deep SORT and YOLOv3 RetinaNet detection framework
+, Proceedings of the 1st ACM Workshop on Autonomous and Intelligent Mobile Systems, Bangalore, pp. 1-6",,,,"Li, B., Jiang, C., Wang, L, Cai, W. and Liu, J. (2019) 
+ A parametric study of the effect of building layout on wind flow over an urban area
+, Building and Environment, 160, p. 106160",,,,"Liang, J., Hu, Y. and Sun, H. (2013) 
+ The design evaluation of the green space layout of urban squares based on fractal theory
+, Nexus Network Journal, 15(1), pp. 33-49",,,,"Lin, Y. and Huang, W. (2018) 
+ Social Behavior Analysis in Innovation Incubator Based on Wi-Fi Data - A Case Study on Yan Jing Lane Community
+, Proceedings of the 23rd CAADRIA Conference, Tsinghua University, Beijing, China, pp. 197-206",,,,"Mohamed, A., Qian, K., Elhoseiny, M. and Claudel, C. (2020) 
+ Social-stgcnn: A social spatio-temporal graph convolutional neural network for human trajectory prediction
+, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 14424-14432",,,,"Pan, S. J. and Yang, Q. (2009) 
+ A survey on transfer learning
+, IEEE Transactions on knowledge and data engineering, 22(10), pp. 1345-1359",,,,"Wojke, N., Bewley, A. and Paulus, D. (2017) 
+ Simple online and realtime tracking with a deep association metric
+, 2017 IEEE international conference on image processing (ICIP), Beijing, China, pp. 3645-3649",,,,"Xu, L., Liu, N. and Sun, C. (2012) 
+ Scale of Square, Calibre of Space:Virtual Study on the Relation of Space Preference and Image with Area of Square and Depth-Width Ratio
+, Architectural Journal, 2012(02), pp. 74-78",,,,"Yang, L., Cheng, B., Deng, N., Zhou, Z. and Huang, W. (2019) 
+ The Influence of Supermarket Spatial Layout on Shopping Behavior and Product Sales-An application of the Ultra-wideband Indoor Positioning System
+, Proceedings of the 24th CAADRIA Conference, Victoria University of Wellington, Wellington, New Zealand, pp. 301-310",,,,"Yoshimura, Y., Sobolevsky, S., Ratti, C., Girardin, F., Carrascal, J. P., Blat, J. and Sinatra, R. (2014) 
+ An analysis of visitors' behavior in the Louvre Museum: A study using Bluetooth data
+, Environment and Planning B: Planning and Design, 41(6), pp. 1113-1131",,,,"Yu, H., Yang, B., Liu, J. and Yu, G. J. (2018) 
+ Passive human trajectory tracking study in indoor environment with CSI
+, 2018 International Conference on Networking and Network Applications (NaNA), Xi'an, China, pp. 372-377",,,,"Zakariya, K., Harun, N. Z. and Mansor, M. (2014) 
+ Spatial characteristics of urban square and sociability: A review of the City Square, Melbourne
+, Procedia-Social and Behavioral Sciences, 153, pp. 678-688",,,,"Zetik, R., Sachs, J. and Thoma, R. S. (2007) 
+ UWB short-range radar sensing-The architecture of a baseband, pseudo-noise UWB radar sensor
+, IEEE Instrumentation & Measurement Magazine, 10(2), pp. 39-45",,
+11,2021/08/11 08:46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,257 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ijac20053301,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Srinivasan, Ravi S.; Malkawi, Ali M.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Real-time Simulations Using Learning Algorithms for Immersive Data Visualization in Buildings,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"International Journal of Architectural Computing vol. 3 - no. 3, 265-280",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Computational Fluid Dynamic (CFD) simulations are used to predict indoor thermal environments and assess their response to specific internal/external conditions. Although computing power has increased exponentially in the past decade, CFD simulations are still time-consuming and their prediction results cannot be used for real-time immersive visualization in buildings. A method that can bypass the timeconsuming simulations and generate ""acceptable"" results will allow such visualization to be constructed.This paper discusses a project that utilizes a supervised Artificial Neural Network (ANN) as a learning algorithm to predict post-processed CFD data to ensure rapid data visualization. To develop a generic learning model for a wide range of spatial configurations, this paper presents a pilot project that utilizes an unsupervised Reinforcement Learning (RL) algorithm. The ANN technique was integrated with an interactive, immersive Augmented Reality (AR) system to interact with and visualize CFD results in buildings. ANN was also evaluated against a linear regression model. Both models were tested and validated with datasets to determine their degree of accuracy. Initial tests, conducted to evaluate the user's experience of the system, indicated satisfactory results.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,journal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,http://www.ingentaconnect.com/search/expand?pub=infobike://mscp/ijac/2005/00000003/00000003/art00002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"file.pdf (856,842 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bajaj, C.L., Pascucci, V., Thompson, D., Zhang, X.Y. (1999) 
+ Parallel Accelerated Isocontouring for Out-of-core Visualization
+, IEEE Symposium on Parallel Visualization and Graphics, IEEE, San Francisco, California, 1999, 97104
+
+
+
+
+
+
+
+Bellman, R. (1961) 
+ Adaptive Control Processes: A Guided Tour
+, Princeton University Press, Princeton, New Jersey
+
+
+
+
+
+
+
+Carrilho-da-Graca, G., Chen, Q., Glicksman, L.R., and Norford, L.K. (2002) 
+ Simulation of wind-driven ventilative cooling systems for an apartment building in Beijing and Shanghai
+, Energy and Buildings Journal, 2002, 34(1), 111
+
+
+
+
+
+
+
+Crites, R.H., and Barto, A.G. (1996) 
+ Improving elevator performance using reinforcement learning
+, Touretzky, D.S., Mozer, M.C., and Hasselmo, M.E., eds., Advances in Neural Information Processing Systems, 1996, 8, 10171023
+
+
+
+
+
+
+
+Draper, N.R., and Smith, H. (1966) 
+ Applied Regression Analysis
+, New York: Wiley & Sons
+
+
+
+
+
+
+
+Eckhardt, B. and Zori, L. (2002) 
+ Computer simulation helps keep down costs for NASAs lifeboat for the international space station
+, Aircraft Engineering and Aerospace Technology: An International Journal, 2002, 74(5), 442-446
+
+
+
+
+
+
+
+Huang, H. and Haghighat, F. (2002) 
+ Modeling of volatile organic compounds emission from dry building materials
+, Building and Environment Journal, 2002, 37(12), 13491360
+
+
+
+
+
+
+
+Huber, M., and Grupen, R.A. (2000) 
+ A hybrid architecture for learning robot control tasks
+, Robotics Today, 2000, 13(4)
+
+
+
+
+
+
+
+Kenwright, D., Henze, C., and Levit, C. (1999) 
+ Feature Extraction of Separation and Attachment Lines
+, IEEE Transactions on Visualization and Computer Graphics, 1999, 5(2), 135144
+
+
+
+
+
+
+
+Lane, D.A. (1995) 
+ Parallelizing a Particle Tracer for Flow Visualization
+, Bailey, D.H., Bjorstad, P.E., Gilbert, J.R., Mascagni, M., Schreiber, R.S., and Simon, H.D., eds., Seventh SIAM Conference on Parallel Processing for Scientific Computing, SIAM, San Francisco, California, 1995, 784789
+
+
+
+
+
+
+
+Malkawi, A., and Srinivasan, R. (2005) 
+ Interfacing with the Real World and its Performance
+, International Journal of Architectural Computing, 2005, 3(1), 4356
+
+
+
+
+
+
+
+Malkawi, A., and Srinivasan, R. (2005) 
+ A New Paradigm for Human-Building Interaction: The Use of CFD and Augmented Reality
+, Automation in Construction Journal, 2005, 14(1), 7184
+
+
+
+
+
+
+
+Malkawi, A. (2004) 
+ Immersive Building Simulation
+, Malkawi, A., and Augenbroe, G., eds., Advanced Building Simulation, Spon Press, London, 2004, 217246
+
+
+
+
+
+
+
+Rumerlhart, D.E., and McClelland, J.L. (1986) 
+ Parallel Distributed Processing: Explorations in the Microstructure of Cognition
+, Cambridge, Massachusetts, MIT Press
+
+
+
+
+
+
+
+Russel, S., and Norvig, P. (2003) 
+ Artificial Intelligence: A Modern Approach
+, Prentice Hall, New Jersey
+
+
+
+
+
+
+
+Shahnawaz, V., Vance, J., and Kitti, S. (1999) 
+ Visualization of Post Processed CFD Data in a Virtual Environment
+, Design Engineering Technical Conference, American Society of Mechanical Engineers, 1999, 17
+
+
+
+
+
+
+
+Singh, S., and Bertsekas, D. (1997) 
+ Reinforcement learning for dynamic channel allocation in cellular telephone systems
+, Mozer, M.C., Jordan, M.I., and Petsche, T., eds., Advances in Neural Information Processing Systems, 9, 974980
+
+
+
+
+
+
+
+Sutton, R.S., and Barto, A.G. (1998) 
+ Reinforcement Learning: An Introduction
+, MIT Press, Masssachusetts
+
+
+
+
+
+
+
+Teylingen, R.V., Ribarsky, W., and van der Mast, C. (1997) 
+ Virtual Data Visualizer
+, IEEE Transactions on Visualization and Computer Graphics, 1997, 3(1), 6574
+
+
+
+
+
+
+
+Ueng, S., Sikorski, C., and Ma, K. (1997) 
+ Out-of-core Streamline Visualization on Large Unstructured Meshes
+, IEEE Transactions on Visualization and Computer Graphics, 1997, 3(4), 370-380",,"Bajaj, C.L., Pascucci, V., Thompson, D., Zhang, X.Y. (1999) 
+ Parallel Accelerated Isocontouring for Out-of-core Visualization
+, IEEE Symposium on Parallel Visualization and Graphics, IEEE, San Francisco, California, 1999, 97104",,,,"Bellman, R. (1961) 
+ Adaptive Control Processes: A Guided Tour
+, Princeton University Press, Princeton, New Jersey",,,,"Carrilho-da-Graca, G., Chen, Q., Glicksman, L.R., and Norford, L.K. (2002) 
+ Simulation of wind-driven ventilative cooling systems for an apartment building in Beijing and Shanghai
+, Energy and Buildings Journal, 2002, 34(1), 111",,,,"Crites, R.H., and Barto, A.G. (1996) 
+ Improving elevator performance using reinforcement learning
+, Touretzky, D.S., Mozer, M.C., and Hasselmo, M.E., eds., Advances in Neural Information Processing Systems, 1996, 8, 10171023",,,,"Draper, N.R., and Smith, H. (1966) 
+ Applied Regression Analysis
+, New York: Wiley & Sons",,,,"Eckhardt, B. and Zori, L. (2002) 
+ Computer simulation helps keep down costs for NASAs lifeboat for the international space station
+, Aircraft Engineering and Aerospace Technology: An International Journal, 2002, 74(5), 442-446",,,,"Huang, H. and Haghighat, F. (2002) 
+ Modeling of volatile organic compounds emission from dry building materials
+, Building and Environment Journal, 2002, 37(12), 13491360",,,,"Huber, M., and Grupen, R.A. (2000) 
+ A hybrid architecture for learning robot control tasks
+, Robotics Today, 2000, 13(4)",,,,"Kenwright, D., Henze, C., and Levit, C. (1999) 
+ Feature Extraction of Separation and Attachment Lines
+, IEEE Transactions on Visualization and Computer Graphics, 1999, 5(2), 135144",,,,"Lane, D.A. (1995) 
+ Parallelizing a Particle Tracer for Flow Visualization
+, Bailey, D.H., Bjorstad, P.E., Gilbert, J.R., Mascagni, M., Schreiber, R.S., and Simon, H.D., eds., Seventh SIAM Conference on Parallel Processing for Scientific Computing, SIAM, San Francisco, California, 1995, 784789",,,,"Malkawi, A., and Srinivasan, R. (2005) 
+ Interfacing with the Real World and its Performance
+, International Journal of Architectural Computing, 2005, 3(1), 4356",,,,"Malkawi, A., and Srinivasan, R. (2005) 
+ A New Paradigm for Human-Building Interaction: The Use of CFD and Augmented Reality
+, Automation in Construction Journal, 2005, 14(1), 7184",,,,"Malkawi, A. (2004) 
+ Immersive Building Simulation
+, Malkawi, A., and Augenbroe, G., eds., Advanced Building Simulation, Spon Press, London, 2004, 217246",,,,"Rumerlhart, D.E., and McClelland, J.L. (1986) 
+ Parallel Distributed Processing: Explorations in the Microstructure of Cognition
+, Cambridge, Massachusetts, MIT Press",,,,"Russel, S., and Norvig, P. (2003) 
+ Artificial Intelligence: A Modern Approach
+, Prentice Hall, New Jersey",,,,"Shahnawaz, V., Vance, J., and Kitti, S. (1999) 
+ Visualization of Post Processed CFD Data in a Virtual Environment
+, Design Engineering Technical Conference, American Society of Mechanical Engineers, 1999, 17",,,,"Singh, S., and Bertsekas, D. (1997) 
+ Reinforcement learning for dynamic channel allocation in cellular telephone systems
+, Mozer, M.C., Jordan, M.I., and Petsche, T., eds., Advances in Neural Information Processing Systems, 9, 974980",,,,"Sutton, R.S., and Barto, A.G. (1998) 
+ Reinforcement Learning: An Introduction
+, MIT Press, Masssachusetts",,,,"Teylingen, R.V., Ribarsky, W., and van der Mast, C. (1997) 
+ Virtual Data Visualizer
+, IEEE Transactions on Visualization and Computer Graphics, 1997, 3(1), 6574",,,,"Ueng, S., Sikorski, C., and Ma, K. (1997) 
+ Out-of-core Streamline Visualization on Large Unstructured Meshes
+, IEEE Transactions on Visualization and Computer Graphics, 1997, 3(4), 370-380",,
+10,2007/03/04 06:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

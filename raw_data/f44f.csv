@@ -1,0 +1,220 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68
+0,"Huang, Ying-Hsiu",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Investigating the Cognitive Behavior of Generating Idea Sketches. Neural Network Simulation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"CAADRIA 2000 [Proceedings of the Fifth Conference on Computer Aided Architectural Design Research in Asia / ISBN 981-04-2491-4] Singapore 18-19 May 2000, pp. 287-296",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"In idea sketches, there are a number of ambiguous shapes. Designers will associate and transform some shapes into others (Liu, 1993). Then, they evaluate these shapes in terms of functions and design requirements; furthermore, they would have generated other shapes that certified the design requirements (Huang, 1999). However, not only is the idea of design composed of one element, but also consisted of varied components. The purpose of this paper is to investigate how designers generate ideas of multi-component products, and to simulate this phenomenon by neural networks.  At the same time, this paper attempts to study the design cognitive behavior of idea-generating stages, and explores the designers' cognitive phenomenon. Therefore, there are two stages in this paper: First, I conduct a cognitive experiment to realize how designers generate the multi-component product and acquire the sketches that designers generated.  Second, I train the neural networks to simulate the behavior of idea generation and explore the cognitive phenomenon in design sketches. As a result, networks associate one shape that trained before, and then generate a complete idea.  This phenomenon is similar to the cognitive behavior of designers who saw the ambiguous shape as one shape, which was retrieved from LTM. Moreover, the neural network is examined by a rectangle, which is totally different from the training patterns.  The network will associate a confused shape. But the network will associate different shapes by adjusting some critical parameters. Designers can generate variable shapes from one shape, but the signal neural network can't simulate this kind of behavior. On the contrary, this paper proposes five sequential networks to generate variable shapes from the same shape and simulates how designers develop ideas.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,CAADRIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,richhys@ms10.hinet.net,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"file.pdf (462,787 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Coyne, R.D. and Newton, S. (1989) 
+ Design reasoning by association
+, Environment and Planning B, Vol.17, 39-56
+
+
+
+
+
+
+
+Goel, V. (1995) 
+ Sketches of thought
+, Cambridge, Mass, MIT Press
+
+
+
+
+
+
+
+Goldschmidt, G. (1991) 
+ The dialectics of sketching
+, Design Studies 4, 123-143
+
+
+
+
+
+
+
+Goldschmidt, G. (1992) 
+ Serial sketching : visual problem solving in designing
+, Cybernetics and Systems: An International Journal 23, pp. 191-219
+
+
+
+
+
+
+
+Goldschmidt, G. (1994) 
+ On visual design thinking: the vis kids of architecture
+, Design Studies 15( 2),158-174
+
+
+
+
+
+
+
+Huang, Y.H. (1999) 
+ A cognitive study of shapes and functions in design sketches
+, CAADRIA '99
+
+
+
+
+
+
+
+Kavakli, M. , Stephen, A.R.  and Linden, J. (1998) 
+ Structure in idea sketching behaviour
+, Design Studies 19(4), pp. 485-517
+
+
+
+
+
+
+
+Liu, Y.T. (1993) 
+ A Connectionist Approach to Shape Recognition and Transformation
+, Flemming, U. & Van Wyk, S. (eds.), CAAD Futures '93, Elsevier, Amsterdam, pp. 19-36
+
+
+
+
+
+
+
+Liu, Y.T. (1995) 
+ Some Phenomena of Seeing Shapes in Design
+, Design Studies 16(3), 367-385
+
+
+
+
+
+
+
+Liu, Y.T. (1996) 
+ Restructuring shapes in terms of emergent subshapes: a computational and cognitive model
+, Environment and planning B, Vol.23, 313-328
+
+
+
+
+
+
+
+Liu, Y.T. (1996) 
+ Is designing one search or two? A model of design thinking involving symbolism and connectionism
+, Design Studies 17(3), 435-449
+
+
+
+
+
+
+
+McGown, A. and Green, G. and Rodgers, P.A. (1998) 
+ Visible ideas: information patterns of conceptual sketch activity
+, Design Studies 19, 431-453
+
+
+
+
+
+
+
+Rueckl, J.G., Cave, K.R. and Kosslyn, S.M. (1989) 
+ Why are 'What' and 'Where' Processed by Separate Cortical Visual Systems? A Computational Investigation
+, Journal of Cognitive Neuroscience
+
+
+
+
+
+
+
+Schön, D.A. and Wiggins, G. (1992) 
+ Kinds of Seeing and Their Functions in Designing
+, Design Studies, 13 (2), 135-156
+
+
+
+
+
+
+
+Scrivener, S.A. R and Clark, S.M. (1994) 
+ Sketching in Collaborative Design. In: MacDonald
+, L. and Vince, J. Interacting Virtual Environmental John Wiley, Chichester, 95-118
+
+
+
+
+
+
+
+Suwa, M. , Purcell, T. and Gero, J. (1998) 
+ Macroscopic analysis of design processes based on a scheme for coding designer's cognitive actions
+, Design Studies 19 (4), 455-483
+
+
+
+
+
+
+
+Verstijnen, I.M. and Hennessey, J.M., Leeuwen, C. and Hamel, R. and Goldschmidt, G. (1998) 
+ Sketching and creative discovery
+, Design Studies 19, 519-546",,"Coyne, R.D. and Newton, S. (1989) 
+ Design reasoning by association
+, Environment and Planning B, Vol.17, 39-56",,,,"Goel, V. (1995) 
+ Sketches of thought
+, Cambridge, Mass, MIT Press",,,,"Goldschmidt, G. (1991) 
+ The dialectics of sketching
+, Design Studies 4, 123-143",,,,"Goldschmidt, G. (1992) 
+ Serial sketching : visual problem solving in designing
+, Cybernetics and Systems: An International Journal 23, pp. 191-219",,,,"Goldschmidt, G. (1994) 
+ On visual design thinking: the vis kids of architecture
+, Design Studies 15( 2),158-174",,,,"Huang, Y.H. (1999) 
+ A cognitive study of shapes and functions in design sketches
+, CAADRIA '99",,,,"Kavakli, M. , Stephen, A.R.  and Linden, J. (1998) 
+ Structure in idea sketching behaviour
+, Design Studies 19(4), pp. 485-517",,,,"Liu, Y.T. (1993) 
+ A Connectionist Approach to Shape Recognition and Transformation
+, Flemming, U. & Van Wyk, S. (eds.), CAAD Futures '93, Elsevier, Amsterdam, pp. 19-36",,,,"Liu, Y.T. (1995) 
+ Some Phenomena of Seeing Shapes in Design
+, Design Studies 16(3), 367-385",,,,"Liu, Y.T. (1996) 
+ Restructuring shapes in terms of emergent subshapes: a computational and cognitive model
+, Environment and planning B, Vol.23, 313-328",,,,"Liu, Y.T. (1996) 
+ Is designing one search or two? A model of design thinking involving symbolism and connectionism
+, Design Studies 17(3), 435-449",,,,"McGown, A. and Green, G. and Rodgers, P.A. (1998) 
+ Visible ideas: information patterns of conceptual sketch activity
+, Design Studies 19, 431-453",,,,"Rueckl, J.G., Cave, K.R. and Kosslyn, S.M. (1989) 
+ Why are 'What' and 'Where' Processed by Separate Cortical Visual Systems? A Computational Investigation
+, Journal of Cognitive Neuroscience",,,,"Schön, D.A. and Wiggins, G. (1992) 
+ Kinds of Seeing and Their Functions in Designing
+, Design Studies, 13 (2), 135-156",,,,"Scrivener, S.A. R and Clark, S.M. (1994) 
+ Sketching in Collaborative Design. In: MacDonald
+, L. and Vince, J. Interacting Virtual Environmental John Wiley, Chichester, 95-118",,,,"Suwa, M. , Purcell, T. and Gero, J. (1998) 
+ Macroscopic analysis of design processes based on a scheme for coding designer's cognitive actions
+, Design Studies 19 (4), 455-483",,,,"Verstijnen, I.M. and Hennessey, J.M., Leeuwen, C. and Hamel, R. and Goldschmidt, G. (1998) 
+ Sketching and creative discovery
+, Design Studies 19, 519-546",,
+9,2000/08/07 07:11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

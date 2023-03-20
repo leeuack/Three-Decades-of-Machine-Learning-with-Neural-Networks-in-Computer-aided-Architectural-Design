@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2021_247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Wibranek, Bastian, Liu, Yuxi, Funk, Niklas, Belousov, Boris, Peters, Jan and Tessmann, Oliver",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Reinforcement Learning for Sequential Assembly of SL-Blocks - Self-interlocking combinatorial design based on Machine Learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 1, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 27-36",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Adaptive reconfigurable structures are seen as the next big step in the evolution of architecture. However, to achieve this vision, new tools are required that enable autonomous configuration of given elements based on a specified design objective. Various approaches have been considered in the past, ranging from rule-based methods to evolutionary optimization. Although successful in applications where search heuristics or informative objective functions can be provided, these methods struggle with long-term planning problems. In this paper, we tackle the problem of sequential assembly of SL-blocks which has the character of a combinatorial optimization problem. We explore the applicability of deep reinforcement learning algorithms that recently showed great success on combinatorial problems in other domains, such as board games and molecular design. We highlight the unique challenges presented by the architectural design setting and compare the performance to evolutionary computation and heuristic search baselines.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Reinforcement Learning;  Architectural Assembly;  Discrete Design;  SL-blocks;  Dry Joined,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,wibranek@dg.tu-darmstadt.de,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (13,706,934 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Apolinarska, AA, Pacher, M, Li, H, Cote, N, Pastrana, R, Gramazio, F and Kohler, M (2021) 
+ Robotic assembly of timber joints using reinforcement learning
+, Automation in Construction, 125, p. 103569
+
+
+
+
+
+
+
+Bapst, V, Sanchez-Gonzalez, A, Doersch, C, Stachenfeld, K, Kohli, P, Battaglia, P and Hamrick, J (2019) 
+ Structured agents for physical construction
+, International Conference on Machine Learning, pp. 464-474
+
+
+
+
+
+
+
+Battaglia, PW, et al. (2018) 
+ Relational inductive biases, deep learning, and graph networks
+, arXiv preprint arXiv:1806.01261, 1806, pp. 1-40
+
+
+
+
+
+
+
+Bello, I, Pham, H, Le, QV, Norouzi, M and Bengio, S (2016) 
+ Neural combinatorial optimization with reinforcement learning
+, arXiv preprint arXiv:1611.09940, 1611, pp. 1-15
+
+
+
+
+
+
+
+Bengio, Y, Lodi, A and Prouvost, A (2020) 
+ Machine learning for combinatorial optimization: a methodological tour d'horizon
+, European Journal of Operational Research, 290, pp. 405-421
+
+
+
+
+
+
+
+CHO, M, JUNGTAEK, K, HYUNSOO, C, LEE, JH and PARK, J (2020) 
+ Combinatorial 3D Shape Generation via Sequential Assembly
+, Advances in Neural Information Processing Systems
+
+
+
+
+
+
+
+Chou, LW (2019) 
+ The Study on SL-Blocks
+, National Chiayi University
+
+
+
+
+
+
+
+Costa, A, Nannicini, G, Schroepfer, T and Wortmann, T (2015) 
+ Black-box optimization of lighting simulation in architectural design
+, Cardin, MA, Krob, D, Lui, PC, Tan, YH and Wood, K (eds), Complex systems design & management Asia, Springer, pp. 27-39
+
+
+
+
+
+
+
+Dai, H, Khalil, EB, Zhang, Y, Dilkina, B and Song, L (2017) 
+ Learning combinatorial optimization algorithms over graphs
+, arXiv preprint arXiv:1704.01665, 1704, pp. 1-24
+
+
+
+
+
+
+
+Fang, Y (2017) 
+ Optimization of Daylighting and Energy Performance Using Parametric Design, Simulation Modeling, and Genetic Algorithms
+, Ph.D. Thesis, North Carolina State University
+
+
+
+
+
+
+
+Gershenfeld, N, Carney, M, Jenett, B, Calisch, S and Wilson, S (2015) 
+ Macrofabrication with digital materials: Robotic assembly
+, Architectural design, 85(5), pp. 122-127
+
+
+
+
+
+
+
+Janner, M, Levine, S, Freeman, WT, Tenenbaum, JB, Finn, C and Wu, J (2018) 
+ Reasoning about physical interactions with object-oriented prediction and planning
+, arXiv preprint arXiv:1812.10972, 1812, pp. 1-12
+
+
+
+
+
+
+
+Sanchez, J (2016) 
+ Combinatorial Design: Non-Parametric Computational Design Strategies
+, ACADIA // 2016: POSTHUMAN FRONTIERS: Data, Designers, and Cognitive Machines [Proceedings of the 36th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)
+
+
+
+
+
+
+
+Scarselli, F, Gori, M, Tsoi, AC, Hagenbuchner, M and Monfardini, G (2008) 
+ The graph neural network model
+, IEEE transactions on neural networks, 20(1), pp. 61-80
+
+
+
+
+
+
+
+Schrittwieser, J, et al. (2020) 
+ Mastering atari, go, chess and shogi by planning with a learned model
+, Nature, 588(7839), pp. 604-609
+
+
+
+
+
+
+
+Schulman, J, Wolski, F, Dhariwal, P, Radford, A and Klimov, O (2017) 
+ Proximal policy optimization algorithms
+, arXiv preprint arXiv:1707.06347, 1707, pp. 1-12
+
+
+
+
+
+
+
+Shi, X and Yang, W (2013) 
+ Performance-driven architectural design and optimization technique from a perspective of architects
+, Automation in Construction, 32, pp. 125-135
+
+
+
+
+
+
+
+Shih, S (2016) 
+ On the Hierarchical Construction of SL Blocks A Generative System that Builds Self-Interlocking Structures
+, Advances in Architectural Geometry 2016
+
+
+
+
+
+
+
+Shih, SG, Yen, CH and Chou, LW (2019) 
+ Extensible Structures of Interlinking SL Strands
+, Proceedings of Bridges 2019: Mathematics, Art, Music, Architecture, Education, Culture, pp. 415-418
+
+
+
+
+
+
+
+Silver, D, et al. (2017) 
+ Mastering the game of go without human knowledge
+, nature, 550(7676), pp. 354-359",,"Apolinarska, AA, Pacher, M, Li, H, Cote, N, Pastrana, R, Gramazio, F and Kohler, M (2021) 
+ Robotic assembly of timber joints using reinforcement learning
+, Automation in Construction, 125, p. 103569",,,,"Bapst, V, Sanchez-Gonzalez, A, Doersch, C, Stachenfeld, K, Kohli, P, Battaglia, P and Hamrick, J (2019) 
+ Structured agents for physical construction
+, International Conference on Machine Learning, pp. 464-474",,,,"Battaglia, PW, et al. (2018) 
+ Relational inductive biases, deep learning, and graph networks
+, arXiv preprint arXiv:1806.01261, 1806, pp. 1-40",,,,"Bello, I, Pham, H, Le, QV, Norouzi, M and Bengio, S (2016) 
+ Neural combinatorial optimization with reinforcement learning
+, arXiv preprint arXiv:1611.09940, 1611, pp. 1-15",,,,"Bengio, Y, Lodi, A and Prouvost, A (2020) 
+ Machine learning for combinatorial optimization: a methodological tour d'horizon
+, European Journal of Operational Research, 290, pp. 405-421",,,,"CHO, M, JUNGTAEK, K, HYUNSOO, C, LEE, JH and PARK, J (2020) 
+ Combinatorial 3D Shape Generation via Sequential Assembly
+, Advances in Neural Information Processing Systems",,,,"Chou, LW (2019) 
+ The Study on SL-Blocks
+, National Chiayi University",,,,"Costa, A, Nannicini, G, Schroepfer, T and Wortmann, T (2015) 
+ Black-box optimization of lighting simulation in architectural design
+, Cardin, MA, Krob, D, Lui, PC, Tan, YH and Wood, K (eds), Complex systems design & management Asia, Springer, pp. 27-39",,,,"Dai, H, Khalil, EB, Zhang, Y, Dilkina, B and Song, L (2017) 
+ Learning combinatorial optimization algorithms over graphs
+, arXiv preprint arXiv:1704.01665, 1704, pp. 1-24",,,,"Fang, Y (2017) 
+ Optimization of Daylighting and Energy Performance Using Parametric Design, Simulation Modeling, and Genetic Algorithms
+, Ph.D. Thesis, North Carolina State University",,,,"Gershenfeld, N, Carney, M, Jenett, B, Calisch, S and Wilson, S (2015) 
+ Macrofabrication with digital materials: Robotic assembly
+, Architectural design, 85(5), pp. 122-127",,,,"Janner, M, Levine, S, Freeman, WT, Tenenbaum, JB, Finn, C and Wu, J (2018) 
+ Reasoning about physical interactions with object-oriented prediction and planning
+, arXiv preprint arXiv:1812.10972, 1812, pp. 1-12",,,,"Sanchez, J (2016) 
+ Combinatorial Design: Non-Parametric Computational Design Strategies
+, ACADIA // 2016: POSTHUMAN FRONTIERS: Data, Designers, and Cognitive Machines [Proceedings of the 36th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)",,,,"Scarselli, F, Gori, M, Tsoi, AC, Hagenbuchner, M and Monfardini, G (2008) 
+ The graph neural network model
+, IEEE transactions on neural networks, 20(1), pp. 61-80",,,,"Schrittwieser, J, et al. (2020) 
+ Mastering atari, go, chess and shogi by planning with a learned model
+, Nature, 588(7839), pp. 604-609",,,,"Schulman, J, Wolski, F, Dhariwal, P, Radford, A and Klimov, O (2017) 
+ Proximal policy optimization algorithms
+, arXiv preprint arXiv:1707.06347, 1707, pp. 1-12",,,,"Shi, X and Yang, W (2013) 
+ Performance-driven architectural design and optimization technique from a perspective of architects
+, Automation in Construction, 32, pp. 125-135",,,,"Shih, S (2016) 
+ On the Hierarchical Construction of SL Blocks A Generative System that Builds Self-Interlocking Structures
+, Advances in Architectural Geometry 2016",,,,"Shih, SG, Yen, CH and Chou, LW (2019) 
+ Extensible Structures of Interlinking SL Strands
+, Proceedings of Bridges 2019: Mathematics, Art, Music, Architecture, Education, Culture, pp. 415-418",,,,"Silver, D, et al. (2017) 
+ Mastering the game of go without human knowledge
+, nature, 550(7676), pp. 354-359",,
+11,2021/08/11 08:45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

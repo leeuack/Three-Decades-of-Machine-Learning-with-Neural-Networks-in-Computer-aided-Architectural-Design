@@ -1,0 +1,54 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,ijac20032201,,,,,,,,,,,,
+1,"Mahalingam, Ganapathy; Kavasseri, Rajesh G.",,,,,,,,,,,,
+2,2004,,,,,,,,,,,,
+3,Improving Objective Digital Images with Neuronal Processing: A Computational Approach,,,,,,,,,,,,
+4,International Journal of Architectural Computing vol. 2 - no. 2,,,,,,,,,,,,
+5,"This paper describes an experiment where an imagerecorded with a digital camera is processed using anelectro-physiological model of a neuron. Theluminosity level of each pixel of the source image istreated as the stimulus for an individual neuron, andthe source image is transformed into a responseimage based on the processing behavior of theHodgkin-Huxley neuronal model. It is seen thattransformation of the image through neuronalprocessing yields (i) more evenly balanced levels ofluminosity and (ii) a more subjective rendering of theenvironment than what was photographed with thedigital camera.The CCD (charge coupled device) based digital camera reveals its limitation as a linearrecording device that does not have a balanceddynamic range.The neuronal processing of the imageadds non-linearity and a balanced range to theluminosity levels in the image, rendering it closer to asubjective perception of the scene.",,,,,,,,,,,,
+6,journal,,,,,,,,,,,,
+7,Ganapathy.Mahalingam@ndsu.nodak.edu,,,,,,,,,,,,
+8,http://www.multi-science.co.uk/ijac.htm,,,,,,,,,,,,
+9,"file.pdf (614,503 bytes)",,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Hodgkin, A.L. and Huxley, A.F. (1954) 
+ A Quantitative Description of Membrane Current and Application to Conduction and Excitation in Nerve
+, Journal of Physiology, 1954, 117, pp. 500-544
+
+
+
+
+
+
+
+Izhikevich, E.M. (1999) 
+ Class 1 Neural Excitability, Conventional Synapses, Weakly Connected Networks and Mathematical Foundations of Pulse Coupled Models
+, IEEE Transactions on Neural Networks, 1999, Vol.10, No.3, pp. 499-507
+
+
+
+
+
+
+
+Rinzel, J. and Ermentrout, G.B. (1989) 
+ Analysis of Neural Excitability and Oscillations, Methods in Neuronal Modeling
+, MIT Press, Cambridge, Massachusetts",,"Hodgkin, A.L. and Huxley, A.F. (1954) 
+ A Quantitative Description of Membrane Current and Application to Conduction and Excitation in Nerve
+, Journal of Physiology, 1954, 117, pp. 500-544",,,,"Izhikevich, E.M. (1999) 
+ Class 1 Neural Excitability, Conventional Synapses, Weakly Connected Networks and Mathematical Foundations of Pulse Coupled Models
+, IEEE Transactions on Neural Networks, 1999, Vol.10, No.3, pp. 499-507",,,,"Rinzel, J. and Ermentrout, G.B. (1989) 
+ Analysis of Neural Excitability and Oscillations, Methods in Neuronal Modeling
+, MIT Press, Cambridge, Massachusetts",,
+11,2007/03/04 06:08,,,,,,,,,,,,

@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2020_432,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Fragkia, Vasiliki and Worre Foged, Isak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Methods for the Prediction and Specification of Functionally Graded Multi-Grain Responsive Timber Composites,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Werner, L and Koering, D (eds.), Anthropologic: Architecture and Fabrication in the cognitive age - Proceedings of the 38th eCAADe Conference - Volume 2, TU Berlin, Berlin, Germany, 16-18 September 2020, pp. 585-594",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The paper presents design-integrated methods for high-resolution specification and prediction of functionally graded wood-based thermal responsive composites, using machine learning. The objective is the development of new circular design workflow, employing robotic fabrication, in order to predict fabrication files linked to material performance and design requirements, focused on application for intrinsic responsive and adaptive architectural surfaces. Through an experimental case study, the paper explores how machine learning can form a predictive design framework where low-resolution data can solve material systems at high resolution. The experimental computational and prototyping studies show that the presented image-based machine learning method can be adopted and adapted across various stages and scales of architectural design and fabrication. This in turn allows for a design-per-requirement approach that optimizes material distribution and promotes material economy.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,material specification; responsive timber composites; machine learning; robotic fabrication; building envelopes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,vafr@create.aau.dk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (3,627,120 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bradski, G and Kaehler, A (2011) 
+ Learning OpenCV: Computer Vision with the OpenCV Library
+, O'Reily
+
+
+
+
+
+
+
+Brugnaro, G and Hanna, S (2017) 
+ Adaptive Robotic Training Methods for Subtractive Manufacturing
+, Acadia 2017
+
+
+
+
+
+
+
+DeLanda, M (2015) 
+ The new materiality
+, Architectural Design, 85, pp. 16-21
+
+
+
+
+
+
+
+Duda, R and Hart, P (1972) 
+ Use of the Hough transformation to detect lines and curves in pictures
+, Communications of the ACM
+
+
+
+
+
+
+
+Foged, I.W and Pasold, A (2015) 
+ Thermal Activated Envelope
+, Proceedings of eCAADe 2015, Vienna, p. 449-458
+
+
+
+
+
+
+
+Foged, I.W and Pasold, A (2016) 
+ An oak composite thermal dynamic envelope
+, Structures and Architecture - Proceedings of the 3rd International Conference on Structures and Architecture, ICSA, GuimarÃ£es, pp. 624-630
+
+
+
+
+
+
+
+Foged, I.W, Pasold, A and Pelosini, T (2019) 
+ Material Studies for Thermal Responsive Composite Envelopes
+, Proceedings of eCAADe 2019, Porto, p. 207-214
+
+
+
+
+
+
+
+Fragkia, V and Foged, I.W (2020) 
+ Wood-based Responsive Systems: A workflow for simulating, predicting and steering material performance in architectural design
+, Proceedings of SimAUD 2020, Vienna
+
+
+
+
+
+
+
+Fragkia, V and Foged, I.W (2020) 
+ Exergy-Based Responsive Building Composites For Thermal Control Stimuli of an Adaptive Envelope
+, Proceedings of the 35th International Conference on Passive and Low Energy Architecture 2020, Coruna
+
+
+
+
+
+
+
+Gero, J.S (1991) 
+ Ten problems for AI in design
+, IJCAI-91, Workshop on AI in Design
+
+
+
+
+
+
+
+Hostov, A, Farmer, G and Bridgens, B (2017) 
+ Sustainable materialisation of responsive architecture
+, Sustainability, 9, pp. 435-455
+
+
+
+
+
+
+
+Huang, H, Yu, P.S and Wang, C (2018) 
+ An Introduction to Image Synthesis with Generative Adversarial Nets
+, arXiv 2018
+
+
+
+
+
+
+
+Huang, W and Zheng, H (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, ACADIA 2018, Mexico
+
+
+
+
+
+
+
+Isola, P, Zhu, J.Y, Zhou, T and Efros, A.A (2018) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, arXiv:2018
+
+
+
+
+
+
+
+Menges, A and Reichert, S (2012) 
+ Material capacity: Embedded responsiveness
+, Architectural Design, 82, pp. 52-59
+
+
+
+
+
+
+
+Miyamoto, Y, Kaysser, W.A, Rabin, B.H, Kawasaki, A and Ford, R.G (1999) 
+ Functionally Graded Materials: Design, Processing and Applications
+, Springer
+
+
+
+
+
+
+
+Mokhtar, S, Sojka, A and Cerezo Davila, C (2020) 
+ Conditional Generative Adversarial Networks for Pedestrian Wind Flow Approximation
+, Proceedings of SimAUD 2020, Vienna
+
+
+
+
+
+
+
+Nicholas, P, Zwierzycki, M, NÃ¸rgaard, E.C, Leinweber, S, Stasiuk, D, Ramsgaard Thomsen, M and Hutchinson, C (2017) 
+ Adaptive Robotic Fabrication for Conditions of Material Inconsistency: Increasing the Geometric Accuracy of Incrementally Formed Metal Panels
+, Fabricate 2017, pp. 114-121
+
+
+
+
+
+
+
+Oxman, N (2010) 
+ Structuring Materiality: Design fabrication of heterogeneous materials
+, Architectural Design, 80, pp. 78-85
+
+
+
+
+
+
+
+Record, S.J (1999) 
+ Mechanical properties of wood
+, Gutenberg",,"Bradski, G and Kaehler, A (2011) 
+ Learning OpenCV: Computer Vision with the OpenCV Library
+, O'Reily",,,,"Brugnaro, G and Hanna, S (2017) 
+ Adaptive Robotic Training Methods for Subtractive Manufacturing
+, Acadia 2017",,,,"DeLanda, M (2015) 
+ The new materiality
+, Architectural Design, 85, pp. 16-21",,,,"Duda, R and Hart, P (1972) 
+ Use of the Hough transformation to detect lines and curves in pictures
+, Communications of the ACM",,,,"Foged, I.W and Pasold, A (2015) 
+ Thermal Activated Envelope
+, Proceedings of eCAADe 2015, Vienna, p. 449-458",,,,"Foged, I.W and Pasold, A (2016) 
+ An oak composite thermal dynamic envelope
+, Structures and Architecture - Proceedings of the 3rd International Conference on Structures and Architecture, ICSA, GuimarÃ£es, pp. 624-630",,,,"Foged, I.W, Pasold, A and Pelosini, T (2019) 
+ Material Studies for Thermal Responsive Composite Envelopes
+, Proceedings of eCAADe 2019, Porto, p. 207-214",,,,"Fragkia, V and Foged, I.W (2020) 
+ Wood-based Responsive Systems: A workflow for simulating, predicting and steering material performance in architectural design
+, Proceedings of SimAUD 2020, Vienna",,,,"Fragkia, V and Foged, I.W (2020) 
+ Exergy-Based Responsive Building Composites For Thermal Control Stimuli of an Adaptive Envelope
+, Proceedings of the 35th International Conference on Passive and Low Energy Architecture 2020, Coruna",,,,"Gero, J.S (1991) 
+ Ten problems for AI in design
+, IJCAI-91, Workshop on AI in Design",,,,"Hostov, A, Farmer, G and Bridgens, B (2017) 
+ Sustainable materialisation of responsive architecture
+, Sustainability, 9, pp. 435-455",,,,"Huang, H, Yu, P.S and Wang, C (2018) 
+ An Introduction to Image Synthesis with Generative Adversarial Nets
+, arXiv 2018",,,,"Huang, W and Zheng, H (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, ACADIA 2018, Mexico",,,,"Isola, P, Zhu, J.Y, Zhou, T and Efros, A.A (2018) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, arXiv:2018",,,,"Menges, A and Reichert, S (2012) 
+ Material capacity: Embedded responsiveness
+, Architectural Design, 82, pp. 52-59",,,,"Miyamoto, Y, Kaysser, W.A, Rabin, B.H, Kawasaki, A and Ford, R.G (1999) 
+ Functionally Graded Materials: Design, Processing and Applications
+, Springer",,,,"Mokhtar, S, Sojka, A and Cerezo Davila, C (2020) 
+ Conditional Generative Adversarial Networks for Pedestrian Wind Flow Approximation
+, Proceedings of SimAUD 2020, Vienna",,,,"Nicholas, P, Zwierzycki, M, NÃ¸rgaard, E.C, Leinweber, S, Stasiuk, D, Ramsgaard Thomsen, M and Hutchinson, C (2017) 
+ Adaptive Robotic Fabrication for Conditions of Material Inconsistency: Increasing the Geometric Accuracy of Incrementally Formed Metal Panels
+, Fabricate 2017, pp. 114-121",,,,"Oxman, N (2010) 
+ Structuring Materiality: Design fabrication of heterogeneous materials
+, Architectural Design, 80, pp. 78-85",,,,"Record, S.J (1999) 
+ Mechanical properties of wood
+, Gutenberg",,
+11,2020/09/09 09:54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

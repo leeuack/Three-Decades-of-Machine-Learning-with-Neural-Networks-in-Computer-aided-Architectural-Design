@@ -1,0 +1,260 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ijac201816406,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"As, Imdat; Siddharth Pal and Prithwish Basu",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Artificial intelligence in architecture: Generating conceptual design via deep learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"International Journal of Architectural Computing vol. 16 - no. 4, 306-327",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Artificial intelligence, and in particular machine learning, is a fast-emerging field. Research on artificial intelligence focuses mainly on image-, text- and voice-based applications, leading to breakthrough developments in self-driving cars, voice recognition algorithms and recommendation systems. In this article, we present the research of an alternative graph- based machine learning system that deals with three-dimensional space, which is more structured and combinatorial than images, text or voice. Specifically, we present a function-driven deep learning approach to generate conceptual design. We trained and used deep neural networks to evaluate existing designs encoded as graphs, extract significant building blocks as subgraphs and merge them into new compositions. Finally, we explored the application of generative adversarial networks to generate entirely new and unique designs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Architectural design, conceptual design, deep learning, artificial intelligence, generative design",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,journal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,as@hartford.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,file.pdf ( bytes),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Alexander C.  (1977) 
+ A pattern language: towns, building, construction
+, Oxford: Oxford University Press
+
+
+
+
+
+
+
+Boyer J.M. and Myrvold W.J. (2004) 
+ On the cutting edge: simplified O(n) planarity by edge addition
+, J Graph Algorithm Appl; 8(3): 241273
+
+
+
+
+
+
+
+Chen X., Duan Y., Houthooft R. et al.  (2016) 
+ InfoGAN: interpretable representation learning by information maximizing generative adversarial nets
+, NIPS, https://arxiv.org/abs/1606.03657
+
+
+
+
+
+
+
+Cross N. (2011) 
+ Design thinking: understanding how designers think and work
+, Oxford: Bloomsbury Academic
+
+
+
+
+
+
+
+De Haan H.   (1988) 
+ Architects in competition: international architectural competitions of the last 200 years 
+, London: Thames and Hudson
+
+
+
+
+
+
+
+Duarte J.P. (2005) 
+ Towards mass customization of housing: the grammar of Sizas houses at Malagueira
+, Environ Plann B; 32: 347e380
+
+
+
+
+
+
+
+Duvenaud D., Maclaurin D., Aguilera-Iparraguirre J. et al.  (2015) 
+ Convolutional networks on graphs for learning molecular fingerprints
+, Proceedings of the 28th international conference on neural information processing systems (NIPS), Montreal, QC, Canada, 712 December 2015, vol. 2
+
+
+
+
+
+
+
+Ehrig H. and Kreowski H.-J.  (1979) 
+ Pushout-properties: an analysis of gluing constructions for graphs
+, Math Nachr; 91: 135149
+
+
+
+
+
+
+
+Gropius W. (1970) 
+ Scope of total architecture
+, New York: Collier Books
+
+
+
+
+
+
+
+Grover A. and Leskovec J. (2016) 
+ Node2vec: scalable feature learning for networks
+, Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (KDD 16), San Francisco, CA, 1317 August 2016, pp. 855864. New York: ACM. DOI:10.1145/2939672.2939754
+
+
+
+
+
+
+
+Hagberg A., Schult D. and Swart P. (2005) 
+ NetworkX: Python software for the analysis of networks
+, Mathematical Modeling and Analysis, Los Alamos National Laboratory, Los Alamos, NM
+
+
+
+
+
+
+
+He K., Zhang X., Ren S. et al.  (2016) 
+ Deep residual learning for image recognition
+, IEEE conference on computer vision and pattern recognition (CVPR), Las Vegas, NV, 2730 June 2016, pp. 770778. New York: IEEE
+
+
+
+
+
+
+
+Jabi W., Soe S., Theobald P. et al.  (2017) 
+ Enhancing parametric design through non-manifold topology
+, Des Stud; 52: 96114
+
+
+
+
+
+
+
+Karras T., Aila T., Laine S. et al.  (2018) 
+ Progressive growing of GANs for improved quality, stability, and variation
+, 6th international conference on learning representations (ICLR) , Vancouver, BC, Canada, 30 April3 May 2018
+
+
+
+
+
+
+
+Liao L., He X., Zhang H. et 
+al.  (2018) 
+ Attributed social network embedding
+, IEEE T Knowl Data En . Epub ahead of print 27 March 2018. DOI: 10.1109/TKDE.2018.2819980
+
+
+
+
+
+
+
+Mitrovic B.  (2011) 
+ Philosophy for architects
+, New York: Princeton Architectural Press
+
+
+
+
+
+
+
+Ruiz-Montiel M., Boned J., Gavilanes J. et al.  (2012) 
+ Design with shape grammars and reinforcement learning
+, Adv Eng Inform; 27: 230245
+
+
+
+
+
+
+
+Sjoberg C., Beorkrem C., Ellinger J. et al. (2017) 
+ Emergent syntax: machine learning for curation of design solution space
+, Proceedings Disruption Disciplines of the 37th Annual Conference of the Association for Computer Aided Design in Architecture, MIT, Cambridge, pp. 552561
+
+
+
+
+
+
+
+Steinfeld K.  (2017) 
+ Dreams may come
+, Nagakura T. (ed.) Acadia 2017 disciplines & disruption: proceedings of the 37th annual conference of the Association for Computer Aided Design in Architecture. Cambridge: MIT, pp. 590599
+
+
+
+
+
+
+
+Stiny G. and Gips J. (1972) 
+ Shape grammars and the generative specification of painting and sculpture
+, Freiman CV (ed.) Information processing 71 . Amsterdam: North-Holland, pp. 14601465",,"Alexander C.  (1977) 
+ A pattern language: towns, building, construction
+, Oxford: Oxford University Press",,,,"Boyer J.M. and Myrvold W.J. (2004) 
+ On the cutting edge: simplified O(n) planarity by edge addition
+, J Graph Algorithm Appl; 8(3): 241273",,,,"Chen X., Duan Y., Houthooft R. et al.  (2016) 
+ InfoGAN: interpretable representation learning by information maximizing generative adversarial nets
+, NIPS, https://arxiv.org/abs/1606.03657",,,,"Cross N. (2011) 
+ Design thinking: understanding how designers think and work
+, Oxford: Bloomsbury Academic",,,,"De Haan H.   (1988) 
+ Architects in competition: international architectural competitions of the last 200 years 
+, London: Thames and Hudson",,,,"Duarte J.P. (2005) 
+ Towards mass customization of housing: the grammar of Sizas houses at Malagueira
+, Environ Plann B; 32: 347e380",,,,"Duvenaud D., Maclaurin D., Aguilera-Iparraguirre J. et al.  (2015) 
+ Convolutional networks on graphs for learning molecular fingerprints
+, Proceedings of the 28th international conference on neural information processing systems (NIPS), Montreal, QC, Canada, 712 December 2015, vol. 2",,,,"Ehrig H. and Kreowski H.-J.  (1979) 
+ Pushout-properties: an analysis of gluing constructions for graphs
+, Math Nachr; 91: 135149",,,,"Gropius W. (1970) 
+ Scope of total architecture
+, New York: Collier Books",,,,"Grover A. and Leskovec J. (2016) 
+ Node2vec: scalable feature learning for networks
+, Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (KDD 16), San Francisco, CA, 1317 August 2016, pp. 855864. New York: ACM. DOI:10.1145/2939672.2939754",,,,"Hagberg A., Schult D. and Swart P. (2005) 
+ NetworkX: Python software for the analysis of networks
+, Mathematical Modeling and Analysis, Los Alamos National Laboratory, Los Alamos, NM",,,,"He K., Zhang X., Ren S. et al.  (2016) 
+ Deep residual learning for image recognition
+, IEEE conference on computer vision and pattern recognition (CVPR), Las Vegas, NV, 2730 June 2016, pp. 770778. New York: IEEE",,,,"Jabi W., Soe S., Theobald P. et al.  (2017) 
+ Enhancing parametric design through non-manifold topology
+, Des Stud; 52: 96114",,,,"Karras T., Aila T., Laine S. et al.  (2018) 
+ Progressive growing of GANs for improved quality, stability, and variation
+, 6th international conference on learning representations (ICLR) , Vancouver, BC, Canada, 30 April3 May 2018",,,,"Liao L., He X., Zhang H. et 
+al.  (2018) 
+ Attributed social network embedding
+, IEEE T Knowl Data En . Epub ahead of print 27 March 2018. DOI: 10.1109/TKDE.2018.2819980",,,,"Mitrovic B.  (2011) 
+ Philosophy for architects
+, New York: Princeton Architectural Press",,,,"Ruiz-Montiel M., Boned J., Gavilanes J. et al.  (2012) 
+ Design with shape grammars and reinforcement learning
+, Adv Eng Inform; 27: 230245",,,,"Sjoberg C., Beorkrem C., Ellinger J. et al. (2017) 
+ Emergent syntax: machine learning for curation of design solution space
+, Proceedings Disruption Disciplines of the 37th Annual Conference of the Association for Computer Aided Design in Architecture, MIT, Cambridge, pp. 552561",,,,"Steinfeld K.  (2017) 
+ Dreams may come
+, Nagakura T. (ed.) Acadia 2017 disciplines & disruption: proceedings of the 37th annual conference of the Association for Computer Aided Design in Architecture. Cambridge: MIT, pp. 590599",,,,"Stiny G. and Gips J. (1972) 
+ Shape grammars and the generative specification of painting and sculpture
+, Freiman CV (ed.) Information processing 71 . Amsterdam: North-Holland, pp. 14601465",,
+11,2019/08/07 12:04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,162 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48
+0,ecaade2021_159,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Yazicioglu, Gülin and Gürsel Dino, Ipek",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,From Streetscape to Data - Semantic segmentation for the prediction of outdoor thermal comfort,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 1, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 555-562",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In recent years, the increasing pace of urbanization is expected to increase the temperatures in urban contexts and amplify the Urban Heat Island effect. This phenomenon has a negative impact on the urbanites' thermal comfort in outdoor spaces. Modeling and simulation-based approaches can precisely calculate outdoor thermal comfort; however, they are labor-intensive and high in computational cost. This difficulty might discourage decision-makers to consider outdoor thermal comfort conditions, which can affect their strategies at the beginning stage of design. This paper aims to propose a statistical model that can predict outdoor comfort using semantic segmentation of 2D street view images. Firstly, 78 panoramic street images of selected three streets in Istanbul are used to calculate the specific object classes that have an influence on outdoor temperature using semantic segmentation. Following, the streets' outdoor thermal comfort is calculated in Ladybug/Grasshopper. Lastly, two multi-variate regression models are built using the percentages of these object classes in each image and outdoor thermal comfort in given locations on the streets. Initial results show that the proposed regression models can predict UTCI with R2=0.78 and R2=0.80, indicating the semantic segmentation can support the calculation of outdoor comfort.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,multivariate linear regression model; semantic segmentation; universal thermal climate index (UTCI),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,gulinyazicioglu@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (8,852,025 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Ash, C, Jasny, BR, Roberts, L, Stone, R and Sugden, AM (2008) 
+ Reimagining cities
+, Science, 319, p. 739
+
+
+
+
+
+
+
+B³a¿ejczyk, K, Jendritzky, G, Bröde, P, Havenith, G, Epstein, Y and Kampmann, B (2013) 
+ An introduction to the universal thermal climate index (UTCI)
+, Geographia Polonica, 86, pp. 5-10
+
+
+
+
+
+
+
+Charlwood, C (2004) 
+ Torbay Streetscape Guidelines
+, Torbay Council
+
+
+
+
+
+
+
+Chen, LC, Zhu, Y, Papandreou, G, Schroff, F and Adam, H (2018) 
+ Encoder-decoder with atrous separable convolution for semantic image segmentation.
+, Proceedings of the European conference on computer vision (ECCV), pp. 801-818
+
+
+
+
+
+
+
+Cordts, M, Omran, M, Ramos, S, Rehfeld, T, Enzweiler, M, Benenson, R, Franke, U, Roth, S and Schiele, B (2016) 
+ The cityscapes dataset for semantic urban scene understanding
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 3213-3223
+
+
+
+
+
+
+
+Crankshaw, N (2009) 
+ Creating Vibrant Public Spaces; Streetscape Design in Commercial and Historic Districts
+, Islandpress
+
+
+
+
+
+
+
+Garcia-Garcia, A, Orts-Escolano, S, Oprea, S, Villena-Martinez, V, Martinez-Gonzalez, P and Garcia-Rodriguez, J (2018) 
+ A survey on deep learning techniques for image and video semantic segmentation
+, Applied Soft Computing, 70, pp. 41-65
+
+
+
+
+
+
+
+Gong, FY, Zeng, ZC, Zhang, F, Li, X, Ng, E and Norford, LK (2018) 
+ Mapping sky, tree, and building view factors of street canyons in a high-density urban environment
+, Building and Environment, 134, pp. 155-167
+
+
+
+
+
+
+
+Ji, Q (2019) 
+ Probabilistic Graphical Models for Computer Vision
+, Academic Press
+
+
+
+
+
+
+
+Li, X, Ratti, C and Seiferling, I (2017) 
+ Mapping urban landscapes along streets using google street view.
+, International cartographic conference, pp. 341-356
+
+
+
+
+
+
+
+Liang, Z (2019) 
+ Urban streetscape assessment through big data imagery processing. Different applications for urban planning in Milan
+, Master's Thesis, Politecnico di Milano
+
+
+
+
+
+
+
+Oke, TR (1982) 
+ The energetic basis of the urban heat island
+, Journal of the Royal Meteorological Society, 108, pp. 1-24",,"Ash, C, Jasny, BR, Roberts, L, Stone, R and Sugden, AM (2008) 
+ Reimagining cities
+, Science, 319, p. 739",,,,"B³a¿ejczyk, K, Jendritzky, G, Bröde, P, Havenith, G, Epstein, Y and Kampmann, B (2013) 
+ An introduction to the universal thermal climate index (UTCI)
+, Geographia Polonica, 86, pp. 5-10",,,,"Charlwood, C (2004) 
+ Torbay Streetscape Guidelines
+, Torbay Council",,,,"Chen, LC, Zhu, Y, Papandreou, G, Schroff, F and Adam, H (2018) 
+ Encoder-decoder with atrous separable convolution for semantic image segmentation.
+, Proceedings of the European conference on computer vision (ECCV), pp. 801-818",,,,"Cordts, M, Omran, M, Ramos, S, Rehfeld, T, Enzweiler, M, Benenson, R, Franke, U, Roth, S and Schiele, B (2016) 
+ The cityscapes dataset for semantic urban scene understanding
+, Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 3213-3223",,,,"Crankshaw, N (2009) 
+ Creating Vibrant Public Spaces; Streetscape Design in Commercial and Historic Districts
+, Islandpress",,,,"Garcia-Garcia, A, Orts-Escolano, S, Oprea, S, Villena-Martinez, V, Martinez-Gonzalez, P and Garcia-Rodriguez, J (2018) 
+ A survey on deep learning techniques for image and video semantic segmentation
+, Applied Soft Computing, 70, pp. 41-65",,,,"Gong, FY, Zeng, ZC, Zhang, F, Li, X, Ng, E and Norford, LK (2018) 
+ Mapping sky, tree, and building view factors of street canyons in a high-density urban environment
+, Building and Environment, 134, pp. 155-167",,,,"Ji, Q (2019) 
+ Probabilistic Graphical Models for Computer Vision
+, Academic Press",,,,"Li, X, Ratti, C and Seiferling, I (2017) 
+ Mapping urban landscapes along streets using google street view.
+, International cartographic conference, pp. 341-356",,,,"Liang, Z (2019) 
+ Urban streetscape assessment through big data imagery processing. Different applications for urban planning in Milan
+, Master's Thesis, Politecnico di Milano",,,,"Oke, TR (1982) 
+ The energetic basis of the urban heat island
+, Journal of the Royal Meteorological Society, 108, pp. 1-24",,
+11,2021/08/11 08:46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

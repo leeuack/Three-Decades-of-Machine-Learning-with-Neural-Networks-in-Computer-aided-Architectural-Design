@@ -1,0 +1,15 @@
+﻿,0
+0,ee5c
+1,"D Gunaratnam, T Degroff and JS Gero"
+2,2003
+3,IMPROVING NEURAL NETWORK MODELS OF PHYSICAL SYSTEMS THROUGH DIMENSIONAL ANALYSIS
+4,Journal of Applied Soft Computing 2(4): 283-296.
+5,"The paper presents a technique for generating concise neural network models of physical systems. The neural network models are generated through a two-stage process. The first stage uses information embedded in the dimensions or units in which the data is represented. Dimensional analysis techniques are used initially to make this information explicit, and a limited search in the neural network architecture space is then conducted to determine dimensionless representations of variables/parameters that perform well for a given model complexity. The second stage uses information available in the numerical values of the data to search for high-level dimensionless variables/parameters, generated from simple combinations of dimensionless quantities generated in the first stage and which result in concise neural network models with improved performance characteristics. The search for these high-level dimensionless variables/parameters is conducted in an enhanced representation space using functional link networks with flat or near flat architectures. The use and effectiveness of the technique is demonstrated for three applications. The first is the design and analysis of reinforced concrete beams, which is representative of the class of problems associated with the design and analysis of composites. The second is the classical elastica problem, for predicting non-linear post-buckled behaviour of columns and the third, the analysis of a bent bar under
+a specified combination of loads."
+6,"neural networks, dimensional analysis"
+7,journal
+8,normal paper
+9,john@arch.usyd.edu.au
+10,"file.pdf (147,537 bytes)"
+11,Content-type: text/plain
+12,2004/04/09 23:57

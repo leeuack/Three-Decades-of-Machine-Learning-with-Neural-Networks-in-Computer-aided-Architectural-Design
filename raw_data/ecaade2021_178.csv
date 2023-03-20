@@ -1,0 +1,174 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52
+0,ecaade2021_178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Nicholas, Paul, Chiujdea, Ruxandra Stefania, Sonne, Konrad and Scaffidi, Antonio",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Design and Fabrication Methodologies for Repurposing End of Life Metal via Robotic Incremental Sheet Metal Forming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 2, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 171-180",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper investigates an integrative approach to robotic incremental sheet metal forming (RISF), which connects the registration of variable material properties and geometries to the re-forming of pre-made components beyond their initial formulations. Re-using rather than recycling metals can save the significant energy costs that come with having to melt, purify and re-manufacture products, as well as saving the costs of the new object it replaces. In this paper, we describe a workflow that connects 3d scanning, design automation and fabrication. The method goes beyond state of the art for RISF by challenging the assumption of starting from a flat unused sheet of metal, opening up the potential of RISF for material reuse. Our approach is demonstrated through the fabrication of a series of bench seating elements from oil drum geometries, however is generalisable to other input materials and output geometries. 3d scanning is used to register varying geometric features such as rolled beads, irregularities such as dents and holes, and material properties such as corrosion.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,robotic fabrication; re-use; upcycling; incremental sheet metal forming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,paul.nicholas@kglakademi.dk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (20,791,422 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Bailly, D, Bambach, M, Hirt, G, Pofahl, T, Herkrath, R, Heyden, H and Trautz, M (2014) 
+ Manufacturing of Innovative Self-supporting Sheet-Metal Structures Representing Freeform Surfaces
+, Proceedings of the International Conference on Manufacturing of Lightweight Components - ManuLight 2014
+
+
+
+
+
+
+
+Brandt, J (2005) 
+ Skin That Fits: Designing and constructing cladding systems with as-built structural data
+, Proceedings of the 2005 Annual Conference of the Association for Computer Aided Design In Architecture
+
+
+
+
+
+
+
+Buican, G, Oancea, G and Manolescu, A (2014) 
+ Rãzvan, et al. ""Remanufacturing of Damaged Parts Using Selective Laser Melting Technology.""
+, Applied Mechanics and Materials, vol. 693, p. 285-290
+
+
+
+
+
+
+
+Chun, P, Funatani, K, Furukawa, S and Ohga, M (2013) 
+ Grade Classification Of Corrosion Damage On The Surface Of Weathering Steel Members By Digital Image Processing
+, Proceedings Of The Thirteenth East Asia-pacific Conference On Structural Engineering And Construction (Easec-13)
+
+
+
+
+
+
+
+Hale, L, Linley, E and Kalaskar, DM (2020) 
+ A digital workflow for design and fabrication of bespoke orthoses using 3D scanning and 3D printing, a patient-based case study.
+, Sci Rep 10, 7028
+
+
+
+
+
+
+
+Jeswiet, J, Micari, F, Hirt, G, Bramley, A, Duflou, J and Allwood, J (2005) 
+ Asymmetric Single Point Incremental Forming of Sheet Metal. DOI: 10.1016/S0007-8506(07)60021-3
+, CIRP Annals, Volume 54, Issue 2,
+
+
+
+
+
+
+
+Nicholas, P, Rossi, G, Papadopoulou, I, Tamke, M, Brandt, N and Hansen, L (2020) 
+ Precision Partner: Enhancing GFRC craftsmanship with industry 4.0 factory-floor feedback. In
+, Proceedings of eCAADe 2020
+
+
+
+
+
+
+
+Nicholas, P, Rossi, G, Williams, E, Bennett, M and Schork, T (2020) 
+ Integrating real-time multi-resolution scanning and machine learning for Conformal Robotic 3D Printing in Architecture.
+, IJAC Vol 18, Issue 4
+
+
+
+
+
+
+
+Nicholas, P, Stasiuk, D, Norgaard, E, Hutchinson, C and Ramsgaard Thomsen, M (2016) 
+ An Integrated Modelling and Toolpathing Approach for a Frameless Stressed Skin Structure, Fabricated Using Robotic Incremental Sheet Forming
+, Robotic Fabrication in Architecture, Art and Design 2016, pp. 62-77
+
+
+
+
+
+
+
+Nicholas, P, Voorderhake, D and Schork, T (2018) 
+ Full-scale prototype of a lightweight and robotic incrementally formed copper facade system with standing seam connections
+, Proceedings of the IASS Symposium 2018
+
+
+
+
+
+
+
+Nicholas, P, Zwierzycki, M, Norgaard, E, Leinweber, S, Stasiuk, D, Ramsgaard Thomsen, M and Hutchinson, C (2017) 
+ Adaptive robotic fabrication for conditions of material inconsistency: Increasing the geometric accuracy of incrementally formed metal panels
+, Fabricate 2017
+
+
+
+
+
+
+
+Petricca, L, Moss, T, Figueroa, G and Broen, S (2016) 
+ Corrosion Detection Using A.I : A Comparison of Standard Computer Vision Techniques and Deep Learning Model
+, The Sixth International Conference on Computer Science, Engineering and Information Technology, pp. 91-99
+
+
+
+
+
+
+
+Yan, B, Goto, S, Miyamoto, A and Zhao, H (2014) 
+ Imaging-Based Rating for Corrosion States of Weathering Steel Using Wavelet Transform and PSO-SVM Techniques
+, Journal of Computing in Civil Engineering",,"Bailly, D, Bambach, M, Hirt, G, Pofahl, T, Herkrath, R, Heyden, H and Trautz, M (2014) 
+ Manufacturing of Innovative Self-supporting Sheet-Metal Structures Representing Freeform Surfaces
+, Proceedings of the International Conference on Manufacturing of Lightweight Components - ManuLight 2014",,,,"Brandt, J (2005) 
+ Skin That Fits: Designing and constructing cladding systems with as-built structural data
+, Proceedings of the 2005 Annual Conference of the Association for Computer Aided Design In Architecture",,,,"Buican, G, Oancea, G and Manolescu, A (2014) 
+ Rãzvan, et al. ""Remanufacturing of Damaged Parts Using Selective Laser Melting Technology.""
+, Applied Mechanics and Materials, vol. 693, p. 285-290",,,,"Chun, P, Funatani, K, Furukawa, S and Ohga, M (2013) 
+ Grade Classification Of Corrosion Damage On The Surface Of Weathering Steel Members By Digital Image Processing
+, Proceedings Of The Thirteenth East Asia-pacific Conference On Structural Engineering And Construction (Easec-13)",,,,"Hale, L, Linley, E and Kalaskar, DM (2020) 
+ A digital workflow for design and fabrication of bespoke orthoses using 3D scanning and 3D printing, a patient-based case study.
+, Sci Rep 10, 7028",,,,"Jeswiet, J, Micari, F, Hirt, G, Bramley, A, Duflou, J and Allwood, J (2005) 
+ Asymmetric Single Point Incremental Forming of Sheet Metal. DOI: 10.1016/S0007-8506(07)60021-3
+, CIRP Annals, Volume 54, Issue 2,",,,,"Nicholas, P, Rossi, G, Papadopoulou, I, Tamke, M, Brandt, N and Hansen, L (2020) 
+ Precision Partner: Enhancing GFRC craftsmanship with industry 4.0 factory-floor feedback. In
+, Proceedings of eCAADe 2020",,,,"Nicholas, P, Rossi, G, Williams, E, Bennett, M and Schork, T (2020) 
+ Integrating real-time multi-resolution scanning and machine learning for Conformal Robotic 3D Printing in Architecture.
+, IJAC Vol 18, Issue 4",,,,"Nicholas, P, Stasiuk, D, Norgaard, E, Hutchinson, C and Ramsgaard Thomsen, M (2016) 
+ An Integrated Modelling and Toolpathing Approach for a Frameless Stressed Skin Structure, Fabricated Using Robotic Incremental Sheet Forming
+, Robotic Fabrication in Architecture, Art and Design 2016, pp. 62-77",,,,"Nicholas, P, Voorderhake, D and Schork, T (2018) 
+ Full-scale prototype of a lightweight and robotic incrementally formed copper facade system with standing seam connections
+, Proceedings of the IASS Symposium 2018",,,,"Nicholas, P, Zwierzycki, M, Norgaard, E, Leinweber, S, Stasiuk, D, Ramsgaard Thomsen, M and Hutchinson, C (2017) 
+ Adaptive robotic fabrication for conditions of material inconsistency: Increasing the geometric accuracy of incrementally formed metal panels
+, Fabricate 2017",,,,"Petricca, L, Moss, T, Figueroa, G and Broen, S (2016) 
+ Corrosion Detection Using A.I : A Comparison of Standard Computer Vision Techniques and Deep Learning Model
+, The Sixth International Conference on Computer Science, Engineering and Information Technology, pp. 91-99",,,,"Yan, B, Goto, S, Miyamoto, A and Zhao, H (2014) 
+ Imaging-Based Rating for Corrosion States of Weathering Steel Using Wavelet Transform and PSO-SVM Techniques
+, Journal of Computing in Civil Engineering",,
+11,2021/08/11 08:46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

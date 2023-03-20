@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2020_054,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Liu, Yuezhong, Stouffs, Rudi and Theng, Yin Leng",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Development of Synthetic Patient Data to Support Urban Planning for Public Health,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Werner, L and Koering, D (eds.), Anthropologic: Architecture and Fabrication in the cognitive age - Proceedings of the 38th eCAADe Conference - Volume 1, TU Berlin, Berlin, Germany, 16-18 September 2020, pp. 315-322",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Healthy urban planning is about planning for people, considering the needs of people and communities during the planning process and the implications of decisions for human health and well-being. However, access to real electronic health record (EHR) data is hindered by legal, privacy, security, and intellectual property restrictions. The lack of freely distributable health records has become an important issue for healthy urban planning. This research develops a source of synthetic electronic health records based on reviewed and meta-analysed evidence on the association between built environmental characteristics related to lifestyle chronic diseases. This research uses Type 2 Diabetes Mellitus (T2DM) as health for proof of concept. The results roughly approximate age and gender groups at diagnosis curves (R2 = 0.876), and correctly generated more than 90% of patients for the all age group in Singapore. As a summary, these pilot validated synthetic records could be used as a risk-free (no privacy & security issues) data for supporting healthy urban planning.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,synthetic patient; urban planning; computer simulation; Type 2 Diabetes Mellitus; GIS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,yz.liu@ntu.edu.sg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (9,680,656 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+American Diabetes Association, ADA (2009) 
+ Diagnosis and classification of diabetes mellitus
+, Diabetes Care, 32(Supplement 1), pp. 81-90
+
+
+
+
+
+
+
+Barton, HG (2009) 
+ Healthy urban planning in European cities
+, Health Promotion International, 24(1), pp. 91-99
+
+
+
+
+
+
+
+Braver, NRDL (2018) 
+ Built environmental characteristics and diabetes: a systematic review and meta-analysis
+, BMC Medicine, 16(12), p. 12
+
+
+
+
+
+
+
+Choi, EM (2017) 
+ Generating Multi-label Discrete Patient Records using Generative Adversarial Networks
+, Proceedings of Machine Learning for Healthcare, pp. 1-20
+
+
+
+
+
+
+
+Dube, KG (2013) 
+ Approach and Method for Generating Realistic Synthetic Electronic Healthcare Records for Secondary Use Approach and Method for Generating Realistic Synthetic Electronic Healthcare Records
+, FHIES 2013
+
+
+
+
+
+
+
+Duhl, LJKS (1999) 
+ Healthy Cities and The City Planning Process: a background document on links between health and urban planning
+, Regional Office For Europe, European Commission, Brussels
+
+
+
+
+
+
+
+Kartoun, U (2016) 
+ A Methodology to Generate Virtual Patient Repositories
+, arXiv:1608.00570
+
+
+
+
+
+
+
+Kautzky-Willer, AH (2016) 
+ Sex and Gender Differences in Risk, Pathophysiology and Complications of Type 2 Diabetes Mellitus.
+, Endocrine reviews, 37(3), pp. 278-316
+
+
+
+
+
+
+
+Kent, JT (2012) 
+ Health and the built environment: Exploring foundations for a new interdisciplinary profession
+, Journal of Environmental and Public Health, 2012, pp. 10-10
+
+
+
+
+
+
+
+Lowe, MB (2014) 
+ Urban design and health: Progress to date and future challenges
+, Health Promotion Journal of Australia, 25(1), pp. 14-18
+
+
+
+
+
+
+
+McLachlan, S (2016) 
+ Realism in Synthetic Data Generation
+, Ph.D. Thesis, Massey University
+
+
+
+
+
+
+
+Minister of Health, MOH (eds) (2010) 
+ National Health Survey
+, Ministry of Health, Singapore
+
+
+
+
+
+
+
+Ministry of Health, MOH (2018) 
+ The War On Diabetes
+, Summary Report, 1, pp. 1-17
+
+
+
+
+
+
+
+Mwogi, TSB (2014) 
+ An Evaluation of Two Methods for Generating Synthetic HL7 Segments Reflecting Real-World Health Information Exchange Transactions.
+, AMIA ... Annual Symposium proceedings. AMIA Symposium, 2014, pp. 1855-1863
+
+
+
+
+
+
+
+Renalds, AS (2010) 
+ A systematic review of built environment and health
+, Family and Community Health, 33(1), pp. 68-78
+
+
+
+
+
+
+
+Van den Bulcke, TVL (2006) 
+ SynTReN: a generator of synthetic gene expression data for design and analysis of structure learning algorithms
+, BMC Bioinformatics, 7(1), pp. 43-43
+
+
+
+
+
+
+
+Walonoski, JK (2017) 
+ Synthea : An approach , method , and software mechanism for generating synthetic patients and the synthetic electronic health care record
+, Journal of the American Medical Informatics Association, 25(3), pp. 230-238
+
+
+
+
+
+
+
+World Health Organization, WHO (1995) 
+ City health planning: the framework
+, Regional Office For Europe
+
+
+
+
+
+
+
+World Health Organization, WHO (1997) 
+ City planning for health and sustainable development
+, European Sustainable Development and Health Series: 1, Regional Office For Europe
+
+
+
+
+
+
+
+Wu, YD (2014) 
+ Risk factors contributing to type 2 diabetes and recent advances in the treatment and prevention
+, International journal of medical sciences, 11(11), pp. 1185-1200",,"American Diabetes Association, ADA (2009) 
+ Diagnosis and classification of diabetes mellitus
+, Diabetes Care, 32(Supplement 1), pp. 81-90",,,,"Barton, HG (2009) 
+ Healthy urban planning in European cities
+, Health Promotion International, 24(1), pp. 91-99",,,,"Braver, NRDL (2018) 
+ Built environmental characteristics and diabetes: a systematic review and meta-analysis
+, BMC Medicine, 16(12), p. 12",,,,"Choi, EM (2017) 
+ Generating Multi-label Discrete Patient Records using Generative Adversarial Networks
+, Proceedings of Machine Learning for Healthcare, pp. 1-20",,,,"Dube, KG (2013) 
+ Approach and Method for Generating Realistic Synthetic Electronic Healthcare Records for Secondary Use Approach and Method for Generating Realistic Synthetic Electronic Healthcare Records
+, FHIES 2013",,,,"Duhl, LJKS (1999) 
+ Healthy Cities and The City Planning Process: a background document on links between health and urban planning
+, Regional Office For Europe, European Commission, Brussels",,,,"Kartoun, U (2016) 
+ A Methodology to Generate Virtual Patient Repositories
+, arXiv:1608.00570",,,,"Kautzky-Willer, AH (2016) 
+ Sex and Gender Differences in Risk, Pathophysiology and Complications of Type 2 Diabetes Mellitus.
+, Endocrine reviews, 37(3), pp. 278-316",,,,"Kent, JT (2012) 
+ Health and the built environment: Exploring foundations for a new interdisciplinary profession
+, Journal of Environmental and Public Health, 2012, pp. 10-10",,,,"Lowe, MB (2014) 
+ Urban design and health: Progress to date and future challenges
+, Health Promotion Journal of Australia, 25(1), pp. 14-18",,,,"McLachlan, S (2016) 
+ Realism in Synthetic Data Generation
+, Ph.D. Thesis, Massey University",,,,"Minister of Health, MOH (eds) (2010) 
+ National Health Survey
+, Ministry of Health, Singapore",,,,"Ministry of Health, MOH (2018) 
+ The War On Diabetes
+, Summary Report, 1, pp. 1-17",,,,"Mwogi, TSB (2014) 
+ An Evaluation of Two Methods for Generating Synthetic HL7 Segments Reflecting Real-World Health Information Exchange Transactions.
+, AMIA ... Annual Symposium proceedings. AMIA Symposium, 2014, pp. 1855-1863",,,,"Renalds, AS (2010) 
+ A systematic review of built environment and health
+, Family and Community Health, 33(1), pp. 68-78",,,,"Van den Bulcke, TVL (2006) 
+ SynTReN: a generator of synthetic gene expression data for design and analysis of structure learning algorithms
+, BMC Bioinformatics, 7(1), pp. 43-43",,,,"Walonoski, JK (2017) 
+ Synthea : An approach , method , and software mechanism for generating synthetic patients and the synthetic electronic health care record
+, Journal of the American Medical Informatics Association, 25(3), pp. 230-238",,,,"World Health Organization, WHO (1995) 
+ City health planning: the framework
+, Regional Office For Europe",,,,"World Health Organization, WHO (1997) 
+ City planning for health and sustainable development
+, European Sustainable Development and Health Series: 1, Regional Office For Europe",,,,"Wu, YD (2014) 
+ Risk factors contributing to type 2 diabetes and recent advances in the treatment and prevention
+, International journal of medical sciences, 11(11), pp. 1185-1200",,
+11,2020/09/09 09:52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

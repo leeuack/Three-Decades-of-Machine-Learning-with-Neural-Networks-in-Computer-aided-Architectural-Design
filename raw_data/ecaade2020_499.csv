@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2020_499,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Ashour, Ziad and Yan, Wei",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,BIM-Powered Augmented Reality for Advancing Human-Building Interaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Werner, L and Koering, D (eds.), Anthropologic: Architecture and Fabrication in the cognitive age - Proceedings of the 38th eCAADe Conference - Volume 1, TU Berlin, Berlin, Germany, 16-18 September 2020, pp. 169-178",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The shift from computer-aided design (CAD) to building information modeling (BIM) has made the adoption of augmented reality (AR) promising in the field of architecture, engineering and construction. Despite the potential of AR in this field, the industry and professionals have still not fully adopted it due to registration and tracking limitations and visual occlusions in dynamic environments. We propose our first prototype (BIMxAR), which utilizes existing buildings' semantically rich BIM models and contextually aligns geometrical and non-geometrical information with the physical buildings. The proposed prototype aims to solve registration and tracking issues in dynamic environments by utilizing tracking and motion sensors already available in many mobile phones and tablets. The experiment results indicate that the system can support BIM and physical building registration in outdoor and part of indoor environments, but cannot maintain accurate alignment indoor when relying only on a device's motion sensors. Therefore, additional computer vision and AI (deep learning) functions need to be integrated into the system to enhance AR model registration in the future.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Augmented Reality; BIM; BIM-enabled AR; GPS; Human-Building Interactions; Education,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,zashour@tamu.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (7,858,135 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Ahn, SJ, Han, SU and Al-Hussein, M (2019) 
+ 2D Drawing Visualization Framework for Applying Projection-Based Augmented Reality in a Panelized Construction Manufacturing Facility: Proof of Concept
+, Journal of Computing in Civil Engineering, 33(5), pp. 1-15
+
+
+
+
+
+
+
+Akin, Ã (2002) 
+ Case-based instruction strategies in architecture
+, Design Studies, 23(4), pp. 407-431
+
+
+
+
+
+
+
+Asadi, K, Ramshankar, H, Noghabaei, M and Han, K (2019) 
+ Real-time image localization and registration with BIM using perspective alignment for indoor monitoring of construction
+, Journal of Computing in Civil Engineering, 33(5), pp. 1-15
+
+
+
+
+
+
+
+Azuma, R, Baillot, Y, Behringer, R, Feiner, S, Julier, S and MacIntyre, B (2001) 
+ Recent advances in augmented reality
+, IEEE Computer Graphics and Applications, 21(6), pp. 34-47
+
+
+
+
+
+
+
+Bacca, J, Baldiris, S, Fabregat, R, Graf, S and Graf, K (2014) 
+ Augmented Reality Trends in Education: A Systematic Review of Research and Applications
+, Educational Technology & Society, 17, pp. 133-149
+
+
+
+
+
+
+
+Baek, F, Ha, I and Kim, H (2019) 
+ Augmented reality system for facility management using image-based indoor localization
+, Automation in Construction, 99(August 2018), pp. 18-26
+
+
+
+
+
+
+
+Cao, PX, Li, WX and Ma, WP (2019) 
+ Tracking Registration Algorithm for Augmented Reality Based on Template Tracking
+, International Journal of Automation and Computing, 17(1), pp. 257-266
+
+
+
+
+
+
+
+Carmigniani, J and Furht, B (2011) 
+ Handbook of Augmented Reality
+, Springer Science & Business Media.
+
+
+
+
+
+
+
+Chatzopoulos, D, Bermejo, C, Huang, Z and Hui, P (2017) 
+ Mobile Augmented Reality Survey: From Where We Are to Where We Go
+, IEEE Access, 5, pp. 6917-6950
+
+
+
+
+
+
+
+Chen, K, Cheng, J, Chen, W and Li, C (2019) 
+ a Bim-Based Location Aware Ar Collaborative Framework for Facility Maintenance Management
+, Journal of Information Technology in Construction, 24(July), pp. 360-380
+
+
+
+
+
+
+
+Chu, HC, Chen, JM, Hwang, GJ and Chen, TW (2019) 
+ Effects of formative assessment in an augmented reality approach to conducting ubiquitous learning activities for architecture courses
+, Universal Access in the Information Society, 18(2), pp. 221-230
+
+
+
+
+
+
+
+Chu, M, Matthews, J and Love, P (2018) 
+ Integrating mobile Building Information Modelling and Augmented Reality systems: An experimental study
+, Automation in Construction, 85(1), pp. 305-316
+
+
+
+
+
+
+
+Cuperschmid, ARM, Grachet, MG and Fabr\'icio, MM (2016) 
+ Development of an Augmented Reality environment for the assembly of a precast wood-frame wall using the BIM model
+, Ambiente Constru\'ido, 16(4), pp. 63-78
+
+
+
+
+
+
+
+Delgado, JMD, Oyedele, L, Beach, T and Demian, P (2020) 
+ Augmented and Virtual Reality in Construction : drivers and limitations for industry adoption
+, American Society of Civil Engineers, 1(1), pp. 1-34
+
+
+
+
+
+
+
+Diao, PH and Shih, NJ (2019) 
+ Trends and research issues of augmented reality studies in architectural and civil engineering education-A review of academic journal publications
+, Applied Sciences (Switzerland), 9(9), pp. 1-19
+
+
+
+
+
+
+
+Gewirtzman, DF (2017) 
+ Adaptive Reuse Architecture Documentation and Analysis
+, Journal of Architectural Engineering Technology, 05(03), pp. 1-8
+
+
+
+
+
+
+
+Grover, R, Emmitt, S and Copping, A (2018) 
+ The typological learning framework: the application of structured precedent design knowledge in the architectural design studio
+, International Journal of Technology and Design Education, 28(4), pp. 1019-1038
+
+
+
+
+
+
+
+Kivrak, S and Arslan, G (2019) 
+ Using Augmented Reality to Facilitate Construction Site Activities
+, Mutis, I and Hartmann, T (eds), Advances in Informatics and Computing in Civil and Construction Engineering, Springer International Publishing, Cham, pp. 215-221
+
+
+
+
+
+
+
+Kopsida, M and Brilakis, I (2016) 
+ Markerless BIM Registration for Mobile Augmented Reality Based Inspection
+, International Conference on Smart Infrastructure and Construction, pp. 1631-1636
+
+
+
+
+
+
+
+Krakhofer, S and Kaftan, M (2015) 
+ Augmented reality design decision support engine for the early building design stage
+, CAADRIA 2015 - 20th International Conference on Computer-Aided Architectural Design Research in Asia: Emerging Experiences in the Past, Present and Future of Digital Architecture, pp. 231-240",,"Ahn, SJ, Han, SU and Al-Hussein, M (2019) 
+ 2D Drawing Visualization Framework for Applying Projection-Based Augmented Reality in a Panelized Construction Manufacturing Facility: Proof of Concept
+, Journal of Computing in Civil Engineering, 33(5), pp. 1-15",,,,"Akin, Ã (2002) 
+ Case-based instruction strategies in architecture
+, Design Studies, 23(4), pp. 407-431",,,,"Asadi, K, Ramshankar, H, Noghabaei, M and Han, K (2019) 
+ Real-time image localization and registration with BIM using perspective alignment for indoor monitoring of construction
+, Journal of Computing in Civil Engineering, 33(5), pp. 1-15",,,,"Azuma, R, Baillot, Y, Behringer, R, Feiner, S, Julier, S and MacIntyre, B (2001) 
+ Recent advances in augmented reality
+, IEEE Computer Graphics and Applications, 21(6), pp. 34-47",,,,"Bacca, J, Baldiris, S, Fabregat, R, Graf, S and Graf, K (2014) 
+ Augmented Reality Trends in Education: A Systematic Review of Research and Applications
+, Educational Technology & Society, 17, pp. 133-149",,,,"Baek, F, Ha, I and Kim, H (2019) 
+ Augmented reality system for facility management using image-based indoor localization
+, Automation in Construction, 99(August 2018), pp. 18-26",,,,"Cao, PX, Li, WX and Ma, WP (2019) 
+ Tracking Registration Algorithm for Augmented Reality Based on Template Tracking
+, International Journal of Automation and Computing, 17(1), pp. 257-266",,,,"Carmigniani, J and Furht, B (2011) 
+ Handbook of Augmented Reality
+, Springer Science & Business Media.",,,,"Chatzopoulos, D, Bermejo, C, Huang, Z and Hui, P (2017) 
+ Mobile Augmented Reality Survey: From Where We Are to Where We Go
+, IEEE Access, 5, pp. 6917-6950",,,,"Chen, K, Cheng, J, Chen, W and Li, C (2019) 
+ a Bim-Based Location Aware Ar Collaborative Framework for Facility Maintenance Management
+, Journal of Information Technology in Construction, 24(July), pp. 360-380",,,,"Chu, HC, Chen, JM, Hwang, GJ and Chen, TW (2019) 
+ Effects of formative assessment in an augmented reality approach to conducting ubiquitous learning activities for architecture courses
+, Universal Access in the Information Society, 18(2), pp. 221-230",,,,"Chu, M, Matthews, J and Love, P (2018) 
+ Integrating mobile Building Information Modelling and Augmented Reality systems: An experimental study
+, Automation in Construction, 85(1), pp. 305-316",,,,"Cuperschmid, ARM, Grachet, MG and Fabr\'icio, MM (2016) 
+ Development of an Augmented Reality environment for the assembly of a precast wood-frame wall using the BIM model
+, Ambiente Constru\'ido, 16(4), pp. 63-78",,,,"Delgado, JMD, Oyedele, L, Beach, T and Demian, P (2020) 
+ Augmented and Virtual Reality in Construction : drivers and limitations for industry adoption
+, American Society of Civil Engineers, 1(1), pp. 1-34",,,,"Diao, PH and Shih, NJ (2019) 
+ Trends and research issues of augmented reality studies in architectural and civil engineering education-A review of academic journal publications
+, Applied Sciences (Switzerland), 9(9), pp. 1-19",,,,"Gewirtzman, DF (2017) 
+ Adaptive Reuse Architecture Documentation and Analysis
+, Journal of Architectural Engineering Technology, 05(03), pp. 1-8",,,,"Grover, R, Emmitt, S and Copping, A (2018) 
+ The typological learning framework: the application of structured precedent design knowledge in the architectural design studio
+, International Journal of Technology and Design Education, 28(4), pp. 1019-1038",,,,"Kivrak, S and Arslan, G (2019) 
+ Using Augmented Reality to Facilitate Construction Site Activities
+, Mutis, I and Hartmann, T (eds), Advances in Informatics and Computing in Civil and Construction Engineering, Springer International Publishing, Cham, pp. 215-221",,,,"Kopsida, M and Brilakis, I (2016) 
+ Markerless BIM Registration for Mobile Augmented Reality Based Inspection
+, International Conference on Smart Infrastructure and Construction, pp. 1631-1636",,,,"Krakhofer, S and Kaftan, M (2015) 
+ Augmented reality design decision support engine for the early building design stage
+, CAADRIA 2015 - 20th International Conference on Computer-Aided Architectural Design Research in Asia: Emerging Experiences in the Past, Present and Future of Digital Architecture, pp. 231-240",,
+11,2020/09/09 09:50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

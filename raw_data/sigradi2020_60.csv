@@ -1,0 +1,210 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64
+0,sigradi2020_60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Asmar, Karen El; Sareen, Harpreet",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Machinic Interpolations: A GAN Pipeline for Integrating Lateral Thinking in Computational Tools of Architecture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"SIGraDi 2020 [Proceedings of the 24th Conference of the Iberoamerican Society of Digital Graphics - ISSN: 2318-6968] Online Conference 18 - 20 November 2020, pp. 60-66",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In this paper, we discuss a new tool pipeline that aims to re-integrate lateral thinking strategies in computational tools of architecture. We present a 4-step AI-driven pipeline, based on Generative Adversarial Networks (GANs), that draws from the ability to access the latent space of a machine and use this space as a digital design environment. We demonstrate examples of navigating in this space using vector arithmetic and interpolations as a method to generate a series of images that are then translated to 3D voxel structures. Through a gallery of forms, we show how this series of techniques could result in unexpected spaces and outputs beyond what could be produced by human capability alone.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Latent space, GANs, Lateral thinking, Computational tools, Artificial intelligence",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,SIGraDi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,karenasmar@newschool.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (2,385,495 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Austin, M., & Matthews, L. (2018) 
+ Drawing imprecision: The digital drawing as bits and pixels
+, Recalibration on Imprecision and Infidelity-Proceedings of the 38th Annual Conference of the Association for Computer Aided design in Architecture, ACADIA 2018
+
+
+
+
+
+
+
+Bono, E. D. (1985) 
+ Six Thinking Hats
+, Little, Brown and Company
+
+
+
+
+
+
+
+Cross, N. (2006) 
+ Designerly Ways of Knowing
+, Springer London
+
+
+
+
+
+
+
+Dorst, K., & Cross, N. (2001) 
+ Creativity in the design process: co-evolution of problem-solution
+, Design studies, 22(5), 425-437
+
+
+
+
+
+
+
+Huang, W., & Zheng, H. (2018) 
+ Architectural drawings recognition and generation through machine learning
+, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA), Mexico City, Mexico (pp. 18-20)
+
+
+
+
+
+
+
+Isola, P., Zhu, J. Y., Zhou, T., & Efros, A. A. (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 1125-1134)
+
+
+
+
+
+
+
+Karras, T., Laine, S., & Aila, T. (2019) 
+ A style-based generator architecture for generative adversarial networks
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 4401-4410)
+
+
+
+
+
+
+
+Klemmt, C., Pantic, I., Gheorghe, A., Sebestyen, A. (2019) 
+ Discrete vs. Discretized Growth: Discretized Fabrication of Geometries Generated with Cellular Growth Simulations
+, Proceedings of ACADIA, 2019
+
+
+
+
+
+
+
+Lawson, B. (2006) 
+ How designers think: The design process demystified
+, Routledge
+
+
+
+
+
+
+
+Liu, H., Liao, L., Srivastava, A. (2019) 
+ An Anonymous Composition
+, Proceedings of ACADIA, 2019
+
+
+
+
+
+
+
+May, J. (2018) 
+ Signal. Image. Architecture
+, Columbia University Press
+
+
+
+
+
+
+
+Miller, A. I. (2019) 
+ The Artist in the Machine: The World of Al-Powered Creativity
+, MIT Press
+
+
+
+
+
+
+
+Nauata, N., Chang, K. H., Cheng, C. Y., Mori, G., & Furukawa, Y. (2020) 
+ House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation
+, arXiv preprint arXiv:2003.06988
+
+
+
+
+
+
+
+Newton, D. (2019) 
+ Generative Deep Learningin Architectural Design
+, Technology| Architecture+ Design, 3(2), 176-189
+
+
+
+
+
+
+
+Retsin, G. (2019) 
+ Discrete: Reappraising the Digital in Architecture
+, John Wiley & Sons
+
+
+
+
+
+
+
+Steenson, M. W. (2017) 
+ Architectural Intelligence: ­How Designers and Architects Created the Digital Landscape
+, MIT Press. Zhang, H. (2019). 3D Model Generation on Architectural Plan and Section Training through Machine Learning. Technologies, 7(4), 82",,"Austin, M., & Matthews, L. (2018) 
+ Drawing imprecision: The digital drawing as bits and pixels
+, Recalibration on Imprecision and Infidelity-Proceedings of the 38th Annual Conference of the Association for Computer Aided design in Architecture, ACADIA 2018",,,,"Bono, E. D. (1985) 
+ Six Thinking Hats
+, Little, Brown and Company",,,,"Cross, N. (2006) 
+ Designerly Ways of Knowing
+, Springer London",,,,"Dorst, K., & Cross, N. (2001) 
+ Creativity in the design process: co-evolution of problem-solution
+, Design studies, 22(5), 425-437",,,,"Huang, W., & Zheng, H. (2018) 
+ Architectural drawings recognition and generation through machine learning
+, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA), Mexico City, Mexico (pp. 18-20)",,,,"Isola, P., Zhu, J. Y., Zhou, T., & Efros, A. A. (2017) 
+ Image-to-image translation with conditional adversarial networks
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 1125-1134)",,,,"Karras, T., Laine, S., & Aila, T. (2019) 
+ A style-based generator architecture for generative adversarial networks
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 4401-4410)",,,,"Klemmt, C., Pantic, I., Gheorghe, A., Sebestyen, A. (2019) 
+ Discrete vs. Discretized Growth: Discretized Fabrication of Geometries Generated with Cellular Growth Simulations
+, Proceedings of ACADIA, 2019",,,,"Lawson, B. (2006) 
+ How designers think: The design process demystified
+, Routledge",,,,"Liu, H., Liao, L., Srivastava, A. (2019) 
+ An Anonymous Composition
+, Proceedings of ACADIA, 2019",,,,"May, J. (2018) 
+ Signal. Image. Architecture
+, Columbia University Press",,,,"Miller, A. I. (2019) 
+ The Artist in the Machine: The World of Al-Powered Creativity
+, MIT Press",,,,"Nauata, N., Chang, K. H., Cheng, C. Y., Mori, G., & Furukawa, Y. (2020) 
+ House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation
+, arXiv preprint arXiv:2003.06988",,,,"Newton, D. (2019) 
+ Generative Deep Learningin Architectural Design
+, Technology| Architecture+ Design, 3(2), 176-189",,,,"Retsin, G. (2019) 
+ Discrete: Reappraising the Digital in Architecture
+, John Wiley & Sons",,,,"Steenson, M. W. (2017) 
+ Architectural Intelligence: ­How Designers and Architects Created the Digital Landscape
+, MIT Press. Zhang, H. (2019). 3D Model Generation on Architectural Plan and Section Training through Machine Learning. Technologies, 7(4), 82",,
+11,2021/07/16 09:48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,256 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ijac201210301,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Pan, Cheng-An; Taysheng Jeng",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Cellular Robotic Architecture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"International Journal of Architectural Computing vol. 10 - no. 3, 319-339",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"An emerging need for interactive architecture is currently making buildings mutable, flexible in use, and adaptable to changes in climate by introducing robotic systems. However, the feasibility of the seamless integration of building construction details and kinetic robotics has become a critical issue for developing robotic architecture. The objective of this work is to develop a robotic architecture with an emphasis on the integration of cellular robotics with a distributed kinetic building surface. The kinetic building surface integrates an actuating system, a localization and remote control system, which become part of the kinetic building system. This paper presents a systematic framework by reviewing theories and related work of robotic architecture and automated control. An architectural design scheme is proposed to simulate a scenario of application in a physical space. The functionality of the electrical and control system and the integration of the effects of actual construction were examined by a prototype of a kinetic surface. Our prototype presents a feasible construction method, and a prominent energy-saving effect. The potential strength and restrictions of the cellular robotic approach to architectural applications are discussed. The applicability of the prototype system and issues about controlling the behavior of spatial robots are demonstrated in this paper.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,journal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"file.pdf (3,276,299 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Beni, G. and J.Wang (1993) 
+ Swarm Intelligence in Cellular Robotic Systems
+, Robots and Biological Systems: Towards a New Bionics?, P. Dario, G. Sandini, and P.Aebischer (Editor), Springer Berlin Heidelberg, pp. 703-712
+
+
+
+
+
+
+
+Bogue, R. (2008) 
+ Swarm intelligence and robotics
+, Industrial Robot: An International Journal, 35(6), pp. 488-495
+
+
+
+
+
+
+
+Brooks, R. (1986) 
+ A Robust Layered Control System For Mobile Robots
+, IEEE Journal of Robotics and Automation, 2(1), pp. 14-23
+
+
+
+
+
+
+
+Chen, C.-W., et al. (2007) 
+ Design of an Active Linear Guide by Piezoelectric Actuators
+, The 33rd Annual Conference of the IEEE Industrial Electronics Society (IECON) Taipei, Taiwan
+
+
+
+
+
+
+
+Chen, P.-L. (2010) 
+ Studying of Supervisor Recurrent Fuzzy Neural Network Controller for Linear Ultrasonic Motor
+, Master Thesis, Department of Engineering Science, National Cheng Kung University,Tainan
+
+
+
+
+
+
+
+Chen, P.-W (2010) 
+ IR Indoor Localization and Wireless Transmission for Motion Control in Robotic Architecture and Intelligent Life Applications Based on Wiimote Technology
+, Master Thesis, Institute of Nanotech and MEMS Engineering, National Cheng Kung University,Tainan
+
+
+
+
+
+
+
+Chen, P.-W., K.-S. Ou, and K.-S. Chen (2010) 
+ IR Indoor Localization and Wireless Transmission for Motion Control in Smart Building Applications based on Wiimote Technology
+, Poceedings of SICE Annual Conference 2010,Taipei,Taiwan
+
+
+
+
+
+
+
+Chen, S.-Y. and M.-L. Chiu (2007) 
+ Designing smart skins for adaptive environments: A fuzzy logic approach to smart house design
+, Computer-Aided Design and Applications, 4(1-6), pp.751-760
+
+
+
+
+
+
+
+Chen,T.-C., et al. (2010) 
+ Recurrent Fuzzy Neural Network Controller for Linear Ultrasonic Motor
+, Poceedings of SICE Annual Conference 2010, Taipei,Taiwan
+
+
+
+
+
+
+
+Fischer,T. and J. Frazer (2005) 
+ Modeling Architecture as Logic States in Space and Time: History and Future of the Universal Constructor
+, Insights of Smart Environments. CAAD Talks 5, M.l. Chiu (Editor), Archidata,Taipei, Taiwan. pp. 87?104
+
+
+
+
+
+
+
+Fox, M. and M. Kemp (2009) 
+ Interactive Architecture
+, New York, Princeton Architectural Press
+
+
+
+
+
+
+
+Fox, M. (2002) 
+ Beyond Kinetic
+, Transportable Environments 2, R. Kronenburg (Editor), SPON Press
+
+
+
+
+
+
+
+Frazer, J. (1995) 
+ An evolutionary architecture
+, London,Architectural Association
+
+
+
+
+
+
+
+Haken, H. (2001) 
+ Erfolgsgeheimnisse der Natur
+, Fu-Hua Lin (Chinese Translator), Shanghai
+
+
+
+
+
+
+
+Lee, J.C. (2008) 
+ Hacking the Nintendo Wii Remote
+, Pervasive Computing, IEEE, 7, pp. 39-45
+
+
+
+
+
+
+
+Minsky, M.L. (1986) 
+ The Society of Mind
+, New York, Simon and Schuster
+
+
+
+
+
+
+
+Negroponte, N. (1975) 
+ Soft Architecture Machines
+, Cambridge Massachusetts, MIT Press
+
+
+
+
+
+
+
+Pan, C.-A. and T. Jeng (2008) 
+ Exploring Sensing-based Kinetic Design for Responsive Architecture
+, Conference of Computer-Aided Architectural Design Research in Asia (CAADRIA), Chiang Mai,Thailand
+
+
+
+
+
+
+
+Pan, C.-A. and T. Jeng (2010) 
+ A Robotic and Kinetic Design for Interactive Architecture
+, Poceedings of SICE Annual Conference 2010,Taipei,Taiwan
+
+
+
+
+
+
+
+Rabeneck, A. (1969) 
+ Cybermation:A Useful Dream
+, Architectural Design, 1969. September, pp. 497-500",,"Beni, G. and J.Wang (1993) 
+ Swarm Intelligence in Cellular Robotic Systems
+, Robots and Biological Systems: Towards a New Bionics?, P. Dario, G. Sandini, and P.Aebischer (Editor), Springer Berlin Heidelberg, pp. 703-712",,,,"Bogue, R. (2008) 
+ Swarm intelligence and robotics
+, Industrial Robot: An International Journal, 35(6), pp. 488-495",,,,"Brooks, R. (1986) 
+ A Robust Layered Control System For Mobile Robots
+, IEEE Journal of Robotics and Automation, 2(1), pp. 14-23",,,,"Chen, C.-W., et al. (2007) 
+ Design of an Active Linear Guide by Piezoelectric Actuators
+, The 33rd Annual Conference of the IEEE Industrial Electronics Society (IECON) Taipei, Taiwan",,,,"Chen, P.-L. (2010) 
+ Studying of Supervisor Recurrent Fuzzy Neural Network Controller for Linear Ultrasonic Motor
+, Master Thesis, Department of Engineering Science, National Cheng Kung University,Tainan",,,,"Chen, P.-W (2010) 
+ IR Indoor Localization and Wireless Transmission for Motion Control in Robotic Architecture and Intelligent Life Applications Based on Wiimote Technology
+, Master Thesis, Institute of Nanotech and MEMS Engineering, National Cheng Kung University,Tainan",,,,"Chen, P.-W., K.-S. Ou, and K.-S. Chen (2010) 
+ IR Indoor Localization and Wireless Transmission for Motion Control in Smart Building Applications based on Wiimote Technology
+, Poceedings of SICE Annual Conference 2010,Taipei,Taiwan",,,,"Chen, S.-Y. and M.-L. Chiu (2007) 
+ Designing smart skins for adaptive environments: A fuzzy logic approach to smart house design
+, Computer-Aided Design and Applications, 4(1-6), pp.751-760",,,,"Chen,T.-C., et al. (2010) 
+ Recurrent Fuzzy Neural Network Controller for Linear Ultrasonic Motor
+, Poceedings of SICE Annual Conference 2010, Taipei,Taiwan",,,,"Fischer,T. and J. Frazer (2005) 
+ Modeling Architecture as Logic States in Space and Time: History and Future of the Universal Constructor
+, Insights of Smart Environments. CAAD Talks 5, M.l. Chiu (Editor), Archidata,Taipei, Taiwan. pp. 87?104",,,,"Fox, M. and M. Kemp (2009) 
+ Interactive Architecture
+, New York, Princeton Architectural Press",,,,"Fox, M. (2002) 
+ Beyond Kinetic
+, Transportable Environments 2, R. Kronenburg (Editor), SPON Press",,,,"Frazer, J. (1995) 
+ An evolutionary architecture
+, London,Architectural Association",,,,"Haken, H. (2001) 
+ Erfolgsgeheimnisse der Natur
+, Fu-Hua Lin (Chinese Translator), Shanghai",,,,"Lee, J.C. (2008) 
+ Hacking the Nintendo Wii Remote
+, Pervasive Computing, IEEE, 7, pp. 39-45",,,,"Minsky, M.L. (1986) 
+ The Society of Mind
+, New York, Simon and Schuster",,,,"Negroponte, N. (1975) 
+ Soft Architecture Machines
+, Cambridge Massachusetts, MIT Press",,,,"Pan, C.-A. and T. Jeng (2008) 
+ Exploring Sensing-based Kinetic Design for Responsive Architecture
+, Conference of Computer-Aided Architectural Design Research in Asia (CAADRIA), Chiang Mai,Thailand",,,,"Pan, C.-A. and T. Jeng (2010) 
+ A Robotic and Kinetic Design for Interactive Architecture
+, Poceedings of SICE Annual Conference 2010,Taipei,Taiwan",,,,"Rabeneck, A. (1969) 
+ Cybermation:A Useful Dream
+, Architectural Design, 1969. September, pp. 497-500",,
+9,2019/05/24 07:55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

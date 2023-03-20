@@ -1,0 +1,138 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40
+0,ecaadesigradi2019_339,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Kinugawa, Hina and Takizawa, Atsushi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Deep Learning Model for Predicting Preference of Space by Estimating the Depth Information of Space using Omnidirectional Images,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 2, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 61-68",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"In this study, we developed a method for generating omnidirectional depth images from corresponding omnidirectional RGB images of streetscapes by learning each pair of omnidirectional RGB and depth images created by computer graphics using pix2pix. Then, the models trained with different series of images shot under different site and weather conditions were applied to Google street view images to generate depth images. The validity of the generated depth images was then evaluated visually. In addition, we conducted experiments to evaluate Google street view images using multiple participants. We constructed a model that estimates the evaluation value of these images with and without the depth images using the learning-to-rank method with deep convolutional neural network. The results demonstrate the extent to which the generalization performance of the streetscape evaluation model changes depending on the presence or absence of depth images.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Omnidirectional image; depth image; Unity; Google street view; pix2pix; RankNet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADeSIGraDi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,takizawa@osaka-cu.ac.jp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (10,552,134 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Benedikt, M (1979) 
+ To take hold of space: isovists and isovist fields
+, Environment and Planning B, 6, pp. 47-65
+
+
+
+
+
+
+
+Burges, C, et al. (2005) 
+ Learning to rank using gradient descent
+, ICML, pp. 89-96
+
+
+
+
+
+
+
+Chen, LC, et al. (2018) 
+ Encoder-decoder with atrous separable convolution for semantic image segmentation
+, ECCV2018
+
+
+
+
+
+
+
+He, K, et al. (2016) 
+ Deep residual learning for image recognition
+, CVPR2016, pp. 770-778
+
+
+
+
+
+
+
+Hillier, B and Hanson, J (1989) 
+ The Social Logic of Space
+, Cambridge University Press
+
+
+
+
+
+
+
+Isola, P, et al. (2017) 
+ Image-to-image translation with conditional adversarial networks
+, CVPR2017, pp. 5967-5976
+
+
+
+
+
+
+
+Law, S, et al. (2017) 
+ An application of convolutional neural network in street image classification
+, GeoAI, pp. 5-9
+
+
+
+
+
+
+
+Liu, L, et al. (2017) 
+ A machine learning-based method for the large-scale evaluation of the urban environment
+, Computers, Environment and Urban Systems, 65, pp. 113-125
+
+
+
+
+
+
+
+Ros, G, et al. (2016) 
+ The SYNTHIA dataset: a large collection of synthetic images for semantic segmentation of urban scenes
+, CVPR2016, pp. 3234-3243
+
+
+
+
+
+
+
+Takizawa, A and Furuta, A (2017) 
+ 3D spatial analysis method with first-person viewpoint by deep convolutional neural network with omnidirectional RGB and depth images
+, Proceedings of eCAADe 2017, pp. 693-702",,"Benedikt, M (1979) 
+ To take hold of space: isovists and isovist fields
+, Environment and Planning B, 6, pp. 47-65",,,,"Burges, C, et al. (2005) 
+ Learning to rank using gradient descent
+, ICML, pp. 89-96",,,,"Chen, LC, et al. (2018) 
+ Encoder-decoder with atrous separable convolution for semantic image segmentation
+, ECCV2018",,,,"He, K, et al. (2016) 
+ Deep residual learning for image recognition
+, CVPR2016, pp. 770-778",,,,"Hillier, B and Hanson, J (1989) 
+ The Social Logic of Space
+, Cambridge University Press",,,,"Isola, P, et al. (2017) 
+ Image-to-image translation with conditional adversarial networks
+, CVPR2017, pp. 5967-5976",,,,"Law, S, et al. (2017) 
+ An application of convolutional neural network in street image classification
+, GeoAI, pp. 5-9",,,,"Liu, L, et al. (2017) 
+ A machine learning-based method for the large-scale evaluation of the urban environment
+, Computers, Environment and Urban Systems, 65, pp. 113-125",,,,"Ros, G, et al. (2016) 
+ The SYNTHIA dataset: a large collection of synthetic images for semantic segmentation of urban scenes
+, CVPR2016, pp. 3234-3243",,,,"Takizawa, A and Furuta, A (2017) 
+ 3D spatial analysis method with first-person viewpoint by deep convolutional neural network with omnidirectional RGB and depth images
+, Proceedings of eCAADe 2017, pp. 693-702",,
+11,2019/08/26 20:26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

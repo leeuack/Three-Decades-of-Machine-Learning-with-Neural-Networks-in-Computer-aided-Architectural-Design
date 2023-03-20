@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2021_150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Song, Yanan and Yuan, Philip F.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,A Research On Building Cluster Morphology Formation Based On Wind Environmental Performance And Deep Reinforcement Learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 1, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 335-344",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Nowadays, numerous researchers emphasize the significance of the environmen-tal performance-driven generative methodology. However, due to the complex coupling mechanism of environmental regulation factors, the existing optimiza-tion engines and applications are time-consuming and cumbersome. In this re-search, we propose a novel design methodology based on Deep Reinforcement Learning (DRL). This paper is divided into 3 sections, including theoretical framework, design strategy, and practical application. It first introduces an over-view of basic principles, illustrating the potential advantages of DRL in perfor-mance data-driven design. Based on this, the paper proposes a DRL-based gener-ative method. We point out a more specific discussion about the application and workflow of core DRL elements in architectural design. Finally, taking a grid-form urban space composed by multitude high-rise building blocks as an exam-ple, we present a application through a DRL agent to conduct numerous active wind environmental performance-based design tests. It is an interactive and gen-erative design method, owning multiple advantages of timeliness, convenience, and intelligence.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Deep Reinforcement Learning; Environmental Performance Design; Generative Design; Building Cluster Formation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,philipyuan007@tongji.edu.cn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (9,450,627 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Anh-Tuan, Nguyen, Sigrid, Reiter and Philippe, Rigo (2014) 
+ A review on simulation-based optimization methods applied to building performance analysis
+, Applied Energy, 113, pp. 1043-1058
+
+
+
+
+
+
+
+Aurélie, Foucquier, Sylvain, Robert and Frédéric, Suard (2013) 
+ State of the art in building modelling and energy performances prediction: A review
+, Renewable and Sustainable Energy Reviews, 23, pp. 272-288
+
+
+
+
+
+
+
+Byungsoo, Kim, Vinicius C, Azevedo and Nils, Thuerey (2019) 
+ Deep fluids: A generative network for parameterized fluid simulations
+, Computer Graphics Forum, pp. 59-70
+
+
+
+
+
+
+
+Edwar, Ng, Chao, Yuan, Liang, Chen, Chao, Ren and Jimmy CH, Fung (2011) 
+ Improving the wind environment in high-density cities by understanding urban morphology and surface roughness: a study in Hong Kong
+, Landscape and Urban planning, 101, pp. 59-74
+
+
+
+
+
+
+
+Garnier, Paul, Viquerat, Jonathan, Rabault, Jean, Larcher, Aurélien, Kuhnle, Alexander and Hachem, Elie (2019) 
+ A review on deep reinforcement learning for fluid mechanics
+, arXiv preprint arXiv:1908.04127, ., p. .
+
+
+
+
+
+
+
+Goodfellow, Ian, Bengio, Yoshua, Courville, Aaron and Bengio, Yoshua (2016) 
+ Deep learning
+, MIT press Cambridge
+
+
+
+
+
+
+
+Guéniat, Florimond, Mathelin, Lionel and Hussaini, M Yousuff (2016) 
+ A statistical learning strategy for closed-loop control of fluid flows
+, Theoretical and Computational Fluid Dynamics, 30(6), pp. 497-510
+
+
+
+
+
+
+
+Jürgen, Schmidhuber (2015) 
+ Deep learning in neural networks: An overview
+, Neural networks, 61, pp. 85-117
+
+
+
+
+
+
+
+Kim, Byungsoo, Azevedo, Vinicius C, Thuerey, Nils, Kim, Theodore, Gross, Markus and Solenthaler, Barbara (2019) 
+ Deep fluids: A generative network for parameterized fluid simulations
+, Computer Graphics Forum, pp. 59-70
+
+
+
+
+
+
+
+Kutz, J Nathan (2017) 
+ Deep learning in fluid dynamics
+, Journal of Fluid Mechanics, 814, pp. 1-4
+
+
+
+
+
+
+
+Lampton, Amanda, Niksch, Adam and Valasek, John (2008) 
+ Morphing airfoils with four morphing parameters
+, AIAA Guidance, Navigation and Control Conference and Exhibit, pp. 72-82
+
+
+
+
+
+
+
+Lin, Yuqiong (2019) 
+ An Architectural Cluster Morphology Generation Method Based on Physical Wind Tunnel and Neural Network Algorithm
+, Master's Thesis, Tongji University
+
+
+
+
+
+
+
+Nadia D, Roman, Facundo, Bre, Victor D, Fachinotti and Roberto, Lamberts (2020) 
+ Application and characterization of metamodels based on artificial neural networks for building performance simulation: A systematic review
+, Energy and Buildings, 217, p. 109972
+
+
+
+
+
+
+
+Paul, Garnier, Jonathan, Viquerat, Jean, Rabault, Aurélien, Larcher, Alexander, Kuhnle and Elie, Hachem (2019) 
+ A review on deep reinforcement learning for fluid mechanics
+, arXiv preprint arXiv:1908.04127, ., p. .
+
+
+
+
+
+
+
+Rob, Kitchin (2014) 
+ The real-time city? Big data and smart urbanism
+, GeoJournal, 79, pp. 1-14
+
+
+
+
+
+
+
+Schulman, John, Wolski, Filip, Dhariwal, Prafulla, Radford, Alec and Klimov, Oleg (2017) 
+ Proximal policy optimization algorithms
+, arXiv preprint arXiv:1707.06347, ., p. .
+
+
+
+
+
+
+
+Steven L, Brunton and Bernd R, Noack (2015) 
+ Closed-loop turbulence control: Progress and challenges
+, Applied Mechanics Reviews, 67, p. 5
+
+
+
+
+
+
+
+Steven L, Brunton, Bernd R, Noack and Petros, Koumoutsakos (2020) 
+ Machine learning for fluid mechanics
+, Annual Review of Fluid Mechanics, 52, pp. 477-508
+
+
+
+
+
+
+
+Sutton, Richard S and Barto, Andrew G (2018) 
+ Reinforcement learning: An introduction
+, MIT press
+
+
+
+
+
+
+
+Teboul, Olivier, Kokkinos, Iasonas, Simon, Loic, Koutsourakis, Panagiotis and Paragios, Nikos (2011) 
+ Shape grammar parsing via reinforcement learning
+, CVPR 2011, pp. 2273-2280",,"Anh-Tuan, Nguyen, Sigrid, Reiter and Philippe, Rigo (2014) 
+ A review on simulation-based optimization methods applied to building performance analysis
+, Applied Energy, 113, pp. 1043-1058",,,,"Aurélie, Foucquier, Sylvain, Robert and Frédéric, Suard (2013) 
+ State of the art in building modelling and energy performances prediction: A review
+, Renewable and Sustainable Energy Reviews, 23, pp. 272-288",,,,"Byungsoo, Kim, Vinicius C, Azevedo and Nils, Thuerey (2019) 
+ Deep fluids: A generative network for parameterized fluid simulations
+, Computer Graphics Forum, pp. 59-70",,,,"Edwar, Ng, Chao, Yuan, Liang, Chen, Chao, Ren and Jimmy CH, Fung (2011) 
+ Improving the wind environment in high-density cities by understanding urban morphology and surface roughness: a study in Hong Kong
+, Landscape and Urban planning, 101, pp. 59-74",,,,"Garnier, Paul, Viquerat, Jonathan, Rabault, Jean, Larcher, Aurélien, Kuhnle, Alexander and Hachem, Elie (2019) 
+ A review on deep reinforcement learning for fluid mechanics
+, arXiv preprint arXiv:1908.04127, ., p. .",,,,"Goodfellow, Ian, Bengio, Yoshua, Courville, Aaron and Bengio, Yoshua (2016) 
+ Deep learning
+, MIT press Cambridge",,,,"Guéniat, Florimond, Mathelin, Lionel and Hussaini, M Yousuff (2016) 
+ A statistical learning strategy for closed-loop control of fluid flows
+, Theoretical and Computational Fluid Dynamics, 30(6), pp. 497-510",,,,"Jürgen, Schmidhuber (2015) 
+ Deep learning in neural networks: An overview
+, Neural networks, 61, pp. 85-117",,,,"Kim, Byungsoo, Azevedo, Vinicius C, Thuerey, Nils, Kim, Theodore, Gross, Markus and Solenthaler, Barbara (2019) 
+ Deep fluids: A generative network for parameterized fluid simulations
+, Computer Graphics Forum, pp. 59-70",,,,"Kutz, J Nathan (2017) 
+ Deep learning in fluid dynamics
+, Journal of Fluid Mechanics, 814, pp. 1-4",,,,"Lampton, Amanda, Niksch, Adam and Valasek, John (2008) 
+ Morphing airfoils with four morphing parameters
+, AIAA Guidance, Navigation and Control Conference and Exhibit, pp. 72-82",,,,"Lin, Yuqiong (2019) 
+ An Architectural Cluster Morphology Generation Method Based on Physical Wind Tunnel and Neural Network Algorithm
+, Master's Thesis, Tongji University",,,,"Nadia D, Roman, Facundo, Bre, Victor D, Fachinotti and Roberto, Lamberts (2020) 
+ Application and characterization of metamodels based on artificial neural networks for building performance simulation: A systematic review
+, Energy and Buildings, 217, p. 109972",,,,"Paul, Garnier, Jonathan, Viquerat, Jean, Rabault, Aurélien, Larcher, Alexander, Kuhnle and Elie, Hachem (2019) 
+ A review on deep reinforcement learning for fluid mechanics
+, arXiv preprint arXiv:1908.04127, ., p. .",,,,"Rob, Kitchin (2014) 
+ The real-time city? Big data and smart urbanism
+, GeoJournal, 79, pp. 1-14",,,,"Schulman, John, Wolski, Filip, Dhariwal, Prafulla, Radford, Alec and Klimov, Oleg (2017) 
+ Proximal policy optimization algorithms
+, arXiv preprint arXiv:1707.06347, ., p. .",,,,"Steven L, Brunton and Bernd R, Noack (2015) 
+ Closed-loop turbulence control: Progress and challenges
+, Applied Mechanics Reviews, 67, p. 5",,,,"Steven L, Brunton, Bernd R, Noack and Petros, Koumoutsakos (2020) 
+ Machine learning for fluid mechanics
+, Annual Review of Fluid Mechanics, 52, pp. 477-508",,,,"Sutton, Richard S and Barto, Andrew G (2018) 
+ Reinforcement learning: An introduction
+, MIT press",,,,"Teboul, Olivier, Kokkinos, Iasonas, Simon, Loic, Koutsourakis, Panagiotis and Paragios, Nikos (2011) 
+ Shape grammar parsing via reinforcement learning
+, CVPR 2011, pp. 2273-2280",,
+11,2021/08/11 08:45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

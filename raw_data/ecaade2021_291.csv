@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2021_291,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Mondal, Joy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Differences between Architects' and Non-architects' Visual Perception of Originality of Tower Typology - Quantification of subjective evaluation using Deep Learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 1, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 65-74",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The paper presents a computational methodology to quantify the differences in visual perception of originality of the rotating tower typology between architects and non-architects. A parametric definition of the Absolute Tower Building D with twelve variables is used to generate 250 design variants. Subsequently, sixty architects and sixty non-architects were asked to rate the design variants, in comparison to the original design, on a Likert scale of 'Plagiarised' to 'Original'. With the crowd-sourced evaluation data, two neural networks - one each for architects and non-architects - were trained to predict the originality score of 15,000 design variants. The results indicate that architects are more lenient at seeing design variants as original. The average originality score by architects is 27.74% higher than the average originality score by non-architects. Compared to a non-architect, an architect is 1.93 times likelier to see a design variant as original. In 92.01% of the cases, architects' originality score is higher than non-architects'. The methodology can be used to capture and predict any subjective opinion.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Originality; Visual perception; Crowd-sourced; Subjective evaluation; Deep learning; Neural network,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,joy.architect@yahoo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (1,434,496 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Adriaenssens, S, Block, P, Veenendaal, D and Williams, C (eds) (2014) 
+ Shell Structures for Architecture: Form Finding and Optimization
+, Routledge
+
+
+
+
+
+
+
+Brown, G and Gifford, R (2001) 
+ Architects predict lay evaluations of large contemporary buildings: Whose conceptual properties?
+, Journal of Environmental Psychology, 21(1), pp. 93-99
+
+
+
+
+
+
+
+Bruno, E (2019) 
+ Commentary / Integrating AI and Deep Learning within Design Practice Processes: XKool Technology
+, Ardeth - INNOVATION as It happens, 05, pp. 220-226
+
+
+
+
+
+
+
+Chaillou, S (2019) 
+ AI+ Architecture: Towards a New Approach
+, Master's Thesis, Harvard University
+
+
+
+
+
+
+
+Clark, LA and Watson, D (1995) 
+ Constructing validity: Basic issues in objective scale development
+, Psychological Assessment, 7(3), pp. 309-319
+
+
+
+
+
+
+
+DeVellis, RF (2003) 
+ Scale Development: Theory and Applications
+, Sage Publications
+
+
+
+
+
+
+
+Ghomeshi, M and Jusan, MM (2013) 
+ Investigating different aesthetic preferences between architects and non-architects in residential facade designs
+, Indoor and Built Environment, 22(6), pp. 952-964
+
+
+
+
+
+
+
+Gifford, R, Hine, DW, Muller-Clemm, W, Reynolds Jr., DJ and Shaw, KT (2000) 
+ Decoding modern architecture: A lens model approach for understanding the aesthetic differences of architects and laypersons
+, Environment and Behavior, 32(2), pp. 163-187
+
+
+
+
+
+
+
+Green, SB (1991) 
+ How Many Subjects Does It Take To Do A Regression Analysis
+, Multivariate Behav Res., 26(3), pp. 499-510
+
+
+
+
+
+
+
+Jeffrey, D and Reynolds, G (1999) 
+ Planners, Architects, the Public, and Aesthetics Factor Analysis of Preferences for Infill Developments
+, Journal of Architectural and Planning Research, 16(4), pp. 271-288
+
+
+
+
+
+
+
+Koh, I (2019) 
+ Discrete Sampling: There is No Object or Field ... Just Statistical Digital Patterns
+, Retsin, G (eds), Architectural Design 89(2), Wiley, pp. 102-109
+
+
+
+
+
+
+
+Lagendijk, B, Pignetti, A and Vacilotto, S (2012) 
+ Case Study"" Absolute World Towers, Mississauga
+, CTBUH Journal, IV, pp. 12-17
+
+
+
+
+
+
+
+Llinares, C, Montanana, A and Navarro, E (2011) 
+ Differences in Architects and Nonarchitects' Perception of Urban Design: An Application of Kansei Engineering Techniques
+, Urban Studies Research, 1, pp. 1-13
+
+
+
+
+
+
+
+Moldovan, I, Moldovan, SV and Nicoleta-Maria, I (2014) 
+ Iconic Architecture: Skyscrapers
+, Proceedings of 5th International Conference Civil Engineering - Science and Practice, pp. 1461-1468
+
+
+
+
+
+
+
+Montanana, A, Llinares, C and Navarro, E (2013) 
+ Architects and non-architects: Differences in perception of property design
+, Journal of Housing and the Built Environment, 28(2), pp. 273-291
+
+
+
+
+
+
+
+Mousavirad, SJ and Ebrahimpour-Komleh, H (2017) 
+ Image Segmentation as an Important Step in Image-Based Digital Technologies in Smart Cities: A New Nature-Based Approach
+, Ismail, L and Zhang, L (eds), Information Innovation Technology in Smart Cities, Springer, pp. 75-89
+
+
+
+
+
+
+
+Pignatiello, GA, Martin, RJ and Hickman Jr., RL (2018) 
+ Decision fatigue: A conceptual analysis
+, Journal of Health Psychology, 25(1), pp. 123-135
+
+
+
+
+
+
+
+Ren, Y and Zheng, H (2020) 
+ The Spire of AI - Voxel-based 3D Neural Style Transfer
+, Proceedings of CAADRIA 2020, pp. 619-628
+
+
+
+
+
+
+
+Safarova, K, Pirko, M, Jurik, V, Pavlica, T and Nemeth, O (2019) 
+ Differences between young architects' and non-architects' aesthetic evaluation of buildings
+, Frontiers of Architectural Research, 8(2), pp. 229-237
+
+
+
+
+
+
+
+Sanatani, RP (2020) 
+ A Machine-Learning driven Design Assistance Framework for the Affective Analysis of Spatial Enclosures
+, Proceedings of CAADRIA 2020, pp. 741-750",,"Adriaenssens, S, Block, P, Veenendaal, D and Williams, C (eds) (2014) 
+ Shell Structures for Architecture: Form Finding and Optimization
+, Routledge",,,,"Brown, G and Gifford, R (2001) 
+ Architects predict lay evaluations of large contemporary buildings: Whose conceptual properties?
+, Journal of Environmental Psychology, 21(1), pp. 93-99",,,,"Bruno, E (2019) 
+ Commentary / Integrating AI and Deep Learning within Design Practice Processes: XKool Technology
+, Ardeth - INNOVATION as It happens, 05, pp. 220-226",,,,"Chaillou, S (2019) 
+ AI+ Architecture: Towards a New Approach
+, Master's Thesis, Harvard University",,,,"Clark, LA and Watson, D (1995) 
+ Constructing validity: Basic issues in objective scale development
+, Psychological Assessment, 7(3), pp. 309-319",,,,"DeVellis, RF (2003) 
+ Scale Development: Theory and Applications
+, Sage Publications",,,,"Ghomeshi, M and Jusan, MM (2013) 
+ Investigating different aesthetic preferences between architects and non-architects in residential facade designs
+, Indoor and Built Environment, 22(6), pp. 952-964",,,,"Gifford, R, Hine, DW, Muller-Clemm, W, Reynolds Jr., DJ and Shaw, KT (2000) 
+ Decoding modern architecture: A lens model approach for understanding the aesthetic differences of architects and laypersons
+, Environment and Behavior, 32(2), pp. 163-187",,,,"Green, SB (1991) 
+ How Many Subjects Does It Take To Do A Regression Analysis
+, Multivariate Behav Res., 26(3), pp. 499-510",,,,"Jeffrey, D and Reynolds, G (1999) 
+ Planners, Architects, the Public, and Aesthetics Factor Analysis of Preferences for Infill Developments
+, Journal of Architectural and Planning Research, 16(4), pp. 271-288",,,,"Koh, I (2019) 
+ Discrete Sampling: There is No Object or Field ... Just Statistical Digital Patterns
+, Retsin, G (eds), Architectural Design 89(2), Wiley, pp. 102-109",,,,"Lagendijk, B, Pignetti, A and Vacilotto, S (2012) 
+ Case Study"" Absolute World Towers, Mississauga
+, CTBUH Journal, IV, pp. 12-17",,,,"Llinares, C, Montanana, A and Navarro, E (2011) 
+ Differences in Architects and Nonarchitects' Perception of Urban Design: An Application of Kansei Engineering Techniques
+, Urban Studies Research, 1, pp. 1-13",,,,"Moldovan, I, Moldovan, SV and Nicoleta-Maria, I (2014) 
+ Iconic Architecture: Skyscrapers
+, Proceedings of 5th International Conference Civil Engineering - Science and Practice, pp. 1461-1468",,,,"Montanana, A, Llinares, C and Navarro, E (2013) 
+ Architects and non-architects: Differences in perception of property design
+, Journal of Housing and the Built Environment, 28(2), pp. 273-291",,,,"Mousavirad, SJ and Ebrahimpour-Komleh, H (2017) 
+ Image Segmentation as an Important Step in Image-Based Digital Technologies in Smart Cities: A New Nature-Based Approach
+, Ismail, L and Zhang, L (eds), Information Innovation Technology in Smart Cities, Springer, pp. 75-89",,,,"Pignatiello, GA, Martin, RJ and Hickman Jr., RL (2018) 
+ Decision fatigue: A conceptual analysis
+, Journal of Health Psychology, 25(1), pp. 123-135",,,,"Ren, Y and Zheng, H (2020) 
+ The Spire of AI - Voxel-based 3D Neural Style Transfer
+, Proceedings of CAADRIA 2020, pp. 619-628",,,,"Safarova, K, Pirko, M, Jurik, V, Pavlica, T and Nemeth, O (2019) 
+ Differences between young architects' and non-architects' aesthetic evaluation of buildings
+, Frontiers of Architectural Research, 8(2), pp. 229-237",,,,"Sanatani, RP (2020) 
+ A Machine-Learning driven Design Assistance Framework for the Affective Analysis of Spatial Enclosures
+, Proceedings of CAADRIA 2020, pp. 741-750",,
+11,2021/08/11 08:45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

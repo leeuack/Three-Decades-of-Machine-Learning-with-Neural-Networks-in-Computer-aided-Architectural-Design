@@ -1,0 +1,12 @@
+﻿,0
+0,ecaadesigradi2019_605
+1,"Andrade Zandavali, Bárbara and Jiménez García, Manuel"
+2,2019
+3,Automated Brick Pattern Generator for Robotic Assembly using Machine Learning and Images
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 3, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 217-226"
+5,"Brickwork is the oldest construction method still in use. Digital technologies, in turn, enabled new methods of representation and automation for bricklaying. While automation explored different approaches, representation was limited to declarative methods, as parametric filling algorithms. Alternatively, this work proposes a framework for automated brickwork using a machine learning model based on image-to-image translation (Conditional Generative Adversarial Networks). The framework consists of creating a dataset, training a model for each bond, and converting the output images into vectorial data for robotic assembly. Criteria such as: reaching wall boundary accuracy, avoidance of unsupported bricks, and brick's position accuracy were individually evaluated for each bond. The results demonstrate that the proposed framework fulfils boundary filling and respects overall bonding structural rules. Size accuracy demonstrated inferior performance for the scale tested. The association of this method with 'self-calibrating' robots could overcome this problem and be easily implemented for on-site."
+6,eCAADeSIGraDi
+7,b.zandavali@uel.ac.uk
+8,"file.pdf (9,310,181 bytes)"
+9,Content-type: text/plain
+10,2019/08/26 20:28

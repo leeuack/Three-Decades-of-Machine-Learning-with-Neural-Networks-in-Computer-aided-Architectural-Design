@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2020_193,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Alymani, Abdulrahman, Jabi, Wassim and Corcoran, Padraig",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Machine Learning Methods for Clustering Architectural Precedents - Classifying the relationship between building and ground,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Werner, L and Koering, D (eds.), Anthropologic: Architecture and Fabrication in the cognitive age - Proceedings of the 38th eCAADe Conference - Volume 1, TU Berlin, Berlin, Germany, 16-18 September 2020, pp. 643-652",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Every time an object is built, it creates a relationship with the ground. Architects have a full responsibility to design the building by taking the ground into consideration. In the field of architecture, using data mining to identify any unusual patterns or emergent architectural trends is a nascent area that has yet to be fully explored. Clustering techniques are an essential tool in this process for organising large datasets. In this paper, we propose a novel proof-of-concept workflow that enables a machine learning computer system to cluster aspects of an architect's building design style with respect to how the buildings in question relate to the ground. The experimental workflow in this paper consists of two stages. In the first stage, we use a database system to collect, organise and store several significant architectural precedents. The second stage examines the most well-known unsupervised learning algorithm clustering techniques which are: K-Means, K-Modes and Gaussian Mixture Models. Our experiments demonstrated that the K-means clustering algorithm method achieves a level of accuracy that is higher than other clustering methods. This research points to the potential of AI in helping designers identify the typological and topological characteristics of architectural solutions and place them within the most relevant architectural canons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Machine Learning; Building and Ground Relationship; Clustering Algorithms; K-means cluster Algorithms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Alymaniaa@cardiff.ac.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (13,265,470 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Berg, Alexander, Grabler, Floraine and Malik, Jitendra (2007) 
+ Parsing images of architectural scenes
+, Proceedings of the IEEE International Conference on Computer Vision
+
+
+
+
+
+
+
+Berlanda, Toma (2014) 
+ Architectural Topographies
+, Routledge
+
+
+
+
+
+
+
+Bholowalia, Purnima and Kumar, Arvind (2014) 
+ EBK-Means: A Clustering Technique based on Elbow Method and K-Means in WSN
+, International Journal of Computer Applications, 105, pp. 0975-8887
+
+
+
+
+
+
+
+Chaturvedi, Anil K, Fooda, Kraft and Green, Paul (2001) 
+ K-modes Clustering
+, Journal of Classification, 18, pp. 36-55
+
+
+
+
+
+
+
+Chen, Kian, Janssen, Patrick and Schlueter, Arno (2015) 
+ Analysing Populations of Design Variants Using Clustering and Archetypal Analysis
+, Proceedings of the 33rd eCAADe Conference
+
+
+
+
+
+
+
+Dharmarajan, A and Velmurugan, T (2016) 
+ Efficiency of k-Means and k-Medoids Clustering Algorithms using Lung Cancer Dataset
+, International Journal of Data Mining Techniques and Applications, 150, pp. 150-156
+
+
+
+
+
+
+
+Geron, Aurelien (2019) 
+ Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow.
+, O'Reilly Media
+
+
+
+
+
+
+
+Glaser, Daniel and Peng, James (2003) 
+ On Classifying Daylight for Design
+, International Journal of Architectural Computing, 1, pp. 205-217
+
+
+
+
+
+
+
+GÃ©ron, AurÃ©lien (2017) 
+ Hands-On Machine Learning with Scikit-Learn and TensorFlow
+, O'Reilly Media
+
+
+
+
+
+
+
+He, Conghui, Fu, Haohuan, Guo, Ce, Luk, Wayne and Yang, Guangwen (2017) 
+ A Fully-Pipelined Hardware Design for Gaussian Mixture Models
+, IEEE Transactions on Computers, 66, pp. 1837-1850
+
+
+
+
+
+
+
+Jain, Anil K and Dubes, Richard (1988) 
+ Algorithms for Clustering Data
+, Prentice-Hll, Inc.
+
+
+
+
+
+
+
+Leatherbarrow, David (2004) 
+ Topographical Stories: Studies in Landscape and Architecture
+, University of Pennsylvania Press
+
+
+
+
+
+
+
+Lee, Ji Ho and Lee, ji-Hyun (2016) 
+ Cultural Difference in Colour Usages for Building Facades focusing on Theme Park Buildings
+, Living Systems and Micro-Utopias: Towards Continous Designing: Proceedings of the 21st International Conference of CAADRIA
+
+
+
+
+
+
+
+Mitchell, Tom (1997) 
+ Machine Learning
+, McGraw-Hill Science/Engineering/Math;
+
+
+
+
+
+
+
+Obeso, Abraham, Benois-Pineau, Jenny, Acosta, Alejandro and VÃ¡zquez, Mireya (2016) 
+ Architectural style classification of Mexican historical buildings using deep convolutional neural networks and sparse features
+, Journal of Electronic Imaging, 26, p. 011016
+
+
+
+
+
+
+
+Pedregosa, Fabian, Varoquaux, Gael, Gramfort, Alexandre, Michel, Vincent, Thirion, Bertrand, Grisel, Olivier, Blondel, Mathieu, Prettenhofer, Peter, Weiss, Ron, Dubourg, Vincent, Vanderplas, Jake, Passos, Alexandre, Cournapeau, David, Brucher, Matthieu, Perrot, Matthieu and Duchesnay, Edouard (2011) 
+ Scikit-learn: Machine Learning in Python
+, Journal of Machine Learning Research, 12, pp. 2825-2830
+
+
+
+
+
+
+
+Samuel, Flora (2013) 
+ Sacred concrete : the churches of Le Corbusier
+, Basel : Birkhauser
+
+
+
+
+
+
+
+Shalunts, Gayane, Haxhimusa, Yll and Sablatnig, Robert (2011) 
+ Architectural Style Classification of Building Facade Windows
+, Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 9474, pp. 285-294
+
+
+
+
+
+
+
+Shalunts, Gayane, Haxhimusa, Yll and Sablatnig, Robert (2012) 
+ Classification of gothic and baroque architectural elements
+, 2012 19th International Conference on Systems, Signals and Image Processing, IWSSIP 2012, pp. 316-319
+
+
+
+
+
+
+
+Shalunts, Gayane (2012) 
+ Architectural Style Classification of Building Facade Towers
+, Advances in Visual Computing, pp. 346-357",,"Berg, Alexander, Grabler, Floraine and Malik, Jitendra (2007) 
+ Parsing images of architectural scenes
+, Proceedings of the IEEE International Conference on Computer Vision",,,,"Berlanda, Toma (2014) 
+ Architectural Topographies
+, Routledge",,,,"Bholowalia, Purnima and Kumar, Arvind (2014) 
+ EBK-Means: A Clustering Technique based on Elbow Method and K-Means in WSN
+, International Journal of Computer Applications, 105, pp. 0975-8887",,,,"Chaturvedi, Anil K, Fooda, Kraft and Green, Paul (2001) 
+ K-modes Clustering
+, Journal of Classification, 18, pp. 36-55",,,,"Chen, Kian, Janssen, Patrick and Schlueter, Arno (2015) 
+ Analysing Populations of Design Variants Using Clustering and Archetypal Analysis
+, Proceedings of the 33rd eCAADe Conference",,,,"Dharmarajan, A and Velmurugan, T (2016) 
+ Efficiency of k-Means and k-Medoids Clustering Algorithms using Lung Cancer Dataset
+, International Journal of Data Mining Techniques and Applications, 150, pp. 150-156",,,,"Geron, Aurelien (2019) 
+ Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow.
+, O'Reilly Media",,,,"Glaser, Daniel and Peng, James (2003) 
+ On Classifying Daylight for Design
+, International Journal of Architectural Computing, 1, pp. 205-217",,,,"GÃ©ron, AurÃ©lien (2017) 
+ Hands-On Machine Learning with Scikit-Learn and TensorFlow
+, O'Reilly Media",,,,"He, Conghui, Fu, Haohuan, Guo, Ce, Luk, Wayne and Yang, Guangwen (2017) 
+ A Fully-Pipelined Hardware Design for Gaussian Mixture Models
+, IEEE Transactions on Computers, 66, pp. 1837-1850",,,,"Jain, Anil K and Dubes, Richard (1988) 
+ Algorithms for Clustering Data
+, Prentice-Hll, Inc.",,,,"Leatherbarrow, David (2004) 
+ Topographical Stories: Studies in Landscape and Architecture
+, University of Pennsylvania Press",,,,"Lee, Ji Ho and Lee, ji-Hyun (2016) 
+ Cultural Difference in Colour Usages for Building Facades focusing on Theme Park Buildings
+, Living Systems and Micro-Utopias: Towards Continous Designing: Proceedings of the 21st International Conference of CAADRIA",,,,"Mitchell, Tom (1997) 
+ Machine Learning
+, McGraw-Hill Science/Engineering/Math;",,,,"Obeso, Abraham, Benois-Pineau, Jenny, Acosta, Alejandro and VÃ¡zquez, Mireya (2016) 
+ Architectural style classification of Mexican historical buildings using deep convolutional neural networks and sparse features
+, Journal of Electronic Imaging, 26, p. 011016",,,,"Pedregosa, Fabian, Varoquaux, Gael, Gramfort, Alexandre, Michel, Vincent, Thirion, Bertrand, Grisel, Olivier, Blondel, Mathieu, Prettenhofer, Peter, Weiss, Ron, Dubourg, Vincent, Vanderplas, Jake, Passos, Alexandre, Cournapeau, David, Brucher, Matthieu, Perrot, Matthieu and Duchesnay, Edouard (2011) 
+ Scikit-learn: Machine Learning in Python
+, Journal of Machine Learning Research, 12, pp. 2825-2830",,,,"Samuel, Flora (2013) 
+ Sacred concrete : the churches of Le Corbusier
+, Basel : Birkhauser",,,,"Shalunts, Gayane, Haxhimusa, Yll and Sablatnig, Robert (2011) 
+ Architectural Style Classification of Building Facade Windows
+, Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 9474, pp. 285-294",,,,"Shalunts, Gayane, Haxhimusa, Yll and Sablatnig, Robert (2012) 
+ Classification of gothic and baroque architectural elements
+, 2012 19th International Conference on Systems, Signals and Image Processing, IWSSIP 2012, pp. 316-319",,,,"Shalunts, Gayane (2012) 
+ Architectural Style Classification of Building Facade Towers
+, Advances in Visual Computing, pp. 346-357",,
+11,2020/09/09 09:52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

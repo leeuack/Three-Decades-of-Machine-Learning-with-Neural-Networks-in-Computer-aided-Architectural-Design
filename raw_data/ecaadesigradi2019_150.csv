@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaadesigradi2019_150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Thomsen, Mette, Nicholas, Paul, Tamke, Martin, Gatz, Sebastian and Sinke, Yuliya",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Predicting and steering performance in architectural materials,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 2, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 485-494",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper presents the prototyping of new methods by which functionally graded materials can be specified and produced. The paper presents a case study exploring how machine learning can be used to train a model in order to predict fabrication files from formalised design requirements. By using knit as a model for material fabrication, the paper outlines the making of new cyclical design methods employing machine learning in which simpler prototypical materials acts as input for more complex graded materials. A case study - Ombre - showcases the implementation of this workflow and results and perspectives are discussed.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,computational design; material specification; machine learning; convolution algorithm; knit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADeSIGraDi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,mette.thomsen@kadk.dk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (16,129,718 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Domingos, P (2012) 
+ A Few Useful Things to Know about Machine Learning
+, Communications of the ACM, 55(Issue 10), pp. . 78-87
+
+
+
+
+
+
+
+Gero, J (1991) 
+ Ten problems for AI in design
+, IJCAI-91, Workshop on AI in Design
+
+
+
+
+
+
+
+Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative Adversarial Nets, in Advances
+, Neural Information Processing Systems, pp. 2672-2680
+
+
+
+
+
+
+
+Han, C, Murao, K., Satoh, S and Nakayama, H (2019) 
+ Learning More with Less: GAN-based Medical Image Augmentation
+, arXiv:1904.00838
+
+
+
+
+
+
+
+Huang, H, Yu, P and Wang, C (2018) 
+ An Introduction to Image Synthesis with Generative Adversarial Nets
+, arXiv:1803.04469 Search... Help | Advanced Search
+
+
+
+
+
+
+
+Huang, W and Zheng, H (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, ACADIA 2018: Recalibration On imprecision and infidelity, pp. 156-165
+
+
+
+
+
+
+
+Isola, P, Zhu, J, Zhou, T and Efros, A A (2017) 
+ Image-to-image Translation with Conditional Adversarial Network
+, arXiv preprint. arXiv:1611.07004
+
+
+
+
+
+
+
+Nicholas, P, Zwierzycki, M, N?rgaard, D, Ramsgaard Thomsen, M and Hutchinson, C (2017) 
+ Adaptive Robotic Fabrication For Conditions Of Material Inconsistency: Increasing The Geometric Accuracy Of Incrementally Formed Metal Panels
+, Fabricate 2017, pp. 114-121
+
+
+
+
+
+
+
+Ramsgaard Thomsen, M and Hicks, T (2008) 
+ To Knit a Wall, Knit as Matrix for Composite Materials for Architecture
+, Proceedings Ambience 2008, Bor?s, Sweden, p. 107-114.
+
+
+
+
+
+
+
+Ramsgaard Thomsen, M and Karmon, A (2012) 
+ Informing Material Specification
+, Digital Aptitudes + Other Openings: ACSA 100th Annual Meeting, Boston, p. 677-683
+
+
+
+
+
+
+
+Ramsgaard Thomsen, M, Nicholas, P, Tamke, M and Svilans, T (2019) 
+ A New Material Vision
+, Diniz, N (eds), Data and Matter, Routledge
+
+
+
+
+
+
+
+Ramsgaard Thomsen, M, Sinke, Y, Montero, F, Lienhard, J, La Magna, R and Tamke, M (2019) 
+ Systems for Transformative Structure in CNC Knitted Fabrics - Isoropia
+, Proceedings Tensinet: Softening the Habitats
+
+
+
+
+
+
+
+Ramsgaard Thomsen, M, Tamke, M, Holden Deleuran, A, Friis Tinning, I K, Leander Evers, H, Gengnagel, C and Schmeck, M (2015) 
+ Hybrid Tower, Designing Soft Structures
+, Design Modelling Symposium: Modelling Behaviour, Copenhagen, p. 87-100
+
+
+
+
+
+
+
+Ramsgaard Thomsen, M, Tamke, M, Karmon, A, Underwood, J, Gengnagel, C, Stranghöner, N and Uhlemann, J (2016) 
+ Knit as bespoke material practice for architecture
+, ACADIA 2016 Proceedings
+
+
+
+
+
+
+
+Rossi, G and Nicholas, P (2018) 
+ Re/Learning the Wheel: Methods to utilize neural networks as design tools for doubly curved metal surfaces
+, Acadia 2018 Re/calibration: on imprecision and infidelity, pp. 146-155
+
+
+
+
+
+
+
+Schmidhuber, J (2015) 
+ Deep Learning in Neural Networks: An Overview
+, Neural Networks, 61, pp. 85-117
+
+
+
+
+
+
+
+Spencer, D (eds) (1989) 
+ Knitting Technology: A comprehensive handbook and practical guide
+, Woodhead Publishing Limited, Cambridge, England
+
+
+
+
+
+
+
+Spencer, D (2001) 
+ Knitting technology: a comprehensive handbook and practical guide. 3. ed.
+, Technomic Publishing, Lancaster
+
+
+
+
+
+
+
+Valero, A and Valero, A (2010) 
+ Physical geonomics: Combining the exergy and Hubbert peak analysis for predicting mineral resources depletion
+, Resources, Conservation and Recycling, 54(12), p. 1074-1083
+
+
+
+
+
+
+
+Zwierzycki, M, Nicholas, P and Ramsgaard Thomsen, M (2017) 
+ Localised and Learnt Applications of Machine Learning for Robotic Incremental Sheet Forming
+, Proceedings of Design Modelling Symposium 2017, pp. 373-382",,"Domingos, P (2012) 
+ A Few Useful Things to Know about Machine Learning
+, Communications of the ACM, 55(Issue 10), pp. . 78-87",,,,"Gero, J (1991) 
+ Ten problems for AI in design
+, IJCAI-91, Workshop on AI in Design",,,,"Goodfellow, I, Pouget-Abadie, J, Mirza, M, Xu, B, Warde-Farley, D, Ozair, S, Courville, A and Bengio, Y (2014) 
+ Generative Adversarial Nets, in Advances
+, Neural Information Processing Systems, pp. 2672-2680",,,,"Han, C, Murao, K., Satoh, S and Nakayama, H (2019) 
+ Learning More with Less: GAN-based Medical Image Augmentation
+, arXiv:1904.00838",,,,"Huang, H, Yu, P and Wang, C (2018) 
+ An Introduction to Image Synthesis with Generative Adversarial Nets
+, arXiv:1803.04469 Search... Help | Advanced Search",,,,"Huang, W and Zheng, H (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, ACADIA 2018: Recalibration On imprecision and infidelity, pp. 156-165",,,,"Isola, P, Zhu, J, Zhou, T and Efros, A A (2017) 
+ Image-to-image Translation with Conditional Adversarial Network
+, arXiv preprint. arXiv:1611.07004",,,,"Nicholas, P, Zwierzycki, M, N?rgaard, D, Ramsgaard Thomsen, M and Hutchinson, C (2017) 
+ Adaptive Robotic Fabrication For Conditions Of Material Inconsistency: Increasing The Geometric Accuracy Of Incrementally Formed Metal Panels
+, Fabricate 2017, pp. 114-121",,,,"Ramsgaard Thomsen, M and Hicks, T (2008) 
+ To Knit a Wall, Knit as Matrix for Composite Materials for Architecture
+, Proceedings Ambience 2008, Bor?s, Sweden, p. 107-114.",,,,"Ramsgaard Thomsen, M and Karmon, A (2012) 
+ Informing Material Specification
+, Digital Aptitudes + Other Openings: ACSA 100th Annual Meeting, Boston, p. 677-683",,,,"Ramsgaard Thomsen, M, Nicholas, P, Tamke, M and Svilans, T (2019) 
+ A New Material Vision
+, Diniz, N (eds), Data and Matter, Routledge",,,,"Ramsgaard Thomsen, M, Sinke, Y, Montero, F, Lienhard, J, La Magna, R and Tamke, M (2019) 
+ Systems for Transformative Structure in CNC Knitted Fabrics - Isoropia
+, Proceedings Tensinet: Softening the Habitats",,,,"Ramsgaard Thomsen, M, Tamke, M, Holden Deleuran, A, Friis Tinning, I K, Leander Evers, H, Gengnagel, C and Schmeck, M (2015) 
+ Hybrid Tower, Designing Soft Structures
+, Design Modelling Symposium: Modelling Behaviour, Copenhagen, p. 87-100",,,,"Ramsgaard Thomsen, M, Tamke, M, Karmon, A, Underwood, J, Gengnagel, C, Stranghöner, N and Uhlemann, J (2016) 
+ Knit as bespoke material practice for architecture
+, ACADIA 2016 Proceedings",,,,"Rossi, G and Nicholas, P (2018) 
+ Re/Learning the Wheel: Methods to utilize neural networks as design tools for doubly curved metal surfaces
+, Acadia 2018 Re/calibration: on imprecision and infidelity, pp. 146-155",,,,"Schmidhuber, J (2015) 
+ Deep Learning in Neural Networks: An Overview
+, Neural Networks, 61, pp. 85-117",,,,"Spencer, D (eds) (1989) 
+ Knitting Technology: A comprehensive handbook and practical guide
+, Woodhead Publishing Limited, Cambridge, England",,,,"Spencer, D (2001) 
+ Knitting technology: a comprehensive handbook and practical guide. 3. ed.
+, Technomic Publishing, Lancaster",,,,"Valero, A and Valero, A (2010) 
+ Physical geonomics: Combining the exergy and Hubbert peak analysis for predicting mineral resources depletion
+, Resources, Conservation and Recycling, 54(12), p. 1074-1083",,,,"Zwierzycki, M, Nicholas, P and Ramsgaard Thomsen, M (2017) 
+ Localised and Learnt Applications of Machine Learning for Robotic Incremental Sheet Forming
+, Proceedings of Design Modelling Symposium 2017, pp. 373-382",,
+11,2019/08/26 20:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

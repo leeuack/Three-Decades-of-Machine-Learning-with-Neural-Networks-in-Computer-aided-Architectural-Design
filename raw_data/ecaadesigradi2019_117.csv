@@ -1,0 +1,162 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48
+0,ecaadesigradi2019_117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Kido, Daiki, Fukuda, Tomohiro and Yabuki, Nobuyoshi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Development of a Semantic Segmentation System for Dynamic Occlusion Handling in Mixed Reality for Landscape Simulation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 1, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 641-648",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The use of mixed reality (MR) for landscape simulation has attracted attention recently. MR can produce a realistic landscape simulation by merging a three-dimensional computer graphic (3DCG) model of a new building on a real space. One challenge with MR that remains to be tackled is occlusion. Properly handling occlusion is important for the understanding of the spatial relationship between physical and virtual objects. When the occlusion targets move or the target's shape changes, depth-based methods using a special camera have been applied for dynamic occlusion handling. However, these methods have a limitation of the distance to obtain depth information and are unsuitable for outdoor landscape simulation. This study focuses on a dynamic occlusion handling method for MR-based landscape simulation. We developed a real-time semantic segmentation system to perform dynamic occlusion handling. We designed this system for use in mobile devices with client-server communication for real-time semantic segmentation processing in mobile devices. Additionally, we used a normal monocular camera for practice use.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Mixed Reality; Dynamic occlusion handling; Semantic segmentation; Deep learning; Landscape simulation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADeSIGraDi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,kido@it.see.eng.osaka-u.ac.jp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (8,026,803 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Cordts, M., Omran, S., Rehfeld, T., Enzweiler, M., Benenson, R., Franke, U., Roth, S. and Schiele, B. (2016) 
+ The cityscapes dataset for semantic urban scene understanding
+, Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2016), pp. 3213-3223
+
+
+
+
+
+
+
+Du, C., Chen, Y., Ye, M. and Ren, L. (2016) 
+ Edge snapping-based depth enhancement for dynamic occlusion handling in augmented reality
+, The 15th IEEE International Symposium on Mixed and Augmented Reality (ISMAR 2016), pp. 54-62
+
+
+
+
+
+
+
+Fukuda, T., Zhang, T. and Yabuki, N. (2014) 
+ Improvement of registration accuracy of a handheld augmented reality system for urban landscape simulation
+, Frontiers of Architectural Research, 3, pp. 386-397
+
+
+
+
+
+
+
+Holynski, A. and Kopt, J. (2018) 
+ Fast depth densification for occlusion-aware augmented reality
+, ACM Transactions on Graphics (TOG), 37 (6), pp. 1-11, 194
+
+
+
+
+
+
+
+Inoue, K., Fukuda, T., Cao, R. and Yabuki, N. (2018) 
+ Tracking Robustness and Green View Index Estimation of Augmented and Diminished Reality for Environmental Design: PhotoAR+DR2017 project
+, Proceedings of the 23rd International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2018), pp. 339-348
+
+
+
+
+
+
+
+Milgram, P. and Kishino, F. (1994) 
+ A Taxonomy of Mixed Reality Visual Displays
+, IEIXE Transactions on Information and Systems, E77-D, 2, pp. 1321-1329
+
+
+
+
+
+
+
+Roxas, M., Hori, T., Fukiage, T., Okamoto, Y. and Oishi, T. (2018) 
+ Occlusion Handling using Semantic Segmentation and Visibility-Based Rendering for Mixed Reality
+, Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology (VRST 2018), pp. 1-8, 20
+
+
+
+
+
+
+
+Shah, MM., Arshad, H. and Sulaiman, R. (2012) 
+ Occlusion in augmented reality
+, Proceedings of the 8th International Conference on Information Science and Digital Content Technology (ICIDT 2012), pp. 372-378
+
+
+
+
+
+
+
+Tian, Y., Guan, T. and Wang, C. (2010) 
+ Real-Time Occlusion Handling in Augmented Reality Based on an Object Tracking Approach
+, Sensors, 10 (4), pp. 2885-2900
+
+
+
+
+
+
+
+Tian, Y., Long, Y., Xia, D., Yao, H. and Zhang, J. (2015) 
+ Handling occlusions in augmented reality based on 3D reconstruction method
+, Neurocomputing, 156, pp. 96-104
+
+
+
+
+
+
+
+Zhao, H., Qi, X., Shen, A. and Jia, J. (2018) 
+ ICNet for Real-Time Semantic Segmentation on High-Resolution Images
+, Proceedings of European Conference on Computer Vision (ECCV 2018), pp. 418-434
+
+
+
+
+
+
+
+Zhu, J., Pan, Z., Sun, C. and Chen, W. (2010) 
+ Handling occlusions in video-based augmented reality using depth information
+, Computer Animation and Virtual Worlds, 21, pp. 509-521",,"Cordts, M., Omran, S., Rehfeld, T., Enzweiler, M., Benenson, R., Franke, U., Roth, S. and Schiele, B. (2016) 
+ The cityscapes dataset for semantic urban scene understanding
+, Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2016), pp. 3213-3223",,,,"Du, C., Chen, Y., Ye, M. and Ren, L. (2016) 
+ Edge snapping-based depth enhancement for dynamic occlusion handling in augmented reality
+, The 15th IEEE International Symposium on Mixed and Augmented Reality (ISMAR 2016), pp. 54-62",,,,"Fukuda, T., Zhang, T. and Yabuki, N. (2014) 
+ Improvement of registration accuracy of a handheld augmented reality system for urban landscape simulation
+, Frontiers of Architectural Research, 3, pp. 386-397",,,,"Holynski, A. and Kopt, J. (2018) 
+ Fast depth densification for occlusion-aware augmented reality
+, ACM Transactions on Graphics (TOG), 37 (6), pp. 1-11, 194",,,,"Inoue, K., Fukuda, T., Cao, R. and Yabuki, N. (2018) 
+ Tracking Robustness and Green View Index Estimation of Augmented and Diminished Reality for Environmental Design: PhotoAR+DR2017 project
+, Proceedings of the 23rd International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2018), pp. 339-348",,,,"Milgram, P. and Kishino, F. (1994) 
+ A Taxonomy of Mixed Reality Visual Displays
+, IEIXE Transactions on Information and Systems, E77-D, 2, pp. 1321-1329",,,,"Roxas, M., Hori, T., Fukiage, T., Okamoto, Y. and Oishi, T. (2018) 
+ Occlusion Handling using Semantic Segmentation and Visibility-Based Rendering for Mixed Reality
+, Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology (VRST 2018), pp. 1-8, 20",,,,"Shah, MM., Arshad, H. and Sulaiman, R. (2012) 
+ Occlusion in augmented reality
+, Proceedings of the 8th International Conference on Information Science and Digital Content Technology (ICIDT 2012), pp. 372-378",,,,"Tian, Y., Guan, T. and Wang, C. (2010) 
+ Real-Time Occlusion Handling in Augmented Reality Based on an Object Tracking Approach
+, Sensors, 10 (4), pp. 2885-2900",,,,"Tian, Y., Long, Y., Xia, D., Yao, H. and Zhang, J. (2015) 
+ Handling occlusions in augmented reality based on 3D reconstruction method
+, Neurocomputing, 156, pp. 96-104",,,,"Zhao, H., Qi, X., Shen, A. and Jia, J. (2018) 
+ ICNet for Real-Time Semantic Segmentation on High-Resolution Images
+, Proceedings of European Conference on Computer Vision (ECCV 2018), pp. 418-434",,,,"Zhu, J., Pan, Z., Sun, C. and Chen, W. (2010) 
+ Handling occlusions in video-based augmented reality using depth information
+, Computer Animation and Virtual Worlds, 21, pp. 509-521",,
+11,2019/08/26 20:26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

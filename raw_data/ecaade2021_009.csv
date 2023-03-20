@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2021_009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Majzoub, Omar and Haeusler, M. Hank",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Investigating Computational Methods and Strategies to Reduce Construction and Demolition Waste in Preliminary Design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 1, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 325-334",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The waste produced in construction and demolition presents social, economic, and environmental challenges on a global scale. Research suggests that effective decision-making mechanisms are needed during preliminary design stages to minimise the production of waste. In early research, we presented a beta version of a waste reduction tool which is now in need of a User Experience (UX) and Interaction Experience (IX) strategy to meet our research aims of (a) supporting architects in making informed decisions and (b) offer general as well a specific design optimisation to reduce waste. Thus in our research, we arrived at a point that required an investigation into computational methods and strategies to meet these aims. While optimisation and decision-making in architecture are often achieved through generative design strategies, we aim to investigate and discuss alternatives. Thus we propose the hypothesis of employing augmented intelligence. The paper presents work in augmented intelligence undertaken outside the architecture discipline and presents our literature review with a discussion and conclusion.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Waste reduction; computational methods and strategies; sustainable development goals; augmented intelligence; position paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,m.haeusler@unsw.edu.au,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (385,353 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Ajayi, S.O., Oyedele, L.O., Akinade, O.O., Bilal, M., Owolabi, H.A., Alaka, H.A. and Kadiri, K.O. (2016) 
+ Reducing waste to landfill: a need for cultural change in the UK construction industry
+, Journal or Biological Engineering, 5, pp. 185-193
+
+
+
+
+
+
+
+Ajayi, S.O., Oyedele, L.O., Akinade, O.O., Bilal, M., Owolabi, H.A., Alaka, H.A. and Kadiri, K.O. (2016) 
+ Competency-based measures for designing out construction waste: task and contextual attributes
+, Engineering Construction Architectural Management, 23(4), pp. 464-490
+
+
+
+
+
+
+
+Ajayi, S.O., Oyedele, L.O., Bilal, M., Akinade, O.O., Alaka, H.A., Owolabi, H.A. and Kadiri, K.O. (2015) 
+ Waste effectiveness of the construction industry: Understanding the impediments and requisites for improvements
+, Journal of Resources, Conservation and Recycling, 102, pp. 101-112
+
+
+
+
+
+
+
+Akinade, O.O., Oyedele, L.O., Ajayi, S.O., Bilal, M., Alaka, H.A., Owolabi, H.A. and Arawomo, O.O. (2018) 
+ Designing out construction waste using BIM technology: Stakeholders' expectations for industry deployment
+, Journal of Cleaner Production, 180, pp. 375-385
+
+
+
+
+
+
+
+Akser, MA, Bridges, BB, Campo, GC, Cheddad, AC, Curran, KC, Fitzpatrick, LF, Hamilton, LH, Harding, JH, Leath, TL, Lunney, TL, Lunney, FL, Ma, MM, Macrae, JM, Maguire, TM, McCaughey, AM, McClory, EM, McClory, VM, Mc Kevitt, PMK, Melvin, AM, Moore, PM, Mulholland, EM, Munoz, KM, O'Hanlon, GO and Roman, LR (2017) 
+ SceneMaker: Creative Technology for Digital StoryTelling
+, Proceedings of The 5th International Conference on ArtsIT, Interactivity and Game Creation 2016
+
+
+
+
+
+
+
+Arieno, AA, Chan, AC and Destounis, SVD (2019) 
+ A review of the role of augmented intelligence in breast imaging: From automated breast density assessment to risk stratification
+, American Journal of Roentgenology, 212, pp. 259-270
+
+
+
+
+
+
+
+Bentley, P.J. and Wakefield, J.P. (1997) 
+ Conceptual evolutionary design by a genetic algorithm
+, Engineering design and automation, 3, pp. 119-132
+
+
+
+
+
+
+
+Bhanumurthy, YB and Anne, KA (2014) 
+ An automated detection and segmentation of tumor in brain MRI using artificial intelligence
+, Proceedings of 2014 IEEE International Conference on Computational Intelligence and Computing Research
+
+
+
+
+
+
+
+Bilal, M., Oyedele, L.O., Akinade, O.O., Ajayi, S.O., Alaka, H.A., Owolabi, H.A., Qadir, J., Pasha, M. and Bello, S.A. (2016) 
+ Big data architecture for construction waste analytics (CWA): a conceptual framework
+, Journal or Biological Engineering, 6, pp. 144-156
+
+
+
+
+
+
+
+Brynjolfsson, EB and McAfee, AM (2011) 
+ Race Against the Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy
+, Digital Frontier Press
+
+
+
+
+
+
+
+Cai, JC and Zhu, HZ (2019) 
+ Lung image segmentation by generative adversarial networks
+, Proceedings of SPIE 2019
+
+
+
+
+
+
+
+Carpo, MC (2018) 
+ Excessive Resolution: Artificial Intelligence and Machine Learning in Architectural Design
+, Architectural Record, 2020, p. 135, 136
+
+
+
+
+
+
+
+Coates, P. (2000) 
+ Programming Architecture
+, Routledge, Taylor and Francis Group, London and New York
+
+
+
+
+
+
+
+Faniran, O. (1998) 
+ Minimizing waste on construction project sites
+, Engineering Construction, 5, pp. 182-188
+
+
+
+
+
+
+
+Frazer, J (1995) 
+ An Evolutionary Architecture
+, Architectural Association, London
+
+
+
+
+
+
+
+Ghiassi, MG, Lio, DL and Moon, BM (2015) 
+ Pre-production forecasting of movie revenues with a dynamic artificial neural network
+, Expert Systems with Applications, 42, pp. 3176-3193
+
+
+
+
+
+
+
+Görges, MG and Ansermino, JMA (2020) 
+ Augmented intelligence in pediatric anesthesia and pediatric critical care
+, Curr Opin Anaesthesiol, 33, pp. 404-410
+
+
+
+
+
+
+
+Haeusler, MH, Gardner, N, Butler, A, Sepasgozar, S and Pan, S (2021) 
+ Wasted ... Again - Or how to understand waste as a data problem and aiming to address the reduction of waste as a computational challenge
+, CAADRIA 2021, Hong Kong, pp. 371-380
+
+
+
+
+
+
+
+Haeusler, MH, Gardner, N, Yu, D, Oh, C and Huang, B (2021) 
+ (Computationally) designing out waste: Developing a computational design workflow for minimising construction and demolition waste in early-stage architectural design
+, IJAC, 19(3), p. TBC
+
+
+
+
+
+
+
+Harvey, HH, Karpati, EK, Khara, GK, Korkinof, DK, Ng, AN, Austin, CA, Rijken, TR and Kecskemethy, PK (2019) 
+ The Role of Deep Learning in Breast Screening
+, Current Breast Cancer Reports, 11, pp. 17-22",,"Ajayi, S.O., Oyedele, L.O., Akinade, O.O., Bilal, M., Owolabi, H.A., Alaka, H.A. and Kadiri, K.O. (2016) 
+ Reducing waste to landfill: a need for cultural change in the UK construction industry
+, Journal or Biological Engineering, 5, pp. 185-193",,,,"Ajayi, S.O., Oyedele, L.O., Akinade, O.O., Bilal, M., Owolabi, H.A., Alaka, H.A. and Kadiri, K.O. (2016) 
+ Competency-based measures for designing out construction waste: task and contextual attributes
+, Engineering Construction Architectural Management, 23(4), pp. 464-490",,,,"Ajayi, S.O., Oyedele, L.O., Bilal, M., Akinade, O.O., Alaka, H.A., Owolabi, H.A. and Kadiri, K.O. (2015) 
+ Waste effectiveness of the construction industry: Understanding the impediments and requisites for improvements
+, Journal of Resources, Conservation and Recycling, 102, pp. 101-112",,,,"Akinade, O.O., Oyedele, L.O., Ajayi, S.O., Bilal, M., Alaka, H.A., Owolabi, H.A. and Arawomo, O.O. (2018) 
+ Designing out construction waste using BIM technology: Stakeholders' expectations for industry deployment
+, Journal of Cleaner Production, 180, pp. 375-385",,,,"Akser, MA, Bridges, BB, Campo, GC, Cheddad, AC, Curran, KC, Fitzpatrick, LF, Hamilton, LH, Harding, JH, Leath, TL, Lunney, TL, Lunney, FL, Ma, MM, Macrae, JM, Maguire, TM, McCaughey, AM, McClory, EM, McClory, VM, Mc Kevitt, PMK, Melvin, AM, Moore, PM, Mulholland, EM, Munoz, KM, O'Hanlon, GO and Roman, LR (2017) 
+ SceneMaker: Creative Technology for Digital StoryTelling
+, Proceedings of The 5th International Conference on ArtsIT, Interactivity and Game Creation 2016",,,,"Arieno, AA, Chan, AC and Destounis, SVD (2019) 
+ A review of the role of augmented intelligence in breast imaging: From automated breast density assessment to risk stratification
+, American Journal of Roentgenology, 212, pp. 259-270",,,,"Bentley, P.J. and Wakefield, J.P. (1997) 
+ Conceptual evolutionary design by a genetic algorithm
+, Engineering design and automation, 3, pp. 119-132",,,,"Bhanumurthy, YB and Anne, KA (2014) 
+ An automated detection and segmentation of tumor in brain MRI using artificial intelligence
+, Proceedings of 2014 IEEE International Conference on Computational Intelligence and Computing Research",,,,"Bilal, M., Oyedele, L.O., Akinade, O.O., Ajayi, S.O., Alaka, H.A., Owolabi, H.A., Qadir, J., Pasha, M. and Bello, S.A. (2016) 
+ Big data architecture for construction waste analytics (CWA): a conceptual framework
+, Journal or Biological Engineering, 6, pp. 144-156",,,,"Brynjolfsson, EB and McAfee, AM (2011) 
+ Race Against the Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy
+, Digital Frontier Press",,,,"Cai, JC and Zhu, HZ (2019) 
+ Lung image segmentation by generative adversarial networks
+, Proceedings of SPIE 2019",,,,"Carpo, MC (2018) 
+ Excessive Resolution: Artificial Intelligence and Machine Learning in Architectural Design
+, Architectural Record, 2020, p. 135, 136",,,,"Coates, P. (2000) 
+ Programming Architecture
+, Routledge, Taylor and Francis Group, London and New York",,,,"Faniran, O. (1998) 
+ Minimizing waste on construction project sites
+, Engineering Construction, 5, pp. 182-188",,,,"Frazer, J (1995) 
+ An Evolutionary Architecture
+, Architectural Association, London",,,,"Ghiassi, MG, Lio, DL and Moon, BM (2015) 
+ Pre-production forecasting of movie revenues with a dynamic artificial neural network
+, Expert Systems with Applications, 42, pp. 3176-3193",,,,"Görges, MG and Ansermino, JMA (2020) 
+ Augmented intelligence in pediatric anesthesia and pediatric critical care
+, Curr Opin Anaesthesiol, 33, pp. 404-410",,,,"Haeusler, MH, Gardner, N, Butler, A, Sepasgozar, S and Pan, S (2021) 
+ Wasted ... Again - Or how to understand waste as a data problem and aiming to address the reduction of waste as a computational challenge
+, CAADRIA 2021, Hong Kong, pp. 371-380",,,,"Haeusler, MH, Gardner, N, Yu, D, Oh, C and Huang, B (2021) 
+ (Computationally) designing out waste: Developing a computational design workflow for minimising construction and demolition waste in early-stage architectural design
+, IJAC, 19(3), p. TBC",,,,"Harvey, HH, Karpati, EK, Khara, GK, Korkinof, DK, Ng, AN, Austin, CA, Rijken, TR and Kecskemethy, PK (2019) 
+ The Role of Deep Learning in Breast Screening
+, Current Breast Cancer Reports, 11, pp. 17-22",,
+11,2021/08/11 08:45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

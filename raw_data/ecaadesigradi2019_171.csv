@@ -1,0 +1,150 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+0,ecaadesigradi2019_171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Uzun, Can and Çolako?lu, Meryem Birgül",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Architectural Drawing Recognition - A case study for training the learning algorithm with architectural plan and section drawing images,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 2, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 29-34",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper aims to develop a case study for training an algorithm to recognize architectural drawings. In order to succeed that, the algorithm is trained with labeled pixel-based, architectural drawing (plan and section) dataset. During the training process, transfer learning (pre-training model) is applied. The supervised learning and convolutional neural network are utilized. After certain iterations, the algorithm builds awareness and can classify pixel-based plan and section drawings. When the algorithm is shown a section that is not produced with conventional drawing technic but through hybrid technics, it could predict the drawing class correctly with %80 of accuracy. On the other hand, some of the algorithm prediction is misoriented. We examined this prediction problem in the discussion section. The results illustrate that neural networks are successful in training algorithms to recognize and classify pixel-based architectural drawings. But for a highly accurate algorithm prediction, the dataset of the drawing images must be ordered, according to sample resolution, sample size and sample coherence for the dataset.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Classification Algorithm; Pixel-Based Architectural Drawing Recognition; Plan; Section,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADeSIGraDi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,uzunc@itu.edu.tr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (4,667,994 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Domingos, Pedro (2015) 
+ The Master Algorithm. How the Quest for the Ultimate Learning Machine will Remake Our World
+, Basic Books, New York
+
+
+
+
+
+
+
+Ha, David and Eck, Douglas (2017) 
+ A Neural Representation of Sketch Drawings
+, arXiv preprint, p. arXiv:1704.03477
+
+
+
+
+
+
+
+Halevy, Alon and Norvig, Peter (2009) 
+ The Unreasonable Effectiveness of Data
+, IEEE Computer Society
+
+
+
+
+
+
+
+Huang, Weixin and Zheng, Hao (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA2018), Mexico City
+
+
+
+
+
+
+
+Kaiyrbekov, Kurmanbek and Sezgin, Metin (2019) 
+ Stroke-based sketched symbol reconstruction and segmentation
+, arXiv preprint, p. arXiv:1901.03427
+
+
+
+
+
+
+
+Kesavaraj G K, G and Sukumaran, Surya (2013) 
+ A study on classification techniques in data mining
+, 2013 Fourth International Conference on Computing, Communications and Networking Technologies (ICCCNT)
+
+
+
+
+
+
+
+Lu, Wayne and Tran, Elizabeth (2017) 
+ Free-hand Sketch Recognition Classification
+, CS 231N Project Report
+
+
+
+
+
+
+
+Triantafillou, Eleni, Zhu, Tyler, Dumoulin, Vincent, Lamblin, Pascal, Xu, Kelvin, Goroshin, Ross, Gelada, Carles, Swersky, Kevin, Manzagol, Pierre-Antoine and Larochelle, Hugo (2009) 
+ Meta-dataset: A dataset of datasets for learning to learn from few examples
+, arXiv preprint
+
+
+
+
+
+
+
+Xu, Peng, Huang, Yongye, Yuan, Tongtong, Pang, Kaiyue, Song, Yi-Zhe, Xiang, Tao, Hospedales, Timothy M., Ma, Zhanyu and Guo, Jun (2018) 
+ SketchMate: Deep Hashing for Million-Scale Human Sketch Retrieval
+, arXiv preprint
+
+
+
+
+
+
+
+Yesilbek, Kemal Tugrul and Sezgin, T. Metin (2017) 
+ Sketch Recognition with Few Examples
+, Computers & Graphics
+
+
+
+
+
+
+
+Zuo, Huo, Lu, Jie, Zhang, Guangquan and Liu, Feng (2018) 
+ Fuzzy Transfer Learning Using an Infinite Gaussian Mixture Model and Active Learning
+, IEEE Transactions on Fuzzy Systems, 27(DOI: 10.1109/TFUZZ.2018.2857725), pp. 291-303",,"Domingos, Pedro (2015) 
+ The Master Algorithm. How the Quest for the Ultimate Learning Machine will Remake Our World
+, Basic Books, New York",,,,"Ha, David and Eck, Douglas (2017) 
+ A Neural Representation of Sketch Drawings
+, arXiv preprint, p. arXiv:1704.03477",,,,"Halevy, Alon and Norvig, Peter (2009) 
+ The Unreasonable Effectiveness of Data
+, IEEE Computer Society",,,,"Huang, Weixin and Zheng, Hao (2018) 
+ Architectural Drawings Recognition and Generation through Machine Learning
+, the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA2018), Mexico City",,,,"Kaiyrbekov, Kurmanbek and Sezgin, Metin (2019) 
+ Stroke-based sketched symbol reconstruction and segmentation
+, arXiv preprint, p. arXiv:1901.03427",,,,"Kesavaraj G K, G and Sukumaran, Surya (2013) 
+ A study on classification techniques in data mining
+, 2013 Fourth International Conference on Computing, Communications and Networking Technologies (ICCCNT)",,,,"Lu, Wayne and Tran, Elizabeth (2017) 
+ Free-hand Sketch Recognition Classification
+, CS 231N Project Report",,,,"Triantafillou, Eleni, Zhu, Tyler, Dumoulin, Vincent, Lamblin, Pascal, Xu, Kelvin, Goroshin, Ross, Gelada, Carles, Swersky, Kevin, Manzagol, Pierre-Antoine and Larochelle, Hugo (2009) 
+ Meta-dataset: A dataset of datasets for learning to learn from few examples
+, arXiv preprint",,,,"Xu, Peng, Huang, Yongye, Yuan, Tongtong, Pang, Kaiyue, Song, Yi-Zhe, Xiang, Tao, Hospedales, Timothy M., Ma, Zhanyu and Guo, Jun (2018) 
+ SketchMate: Deep Hashing for Million-Scale Human Sketch Retrieval
+, arXiv preprint",,,,"Yesilbek, Kemal Tugrul and Sezgin, T. Metin (2017) 
+ Sketch Recognition with Few Examples
+, Computers & Graphics",,,,"Zuo, Huo, Lu, Jie, Zhang, Guangquan and Liu, Feng (2018) 
+ Fuzzy Transfer Learning Using an Infinite Gaussian Mixture Model and Active Learning
+, IEEE Transactions on Fuzzy Systems, 27(DOI: 10.1109/TFUZZ.2018.2857725), pp. 291-303",,
+11,2019/08/26 20:26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

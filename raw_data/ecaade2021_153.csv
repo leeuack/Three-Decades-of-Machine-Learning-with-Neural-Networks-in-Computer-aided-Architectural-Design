@@ -1,0 +1,222 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68
+0,ecaade2021_153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Stojanovic, Djordje and Vujovic, Milica",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Towards Prediction and Optimisation for Outdoor Evaporative Cooling Systems in Architectural Design,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 2, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 401-408",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"The paper presents a blueprint of a simulation model and structures the processing of information that sensors in real life would provide to improve the efficiency of the cooling system and increase the thermal comfort of occupants in an outdoor environment. It outlines an evidence-based technique for evaluating perceived benefits that would arise from the introduction of Wireless Sensor Networks (WSNs) and Computational Techniques (CTs) to evaporative cooling systems. The initial results indicate how data that would be gathered by sensory devices on occupancy and microclimatic conditions can be employed for the prediction and optimisation of the system to narrow the time gap between peak usage and nozzle activation to minimise resource use and maximise occupants' comfort. The larger objective of the study to help mitigate the effects of rising temperatures in urban environments and support the future use of outdoor public spaces. In the longer run, the study aims to explore the role of computationally enhanced microclimate control at a large scale, integral to innovative approaches to outdoor public spaces design.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Human-Building Interaction; Interactive Architecture; Responsive Environments; Evaporative Cooling; Outdoor Public Space,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,d.s@unimelb.edu.au,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (2,160,511 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Biswas, P, Moon, S, Qi, H and Dey, AK (2016) 
+ Computational frameworks for context-aware hybrid sensor fusion
+, International Journal of Image and Data Fusion, 7(1), pp. 83-102
+
+
+
+
+
+
+
+Dai, X, Liu, J and Zhang, X (2020) 
+ A review of studies applying machine learning models to predict occupancy and window-opening behaviours in smart buildings
+, Energy and Buildings, 223, p. 110159
+
+
+
+
+
+
+
+Dwivedi, A (2019) 
+ Macro- and micro-level studies using Urban Heat Islands to simulate effects of greening, building materials and other mitigating factors in Mumbai city
+, Architectural Science Review, 62(2), pp. 126-144
+
+
+
+
+
+
+
+Farnham, C, Emura, K and Mizuno, T (2015) 
+ Evaluation of cooling effects: outdoor water mist fan
+, Building Research & Information, 43, pp. 334-345
+
+
+
+
+
+
+
+Farnham, C, Zhang, L, Yuan, J, Emura, K, Alam, AM and Mizuno, T (2017) 
+ Measurement of the evaporative cooling effect: oscillating misting fan
+, Building Research and Information, 45(7), pp. 783-799
+
+
+
+
+
+
+
+Guo, Z, Wang, X and Yuan, F (2019) 
+ Sensing Human Behavior in the Built Environment
+, Proceedings of 18th International Conference, CAAD Futures 2019, Daejeon, pp. 378-388
+
+
+
+
+
+
+
+Kim, B, Kang, CM, Kim, J, Lee, SH, Chung, CC and Choi, JW (2017) 
+ Probabilistic vehicle trajectory prediction over occupancy grid map via recurrent neural network
+, Proceedings of IEEE 20th International Conference on Intelligent Transportation Systems (ITSC), Yokohama, pp. 399-404
+
+
+
+
+
+
+
+Malkawi, AM and Srinivasan, RS (2005) 
+ A new paradigm for human-building interaction: the use of cfd and augmented reality'
+, Automation in Construction, 14(1), p. 71-84
+
+
+
+
+
+
+
+Munitxa, M and Bogosian, B (2015) 
+ Sensing Urban Microclimates
+, Proceedings of ACADIA 2015: Computational Ecologies: Design in the Anthropocene, Cincinnati, pp. 483-496
+
+
+
+
+
+
+
+Nunes, J, Zoilo, I, Jacinto, N, Nunes, A, Torres-Campos, T, Pacheco, M and Fonseca, D (2011) 
+ Misting-cooling systems for microclimatic control in public space
+, EFLA Regional Congress of Landscape Architecture, Talin
+
+
+
+
+
+
+
+Osmond, P and Sharifi, E (2017) 
+ Guide to Urban Cooling Strategies
+, Low Carbon Living CRC
+
+
+
+
+
+
+
+Stojanovic, D and Vujovic, M (2020) 
+ Algorithmic Framework for Correlation Between Microclimate Control and Space Usage in Outdoor Public Spaces
+, Proceedings of eCAADe 2020, Berlin, pp. 517-524
+
+
+
+
+
+
+
+Taha, H (1997) 
+ Urban climates and heat islands: Albedo, evapotranspiration, and anthropogenic heat
+, Energy and Buildings, 25, p. 99-103
+
+
+
+
+
+
+
+Venkiteswaran, VK, Liman, J and Alkaff, SA (2017) 
+ Comparative Study of Passive Methods for Reducing Cooling Load
+, Energy Procedia, 142, p. 419 - 426
+
+
+
+
+
+
+
+Wu, S.N and Noy, P (2010) 
+ A conceptual design of a wireless sensor actuator system for optimizing energy and well-being in buildings
+, Intelligent Buildings International, 2(1), pp. 41-56
+
+
+
+
+
+
+
+Yamada, H, Yoon, G, Okumiya, M.A and Okumiya, H (2008) 
+ Study of cooling system with water mist sprayers: Fundamental examination of particle size distribution and cooling effects
+, Building Simulation, 1, p. 214-222
+
+
+
+
+
+
+
+Yang, L, Qian, F and Zheng, k (2016) 
+ Comparative Study of Passive Methods for Reducing Cooling Load
+, Energy Procedia, 169, p. 419 - 426",,"Biswas, P, Moon, S, Qi, H and Dey, AK (2016) 
+ Computational frameworks for context-aware hybrid sensor fusion
+, International Journal of Image and Data Fusion, 7(1), pp. 83-102",,,,"Dai, X, Liu, J and Zhang, X (2020) 
+ A review of studies applying machine learning models to predict occupancy and window-opening behaviours in smart buildings
+, Energy and Buildings, 223, p. 110159",,,,"Dwivedi, A (2019) 
+ Macro- and micro-level studies using Urban Heat Islands to simulate effects of greening, building materials and other mitigating factors in Mumbai city
+, Architectural Science Review, 62(2), pp. 126-144",,,,"Farnham, C, Emura, K and Mizuno, T (2015) 
+ Evaluation of cooling effects: outdoor water mist fan
+, Building Research & Information, 43, pp. 334-345",,,,"Farnham, C, Zhang, L, Yuan, J, Emura, K, Alam, AM and Mizuno, T (2017) 
+ Measurement of the evaporative cooling effect: oscillating misting fan
+, Building Research and Information, 45(7), pp. 783-799",,,,"Guo, Z, Wang, X and Yuan, F (2019) 
+ Sensing Human Behavior in the Built Environment
+, Proceedings of 18th International Conference, CAAD Futures 2019, Daejeon, pp. 378-388",,,,"Kim, B, Kang, CM, Kim, J, Lee, SH, Chung, CC and Choi, JW (2017) 
+ Probabilistic vehicle trajectory prediction over occupancy grid map via recurrent neural network
+, Proceedings of IEEE 20th International Conference on Intelligent Transportation Systems (ITSC), Yokohama, pp. 399-404",,,,"Malkawi, AM and Srinivasan, RS (2005) 
+ A new paradigm for human-building interaction: the use of cfd and augmented reality'
+, Automation in Construction, 14(1), p. 71-84",,,,"Munitxa, M and Bogosian, B (2015) 
+ Sensing Urban Microclimates
+, Proceedings of ACADIA 2015: Computational Ecologies: Design in the Anthropocene, Cincinnati, pp. 483-496",,,,"Nunes, J, Zoilo, I, Jacinto, N, Nunes, A, Torres-Campos, T, Pacheco, M and Fonseca, D (2011) 
+ Misting-cooling systems for microclimatic control in public space
+, EFLA Regional Congress of Landscape Architecture, Talin",,,,"Osmond, P and Sharifi, E (2017) 
+ Guide to Urban Cooling Strategies
+, Low Carbon Living CRC",,,,"Stojanovic, D and Vujovic, M (2020) 
+ Algorithmic Framework for Correlation Between Microclimate Control and Space Usage in Outdoor Public Spaces
+, Proceedings of eCAADe 2020, Berlin, pp. 517-524",,,,"Taha, H (1997) 
+ Urban climates and heat islands: Albedo, evapotranspiration, and anthropogenic heat
+, Energy and Buildings, 25, p. 99-103",,,,"Venkiteswaran, VK, Liman, J and Alkaff, SA (2017) 
+ Comparative Study of Passive Methods for Reducing Cooling Load
+, Energy Procedia, 142, p. 419 - 426",,,,"Wu, S.N and Noy, P (2010) 
+ A conceptual design of a wireless sensor actuator system for optimizing energy and well-being in buildings
+, Intelligent Buildings International, 2(1), pp. 41-56",,,,"Yamada, H, Yoon, G, Okumiya, M.A and Okumiya, H (2008) 
+ Study of cooling system with water mist sprayers: Fundamental examination of particle size distribution and cooling effects
+, Building Simulation, 1, p. 214-222",,,,"Yang, L, Qian, F and Zheng, k (2016) 
+ Comparative Study of Passive Methods for Reducing Cooling Load
+, Energy Procedia, 169, p. 419 - 426",,
+11,2021/08/11 08:46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

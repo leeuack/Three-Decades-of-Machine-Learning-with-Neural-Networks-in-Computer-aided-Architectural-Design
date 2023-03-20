@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaadesigradi2019_602,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Toulkeridou, Varvara",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Steps towards AI augmented parametric modeling systems for supporting design exploration,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Sousa, JP, Xavier, JP and Castro Henriques, G (eds.), Architecture in the Age of the 4th Industrial Revolution - Proceedings of the 37th eCAADe and 23rd SIGraDi Conference - Volume 1, University of Porto, Porto, Portugal, 11-13 September 2019, pp. 81-90",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Dataflow parametric modeling environments have become popular as exploratory tools due to them allowing the variational exploration of a design by controlling the parameters of its parametric model schema. However, the nature of these systems requires designers to prematurely commit to a structure and hierarchy of geometric relationships, which makes them inflexible when it comes to design exploration that requires topological changes to the parametric modeling graph. This paper is a first step towards augmenting parametric modeling systems via the use of machine learning for assisting the user towards topological exploration. In particular, this paper describes an approach where Long Short-Term Memory recurrent neural networks, trained on a data set of parametric modeling graphs, are used as generative systems for suggesting alternative dataflow graph paths to the parametric model under development.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,design exploration; visual programming; machine learning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADeSIGraDi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,vatou@cmu.edu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (4,139,446 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Aelion, V, Cagan, J and Powers, GJ (1991) 
+ Input Variable Expansion: a formal innovative design generation technique
+, Technical Report, pp. 1-20
+
+
+
+
+
+
+
+Cagan, J and Agogino, AM (1991) 
+ Dimensional Variable Expansion: A formal approach to innovative design
+, Research in Engineering Design, 3(2), pp. 75-85
+
+
+
+
+
+
+
+Chaszar, A and Joyce, SC (2016) 
+ Generating freedom: Questions of flexibility in digital design and architectural computation
+, International Journal of Architectural Computing, 14(2), pp. 167-181
+
+
+
+
+
+
+
+Gero, JS and Kumar, B (1993) 
+ Expanding design spaces through new design variables
+, Design Studies, 14(2), pp. 210-221
+
+
+
+
+
+
+
+Gero, JS (1994) 
+ Towards a model of exploration in computer-aided design
+, Workshop on Formal Design Methods for CAD, pp. 315-336
+
+
+
+
+
+
+
+Gomez-Bombarelli, R, Wei, JN, Duvenaud, D, Hernandez-Lobato, JM, Sanchez-Lengeling, B, Sheberla, D, Aguilera-Iparraguirre, J, Hirzel, TD, Adams, RP and Aspuru-Guzik, A (2018) 
+ Automatic chemical design using a data-driven continuous representation of molecules
+, ACS Central Science, 4(2), pp. 268-276
+
+
+
+
+
+
+
+Graves, A (2014) 
+ Generating sequences with Recurrent Neural Networks
+, arXiv preprint arXiv:1308.0850v5, pp. 1-43
+
+
+
+
+
+
+
+Harding, JE and Shepherd, P (2017) 
+ Meta-Parametric Design
+, Design Studies, 52, pp. 73-95
+
+
+
+
+
+
+
+Hochreiter, S and Schmidhuber, J (1997) 
+ Long Short-Term Memory
+, Neural Computation, 9(8), pp. 1735-1780
+
+
+
+
+
+
+
+Holzer, D, Hough, R and Burry, M (2016) 
+ Parametric design and structural optimisation for early design exploration
+, International Journal of Architectural Computing, 5(4), pp. 625-643
+
+
+
+
+
+
+
+Joyce, SC and Nazim, I (2017) 
+ Exploring the evolution of meta parametric models
+, 37th Annual Conference of the Association for Computer Aided Design in Architecture, pp. 308-317
+
+
+
+
+
+
+
+Koop, D, Scheidegger, CE, Callahan, SP, Freire, J and Silva, CT (2008) 
+ VisComplete: Automating suggestions for visualization pipelines
+, IEEE Transactions on Visualization and Computer Graphics, 14(6), pp. 1691-1698
+
+
+
+
+
+
+
+Krishnamurti, R and Stouffs, R (1997) 
+ Spatial change: continuity, reversibility, and emergent shapes
+, Environment and Planning B: Planning and Design, 24(3), pp. 359-384
+
+
+
+
+
+
+
+Li, Y, Vinyals, O, Dyer, C, Pascanu, R and Battaglia, P (2018) 
+ Learning deep generative models of graphs
+, arXiv preprint arXiv:1803.03324v1, pp. 1-22
+
+
+
+
+
+
+
+Mikolov, T, Corrado, G, Chen, K and Dean, J (2013) 
+ Efficient estimation of word representations in vector space
+, arXiv preprint arXiv:1301.3781v3, pp. 1-12
+
+
+
+
+
+
+
+Mohiuddin, A, Woodbury, R, Ashtari, N, Cichy, M and Mueller, V (2017) 
+ A Design Gallery system: Prototype and evaluation
+, 37th Annual Conference of the Association for Computer Aided Design in Architecture, pp. 414-245
+
+
+
+
+
+
+
+Perozzi, B, Al-Rfou, R and Skiena, S (2014) 
+ DeepWalk: Online learning of social representations
+, the 20th ACM SIGKDD international conference, New York, New York, USA, pp. 701-710
+
+
+
+
+
+
+
+Scheidegger, C, Vo, H, Koop, D, Freire, J and Silva, C (2017) 
+ Querying and creating visualizations by analogy
+, IEEE Transactions on Visualization and Computer Graphics, 13(6), pp. 1560-1567
+
+
+
+
+
+
+
+Sutskever, I, Vinyals, O and Le, QV (2014) 
+ Sequence to sequence learning with neural networks
+, Proceedings of the 27th International Conference on Neural Information Processing Systems, Montreal, Canada, pp. 1-9
+
+
+
+
+
+
+
+Terry, M, Mynatt, ED, Nakakoji, K and Yamamoto, Y (2004) 
+ Variation in element and action: Supporting simultaneous development of alternative solutions
+, Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, New York, New York, USA, pp. 711-718",,"Aelion, V, Cagan, J and Powers, GJ (1991) 
+ Input Variable Expansion: a formal innovative design generation technique
+, Technical Report, pp. 1-20",,,,"Cagan, J and Agogino, AM (1991) 
+ Dimensional Variable Expansion: A formal approach to innovative design
+, Research in Engineering Design, 3(2), pp. 75-85",,,,"Chaszar, A and Joyce, SC (2016) 
+ Generating freedom: Questions of flexibility in digital design and architectural computation
+, International Journal of Architectural Computing, 14(2), pp. 167-181",,,,"Gero, JS and Kumar, B (1993) 
+ Expanding design spaces through new design variables
+, Design Studies, 14(2), pp. 210-221",,,,"Gero, JS (1994) 
+ Towards a model of exploration in computer-aided design
+, Workshop on Formal Design Methods for CAD, pp. 315-336",,,,"Gomez-Bombarelli, R, Wei, JN, Duvenaud, D, Hernandez-Lobato, JM, Sanchez-Lengeling, B, Sheberla, D, Aguilera-Iparraguirre, J, Hirzel, TD, Adams, RP and Aspuru-Guzik, A (2018) 
+ Automatic chemical design using a data-driven continuous representation of molecules
+, ACS Central Science, 4(2), pp. 268-276",,,,"Graves, A (2014) 
+ Generating sequences with Recurrent Neural Networks
+, arXiv preprint arXiv:1308.0850v5, pp. 1-43",,,,"Harding, JE and Shepherd, P (2017) 
+ Meta-Parametric Design
+, Design Studies, 52, pp. 73-95",,,,"Hochreiter, S and Schmidhuber, J (1997) 
+ Long Short-Term Memory
+, Neural Computation, 9(8), pp. 1735-1780",,,,"Holzer, D, Hough, R and Burry, M (2016) 
+ Parametric design and structural optimisation for early design exploration
+, International Journal of Architectural Computing, 5(4), pp. 625-643",,,,"Joyce, SC and Nazim, I (2017) 
+ Exploring the evolution of meta parametric models
+, 37th Annual Conference of the Association for Computer Aided Design in Architecture, pp. 308-317",,,,"Koop, D, Scheidegger, CE, Callahan, SP, Freire, J and Silva, CT (2008) 
+ VisComplete: Automating suggestions for visualization pipelines
+, IEEE Transactions on Visualization and Computer Graphics, 14(6), pp. 1691-1698",,,,"Krishnamurti, R and Stouffs, R (1997) 
+ Spatial change: continuity, reversibility, and emergent shapes
+, Environment and Planning B: Planning and Design, 24(3), pp. 359-384",,,,"Li, Y, Vinyals, O, Dyer, C, Pascanu, R and Battaglia, P (2018) 
+ Learning deep generative models of graphs
+, arXiv preprint arXiv:1803.03324v1, pp. 1-22",,,,"Mikolov, T, Corrado, G, Chen, K and Dean, J (2013) 
+ Efficient estimation of word representations in vector space
+, arXiv preprint arXiv:1301.3781v3, pp. 1-12",,,,"Mohiuddin, A, Woodbury, R, Ashtari, N, Cichy, M and Mueller, V (2017) 
+ A Design Gallery system: Prototype and evaluation
+, 37th Annual Conference of the Association for Computer Aided Design in Architecture, pp. 414-245",,,,"Perozzi, B, Al-Rfou, R and Skiena, S (2014) 
+ DeepWalk: Online learning of social representations
+, the 20th ACM SIGKDD international conference, New York, New York, USA, pp. 701-710",,,,"Scheidegger, C, Vo, H, Koop, D, Freire, J and Silva, C (2017) 
+ Querying and creating visualizations by analogy
+, IEEE Transactions on Visualization and Computer Graphics, 13(6), pp. 1560-1567",,,,"Sutskever, I, Vinyals, O and Le, QV (2014) 
+ Sequence to sequence learning with neural networks
+, Proceedings of the 27th International Conference on Neural Information Processing Systems, Montreal, Canada, pp. 1-9",,,,"Terry, M, Mynatt, ED, Nakakoji, K and Yamamoto, Y (2004) 
+ Variation in element and action: Supporting simultaneous development of alternative solutions
+, Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, New York, New York, USA, pp. 711-718",,
+11,2019/08/26 20:24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

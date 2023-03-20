@@ -1,0 +1,258 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80
+0,ecaade2021_235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Ziegler, Christoph, Bielski, Jessica and Langenhan, Christoph",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,This Is How We Do It - Observing architects sketch to inform effective recognition of semantic building information,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 1, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 393-402",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Sketching is an effective means for architects to develop design thoughts and to communicate ideas. It is a promising method for an interaction with CAAD systems that integrates naturally in the process of early conceptual design. A challenge for the realisation of sketched-based interaction, is for the computer to recognise what the designer is drawing. To inform the development of effective methods for the recognition of semantic building information in schematic layout sketches, we seek for a better understanding of how designers encode this information in their sketches. We therefore piloted a remote user study with trained architects (n=7). The results show variance in the use of symbols and in the drawing technique. However, we also observe commonalities in the approach. Participants always draw the perimeter first and then subdivide the enclosed space. We identified three techniques for subdivision: cut lines, open shapes, closed shapes. Also we identified four different types of information in participants' sketches and observed that certain types of objects are prevalent in all sketches. We discuss consequences of our observations for sketch recognition systems and considerations for the design of a follow-up study.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,sketching; sketch-based interaction; user study; recognition; semantic building information; BIM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,c.ziegler@tum.de,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"file.pdf (3,299,485 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+Abdelmohsen, S and Do, EY-L (2007) 
+ Tracking design development through decomposing sketching processes
+, International Association of Societies of Design Research
+
+
+
+
+
+
+
+Achten, H and Jessurun, J (2003) 
+ Learning From Mah Jong - Towards a Multi-Agent System that can Recognize Graphic Units
+, Proceedings of the 10th International Conference on Computer Aided Architectural Design Futures, pp. 115-124
+
+
+
+
+
+
+
+Achten, H (1999) 
+ Generic representations: An approach for modelling procedural and declarative knowledge of building types in architectural design
+, Ph.D. Thesis, Eindhoven University of Technology
+
+
+
+
+
+
+
+Achten, H (2005) 
+ Resolving some Ambiguities in Real-time Design Drawing Recognition by means of a Decision Tree for Agents
+, Computer Aided Architectural Design Futures, pp. 311-320
+
+
+
+
+
+
+
+Ah-Soon, C and Tombre, K (1998) 
+ Network-based recognition of architectural symbols
+, Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition (SPR) and Structural and Syntactic Pattern Recognition (SSPR), pp. 252-261
+
+
+
+
+
+
+
+Ahmed, S, Liwicki, M, Weber, M and Dengel, A (2011) 
+ Improved automatic analysis of architectural floor plans
+, International conference on document analysis and recognition, pp. 864-869
+
+
+
+
+
+
+
+Ahmed, S, Liwicki, M, Weber, M and Dengel, A (2012) 
+ Automatic room detection and room labeling from architectural floor plans
+, 10th IAPR international workshop on document analysis systems, pp. 339-343
+
+
+
+
+
+
+
+Aoki, Y, Shio, A, Arai, H and Odaka, K (1996) 
+ A prototype system for interpreting hand-sketched floor plans
+, Proceedings of 13th International Conference on Pattern Recognition, pp. 747-751
+
+
+
+
+
+
+
+Arora, H, Langenhan, C, Petzold,, F, Eisenstadt,, V and Althoff, K-D (2020) 
+ METIS-GAN: An approach to generate spatial configurations using deep learning and semantic building models
+, ECPPM-European Conference on Product and Process Modeling
+
+
+
+
+
+
+
+Bailey, R (2000) 
+ The Intelligent Sketch: Developing a conceptual model for a digital design assistant
+, 22nd Annual Conference of the Association for Computer-Aided Design in Architecture, pp. 137-145
+
+
+
+
+
+
+
+Buxton, WAS (2007) 
+ Sketching User Experiences: Getting the Design Right and the Right Design
+, Focal Press
+
+
+
+
+
+
+
+Cutler, B and Nasman, B (2016) 
+ Interpreting physical sketches as architectural models
+, Ceccato, C, Hesselgren, L, Pauly, M, Pottmann, H and Wallner, J (eds), Advances in Architectural Geometry, Ambra, Berlin, pp. 15-36
+
+
+
+
+
+
+
+de las Heras, L-P, Ahmed, S, Liwicki, M, Valveny, E and Sánchez, G (2014) 
+ Statistical segmentation and structural recognition for floor plan interpretation
+, International Journal on Document Analysis and Recognition (IJDAR), 17(3), pp. 221-237
+
+
+
+
+
+
+
+Do, EY-L and Gross, MD (2001) 
+ Thinking with diagrams in architectural design
+, Artificial Intelligence Review, 15(1), pp. 135-149
+
+
+
+
+
+
+
+Do, EY-L (1998) 
+ The right tool at the right time - Investigation of freehand drawing as an interface to knowledge based design tools
+, Ph.D. Thesis, Georgia Institute of Technology
+
+
+
+
+
+
+
+Domínguez-Martín, B (2016) 
+ Methods to process low-level CAD plans and creative Building Information Models (BIM)
+, Ph.D. Thesis, Universidad de Jaén
+
+
+
+
+
+
+
+Dorta, T (2008) 
+ Design flow and ideation
+, International Journal of Architectural Computing, 6(3), pp. 299-316
+
+
+
+
+
+
+
+Eisenstadt, V, Arora, H, Ziegler, C, Langenhan, C and Althoff, K-D (2021) 
+ Exploring Optimal Ways to Represent Topological and Spatial Features of Building Designs in Deep Learning Methods and Applications for Architecture
+, 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia Online and Global
+
+
+
+
+
+
+
+Eisenstadt, V, Langenhan, C, Althoff, K-D and Dengel, A (2020) 
+ Improved and Visually Enhanced Case-Based Retrieval of Room Configurations for Assistance in Architectural Design Education
+, International Conference on Case-Based Reasoning, pp. 213-228
+
+
+
+
+
+
+
+Gimenez, L, Robert, S, Suard, F and Zreik, K (2015) 
+ Cost-effective reconstruction of BIM from 2D scanned plan: experiments on existing buildings
+, Sustainable Places, pp. 61-69",,"Abdelmohsen, S and Do, EY-L (2007) 
+ Tracking design development through decomposing sketching processes
+, International Association of Societies of Design Research",,,,"Achten, H and Jessurun, J (2003) 
+ Learning From Mah Jong - Towards a Multi-Agent System that can Recognize Graphic Units
+, Proceedings of the 10th International Conference on Computer Aided Architectural Design Futures, pp. 115-124",,,,"Achten, H (1999) 
+ Generic representations: An approach for modelling procedural and declarative knowledge of building types in architectural design
+, Ph.D. Thesis, Eindhoven University of Technology",,,,"Achten, H (2005) 
+ Resolving some Ambiguities in Real-time Design Drawing Recognition by means of a Decision Tree for Agents
+, Computer Aided Architectural Design Futures, pp. 311-320",,,,"Ah-Soon, C and Tombre, K (1998) 
+ Network-based recognition of architectural symbols
+, Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition (SPR) and Structural and Syntactic Pattern Recognition (SSPR), pp. 252-261",,,,"Ahmed, S, Liwicki, M, Weber, M and Dengel, A (2011) 
+ Improved automatic analysis of architectural floor plans
+, International conference on document analysis and recognition, pp. 864-869",,,,"Ahmed, S, Liwicki, M, Weber, M and Dengel, A (2012) 
+ Automatic room detection and room labeling from architectural floor plans
+, 10th IAPR international workshop on document analysis systems, pp. 339-343",,,,"Aoki, Y, Shio, A, Arai, H and Odaka, K (1996) 
+ A prototype system for interpreting hand-sketched floor plans
+, Proceedings of 13th International Conference on Pattern Recognition, pp. 747-751",,,,"Arora, H, Langenhan, C, Petzold,, F, Eisenstadt,, V and Althoff, K-D (2020) 
+ METIS-GAN: An approach to generate spatial configurations using deep learning and semantic building models
+, ECPPM-European Conference on Product and Process Modeling",,,,"Bailey, R (2000) 
+ The Intelligent Sketch: Developing a conceptual model for a digital design assistant
+, 22nd Annual Conference of the Association for Computer-Aided Design in Architecture, pp. 137-145",,,,"Buxton, WAS (2007) 
+ Sketching User Experiences: Getting the Design Right and the Right Design
+, Focal Press",,,,"Cutler, B and Nasman, B (2016) 
+ Interpreting physical sketches as architectural models
+, Ceccato, C, Hesselgren, L, Pauly, M, Pottmann, H and Wallner, J (eds), Advances in Architectural Geometry, Ambra, Berlin, pp. 15-36",,,,"de las Heras, L-P, Ahmed, S, Liwicki, M, Valveny, E and Sánchez, G (2014) 
+ Statistical segmentation and structural recognition for floor plan interpretation
+, International Journal on Document Analysis and Recognition (IJDAR), 17(3), pp. 221-237",,,,"Do, EY-L and Gross, MD (2001) 
+ Thinking with diagrams in architectural design
+, Artificial Intelligence Review, 15(1), pp. 135-149",,,,"Do, EY-L (1998) 
+ The right tool at the right time - Investigation of freehand drawing as an interface to knowledge based design tools
+, Ph.D. Thesis, Georgia Institute of Technology",,,,"Domínguez-Martín, B (2016) 
+ Methods to process low-level CAD plans and creative Building Information Models (BIM)
+, Ph.D. Thesis, Universidad de Jaén",,,,"Dorta, T (2008) 
+ Design flow and ideation
+, International Journal of Architectural Computing, 6(3), pp. 299-316",,,,"Eisenstadt, V, Arora, H, Ziegler, C, Langenhan, C and Althoff, K-D (2021) 
+ Exploring Optimal Ways to Represent Topological and Spatial Features of Building Designs in Deep Learning Methods and Applications for Architecture
+, 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia Online and Global",,,,"Eisenstadt, V, Langenhan, C, Althoff, K-D and Dengel, A (2020) 
+ Improved and Visually Enhanced Case-Based Retrieval of Room Configurations for Assistance in Architectural Design Education
+, International Conference on Case-Based Reasoning, pp. 213-228",,,,"Gimenez, L, Robert, S, Suard, F and Zreik, K (2015) 
+ Cost-effective reconstruction of BIM from 2D scanned plan: experiments on existing buildings
+, Sustainable Places, pp. 61-69",,
+11,2021/08/11 08:45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

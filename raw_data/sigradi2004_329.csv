@@ -1,0 +1,12 @@
+﻿,0
+0,sigradi2004_329
+1,Ravi S. Srinivasan; Ali M. Malkawi
+2,2004
+3,The use of learning algorithms for real-time immersive data visualization in buildings
+4,SIGraDi 2004 - [Proceedings of the 8th Iberoamerican Congress of Digital Graphics] Porte Alegre - Brasil 10-12 november 2004
+5,"Computational Fluid Dynamic (CFD) simulations are used to predict indoor thermal environments and assess their response to specific internal/external conditions. Although computing power has increased exponentially in the past decade, CFD simulations are time consuming and their prediction results cannot be used for real-time immersive visualization in buildings. A method that can bypass the time consuming simulations and generate .acceptable. results will allow such visualization to be constructed. This paper discusses a project that utilizes Artificial Neural Network (ANN) as a learning algorithm to predict post-processed CFD data to ensure rapid data visualization. The technique has been integrated with an immersive Augmented Reality (AR) system to visualize CFD results in buildings. ANN was also evaluated against a linear regression model. Both models were tested and validated with datasets to determine their degree of accuracy. Initial tests, conducted to evaluate the user.s experience of the system, indicated satisfactory results."
+6,SIGRADI
+7,sravi.malkawi@design.upenn.edu
+8,"file.pdf (193,836 bytes)"
+9,Content-type: text/plain
+10,2016/03/10 08:58

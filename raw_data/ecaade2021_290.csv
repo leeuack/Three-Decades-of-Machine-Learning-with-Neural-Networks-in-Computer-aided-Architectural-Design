@@ -1,0 +1,235 @@
+﻿,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72
+0,ecaade2021_290,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Nicholas, Paul, Chen, Yu, Borpujari, Nihit, Bartov, Nitsan and Refsgaard, Andreas",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,A Chained Machine Learning Approach to Motivate Retro-Cladding of Residential Buildings,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Stojakovic, V and Tepavcevic, B (eds.), Towards a new, configurable architecture - Proceedings of the 39th eCAADe Conference - Volume 1, University of Novi Sad, Novi Sad, Serbia, 8-10 September 2021, pp. 55-64",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"This paper investigates how a novel approach to visualisation could help address the challenge of motivating residential retrofitting. Emerging retrofitting research and practice emphasises retro-cladding - the upgrading of the exterior facade of a building - using a modular approach. We present a machine-learning based approach aimed to motivate residential retrofitting through the generation of images and cost/benefit information describing climatically specific additions of external insulation and green roof panels to the façade of a Danish type house. Our approach chains a series of different models together, and implements a method for the controlled navigation of the principle generative styleGAN model. The approach is at a prototypical stage that implements a full workflow but does not include numerical evaluation of model predictions. Our paper details our processes and considerations for the generation of new datasets, the specification and chaining of models, and the linking of climatic data to travel through the latent space of a styleGAN model to visualise and provide a simple cost benefit report for retro-cladding specific to the local climates of five different Danish cities.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Retrofitting; Machine Learning; Generative Adversarial Networks; Synthetic Datasets,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,eCAADe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,normal paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,paul.nicholas@kglakademi.dk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"file.pdf (18,565,772 bytes)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Content-type: text/plain
+
+
+
+
+Details
+Citation
+Select
+
+
+
+
+
+El-Darwish, I. and Gomaa, M. (2017) 
+ Retrofitting strategy for building envelopes to achieve energy efficiency. DOI: 10.1016/j.aej.2017.05.011
+, Alexandria Engineering Journal, 56, pp. 579-589
+
+
+
+
+
+
+
+Galanos, T., Chronis, A., Vesely, O., Aichinger, A. and Koenig, R. (2019) 
+ Best of both worlds - using computational design and deep learning for real-time urban performance evaluation
+, 1st International Conference on Optimization Driven Architectural Design
+
+
+
+
+
+
+
+Goodfellow, I.J, Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, D. and Bengio, y. (2014) 
+ Generative adversarial nets
+, NIPS, p. Pages 2672-2680
+
+
+
+
+
+
+
+Härkönen, E., Hertzmann, A., Lehtinen, J. and Paris, S. (2020) 
+ Discovering Interpretable GAN Controls
+, NeurIPS 2020
+
+
+
+
+
+
+
+Isola, P., Zhu, J., Zhou, T. and Efros, A.A (2017) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+
+
+
+
+
+
+
+Jabbar, A., Farrawell, L., Fountain, J. and Chalup, S.K (2017) 
+ Training Deep Neural Networks for Detecting Drinking Glasses Using Synthetic Images
+, International Conference on Neural Information Processing
+
+
+
+
+
+
+
+Kvochick, T. (2018) 
+ Sneaky Spatial Segmentation. Reading Architectural Drawings with Deep Neural Networks and Without Labeling Data
+, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)
+
+
+
+
+
+
+
+Mokhtar, S., Sojka, A. and Davila, C.C. (2020) 
+ Conditional Generative Adversarial Networks for Pedestrian Wind Flow Approximation
+, Proceedings of SimAUD 2020
+
+
+
+
+
+
+
+Musil, J., Knir, J., Vitsas, A. and Gallou, I. (2019) 
+ Towards Sustainable Architecture: 3D Convolutional Neural Networks for Computational Fluid Dynamics Simulation and Reverse Design Workflow
+, NeurIPS Workshop on Machine Learning for Creativity and Design 3.0
+
+
+
+
+
+
+
+Nicholas, P., Rossi, G., Williams, E., Bennett, M. and Schork, T. (2020) 
+ Integrating real-time multi-resolution scanning and machine learning for Conformal Robotic 3D Printing in Architecture
+, International Journal of Architectural Computing, 18, pp. 371-385
+
+
+
+
+
+
+
+Pardo-Bosch, F., Cervera, C. and Ysa, T. (2019) 
+ Key aspects of building retrofitting: Strategizing sustainable cities
+, Journal of Environmental Management, 248, p. 109247
+
+
+
+
+
+
+
+Peng, X. and Saenko, K. (2018) 
+ Synthetic to Real Adaptation with Generative Correlation Alignment Networks
+, IEEE Winter Conference on Applications of Computer Vision (WACV)
+
+
+
+
+
+
+
+Radford, A., Metz, L. and Chintala, S. (2016) 
+ Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+, ICLR
+
+
+
+
+
+
+
+Rossi, G. and Nicholas, P. (2020) 
+ Encoded Images: representational protocols for integrating cGANs in iterative computational design processes
+, ACADIA 2020 : Distributed Proximities
+
+
+
+
+
+
+
+Sun, B., Peng, X. and Saenko, K. (2015) 
+ Generating Large Scale Image Datasets from 3D CAD Models
+, CVPR Workshop
+
+
+
+
+
+
+
+Tamke, M., Nicholas, P. and Zwierzycki, M. (2018) 
+ Machine learning for architectural design: Practices and infrastructure
+, International Journal of Architectural Computing
+
+
+
+
+
+
+
+Tjaden, H., Schwanecke, U. and Schömer, E. (2017) 
+ Real-Time Monocular Pose Estimation of 3D Objects using Temporally Consistent Local Color Histograms
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
+
+
+
+
+
+
+
+Zhang, H. (2019) 
+ 3D Model Generation on Architectural Plan and Section Training through Machine Learning
+, Technologies Special Issue ""Computer-Aided Architectural Design"", 7(4), p. 82",,"El-Darwish, I. and Gomaa, M. (2017) 
+ Retrofitting strategy for building envelopes to achieve energy efficiency. DOI: 10.1016/j.aej.2017.05.011
+, Alexandria Engineering Journal, 56, pp. 579-589",,,,"Galanos, T., Chronis, A., Vesely, O., Aichinger, A. and Koenig, R. (2019) 
+ Best of both worlds - using computational design and deep learning for real-time urban performance evaluation
+, 1st International Conference on Optimization Driven Architectural Design",,,,"Goodfellow, I.J, Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, D. and Bengio, y. (2014) 
+ Generative adversarial nets
+, NIPS, p. Pages 2672-2680",,,,"Härkönen, E., Hertzmann, A., Lehtinen, J. and Paris, S. (2020) 
+ Discovering Interpretable GAN Controls
+, NeurIPS 2020",,,,"Isola, P., Zhu, J., Zhou, T. and Efros, A.A (2017) 
+ Image-to-Image Translation with Conditional Adversarial Networks
+, IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",,,,"Jabbar, A., Farrawell, L., Fountain, J. and Chalup, S.K (2017) 
+ Training Deep Neural Networks for Detecting Drinking Glasses Using Synthetic Images
+, International Conference on Neural Information Processing",,,,"Kvochick, T. (2018) 
+ Sneaky Spatial Segmentation. Reading Architectural Drawings with Deep Neural Networks and Without Labeling Data
+, Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)",,,,"Mokhtar, S., Sojka, A. and Davila, C.C. (2020) 
+ Conditional Generative Adversarial Networks for Pedestrian Wind Flow Approximation
+, Proceedings of SimAUD 2020",,,,"Musil, J., Knir, J., Vitsas, A. and Gallou, I. (2019) 
+ Towards Sustainable Architecture: 3D Convolutional Neural Networks for Computational Fluid Dynamics Simulation and Reverse Design Workflow
+, NeurIPS Workshop on Machine Learning for Creativity and Design 3.0",,,,"Nicholas, P., Rossi, G., Williams, E., Bennett, M. and Schork, T. (2020) 
+ Integrating real-time multi-resolution scanning and machine learning for Conformal Robotic 3D Printing in Architecture
+, International Journal of Architectural Computing, 18, pp. 371-385",,,,"Pardo-Bosch, F., Cervera, C. and Ysa, T. (2019) 
+ Key aspects of building retrofitting: Strategizing sustainable cities
+, Journal of Environmental Management, 248, p. 109247",,,,"Peng, X. and Saenko, K. (2018) 
+ Synthetic to Real Adaptation with Generative Correlation Alignment Networks
+, IEEE Winter Conference on Applications of Computer Vision (WACV)",,,,"Radford, A., Metz, L. and Chintala, S. (2016) 
+ Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+, ICLR",,,,"Rossi, G. and Nicholas, P. (2020) 
+ Encoded Images: representational protocols for integrating cGANs in iterative computational design processes
+, ACADIA 2020 : Distributed Proximities",,,,"Sun, B., Peng, X. and Saenko, K. (2015) 
+ Generating Large Scale Image Datasets from 3D CAD Models
+, CVPR Workshop",,,,"Tamke, M., Nicholas, P. and Zwierzycki, M. (2018) 
+ Machine learning for architectural design: Practices and infrastructure
+, International Journal of Architectural Computing",,,,"Tjaden, H., Schwanecke, U. and Schömer, E. (2017) 
+ Real-Time Monocular Pose Estimation of 3D Objects using Temporally Consistent Local Color Histograms
+, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition",,,,"Zhang, H. (2019) 
+ 3D Model Generation on Architectural Plan and Section Training through Machine Learning
+, Technologies Special Issue ""Computer-Aided Architectural Design"", 7(4), p. 82",,
+12,2021/08/11 08:45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
