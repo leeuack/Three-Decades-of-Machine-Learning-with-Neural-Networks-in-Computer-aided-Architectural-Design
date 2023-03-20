@@ -1,0 +1,188 @@
+id,years,topic category,sub category,larger_category-re,topic_category-re,data,data_representation,model,main algorithm,,model-re,type,valid,data-description,data-sample,whole data,model-structure,param,acc / loss,training process,model-file
+0c78,1996,simulation,dynamics,evaluation,simulation,-1,matrices,1,NN,,NN,supervised,1,1,1,0,1,1,1,1,0
+4dd6,1993,behavior patterns,pattern,generation,design tool making,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,0,0,0,0
+5b5a,1999,performance evaluation,engineering,evaluation,performance evaluation,-1,matrices,-1,fuzzy MLP,,MLP,supervised,1,1,0,0,1,1,1,1,0
+5c22,2001,design linguistics,space,generation,design linguistics,-1,matrices,-1,fuzzy MLP,,MLP,supervised,1,1,1,0,1,0,1,1,0
+5fc6,1997,construction engineering,engineering,evaluation,construction engineering,-1,matrices,1,NN,,NN,supervised,1,1,0,0,1,1,1,1,0
+6f73,1997,simulation,modeling,evaluation,simulation,0,matrices,0,NN,,NN,supervised,1,0,0,0,0,0,0,0,0
+7ffb,2001,design linguistics,data mining,generation,design linguistics,-1,matrices,-1,fuzzy MLP,,MLP,supervised,1,1,1,0,1,0,1,1,0
+8db9,1993,shape recognition,shape,recognition,object recognition,-1,pattern,-1,NN,,NN,supervised,1,1,1,0,1,1,1,1,0
+20ff,2004,spatial cognition,space,recognition,object recognition,-1,graph,0,SOM,,SOM,unsupervised,1,1,1,0,0,0,0,0,0
+42dd,2000,building geometry,building,generation,design synthesis,-1,image,-1,fuzzy MLP,,MLP,supervised,1,1,1,0,1,1,0,0,0
+91ea,1997,simulation,engineering,evaluation,simulation,-1,matrices,0,NN,,NN,supervised,1,1,1,0,1,1,1,1,0
+130b,1999,shape recognition,shape,recognition,object recognition,-1,pattern,-1,NN,,NN,supervised,1,1,1,0,1,1,0,0,0
+349e,2002,design linguistics,space,generation,design linguistics,-1,matrices,-1,fuzzy MLP,,MLP,supervised,1,1,1,0,1,1,1,1,0
+411f,1990,shape recognition,shape,recognition,object recognition,-1,pattern,-1,NN,,NN,supervised,1,1,1,0,0,0,0,0,0
+616a,1996,design synthesis,glasses,generation,design synthesis,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,1,0,0,0
+812e,2002,building geometry,building,generation,design synthesis,-1,image,-1,fuzzy MLP,,MLP,supervised,1,1,1,0,1,1,0,0,0
+6097,1996,shape recognition,shape,recognition,object recognition,-1,pattern,-1,NN,,NN,supervised,1,1,1,0,1,1,0,0,0
+7847,2000,simulation,construction,evaluation,simulation,-1,matrices,-1,NN,,NN,supervised,1,1,0,0,1,0,1,1,0
+8435,1990,shape recognition,shape,recognition,object recognition,-1,pattern,-1,NN,,NN,supervised,1,1,1,0,1,0,0,0,0
+a6d8,1992,shape recognition,shape,recognition,object recognition,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,1,1,0,0
+a015,2001,construction engineering,engineering,evaluation,construction engineering,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,1,1,1,0
+acadia03_051,2003,design tool making,CAD,generation,design tool making,-1,pattern,-1,NN,,NN,supervised,1,1,1,0,1,1,0,0,0
+acadia12_87,2012,simulation,dynamics,evaluation,simulation,0,matrices,0,NN,,NN,supervised,1,1,1,0,1,0,1,0,0
+acadia13_319,2013,simulation,structure,evaluation,simulation,0,matrices,-1,NN,,NN,supervised,1,0,0,0,0,0,1,0,0
+acadia17_474,2017,spatial recognition,isovist,recognition,object recognition,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
+acadia17_590,2017,review,review,theory,design theory,,,,CNN,,CNN,supervised,1,0,0,0,0,0,0,0,0
+acadia18_146,2018,robotic fabrication,tool,fabrication,robotic fabrication,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
+acadia18_156,2018,drawing recognition,drawings,recognition,drawing recognition,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,1,0,0,0,0
+acadia18_166,2018,drawing recognition,drawings,recognition,drawing recognition,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,1,1,1,0
+acadia18_176,2018,design synthesis,modeling,generation,design synthesis,-1,point cloud,-1,AE,,AE,unsupervised,1,1,1,1,1,0,0,0,0
+acadia18_196,2018,simulation,form,evaluation,simulation,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
+acadia19_130,2019,robotic fabrication,structure,fabrication,robotic fabrication,-1,matrices,-1,SOM,,SOM,unsupervised,1,1,1,0,0,0,0,0,0
+acadia19_298,2019,review,review,theory,design theory,,,,,,,,1,0,0,0,0,0,0,0,0
+acadia19_370,2019,design synthesis,facade,generation,design synthesis,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,1,0,0,0,0
+acadia19_380,2019,design synthesis,facade,generation,design synthesis,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,1,0,0,0,0
+acadia19_392,2019,design synthesis,scenery,generation,design synthesis,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,1,0,0,0,0
+acadia19_404,2019,design synthesis,form,generation,design synthesis,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,0,0,0,0,0
+acadia19_412,2019,design synthesis,drawings,generation,design synthesis,0,image,-1,GAN,,GAN,unsupervised,1,0,0,0,0,0,0,0,0
+acadia19_664,2019,error detection,error,recognition,object recognition,0,matrices,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
+ascaad2006_paper5,2006,design pedagogy,collaboration,theory,design pedagogy,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,1,1,1,0
+ascaad2016_027,2016,physical computing,facade,generation,design synthesis,0,matrices,-1,NN,,NN,supervised,1,1,0,0,1,1,0,0,0
+b83a,2004,spatial recognition,space,recognition,object recognition,-1,matrices,-1,SOM,,SOM,unsupervised,1,1,1,0,0,0,0,0,0
+c837,1998,design synthesis,art,generation,design synthesis,-1,image,-1,NN,,NN,supervised,1,1,1,0,1,1,0,0,0
+caadria2005_b_6a_c,2005,design supportive tool,pedagogy,theory,design pedagogy,-1,matrices,-1,fuzzy MLP,,MLP,supervised,1,1,1,0,0,0,0,0,0
+caadria2013_054,2013,theory,review,theory,design theory,,,,,,,,1,0,0,0,0,0,0,0,0
+caadria2016_445,2016,object detection,modeling,recognition,object recognition,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,0,0,0
+caadria2016_881,2016,design synthesis,drawings,generation,design synthesis,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,1,0,0,0,0
+caadria2018_046,2018,simulation,material,evaluation,simulation,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,0,0,1,0,0
+caadria2018_083,2018,robotic fabrication,material,fabrication,robotic fabrication,-1,image,-1,LSTM,,RNN,supervised,1,1,1,0,1,0,1,0,0
+caadria2018_086,2018,CAD,CAD,generation,design tool making,,,,,,,,1,0,0,0,0,0,0,0,0
+caadria2018_290,2018,urban analysis,entrance,analysis,urban analysis,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
+caadria2018_314,2018,object detection,space,recognition,object recognition,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
+caadria2019_109,2019,object detection,space,recognition,object recognition,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
+caadria2019_126,2019,drawing recognition,drawings,recognition,drawing recognition,-1,image,-1,CNN,,CNN,supervised,1,1,0,0,1,1,1,1,0
+caadria2019_142,2019,design synthesis,form,generation,design synthesis,-1,matrices,-1,SOM,CNN,"SOM,CNN",unsupervised,1,1,0,0,0,0,0,0,0
+caadria2019_245,2019,simulation,material,evaluation,simulation,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,0,0,0,0
+caadria2019_298,2019,urban analysis,isovist,analysis,urban analysis,-1,matrices,0,RNN,,RNN,supervised,1,1,1,0,0,0,0,0,0
+caadria2019_330,2019,performance evaluation,material,evaluation,performance evaluation,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,1,1,0,0
+caadria2019_396,2019,environment analysis,view,analysis,environment analysis,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,1,0
+caadria2019_449,2019,environment analysis,dynamics,analysis,environment analysis,-1,matrices,-1,NN,,NN,supervised,1,1,0,0,1,0,1,1,0
+caadria2019_650,2019,review,review,theory,design theory,,,,,,,,1,0,0,0,0,0,0,0,0
+caadria2020_015,2020,design synthesis,drawings,generation,design synthesis,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,0,1,0
+caadria2020_028,2020,urban analysis,landscape,analysis,urban analysis,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
+caadria2020_045,2020,design synthesis,drawings,generation,design synthesis,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,0,0,0
+caadria2020_054,2020,design synthesis,drawings,generation,design synthesis,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,1,0,0,1,0
+caadria2020_088,2020,object detection,modeling,recognition,object recognition,-1,point cloud,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
+caadria2020_091,2020,design synthesis,modeling,generation,design synthesis,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,0,0,0
+caadria2020_161,2020,object detection,landscape,recognition,object recognition,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
+caadria2020_163,2020,design synthesis,layout,generation,design synthesis,1,image,-1,CNN,,CNN,supervised,1,1,1,1,1,0,0,0,0
+caadria2020_172,2020,urban analysis,program,analysis,urban analysis,-1,matrices,0,NN,,NN,supervised,1,1,1,0,1,0,1,1,0
+caadria2020_203,2020,drawing recognition,drawings,recognition,drawing recognition,-1,image,-1,FCN,,CNN,supervised,1,1,1,0,1,0,1,1,0
+caadria2020_222,2020,urban analysis,density,analysis,urban analysis,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,1,0
+caadria2020_234,2020,design synthesis,modeling,generation,design synthesis,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,1,0,0,0,0
+caadria2020_259,2020,design synthesis,footprint,generation,design synthesis,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,1,1,1,0
+caadria2020_342,2020,design analysis,interior,analysis,design analysis,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
+caadria2020_347,2020,design analysis,carbon,analysis,design analysis,-1,matrices,-1,BNN,,NN,supervised,1,1,1,0,1,1,1,0,0
+caadria2020_402,2020,design communication,concept,generation,design tool making,-1,matrices,-1,CNN,,CNN,supervised,1,1,0,0,1,0,0,0,0
+caadria2020_444,2020,design evaluation,sensor,generation,design tool making,-1,matrices,0,LSTM,,RNN,supervised,1,1,1,0,1,0,1,0,0
+caadria2020_446,2020,design synthesis,drawings,generation,design synthesis,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,1,0,1,0,0
+cf2019_004,2019,BIM,tool,generation,design tool making,0,matrices,0,NN,,NN,supervised,1,1,1,0,1,0,1,0,0
+cf2019_005,2019,design linguistics,concept,generation,design linguistics,-1,matrices,-1,RNN,,RNN,supervised,1,1,0,0,1,0,1,0,0
+cf2019_010,2019,simulation,daylight,evaluation,simulation,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,1,0,1,0
+cf2019_020,2019,review,review,theory,design theory,,,,,,,,1,0,0,0,0,0,0,0,0
+cf2019_022,2019,object detection,scenery,recognition,object recognition,1,image,-1,CNN,,CNN,supervised,1,1,1,1,1,0,1,0,0
+d481,2007,urban analysis,territory,analysis,urban analysis,-1,matrices,-1,SOM,,SOM,unsupervised,1,1,1,0,1,0,0,0,0
+ddss2004_ra-3,2004,urban analysis,landslide,analysis,urban analysis,-1,matrices,-1,NN,,NN,supervised,1,1,0,0,1,1,1,1,0
+ddss2004_ra-19,2004,urban analysis,interaction,analysis,urban analysis,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,0,1,0,0
+ddss2004_ra-33,2004,urban analysis,sprawl,analysis,urban analysis,-1,matrices,-1,SOM,,SOM,unsupervised,1,1,0,0,1,0,0,0,0
+ddss2006-hb-53,2006,urban analysis,CA,analysis,urban analysis,-1,matrices,-1,NN,,NN,supervised,1,1,0,0,1,0,0,0,0
+ddss9809,1998,urban analysis,value,analysis,urban analysis,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,1,1,0,0
+ddss9836,1998,design synthesis,art,generation,design synthesis,-1,image,-1,NN,,NN,supervised,1,1,1,0,1,1,0,0,0
+ddss9849,1998,design analysis,building,analysis,design analysis,-1,matrices,-1,fuzzy MLP,,MLP,supervised,1,1,0,0,1,0,0,0,0
+ddssar0002,2000,design linguistics,concept,generation,design linguistics,-1,matrices,-1,NN,,NN,supervised,1,1,0,0,1,0,0,0,0
+e577,2001,urban analysis,form,analysis,urban analysis,-1,matrices,0,SOM,,SOM,unsupervised,1,1,0,0,1,0,0,0,0
+ecaade2007_012,2007,design analysis,space,analysis,design analysis,-1,matrices,-1,SOM,,SOM,unsupervised,1,1,1,0,1,1,0,0,0
+ecaade2010_139,2010,urban analysis,data mining,analysis,urban analysis,-1,matrices,0,NN,,NN,supervised,1,1,1,0,0,0,0,0,0
+ecaade2010_165,2010,urban analysis,review,analysis,urban analysis,0,matrices,0,SOM,,SOM,unsupervised,1,1,0,0,0,0,0,0,0
+ecaade2013_261,2013,simulation,energy,evaluation,simulation,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,0,0,0,0
+ecaade2014_010,2014,urban analysis,void,analysis,urban analysis,-1,pattern,-1,SOM,,SOM,unsupervised,1,1,1,0,1,0,0,0,0
+ecaade2014_220,2014,performance evaluation,accessibility,evaluation,performance evaluation,-1,matrices,-1,fuzzy MLP,,MLP,supervised,1,1,1,0,1,0,0,0,0
+ecaade2017_009,2017,urban analysis,landscape,analysis,urban analysis,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,0,0,0
+ecaade2017_041,2017,object detection,building,recognition,object recognition,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,1,1,1,0
+ecaade2017_269,2017,simulation,energy,evaluation,simulation,-1,matrices,-1,NN,,NN,supervised,1,1,0,0,1,0,0,0,0
+ecaade2018_108,2018,robotic fabrication,material,fabrication,robotic fabrication,-1,image,-1,RNN,,RNN,supervised,1,1,1,0,1,0,1,0,0
+ecaade2018_298,2018,robotic fabrication,tool,fabrication,robotic fabrication,-1,image,-1,CNN,,CNN,supervised,1,1,0,0,1,0,0,0,0
+ecaade2018_323,2018,design synthesis,form,generation,design synthesis,-1,voxel,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,1,0
+ecaade2018_389,2018,design synthesis,form,generation,design synthesis,-1,matrices,-1,SOM,,SOM,unsupervised,1,1,0,0,1,0,0,0,0
+ecaade2020_007,2020,design synthesis,modeling,generation,design synthesis,-1,image,-1,GAN,,GAN,unsupervised,1,1,0,0,1,0,0,0,0
+ecaade2020_015,2020,simulation,structure,evaluation,simulation,-1,matrices,-1,NN,,NN,supervised,1,1,0,0,1,0,0,0,0
+ecaade2020_017,2020,design synthesis,drawings,generation,design synthesis,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,1,0,0,0,0
+ecaade2020_018,2020,design synthesis,drawings,generation,design synthesis,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,1,0,0,0,0
+ecaade2020_047,2020,drawing recognition,drawings,recognition,drawing recognition,-1,matrices,-1,CNN,,CNN,supervised,1,1,1,0,0,0,0,0,0
+ecaade2020_167,2020,urban analysis,obesity,analysis,urban analysis,-1,matrices,-1,CNN,,CNN,supervised,1,1,1,0,1,1,1,0,0
+ecaade2020_222,2020,object detection,form,recognition,object recognition,-1,matrices,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
+ecaade2020_283,2020,simulation,energy,evaluation,simulation,-1,matrices,-1,NN,,NN,supervised,1,1,0,0,1,0,0,0,0
+ecaade2020_432,2020,robotic fabrication,texture,fabrication,robotic fabrication,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,1,1,0,0,0
+ecaadesigradi2019_034,2019,fabrication,3d print,fabrication,digital fabrication,-1,image,-1,NN,"CNN,LSTM","NN,CNN,RNN",supervised,1,1,1,0,1,0,1,1,0
+ecaadesigradi2019_135,2019,design synthesis,drawings,generation,design synthesis,-1,image,-1,GAN,,GAN,unsupervised,1,1,0,0,1,0,1,1,0
+ecaadesigradi2019_150,2019,robotic fabrication,fabric,fabrication,robotic fabrication,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,0,0,0,0,0
+ecaadesigradi2019_171,2019,drawing recognition,drawings,recognition,drawing recognition,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,1,0
+ecaadesigradi2019_280,2019,robotic fabrication,haptic,fabrication,robotic fabrication,-1,matrices,0,NN,,NN,unsupervised,1,1,0,0,0,0,0,0,0
+ecaadesigradi2019_302,2019,review,review,theory,design theory,,,,,,,,1,0,0,0,0,0,0,0,0
+ecaadesigradi2019_308,2019,simulation,structure,evaluation,simulation,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,0,0,1,0
+ecaadesigradi2019_339,2019,urban analysis,landscape,analysis,urban analysis,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,1,1,1,1,0
+ecaadesigradi2019_510,2019,simulation,structure,evaluation,simulation,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,0,0,1,0
+ecaadesigradi2019_514,2019,design synthesis,structure,generation,design synthesis,-1,matrices,,VAE,,AE,unsupervised,1,1,0,0,1,0,0,0,0
+ecaadesigradi2019_602,2019,design synthesis,form,generation,design synthesis,-1,matrices,-1,LSTM,,RNN,supervised,1,1,0,0,1,0,0,0,0
+ecaadesigradi2019_605,2019,robotic fabrication,instruction,fabrication,robotic fabrication,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,1,0,1,0,0
+ecaadesigradi2019_648,2019,design synthesis,drawings,generation,design synthesis,-1,image,-1,GAN,,GAN,unsupervised,1,1,0,0,1,0,1,0,0
+ecac,1997,object detection,style,recognition,object recognition,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,0,0,0,0
+ee5c,2003,design analysis,dimension,analysis,design analysis,-1,matrices,-1,MLP,,MLP,supervised,1,1,0,0,1,0,0,0,0
+f44f,2000,design synthesis,drawings,generation,design synthesis,-1,image,-1,NN,,NN,supervised,1,1,1,0,1,1,1,0,0
+f498,2001,design synthesis,modeling,generation,design synthesis,-1,matrices,-1,MLP,,MLP,supervised,1,1,1,0,1,1,1,0,0
+fe7f,1997,object detection,sensor,recognition,object recognition,-1,image,-1,NN,,NN,supervised,1,1,1,0,1,0,1,0,0
+ga0016,2000,design synthesis,space,generation,design synthesis,-1,matrices,-1,SOM,,SOM,unsupervised,1,1,0,0,1,0,0,0,0
+ga0128,2001,object detection,face,recognition,object recognition,-1,image,-1,MLP,,MLP,supervised,1,1,0,0,1,0,0,0,0
+ijac20053301,2005,simulation,dynamics,evaluation,simulation,-1,matrices,-1,NN,,NN,supervised,1,1,0,0,1,1,1,0,0
+ijac20076104,2008,design analysis,space,analysis,design analysis,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,1,0,0,0
+ijac20108204,2010,object detection,dynamics,recognition,object recognition,-1,image,-1,CNN,,CNN,supervised,1,1,0,0,1,0,0,0,0
+ijac201412204,2014,simulation,dynamics,evaluation,simulation,-1,matrices,-1,NN,,NN,supervised,1,1,1,0,1,0,1,0,0
+ijac201816406,2018,design synthesis,layout,generation,design synthesis,-1,graph,-1,GAN,,GAN,supervised,1,1,1,0,1,0,1,0,0
+sigradi2004_329,2004,simulation,dynamics,evaluation,simulation,-1,matrices,-1,NN,,NN,supervised,1,1,0,0,1,0,0,0,0
+acadia20_130,2020,urban analysis,heritage,analysis,urban analysis,1,image,1,GAN,,GAN,unsupervised,1,1,1,0,1,0,1,1,0
+acadia20_160,2020,urban analysis,form,analysis,urban analysis,1,image,1,GAN,,GAN,unsupervised,1,1,1,0,1,0,1,0,0
+acadia20_170,2020,urban analysis,form,analysis,urban analysis,0,image,0,CAE,,AE,unsupervised,1,1,1,0,1,1,1,0,0
+acadia20_178,2020,urban analysis,form,analysis,urban analysis,1,image,1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
+acadia20_208,2020,design synthesis,pattern,generation,design synthesis,0,matrices,0,NN,,NN,unsupervised,1,1,1,0,0,0,0,0,0
+acadia20_228,2020,object recognition,space,recognition,object recognition,0,image,0,GAN,,GAN,unsupervised,1,1,1,0,1,1,1,0,0
+acadia20_238,2020,object recognition,building,recognition,object recognition,0,graph,0,GCN,,CNN,unsupervised,1,1,1,0,0,0,0,0,0
+acadia20_272,2020,design synthesis,drawings,generation,design synthesis,0,image,0,GAN,,GAN,unsupervised,1,0,0,0,0,0,0,0,0
+acadia20_282,2020,design synthesis,drawings,generation,design synthesis,0,image,0,GAN,,GAN,unsupervised,1,0,0,0,0,0,0,0,0
+acadia20_658,2020,urban analysis,scenery,analysis,urban analysis,1,image,1,CNN,,CNN,supervised,1,1,1,0,1,0,0,0,0
+acadia20_668,2020,urban analysis,form,analysis,urban analysis,0,image,0,GAN,,GAN,unsupervised,1,0,1,0,0,0,0,0,0
+acadia20_688,2020,design linguistics,description,generation,design linguistics,0,graph,1,CNN,,CNN,supervised,1,1,1,1,1,0,1,1,0
+ascaad2021_022,2021,design tool making,drawings,generation,design tool making,0,matrices,0,GAN,,GAN,unsupervised,1,1,1,0,1,0,0,0,0
+ascaad2021_093,2021,design synthesis,pattern,generation,design synthesis,0,image,0,GAN,,GAN,unsupervised,1,1,1,0,1,0,0,0,0
+caadria2021_038,2021,design anlaysis,building,analysis,design analysis,1,image,1,GAN,,GAN,unsupervised,1,1,1,0,0,0,1,0,0
+caadria2021_039,2021,object recognition,building,recognition,object recognition,1,image,1,CNN,,CNN,supervised,1,1,1,1,1,1,1,1,1
+caadria2021_051,2021,object recognition,space,recognition,object recognition,1,image,1,CNN,,CNN,supervised,1,1,1,0,1,1,1,0,0
+caadria2021_052,2021,environment analysis ,drawings,analysis,environment analysis,0,image,1,GAN,,GAN,supervised,1,1,1,0,0,0,0,0,0
+caadria2021_053,2021,design synthesis,form,generation,design synthesis,0,image,0,GAN,,GAN,supervised,1,1,1,0,1,1,1,1,0
+caadria2021_074,2021,environment analysis ,dynamics,analysis,environment analysis,0,matrices,0,CNN,,CNN,supervised,1,1,0,0,0,0,0,0,0
+caadria2021_080,2021,object recognition,structure,recognition,object recognition,0,matrices,0,NN,,NN,supervised,1,1,1,0,1,1,1,1,0
+caadria2021_086,2021,design analysis,drawings,analysis,design analysis,0,matrices,1,CNN,,CNN,supervised,1,1,1,0,1,1,1,1,0
+caadria2021_117,2021,object recognition,form,recognition,object recognition,0,image,0,GAN,,GAN,unsupervised,1,1,1,0,1,0,1,0,0
+caadria2021_130,2021,design analysis,building,analysis,design analysis,0,image,0,CNN,,CNN,supervised,1,0,0,0,0,0,0,0,0
+caadria2021_135,2021,urban analysis,form,analysis,urban analysis,0,matrices,1,CNN,,CNN,supervised,1,1,1,0,0,0,0,0,0
+caadria2021_156,2021,design synthesis,form,generation,design synthesis,0,image,1,GAN,,GAN,unsupervised,1,1,1,0,0,0,0,0,0
+caadria2021_161,2021,design analysis,building,analysis,design analysis,0,matrices,0,NN,,NN,supervised,1,1,1,0,1,1,1,1,0
+caadria2021_166,2021,design analysis,building,analysis,design analysis,1,image,1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
+caadria2021_191,2021,urban analysis,space,analysis,urban analysis,0,image,1,GAN,,GAN,unsupervised,1,1,1,0,0,0,1,1,0
+caadria2021_253,2021,design synthesis,style,generation,design synthesis,1,image,0,GAN,,GAN,unsupervised,1,1,1,0,0,0,0,0,0
+caadria2021_354,2021,urban analysis,form,analysis,urban analysis,0,matrices,1,CNN,,CNN,supervised,1,1,1,0,1,0,0,0,0
+caadria2021_389,2021,design synthesis,form,generation,design synthesis,0,image,1,GAN,,GAN,unsupervised,1,1,0,0,0,0,0,0,0
+ecaade2021_021,2021,object detection,pedestrian,recognition,object recognition,0,image,1,CNN,,CNN,supervised,1,1,1,0,1,0,0,0,0
+ecaade2021_037,2021,object detection,segmentation,recognition,object recognition,0,image,1,GAN,,GAN,unsupervised,1,1,1,0,0,0,0,0,0
+ecaade2021_038,2021,object detection,environment,recognition,object recognition,0,image,1,CNN,,CNN,supervised,1,1,1,0,1,0,0,0,0
+ecaade2021_109,2021,design synthesis,form,generation,design synthesis,0,image,1,GAN,,GAN,unsupervised,1,1,1,0,0,0,0,0,0
+ecaade2021_158,2021,review,review,theory,design theory,,,,,,,,1,,,,,,,,
+ecaade2021_186,2021,design synthesis,form,generation,design synthesis,0,voxel,1,VAE,,AE,unsupervised,1,1,1,0,1,0,1,0,0
+ecaade2021_290,2021,design synthesis,facade,generation,design synthesis,0,image,1,GAN,,GAN,unsupervised,1,1,1,0,0,0,0,0,0
+ecaade2021_291,2021,design analysis,form,analysis,design analysis,0,matrices,1,NN,,NN,supervised,1,1,1,0,0,0,1,0,0
+ijac202018104,2020,design analysis,space,analysis,design analysis,0,image,1,CNN,,CNN,supervised,1,1,1,0,1,1,1,0,0
+ijac202018402,2020,robotic fabrication,texture,fabrication,robotic fabrication,0,image,1,GAN,,GAN,unsupervised,1,1,1,0,0,0,0,0,0
+ijac202018404,2020,simulation,fabrication,evaluation,simulation,0,point cloud,1,GAN,,GAN,unsupervised,1,1,1,0,0,0,0,0,0
+ijac202119106,2021,design synthesis,form,generation,design synthesis,1,image,1,GAN,,GAN,unsupervised,1,1,0,0,0,0,0,0,0
+sigradi2020_953,2020,review,review,theory,design theory,,,,,,,,1,,,,,,,0,
