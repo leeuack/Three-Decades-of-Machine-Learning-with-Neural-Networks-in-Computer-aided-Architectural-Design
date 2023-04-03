@@ -24,7 +24,7 @@ acadia03_051,2003,design tool making,CAD,generation,design tool making,-1,patter
 acadia12_87,2012,simulation,dynamics,evaluation,simulation,0,matrices,0,NN,,NN,supervised,1,1,1,0,1,0,1,0,0
 acadia13_319,2013,simulation,structure,evaluation,simulation,0,matrices,-1,NN,,NN,supervised,1,0,0,0,0,0,1,0,0
 acadia17_474,2017,spatial recognition,isovist,recognition,object recognition,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
-acadia17_590,2017,review,review,theory,design theory,,,,CNN,,CNN,supervised,1,0,0,0,0,0,0,0,0
+acadia17_590,2017,review,review,theory,design theory,-1,image,,CNN,,CNN,supervised,1,0,0,0,0,0,0,0,0
 acadia18_146,2018,robotic fabrication,tool,fabrication,robotic fabrication,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,0,1,0,0
 acadia18_156,2018,drawing recognition,drawings,recognition,drawing recognition,-1,image,-1,GAN,,GAN,unsupervised,1,1,1,0,1,0,0,0,0
 acadia18_166,2018,drawing recognition,drawings,recognition,drawing recognition,-1,image,-1,CNN,,CNN,supervised,1,1,1,0,1,1,1,1,0
